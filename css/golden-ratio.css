@@ -1,6 +1,24 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.jumbotron {
+	padding-top: 6.47212em;
+}
+
+.container {
+	margin-bottom:30px;
+}
+
+#holden-hardcastle {
+	background-image:url(../images/5120.png);
+}
+
+#what {
+	position:absolute;
+	top: 1.61803em; 
+	margin-left: 1.61803em;
+}
+
 @-webkit-viewport   { width: device-width; }
 @-moz-viewport      { width: device-width; }
 @-ms-viewport       { width: device-width; }

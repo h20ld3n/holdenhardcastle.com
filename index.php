@@ -18,37 +18,72 @@
     <![endif]-->
 </head>
 <body>
+<div class="jumbotron" id="holden-hardcastle">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-md-12">
+            	<h1>Holden Hardcastle (1.61803.3.5)</h1>
+    			<p>Aspire to create inspired, beautiful and fun enjoyable experiences.</p>
+        		<p>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</p>
+	           	<p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns</p>
+    		</div>
+        </div>
+    </div>
+</div>
 <div class="container">
-  <h1>Holden Hardcastle (1.61803 + Bootstrap v3.3.5)</h1>
-  <div class="row">
-    <div class="col-md-12"><img src="images/5120.png" class="img-responsive"></div>
-  </div>
-  <div class="row">&nbsp;</div>
-  <div class="row">
-    <div class="col-md-7"><img src="images/5120.png" class="img-responsive"></div>
-    <div class="col-md-5">5</div>
-  </div>
-  <div class="row">&nbsp;</div>
-  <div class="row">
-    <div class="col-md-5"><img src="images/5120.png" class="img-responsive"></div>
-    <div class="col-md-7">7</div>
-  </div>
-  <div class="row">&nbsp;</div>
-  <div class="row">
-    <div class="col-md-3"><img src="images/5120.png" class="img-responsive"></div>
-    <div class="col-md-9">9</div>
-  </div>
-  <div class="row">&nbsp;</div>
-<div class="row">
-    <div class="col-md-2"><img src="images/5120.png" class="img-responsive"></div>
-    <div class="col-md-10">10</div>
-  </div>
-  <div class="row">&nbsp;</div>  
-  <div class="row">
-    <div class="col-md-1"><img src="images/5120.png" class="img-responsive"></div>
-    <div class="col-md-11">11</div>
-  </div>
-  <div class="row">&nbsp;</div>  
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/5120.png" class="img-responsive">
+  			<h2 id="what">Advanced Energy Economy</h2>
+  		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/5120.png" class="img-responsive">
+  			<h2 id="what">Gap Old Navy</h2>
+  		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-3">
+  			<h3>About H2</h3>
+            <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</p>
+  		</div>
+        <div class="col-md-3">
+  			<h3>Education</h3>
+            <h4>Griffith University</h4>
+            <p>Master of Arts – Media Production with&nbsp;Honours</p>
+            <h4>Old Dominion University</h4>
+            <p>Bachelor of Fine Arts – Graphic Design Cum Laude</p>
+            
+            <h3>Knowledge</h3>
+            <p>Adobe Photoshop, ImageReady, Illustrator, AfterEffects, InDesign, GoLive, Flash, Quark, Dreamweaver and other HTML editors, HTML/CSS/XHTML/PHP and JavaScript, Avid, Final Cut Pro and All Related Software</p>
+            <h3>Awards</h3>
+            <h4>PubWest Book Design Awards&nbsp;2012</h4>
+            <p>Enhanced e-Book, Silver Award<br>
+            Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to&nbsp;Survive</p>
+            <h4>41st Annual Bookbuilders West Book Show 2012</h4>
+            <p>Certificate of Excellence<br>
+            Worst-Case Scenario Ultimate Adventure: Everest</p>
+            <h4>Publishing Innovation Awards&nbsp;2012</h4>
+            <p>Quality, Excellence, Design (QED)<br>
+            Count, Dagmar!<br>
+            Top Pot Hand-Forged Doughnuts</p>
+            <h4>The 48 Hour Film Project 2009</h4>
+            <p>Best Acting Ensemble</p>
+            <h4>Griffith Film School 2006</h4>
+            <p>Award for Individual Excellence and Highly Commended Editing</p>   
+  		</div>
+        <div class="col-md-6">
+  			<h3>Experience</h3>
+            <p>Advanced Energy Economy (07.2013 - Present) Short description...</p>
+  		</div>
+	</div>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
