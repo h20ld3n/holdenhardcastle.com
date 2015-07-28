@@ -16,6 +16,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    
 </head>
 <body>
 <div class="jumbotron" id="holden-hardcastle">
@@ -81,7 +82,39 @@
   		</div>
         <div class="col-md-6">
   			<h3>Experience</h3>
-            <p>Advanced Energy Economy (07.2013 - Present) Short description...</p>
+            <h4>Advanced Energy Economy</h4> 
+            <p>(07.2013 - Present)<br>
+            Short description...</p>
+            <h4>Gap Inc. (freelance)</h4>
+            <p>(06.2013 - 07.2013)<br>
+            Short description...</p>
+            <h4>Chronicle Books</h4> 
+            <p>(12.2010 - 02.2013)<br>
+            Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications, for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</p>
+            <h4>TRX - Fitness Anywhere</h4>
+            <p>(02.2007 – 07.2010)<br>
+            Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages and large scale campaigns with the assistance of other designers and marketing managers.</p>
+            <h4>REO Company</h4> 
+            <p>(12.2002 – 01.2005)<br>
+			Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.</p>
+            <h4>US Race Series (freelance)</h4> 
+            <p>(10.2002 – 01.2005)<br>
+            Designed logos and marketing materials for national campaigns.</p>
+            <h4>Golden Gate Tennis and Swim Club (freelance)</h4> 
+            <p>(08.2002 – 10.2003)<br>
+            Designed the athletic club's monthly newsletter.</p>
+            <h4>Muscular Dystrophy Association (freelance)</h4> 
+            <p>(09.2001 – 12.2002)<br>
+            Collaborated with marketing directors to create collateral for local fund-raising events.</p>
+            <h4>Steven Irving Photography (freelance)</h4> 
+            <p>(09.2001 – 12.2002)<br>
+            Designed and developed website for the then San Francisco based photographer.</p>
+            <h4>California Academy of Science (freelance)</h4> 
+            <p>(08.2001 – 12.2001)<br>
+			Designed and coded website for the Arthropods of Madagascar Research Project.<
+
+CBS MarketWatch (10.1999 – 05.2001)
+Collaborated with news, and marketing teams to create online and printed materials.</p>
   		</div>
 	</div>
 </div>
