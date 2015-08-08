@@ -33,6 +33,8 @@ function() {
 <!-- Bootstrap -->
 <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
+<link rel="stylesheet" href="css/glyphicons-social.css">
+
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -87,7 +89,14 @@ function() {
   		<div class="col-md-3">
   			<h3>About H2</h3>
             <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</p>
-  		</div>
+  			<h3>Contact, Downloads & Other Sites</h3>
+            <p>h0ld3n@gmail.com<br>
+            resume<br>
+            github<br>
+            linkedin<br>
+            cargo collective<br>
+			dunked (beta)</p>
+        </div>
         <div class="col-md-3">
   			<h3>Education</h3>
             <h4>Griffith University</h4>
