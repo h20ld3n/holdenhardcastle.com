@@ -7,6 +7,29 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Holden Hardcastle</title>
 
+<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){var a=/webkit|msies10|(firefox)[/s](d+)|(opera)[sS]*version[/s](d+)|3ds/i.exec(navigator.userAgent);return a?a[1]&&+a[2]<4?!1:a[3]&&+a[4]<11?!1:!0:!1},
+
+// path to mobify.js
+"//cdn.mobify.com/mobifyjs/build/mobify-2.0.1.min.js",
+
+// calls to APIs go here
+function() {
+  var capturing = window.Mobify && window.Mobify.capturing || false;
+
+  if (capturing) {
+    Mobify.Capture.init(function(capture){
+      var capturedDoc = capture.capturedDoc;
+
+      var images = capturedDoc.querySelectorAll("img, picture");
+      Mobify.ResizeImages.resize(images);
+
+      // Render source DOM to document
+      capture.renderCapturedDoc();
+    });
+  }
+});
+</script>
+
 <!-- Bootstrap -->
 <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
@@ -27,6 +50,16 @@
     			<p>Aspire to create inspired, beautiful and fun enjoyable experiences.</p>
         		<p>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</p>
 	           	<p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns</p>
+                <!--h4>Contact Me</h4>
+                <form role="form">
+                <div class="form-group">
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
+                </div>
+                <div class="form-group">
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Type Your Password">
+                </div>
+                <button type="submit" class="btn btn-default">Submit</button>
+                </form-->
     		</div>
         </div>
     </div>
@@ -34,7 +67,7 @@
 <div class="container">
 	<div class="row">
   		<div class="col-md-12">
-    		<img src="images/5120.png" class="img-responsive">
+    		<img src="images/aee-5120.jpg" class="img-responsive">
   			<h2 id="what">Advanced Energy Economy</h2>
   		</div>
 	</div>
@@ -50,7 +83,7 @@
 </div>
 
 <div class="container">
-	<div class="row">
+	<div class="row text-muted">
   		<div class="col-md-3">
   			<h3>About H2</h3>
             <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</p>
@@ -111,14 +144,13 @@
             Designed and developed website for the then San Francisco based photographer.</p>
             <h4>California Academy of Science (freelance)</h4> 
             <p>(08.2001 – 12.2001)<br>
-			Designed and coded website for the Arthropods of Madagascar Research Project.<
-
-CBS MarketWatch (10.1999 – 05.2001)
-Collaborated with news, and marketing teams to create online and printed materials.</p>
+			Designed and coded website for the Arthropods of Madagascar Research Project.</p>
+            <h4>CBS MarketWatch</h4> 
+            <p>(10.1999 – 05.2001)<br>
+            Collaborated with news, and marketing teams to create online and printed materials.</p>
   		</div>
 	</div>
 </div>
-
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
