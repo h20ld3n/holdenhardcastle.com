@@ -85,6 +85,16 @@ function() {
 </div>
 
 <div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/dictionary-5120.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
+
+<div class="container">
 	<div class="row text-muted">
   		<div class="col-md-3">
   			<h3>About H2</h3>
