@@ -90,11 +90,18 @@ function() {
   			<h3>About H2</h3>
             <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</p>
   			<h3>Contact, Downloads & Other Sites</h3>
-            <p>h0ld3n@gmail.com<br>
-            <span class="social social-e-mail"></span>pinterest<br>
+            <p><span class="social social-e-mail"></span>h0ld3n@gmail.com<br>
+            <span class="social social-behance"></span>behance<br>
+            <span class="social social-dribbble"></span>dribble<br>
+            <span class="social social-facebook"></span>facebook<br>
+            <span class="social social-github"></span>github<br>
+            <span class="social social-google-plus"></span>google+<br>
+            <span class="social social-instagram"></span>instagram<br>
+            <span class="social social-linked-in"></span>linkedin<br>
+            <span class="social social-pinterest"></span>pinterest<br>
+            <span class="social social-tumblr"></span>tumblr<br>
+            <span class="social social-twitter"></span>twitter<br>
             resume<br>
-            github<br>
-            linkedin<br>
             cargo collective<br>
 			dunked (beta)</p>
         </div>
