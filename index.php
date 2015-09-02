@@ -93,6 +93,28 @@ function() {
 	</div>
 </div>
 
+<!-- virginia air and space -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/virginia-air-and-space-nasa-5120.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
+<!-- theatre of the absurd -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/theatre-of-the-absurd-bald-soprano-5120.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
 
 <div class="container">
 	<div class="row text-muted">
