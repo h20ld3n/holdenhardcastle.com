@@ -93,24 +93,57 @@ function() {
 	</div>
 </div>
 
-<!-- virginia air and space -->
+<!-- cbs marketwatch / survivor check -->
 
 <div class="container">
 	<div class="row">
   		<div class="col-md-12">
-    		<img src="images/virginia-air-and-space-nasa-5120.jpg" class="img-responsive">
+    		<img src="images/cbs-mktw-check.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
 </div>
 
-<!-- theatre of the absurd -->
+<!-- cbs marketwatch / know what you're getting into -->
 
 <div class="container">
 	<div class="row">
   		<div class="col-md-12">
-    		<img src="images/theatre-of-the-absurd-bald-soprano-5120.jpg" class="img-responsive">
+    		<img src="images/cbs-mktw-shark.jpg" class="img-responsive">
   			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
+<!-- cbs marketwatch / behind the numbers -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/cbs-mktw-behind-the-numbers.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
+
+<!-- oodu / virginia air and space -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/virginia-air-and-space.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
+<!-- odu / theatre of the absurd -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/theatre-of-the-absurd-bald-soprano.jpg" class="img-responsive">
   		</div>
 	</div>
 </div>
