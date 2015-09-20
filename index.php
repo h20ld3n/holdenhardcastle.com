@@ -93,6 +93,29 @@ function() {
 	</div>
 </div>
 
+<!-- hurry kiki hurry -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/hurry-kiki-hurry.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
+
+<!-- steven irving photgraphy -->
+
+<div class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/steven-irving-photography.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</div>
+
 <!-- cbs marketwatch / survivor check -->
 
 <div class="container">
