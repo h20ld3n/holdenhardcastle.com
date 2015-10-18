@@ -45,7 +45,7 @@ function() {
 </head>
 <body>
 <div class="jumbotron" id="holden-hardcastle">
-	<div class="container">
+	<section class="container">
     	<div class="row">
         	<div class="col-md-12">
             	<h1>Holden Hardcastle (1.61803.3.5)</h1>
@@ -64,121 +64,244 @@ function() {
                 </form-->
     		</div>
         </div>
-    </div>
+    </section>
 </div>
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
-    		<img src="images/aee-5120.jpg" class="img-responsive">
-  			<h2 id="what">Advanced Energy Economy</h2>
+   			<img src="images/aee-5120.jpg" class="img-responsive">
+            <h2 id="what">Advanced Energy Economy</h2>
   		</div>
 	</div>
-</div>
+</section>
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/5120.png" class="img-responsive">
   			<h2 id="what">Gap Old Navy</h2>
   		</div>
 	</div>
-</div>
+</section>
 
-<div class="container">
+<section class="container">
+
+<!-- it's a tiger! -->
+
 	<div class="row">
   		<div class="col-md-12">
-    		<img src="images/dictionary-5120.jpg" class="img-responsive">
+    		<img src="images/its-a-tiger.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+
+<!-- trueblood cookbook -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/trueblood.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    
+<!-- trueblood cookbook -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/goodnight-construction-site.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    
+    
+ <!-- e-mergency! -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/e-mergency.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    
+
+<!-- the ultimate metallica -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/the-ultimate-metallica.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    
+    <!-- the history of surfing -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/history-of-surfing.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    
+</section>
+
+<section class="container">
+
+<!-- trx - suspension training for military fitness -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/trx-military-fitness.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+
+  <!-- trx - suspension training for motocross, tennis, and multisport -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/trx-motocross-tennis-multisport.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    
+  <!-- trx - group suspension training resource center -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/trx-group-training-resource.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+
+  <!-- trx - suspension training for soccer, basketball, and running -->
+
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/trx-soccer-basketball-run.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
 
 <!-- hurry kiki hurry -->
 
-<div class="container">
+<!-- section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/hurry-kiki-hurry.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+</section -->
 
+<!-- golden gate tri club -->
+
+<section class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/golden-gate-triathlon-club.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
+
+<!-- reo company -->
+
+<!--section class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/reo-company.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section-->
 
 <!-- steven irving photgraphy -->
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/steven-irving-photography.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+</section>
+
+<!-- fithead / moveoverbacon / sheshreds -->
+
+<section class="container">
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/fithead-mob-sheshreds.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
 
 <!-- cbs marketwatch / survivor check -->
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/cbs-mktw-check.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+</section>
 
 <!-- cbs marketwatch / know what you're getting into -->
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/cbs-mktw-shark.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+</section>
 
 <!-- cbs marketwatch / behind the numbers -->
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/cbs-mktw-behind-the-numbers.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+</section>
 
 
 <!-- oodu / virginia air and space -->
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/virginia-air-and-space.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</div>
+</section>
 
 <!-- odu / theatre of the absurd -->
 
-<div class="container">
+<section class="container">
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/theatre-of-the-absurd-bald-soprano.jpg" class="img-responsive">
   		</div>
 	</div>
-</div>
+</section>
 
 
-<div class="container">
+<section class="container">
 	<div class="row text-muted">
   		<div class="col-md-3">
   			<h3>About H2</h3>
             <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</p>
   			<h3>Contact, Downloads & Other Sites</h3>
             <p><span class="social social-e-mail"></span>h0ld3n@gmail.com<br>
+            <span class="social social-behance"></span>about me<br>
             <span class="social social-behance"></span>behance<br>
             <span class="social social-dribbble"></span>dribble<br>
             <span class="social social-facebook"></span>facebook<br>
@@ -186,6 +309,7 @@ function() {
             <span class="social social-google-plus"></span>google+<br>
             <span class="social social-instagram"></span>instagram<br>
             <span class="social social-linked-in"></span>linkedin<br>
+            <span class="social social-linked-in"></span>localsolo<br>
             <span class="social social-pinterest"></span>pinterest<br>
             <span class="social social-tumblr"></span>tumblr<br>
             <span class="social social-twitter"></span>twitter<br>
@@ -203,6 +327,13 @@ function() {
             <h3>Knowledge</h3>
             <p>Adobe Photoshop, ImageReady, Illustrator, AfterEffects, InDesign, GoLive, Flash, Quark, Dreamweaver and other HTML editors, HTML/CSS/XHTML/PHP and JavaScript, Avid, Final Cut Pro and All Related Software</p>
             <h3>Awards</h3>
+            <h4>Graphic Design USA</h4> 
+            <p>American Graphic Design Awards&nbsp;2015<br>
+            Advanced Energy Now 2015 Market Report<br>
+            California Advanced Energy Employment Future (Report)<br>
+            Ohio's Electricity Future (Report)<br>
+            North Carolina: Clean Energy Works! (Infographic)<br>
+            Advanced Energy Leads California Jobs Growth (Infographic)</p>
             <h4>PubWest Book Design Awards&nbsp;2012</h4>
             <p>Enhanced e-Book, Silver Award<br>
             Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to&nbsp;Survive</p>
@@ -255,7 +386,7 @@ function() {
             Collaborated with news, and marketing teams to create online and printed materials.</p>
   		</div>
 	</div>
-</div>
+</section>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
