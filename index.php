@@ -66,14 +66,6 @@ function() {
         </div>
     </section>
 </div>
-<section class="container">
-	<div class="row">
-  		<div class="col-md-12">
-   			<img src="images/aee-5120.jpg" class="img-responsive">
-            <h2 id="what">Advanced Energy Economy</h2>
-  		</div>
-	</div>
-</section>
 
 <section class="container">
 	<div class="row">
@@ -85,87 +77,85 @@ function() {
 </section>
 
 <section class="container">
-
-<!-- it's a tiger! -->
-
+	<!-- dictionary.com -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/dictionary.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
+<section class="container">
+	<!-- chronicle books -->
+	<!-- it's a tiger! -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/its-a-tiger.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-
-<!-- trueblood cookbook -->
-
+    <!-- trueblood cookbook -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/trueblood.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-    
-<!-- trueblood cookbook -->
-
+    <!-- goodnight, goodnight, construction site -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/goodnight-construction-site.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-    
-    
- <!-- e-mergency! -->
-
+    <!-- e-mergency! -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/e-mergency.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-    
-
-<!-- the ultimate metallica -->
-
+    <!-- the ultimate metallica -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/the-ultimate-metallica.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-    
     <!-- the history of surfing -->
-
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/history-of-surfing.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-    
 </section>
-
+<section class="container"> 
+<!-- south end rowing club -->
+<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/south-end-rowing-club.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
 <section class="container">
-
-<!-- trx - suspension training for military fitness -->
-
+	<!-- trx - fitness anywhere -->
+    <!-- military fitness -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/trx-military-fitness.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-
-  <!-- trx - suspension training for motocross, tennis, and multisport -->
-
+    <!-- motocross, tennis, and multisport -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/trx-motocross-tennis-multisport.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-    
-  <!-- trx - group suspension training resource center -->
-
+    <!-- group suspension training resource center -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/trx-group-training-resource.jpg" class="img-responsive">
