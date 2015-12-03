@@ -49,33 +49,46 @@ function() {
     	<div class="row">
         	<div class="col-md-12">
             	<h1>Holden Hardcastle (1.61803.3.5)</h1>
-    			<p>Aspire to create inspired, beautiful and fun enjoyable experiences.</p>
-        		<p>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</p>
+    			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people, regardless of department or industry.</p>
+                <p>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</p>
 	           	<p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns</p>
-                <!--h4>Contact Me</h4>
-                <form role="form">
-                <div class="form-group">
-                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
-                </div>
-                <div class="form-group">
-                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Type Your Password">
-                </div>
-                <button type="submit" class="btn btn-default">Submit</button>
-                </form-->
     		</div>
         </div>
     </section>
 </div>
-
 <section class="container">
+	<!-- advanced energy economy -->
+    <!-- report covers -->
 	<div class="row">
   		<div class="col-md-12">
-    		<img src="images/5120.png" class="img-responsive">
-  			<h2 id="what">Gap Old Navy</h2>
+    		<img src="images/aee-covers.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    <!-- ohio electricity future -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/aee-ohio-electricity-future.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+    <!-- infographics -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/aee-infographics.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
   		</div>
 	</div>
 </section>
-
+<section class="container">
+	<!-- gap old navy -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/gap-old-navy-email.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
 <section class="container">
 	<!-- dictionary.com -->
 	<div class="row">
@@ -131,8 +144,18 @@ function() {
 	</div>
 </section>
 <section class="container"> 
-<!-- south end rowing club -->
-<div class="row">
+	<!-- loud dog -->
+    <!-- kidspark website -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/kidspark.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+</section>
+<section class="container"> 
+	<!-- south end rowing club -->
+	<div class="row">
   		<div class="col-md-12">
     		<img src="images/south-end-rowing-club.jpg" class="img-responsive">
   			<h2 id="what"></h2>
@@ -141,6 +164,13 @@ function() {
 </section>
 <section class="container">
 	<!-- trx - fitness anywhere -->
+    <!-- drew brees training application -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/trx-drew-brees-app.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
     <!-- military fitness -->
 	<div class="row">
   		<div class="col-md-12">
@@ -173,16 +203,23 @@ function() {
 	</div>
 </section>
 
-<!-- hurry kiki hurry -->
-
-<!-- section class="container">
+<section class="container">
+	<!-- griffith -->
+    <!-- rubberbound -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/rubberbound.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
+	<!-- hurry kiki hurry -->
 	<div class="row">
   		<div class="col-md-12">
     		<img src="images/hurry-kiki-hurry.jpg" class="img-responsive">
   			<h2 id="what"></h2>
   		</div>
 	</div>
-</section -->
+</section>
 
 <!-- golden gate tri club -->
 
