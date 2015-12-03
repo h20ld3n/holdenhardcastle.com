@@ -79,6 +79,13 @@ function() {
   			<h2 id="what"></h2>
   		</div>
 	</div>
+    <!-- letterhead -->
+	<div class="row">
+  		<div class="col-md-12">
+    		<img src="images/aee-letterhead.jpg" class="img-responsive">
+  			<h2 id="what"></h2>
+  		</div>
+	</div>
 </section>
 <section class="container">
 	<!-- gap old navy -->
