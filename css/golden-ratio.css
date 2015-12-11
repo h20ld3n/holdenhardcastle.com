@@ -11,6 +11,11 @@
 
 #holden-hardcastle {
 	background-image:url(../images/5120.png);
+	background-size:cover;
+}
+
+.carousel-control.right, .carousel-control.left {
+	background-image: none;
 }
 
 #what {
@@ -18,6 +23,7 @@
 	top: 1.61803em; 
 	margin-left: 1.61803em;
 }
+
 
 /* -- hypenation and word breaks for longer words --*/
 
