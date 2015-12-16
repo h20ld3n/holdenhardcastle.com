@@ -200,43 +200,48 @@ function() {
 </section>
 <section class="container">
 	<!-- trx - fitness anywhere -->
-    <!-- drew brees training application -->
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/trx-drew-brees-app.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
-  		</div>
-	</div>
-    <!-- military fitness -->
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/trx-military-fitness.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
-  		</div>
-	</div>
-    <!-- motocross, tennis, and multisport -->
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/trx-motocross-tennis-multisport.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
-  		</div>
-	</div>
-    <!-- group suspension training resource center -->
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/trx-group-training-resource.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
-  		</div>
-	</div>
-
-  <!-- trx - suspension training for soccer, basketball, and running -->
-
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/trx-soccer-basketball-run.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
-  		</div>
-	</div>
+    
+    <section class="container">
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <img src="images/trx-drew-brees-app.jpg" class="img-responsive">
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div class="panel-body">
+    	<div class="col-md-9">
+       	<img src="images/trx-motocross-tennis-multisport.jpg" class="img-responsive">
+        <img src="images/trx-soccer-basketball-run.jpg" class="img-responsive">
+        </div>
+        <div class="col-md-3">
+        <h3>TRX Suspension Training App &amp; Webpages</h3>
+   		Original concepts for this campaign were created, and executed by outside consultants. Later artwork and ad creation, would be carried out by the in-house design team. These ads ran, primarily in Golf and other mmagazines with similar target audiences.
+        </div>
+    </div>
+    <div class="panel-body">
+    	<div class="col-md-9">
+        <img src="images/trx-military-fitness.jpg" class="img-responsive">
+        </div>
+        <div class="col-md-3">
+        <h3>The Face of the TRX Force Kit</h3>
+        Original concepts for this campaign were created, and executed by outside consultants. Later artwork and ad creation, would be carried out by the in-house design team. These ads ran, primarily in Golf and other magazines with similar target audiences.
+        </div>
+    </div>
+    <div class="panel-body">
+      	<div class="col-md-9">
+        <img src="images/trx-group-training-resource.jpg" class="img-responsive">
+        </div>
+        <div class="col-md-3">
+        <h3>Group Training Resource Center</h3>
+        Original concepts for this campaign were created, and executed by outside consultants. Later artwork and ad creation, would be carried out by the in-house design team. These ads ran, primarily in Golf and other magazines with similar target audiences.
+        </div>
+    </div>
+  </div>
+</div>
 </section>
 
 <section class="container">
@@ -322,6 +327,25 @@ function() {
   		</div>
 	</div>
 </section>
+<section class="container">
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <img src="images/cbs-mktw-shark.jpg" class="img-responsive">
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+      <h3>CBS MarketWatch Print Ad</h3>
+      Original concepts for this campaign were created, and executed by outside consultants. Later artwork and ad creation, would be carried out by the in-house design team. These ads ran, primarily in Golf and other magazines with similar target audiences.      </div>
+    </div>
+  </div>
+</div>
+</section>
+
 
 <!-- cbs marketwatch / behind the numbers -->
 
@@ -334,29 +358,69 @@ function() {
 	</div>
 </section>
 
-
-<!-- oodu / virginia air and space -->
-
 <section class="container">
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/virginia-air-and-space.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
+	<!-- odu / theatre of the absurd -->
+   	<div id="odu-air-space" class="carousel slide" data-ride="carousel">
+  	<!-- Indicators -->
+  		<ol class="carousel-indicators">
+    		<li data-target="#odu-air-space" data-slide-to="0" class="active"></li>
+    		<li data-target="#odu-air-space" data-slide-to="1"></li>
+    		<li data-target="#odu-air-space" data-slide-to="2"></li>
+  		</ol>
+  	<!-- Wrapper for slides -->
+  		<div class="carousel-inner" role="listbox">
+    		<div class="item active">
+      		<img src="images/virginia-air-and-space.jpg" alt="...">
+    		</div>
+    		<div class="item">
+      			<img class="col-md-9" src="images/virginia-air-and-space-fighters.jpg" alt="...">
+                <span class="col-md-3"><h3>Virginia Air &amp; Space&nbsp;Center Educational&nbsp;Posters</h3>
+                <p>Attik Designs heavily influenced the work created when the Virginia Air and Space Center asked me to create some cool educational posters, that kids would want to pin up in their rooms. The posters had to live next to supermodels, cars, magazine pullouts and rock stars. The strong imagery of the Space Shuttle launch and jets flying straight on center were enhanced with illustrations and interpretations of aerodynamic patterns.</p></span>
+            
+    		</div>
   		</div>
+  	<!-- Controls -->
+  		<a class="left carousel-control" href="#odu-air-space" role="button" data-slide="prev">
+    		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    		<span class="sr-only">Previous</span>
+  		</a>
+  		<a class="right carousel-control" href="#odu-air-space" role="button" data-slide="next">
+    		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    		<span class="sr-only">Next</span>
+  		</a>
 	</div>
 </section>
-
-<!-- odu / theatre of the absurd -->
-
 <section class="container">
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/theatre-of-the-absurd-bald-soprano.jpg" class="img-responsive">
+	<!-- odu / theatre of the absurd -->
+   	<div id="odu-theatre-of-the-absurd" class="carousel slide" data-ride="carousel">
+  	<!-- Indicators -->
+  		<ol class="carousel-indicators">
+    		<li data-target="#odu-theatre-of-the-absurd" data-slide-to="0" class="active"></li>
+    		<li data-target="#odu-theatre-of-the-absurd" data-slide-to="1"></li>
+    		<li data-target="#odu-theatre-of-the-absurd" data-slide-to="2"></li>
+  		</ol>
+  	<!-- Wrapper for slides -->
+  		<div class="carousel-inner" role="listbox">
+    		<div class="item active">
+      		<img src="images/theatre-of-the-absurd-bald-soprano.jpg" alt="...">
+    		</div>
+    		<div class="item">
+      			<img class="col-md-9" src="images/theatre-of-the-absurd-waiting-for-godot.jpg" alt="...">
+                <span class="col-md-3"><h3>Theatre of the Absurd&nbsp;Posters</h3><p>While working on "the absurd posters", discussions about the college student audience, lifestyle and sexuality where rampant. The cyclical, repetitive and often meaningless activities of the undergrad defined the monkey spanking the monkey image. The monkey image was the first of a series of illustrations created specifically for the posters. Later ideas of scale, cliche and dated icons surfaced and defined the look and feel of the posters.</p></span>
+            
+    		</div>
   		</div>
+  	<!-- Controls -->
+  		<a class="left carousel-control" href="#odu-theatre-of-the-absurd" role="button" data-slide="prev">
+    		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    		<span class="sr-only">Previous</span>
+  		</a>
+  		<a class="right carousel-control" href="#odu-theatre-of-the-absurd" role="button" data-slide="next">
+    		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    		<span class="sr-only">Next</span>
+  		</a>
 	</div>
 </section>
-
-
 <section class="container">
 	<div class="row text-muted">
   		<div class="col-md-3">
@@ -455,5 +519,7 @@ function() {
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- script src="js/bootstrap.min.js"></script-->
 <script src="bootstrap/js/carousel.js"></script>
+<script src="bootstrap/js/transition.js"></script>
+<script src="bootstrap/js/collapse.js"></script>
 </body>
 </html>

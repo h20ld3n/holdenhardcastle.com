@@ -18,12 +18,23 @@
 	background-image: none;
 }
 
-#what {
-	position:absolute;
-	top: 1.61803em; 
-	margin-left: 1.61803em;
+.panel {
+    box-shadow: none;
+}
+.panel-default {
+	border-color: transparent;
+	border:none;
+}
+.panel-heading {
+	padding: 0;
+	border-bottom: none;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
 }
 
+.panel-group .panel-heading + .panel-collapse > .list-group, .panel-group .panel-heading + .panel-collapse > .panel-body {
+	border-top: none;
+}
 
 /* -- hypenation and word breaks for longer words --*/
 
