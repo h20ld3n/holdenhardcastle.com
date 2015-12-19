@@ -395,5 +395,42 @@ function() {
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- script src="js/bootstrap.min.js"></script--> 
 <script src="bootstrap/js/carousel.js"></script>
+<script>
+$(document).ready(function() {      
+   function carouselNormalization(divIdName) {
+		var items = $(divIdName), //grab all slides	
+    	heights = [], //create empty array to store height values
+    	tallest; //create variable to make note of the tallest slide
+
+		console.log('Number of carousel items: ' + items.length);
+		
+		if (items.length) {
+			function normalizeHeights() {
+				items.each(function() { //add heights to array
+					heights.push($(this).height()); 
+				});
+				tallest = Math.max.apply(null, heights); //cache largest value
+				
+				console.log('Tallest is ' + tallest);
+				
+				items.each(function() {
+					$(this).css('min-height',tallest + 'px');
+				});
+			};
+    		normalizeHeights();
+
+			$(window).on('resize orientationchange', function () {
+				tallest = 0, heights.length = 0; //reset vars
+				items.each(function() {
+					$(this).css('min-height','0'); //reset min-height
+				}); 
+				normalizeHeights(); //run it again 
+			});
+		}
+	}
+	carouselNormalization('#odu-air-space .carousel-inner .item');
+	carouselNormalization('#odu-theatre-of-the-absurd .carousel-inner .item');
+});
+</script>
 </body>
 </html>
