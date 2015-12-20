@@ -2,7 +2,22 @@
 /* CSS Document */
 
 .jumbotron {
-	padding-top: 6.47212em;
+	padding-top: 1.6180em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    background-color: transparent;
+}
+
+#aee-blue {
+    background-image: url('../images/477eca-aee-blue.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
+.odu-blue {
+    background-image: url('../images/0f3768-odu-blue.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
 }
 
 .container {

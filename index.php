@@ -58,101 +58,62 @@ function() {
     </div>
   </section>
 </div>
-<section class="container">
-<!-- advanced energy economy --> 
-<!-- report covers -->
-<div class="row">
-  <div class="col-md-12"> <img src="images/aee-covers.jpg" class="img-responsive">
-    <h3 id="what"></h3>
-  </div>
-</div>
-<!-- ohio electricity future -->
-<div class="row">
-<div class="col-md-12"> <img src="images/aee-ohio-electricity-future.jpg" class="img-responsive">
-  <h3 id="what"></h3>
-</div>
-<!-- infographics -->
-<div class="row">
-  <div class="col-md-12"> <img src="images/aee-infographics.jpg" class="img-responsive">
-    <h3 id="what"></h3>
-  </div>
-</div>
-<!-- letterhead -->
-<div class="row">
-  <div class="col-md-12"> <img src="images/aee-letterhead.jpg" class="img-responsive">
-    <h3 id="what"></h3>
-  </div>
-</div>
+
+<!-- background test -->
+<section class="jumbotron bg-test"> 
+<div class="row"><img src="images/virginia-air-and-space-test.png" class="img-responsive"></div>
 </section>
-<section class="container"> 
+<section>
+	<!-- advanced energy economy --> 
+	<!-- report covers -->
+    <div class="jumbotron" id="aee-blue">
+    	<div class="row"><img src="images/aee-covers.png" class="img-responsive"></div>
+    </div>
+	<!-- ohio electricity future -->
+    <div class="row"><img src="images/aee-ohio-electricity-future.jpg" class="img-responsive"></div>
+	<!-- infographics -->
+    <div class="row"><img src="images/aee-infographics.jpg" class="img-responsive"></div>
+	<!-- letterhead -->
+    <div class="row"><img src="images/aee-letterhead.jpg" class="img-responsive"></div>
+</section>
+<section class="jumbotron"> 
   <!-- gap old navy -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/gap-old-navy-email.jpg" class="img-responsive"> </div>
-  </div>
+  <!-- email campaigns -->
+  <div class="row"><img src="images/gap-old-navy-email.jpg" class="img-responsive"></div>
 </section>
-<section class="container"> 
+<section class="jumbotron"> 
   <!-- dictionary.com -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/dictionary.jpg" class="img-responsive" alt="dictionary.com" > </div>
-  </div>
+  <!-- hyperbole search results -->
+  <div class="row"><img src="images/dictionary.jpg" class="img-responsive" alt="dictionary.com"></div>
 </section>
-<section class="container"> 
+<section class="jumbotron"> 
   <!-- chronicle books --> 
   <!-- it's a tiger! -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/its-a-tiger.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/its-a-tiger.jpg" class="img-responsive"></div>
   <!-- trueblood cookbook -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/trueblood.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/trueblood.jpg" class="img-responsive"></div>
   <!-- goodnight, goodnight, construction site -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/goodnight-construction-site.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/goodnight-construction-site.jpg" class="img-responsive"></div>
   <!-- e-mergency! -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/e-mergency.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/e-mergency.jpg" class="img-responsive"></div>
   <!-- the ultimate metallica -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/the-ultimate-metallica.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/the-ultimate-metallica.jpg" class="img-responsive"></div>
   <!-- the history of surfing -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/history-of-surfing.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/history-of-surfing.jpg" class="img-responsive"></div>
 </section>
-<section class="container"> 
+<section class="jumbotron"> 
   <!-- loud dog --> 
   <!-- kidspark website -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/kidspark.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/kidspark.jpg" class="img-responsive"></div>
 </section>
-<section class="container"> 
+<section class="jumbotron"> 
   <!-- south end rowing club -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/south-end-rowing-club.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/south-end-rowing-club.jpg" class="img-responsive"></div>
 </section>
-<section class="container">
+
+<section class="jumbotron">
+	<!-- trx - fitness anywhere --> 
+    <!-- website and application -->
   <div id="carousel-trx" class="carousel slide" data-ride="carousel"> 
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -160,73 +121,38 @@ function() {
       <li data-target="#carousel-trx" data-slide-to="1"></li>
       <li data-target="#carousel-trx" data-slide-to="2"></li>
     </ol>
-    
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active"> <img src="images/trx-drew-brees-app.jpg" alt="..."> </div>
-      <div class="item"> <img src="images/trx-motocross-tennis-multisport.jpg" alt="..."> </div>
-      <div class="item"> <img src="images/trx-soccer-basketball-run.jpg" alt="..."> </div>
-      <div class="item"> <img src="images/trx-military-fitness.jpg" alt="..."> </div>
-      <div class="item"> <img src="images/trx-group-training-resource.jpg" alt="..."> </div>
+      <div class="item active"> <img src="images/trx-drew-brees-app.jpg" alt="..."></div>
+      <div class="item"><img src="images/trx-motocross-tennis-multisport.jpg" alt="..."></div>
+      <div class="item"><img src="images/trx-soccer-basketball-run.jpg" alt="..."></div>
+      <div class="item"><img src="images/trx-military-fitness.jpg" alt="..."></div>
+      <div class="item"><img src="images/trx-group-training-resource.jpg" alt="..."></div>
     </div>
     <!-- Controls --> 
     <a class="left carousel-control" href="#carousel-trx" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#carousel-trx" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
 </section>
-<section class="container"> 
-  <!-- griffith --> 
+<section class="jumbotron"> 
+  <!-- griffith film school --> 
   <!-- rubberbound -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/rubberbound.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/rubberbound.jpg" class="img-responsive"></div>
   <!-- hurry kiki hurry -->
-  <div class="row">
-    <div class="col-md-12"> <img src="images/hurry-kiki-hurry.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+  <div class="row"><img src="images/hurry-kiki-hurry.jpg" class="img-responsive"></div>
 </section>
 
-<!-- golden gate tri club -->
-
-<section class="container">
-  <div class="row">
-    <div class="col-md-12"> <img src="images/golden-gate-triathlon-club.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+<section class="jumbotron">
+<!-- golden gate tri club website redesign -->
+  <div class="row"><img src="images/golden-gate-triathlon-club.jpg" class="img-responsive"></div>
 </section>
 
 <!-- reo company --> 
-
-<!--section class="container">
-	<div class="row">
-  		<div class="col-md-12">
-    		<img src="images/reo-company.jpg" class="img-responsive">
-  			<h2 id="what"></h2>
-  		</div>
-	</div>
-</section--> 
-
 <!-- steven irving photgraphy -->
-
-<section class="container">
-  <div class="row">
-    <div class="col-md-12"> <img src="images/steven-irving-photography.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+<section class="jumbotron">
+  <div class="row"><img src="images/steven-irving-photography.jpg" class="img-responsive"></div>
 </section>
-
 <!-- fithead / moveoverbacon / sheshreds -->
-
-<section class="container">
-  <div class="row">
-    <div class="col-md-12"> <img src="images/fithead-mob-sheshreds.jpg" class="img-responsive">
-      <h2 id="what"></h2>
-    </div>
-  </div>
+<section class="jumbotron">
+  <div class="row"><img src="images/fithead-mob-sheshreds.jpg" class="img-responsive"></div>
 </section>
 
 <!-- cbs marketwatch / survivor check -->
@@ -278,7 +204,7 @@ function() {
     <!-- Controls --> 
     <a class="left carousel-control" href="#odu-air-space" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#odu-air-space" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
 </section>
-<section class="container"> 
+<section class="jumbotron"> 
   <!-- odu / theatre of the absurd -->
   <div id="odu-theatre-of-the-absurd" class="carousel slide" data-ride="carousel"> 
     <!-- Indicators -->
@@ -392,6 +318,7 @@ function() {
 </section>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- script src="js/bootstrap.min.js"></script--> 
 <script src="bootstrap/js/carousel.js"></script>
