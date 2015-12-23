@@ -44,43 +44,65 @@ function() {
 
 </head>
 <body>
-<div class="jumbotron" id="holden-hardcastle">
-  <section class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1>Holden Hardcastle (1.61803.3.5)</h1>
-        <h2>
-        Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people, regardless of department or industry.
-        </p>
-        <p>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</p>
-        <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns</p>
-      </div>
-    </div>
-  </section>
-</div>
-
-<!-- background test -->
-<section class="jumbotron bg-test"> 
-<div class="row"><img src="images/virginia-air-and-space-test.png" class="img-responsive"></div>
-</section>
-<section>
-	<!-- advanced energy economy --> 
-	<!-- report covers -->
-    <div class="jumbotron" id="aee-blue">
-    	<div class="row"><img src="images/aee-covers.png" class="img-responsive"></div>
-    </div>
-	<!-- ohio electricity future -->
-    <div class="row"><img src="images/aee-ohio-electricity-future.jpg" class="img-responsive"></div>
-	<!-- infographics -->
-    <div class="row"><img src="images/aee-infographics.jpg" class="img-responsive"></div>
-	<!-- letterhead -->
-    <div class="row"><img src="images/aee-letterhead.jpg" class="img-responsive"></div>
-</section>
-<section class="jumbotron"> 
-  <!-- gap old navy -->
-  <!-- email campaigns -->
-  <div class="row"><img src="images/gap-old-navy-email.jpg" class="img-responsive"></div>
-</section>
+<main>
+	<section>
+	<div class="jumbotron" id="holden-hardcastle">
+  		<div class="container">
+    		<div class="row">
+        		<h1>Holden Hardcastle (1.61803.3.5)</h1>
+        		<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people, regardless of department or industry.</h2>
+        		<p>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</p>
+        		<p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns</p>
+      		</div>
+    	</div>
+	</div>
+	</section>
+	<section>
+	<h2>Advanced Energy Economy</h2>
+    	<article>
+    	<h3>AEE and AEE Institute Reports</h3>
+    	<div class="jumbotron" id="aee-blue">
+    		<div class="container">
+    			<div class="row"><img src="images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive"></div>
+       		</div>
+    	</div>
+    	</article>
+    	<article>
+    	<h3>Ohio's Electricity Future Report</h3>
+    	<div class="jumbotron" id="aee-blue">
+    		<div class="container">
+    			<div class="row"><img src="images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive"></div>
+        	</div>
+  		</div>
+		</article>
+    	<article>
+    	<h3>AEE and AEE Institue Infographics</h3>
+    	<div class="jumbotron" id="aee-blue">
+    		<div class="container">
+    			<div class="row"><img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive"></div>
+        	</div>
+  		</div>
+		</article>
+    	<article>
+    	<h3>Advanced Energy Economy Letterhead</h3>
+    	<div class="jumbotron" id="aee-blue">
+    		<div class="container">
+    			<div class="row"><img src="images/aee-letterhead.png" alt="Advanced Energy Economy Letterhead" class="img-responsive"></div>
+      		</div>
+ 		</div>
+    	</article>
+	</section>
+	<section class="jumbotron">
+    <h2>Gap Old Navy</h2>
+    	<article>
+    	<h3>Online Email Campaigns</h3>
+    	<div class="jumbotron">
+    		<div class="container">
+  				<div class="row"><img src="images/gap-old-navy-email.jpg" class="img-responsive"></div>
+        	</div>
+  		</div>
+    	</article>
+	</section>
 <section class="jumbotron"> 
   <!-- dictionary.com -->
   <!-- hyperbole search results -->
@@ -184,25 +206,28 @@ function() {
     </div>
   </div>
 </section>
-<section class="container"> 
-  <!-- odu / theatre of the absurd -->
-  <div id="odu-air-space" class="carousel slide" data-ride="carousel"> 
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#odu-air-space" data-slide-to="0" class="active"></li>
-      <li data-target="#odu-air-space" data-slide-to="1"></li>
-      <li data-target="#odu-air-space" data-slide-to="2"></li>
-    </ol>
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-      <div class="item active"> <img src="images/virginia-air-and-space.jpg" alt="..."> </div>
-      <div class="item"> <img class="col-md-9" src="images/virginia-air-and-space-fighters.jpg" alt="..."> <span class="col-md-3">
-        <h3>Virginia Air &amp; Space&nbsp;Center Educational&nbsp;Posters</h3>
-        <p>Attik Designs heavily influenced the work created when the Virginia Air and Space Center asked me to create some cool educational posters, that kids would want to pin up in their rooms. The posters had to live next to supermodels, cars, magazine pullouts and rock stars. The strong imagery of the Space Shuttle launch and jets flying straight on center were enhanced with illustrations and interpretations of aerodynamic patterns.</p>
-        </span> </div>
-    </div>
-    <!-- Controls --> 
-    <a class="left carousel-control" href="#odu-air-space" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#odu-air-space" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+<section>
+<div class="jumbotron" id="odu-blue"> 
+<!-- odu / theatre of the absurd -->
+	<div id="odu-air-space" class="carousel slide" data-ride="carousel"> 
+    	<!-- Indicators -->
+    	<ol class="carousel-indicators">
+      	<li data-target="#odu-air-space" data-slide-to="0" class="active"></li>
+      	<li data-target="#odu-air-space" data-slide-to="1"></li>
+      	<li data-target="#odu-air-space" data-slide-to="2"></li>
+    	</ol>
+    	<!-- Wrapper for slides -->
+    	<div class="carousel-inner" role="listbox">
+      		<div class="item active" id="odu-blue"> <img src="images/virginia-air-and-space.png" alt="..."> </div>
+      		<div class="item"> <img class="col-md-9" src="images/virginia-air-and-space.png" alt="..."> <span class="col-md-3">
+        	<h3>Virginia Air &amp; Space&nbsp;Center Educational&nbsp;Posters</h3>
+        	<p>Attik Designs heavily influenced the work created when the Virginia Air and Space Center asked me to create some cool educational posters, that kids would want to pin up in their rooms. The posters had to live next to supermodels, cars, magazine pullouts and rock stars. The strong imagery of the Space Shuttle launch and jets flying straight on center were enhanced with illustrations and interpretations of aerodynamic patterns.</p>
+        	</span>
+            </div>
+    	</div>
+    	<!-- Controls --> 
+    	<a class="left carousel-control" href="#odu-air-space" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#odu-air-space" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+	</div>
 </section>
 <section class="jumbotron"> 
   <!-- odu / theatre of the absurd -->

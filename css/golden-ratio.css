@@ -1,6 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.body {
+	/* -- hypenation and word breaks for longer words --*/
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+}
+
 .jumbotron {
 	padding-top: 1.6180em;
     padding-bottom: 0;
@@ -11,17 +21,25 @@
 #aee-blue {
     background-image: url('../images/477eca-aee-blue.png');
     background-repeat: repeat-x;
-    background-size: auto 61.97233%;
+    background-size: auto 62.97233%;
 }
 
-.odu-blue {
+#odu-blue {
     background-image: url('../images/0f3768-odu-blue.png');
     background-repeat: repeat-x;
-    background-size: auto 61.97233%;
+    background-size: auto 62.97233%;
 }
 
 .container {
 	margin-bottom:30px;
+}
+
+section h2 {
+	display:none;
+}
+
+article h3 {
+	display:none;
 }
 
 #holden-hardcastle {
@@ -31,17 +49,6 @@
 
 .carousel-control.right, .carousel-control.left {
 	background-image: none;
-}
-
-/* -- hypenation and word breaks for longer words --*/
-
-.hyphenate {
-	overflow-wrap: break-word;
-	word-wrap: break-word;
-	-webkit-hyphens: auto;
-	-ms-hyphens: auto;
-	-moz-hyphens: auto;
-	hyphens: auto;
 }
 
 @-webkit-viewport   { width: device-width; }
