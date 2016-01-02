@@ -19,13 +19,50 @@
 }
 
 #aee-blue {
-    background-image: url('../images/477eca-aee-blue.png');
+    background-image: url('../images/477eca.png');
     background-repeat: repeat-x;
-    background-size: auto 62.97233%;
+    background-size: auto 61.97233%;
 }
 
+#old-navy-blue {
+    background-image: url('../images/134578.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
+#dictionary-blue {
+    background-image: url('../images/002d62.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
+#chronicle-blue {
+    background-image: url('../images/88b1cc.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
+#loud-dog-red {
+    background-image: url('../images/d2232a.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
+#south-end-red {
+    background-image: url('../images/791c1f.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
+#trx-bg {
+    background-image: url('../images/000000-trx-bg.png');
+    background-repeat: repeat-x;
+    background-size: auto 100%;
+}
+
+
 #odu-blue {
-    background-image: url('../images/0f3768-odu-blue.png');
+    background-image: url('../images/0f3768.png');
     background-repeat: repeat-x;
     background-size: auto 62.97233%;
 }
@@ -34,12 +71,26 @@
 	margin-bottom:30px;
 }
 
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+/* main h1 {
+	display:none;
+}*/
+
 section h2 {
 	display:none;
 }
 
 article h3 {
-	display:none;
+	color: white;    
+   	background: rgba(0, 0, 0, 0.7);
+   	padding: 10px; 
+    position: absolute;
+	border-radius: 0 5px 5px 0;
+	display: none;
 }
 
 #holden-hardcastle {
