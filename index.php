@@ -442,6 +442,12 @@ function() {
     			</div>
   			</div>
        	</div>
+        <div style="text-align:center">
+        &copy; <?php 
+  		$fromYear = 1977; 
+  		$thisYear = (int)date('Y'); 
+  		echo $fromYear . (($fromYear != $thisYear) ? '-' . $thisYear : '');?> Holden Hardcastle
+        </div>
    	</div>
     </footer>
 </main>
