@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.body {
+body {
 	/* -- hypenation and word breaks for longer words --*/
 	overflow-wrap: break-word;
 	word-wrap: break-word;
@@ -16,6 +16,10 @@
     padding-bottom: 0;
     margin-bottom: 0;
     background-color: transparent;
+}
+
+img {
+	position: relative;
 }
 
 #aee-blue {
@@ -76,20 +80,15 @@
 	margin-left: 0;
 }
 
-/* main h1 {
+main h1 {
 	display:none;
-}*/
+}
 
 section h2 {
 	display:none;
 }
 
 article h3 {
-	color: white;    
-   	background: rgba(0, 0, 0, 0.7);
-   	padding: 10px; 
-    position: absolute;
-	border-radius: 0 5px 5px 0;
 	display: none;
 }
 

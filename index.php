@@ -51,7 +51,7 @@ function() {
     		<div class="row">
         		<h1>Holden Hardcastle (1.61803.3.5)</h1>
         		<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
-        		<!-- h3>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</h3 -->
+        		<!--h3>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</h3 -->
       		</div>
     	</div>
 	</div>
@@ -171,21 +171,39 @@ function() {
 	</section>
     <section>
     <h2>Loud Dog</h2>
-    	<article>
+        <article>
         <h3>Brocade Summit Logo Concepts</h3>
         <div class="jumbotron" id="loud-dog-red">
         	<div class="container-fluid">
-            	<div class="row"><img src="images/brocade-concepts.png" class="img-responsive"></div>
+            	<div class="row">
+                <img src="images/brocade-concepts.png" class="img-responsive">
+                </div>
             </div>
        	</div>
+        <div class="jumbotron">
+        	<div class="container-fluid">
+            	<div class="row">
+                <p><h4>Changing the Game Logo Concepts</h4>These concepts were inspired and based on the MLB logo abd the idea of rally caps. The use and treatment of the wings breaks the style guide provided. The logos could be printed on the insides of hats and participants could be encouraged to wear or turned inside rally hats. The three concepts play with various states of the logo.</p>
+				</div>
+           	</div>
+       	</div>        
         </article>
         <article>
         <h3>Kids Park Website</h3>
         <div class="jumbotron" id="loud-dog-red">
         	<div class="container-fluid">
-            	<div class="row"><img src="images/kids-park.png" class="img-responsive"></div>
+            	<div class="row">
+                <img src="images/kids-park.png" class="img-responsive">
+                </div>
             </div>
        	</div>
+        <div class="jumbotron">
+        	<div class="container-fluid">
+            	<div class="row">
+                <p><h4>Changing the Game Logo Concepts</h4>These concepts were inspired and based on the MLB logo abd the idea of rally caps. The use and treatment of the wings breaks the style guide provided. The logos could be printed on the insides of hats and participants could be encouraged to wear or turned inside rally hats. The three concepts play with various states of the logo.</p>
+				</div>
+           	</div>
+       	</div>        
         </article>
 	</section>
 	<section>
