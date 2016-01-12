@@ -67,12 +67,21 @@ function() {
                 </div>
        		</div>
     	</div>
-        <div class="container">
-            	<div class="col-md-6 col-md-offset-3">
+    	<div class="container">
+    		<div class="row">
+                <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+                	<div class="col-md-6 col-md-offset-3" id="description">
+                	<h3>AEE Website Redesign</h3>
+                	<p>These concepts were inspired and based on the MLB logo abd the idea of rally caps. The use and treatment of the wings breaks the style guide provided. The logos could be printed on the insides of hats and participants could be encouraged to wear or turned inside rally hats. The three concepts play with various states of the logo.</p>
+                    </div>
+       		</div>
+    	</div>
+        <!-- div class="container">
+            	
                 <h3>AEE Website Redesign</h3>
                 <p>These concepts were inspired and based on the MLB logo abd the idea of rally caps. The use and treatment of the wings breaks the style guide provided. The logos could be printed on the insides of hats and participants could be encouraged to wear or turned inside rally hats. The three concepts play with various states of the logo.</p>
 			</div>
-       	</div>     
+       	</div-->     
     	</article>
     	<article>
     	<div class="jumbotron" id="aee-blue">

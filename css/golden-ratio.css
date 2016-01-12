@@ -70,8 +70,8 @@ img {
     background-size: auto 62.97233%;
 }
 
-.container {
-	margin-bottom:14.562em;
+#description {	
+	margin-top: -50%;
 }
 
 .row {
