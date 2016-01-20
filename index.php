@@ -7,7 +7,7 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Holden Hardcastle</title>
 
-<!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){var a=/webkit|msies10|(firefox)[/s](d+)|(opera)[sS]*version[/s](d+)|3ds/i.exec(navigator.userAgent);return a?a[1]&&+a[2]<4?!1:a[3]&&+a[4]<11?!1:!0:!1},
+<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){var a=/webkit|msies10|(firefox)[/s](d+)|(opera)[sS]*version[/s](d+)|3ds/i.exec(navigator.userAgent);return a?a[1]&&+a[2]<4?!1:a[3]&&+a[4]<11?!1:!0:!1},
 
 // path to mobify.js
 "//cdn.mobify.com/mobifyjs/build/mobify-2.0.1.min.js",
@@ -28,7 +28,7 @@ function() {
     });
   }
 });
-</script-->
+</script>
 
 <!-- Bootstrap -->
 <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
@@ -84,7 +84,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Advanced Energy Economy&nbsp;Reports</h3>
-            <p>Much of the content that comes out of the energy sector is very dry, heavy and difficult to digest. By working closely with communications teams, and the people responsible for the materials. We were able to bring some life to the reports beyond branding. The covers and designed materials gave a sense to the dense materials, the messaging, the target audience and even won some awards.</p>
+            <p>Much of the content that comes out of the energy sector is very dry, heavy and difficult to digest. By working closely with communications teams, and content creators We were able to bring some life to the reports beyond branding. The covers and designed materials make the materials easier to digest, and even we won some awards.</p>
           </div>
         </div>
       </div>
@@ -99,17 +99,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Ohio's Electricity Future Report</h3>
-            <p>
-            	<ul>
-            		<li>award winning design</li>
-            		<li>repot came across my desk as a result of the previous work created</li>
-                   	<li>initally was provided a logo and font</li>
-                   	<li>wanted something insperational</li>
-                   	<li>needed to create a basic style guide and report in a short amount of time</li>
-                    <li>layout and treatment was based on the established AEE style guide</li>
-                    <li>worked with ohio advanced energy economy to create the award winning report</li>
-            	</ul>
-            </p>
+            <p>The award winning report was created in partnership with the Ohio Advanced Energy Economy.</p>
           </div>
         </div>
       </div>
@@ -124,14 +114,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>AEE and AEE Institue Infographics</h3>
-            <p>
-            	<ul>
-            		<li>communicating growth of the expansive industry in a single shot / slide</li>
-            		<li>present complex information to congressional hearing at a local, state and federal levels</li>
-                   	<li>worked with presentors to figure out the messaging</li>
-                    <li>designed graphics to show job focused growth of the industry</li>
-            	</ul>
-            </p>
+            <p>Collaborated with presenters and initiative leads to simplify the complex information surrounding the growth of the exapansive advanced energy sector for congressional hearings.</p>
           </div>
         </div>
       </div>
@@ -146,23 +129,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Advanced Energy Economy&nbsp;Letterhead</h3>
-            <p>
-            	<ul>
-            		<li>brand materials were all over the place</li>
-            		<li>no brand guidlines</li>
-                   	<li>every printing / one-sheet was a one off</li>
-                    <li>started with reading materials and mission / vision statement</li>
-                    <li>looked at language</li>
-                    <li>stripped all the collateral down</li>
-                    <li>no two pieces fit together</li>
-                    <li>the only unity was that there was no unity in the materials</li>
-                    <li>secure - consistent</li>
-                    <li>clean - reduced clutter and established hierarchy</li>
-                    <li>affordable - cost contious</li>
-                    <li>the reult established a brand with a consistent, clear, hierarchy, and could be inexpensively reproduced at scale</li>
-                    <li>one off materials could be combined with any other materials for packet creation</li>
-            	</ul>
-            </p>
+            <p>Using the company vision as insperation, guidelines were to establish to help create consistent and clean materials, that could be replicated and reproduced at scale.</p>
           </div>
         </div>
       </div>
@@ -180,17 +147,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Online Email Campaigns</h3>
-            <p>
-            	<ul>
-            		<li>process really drives and helps the creative</li>
-            		<li>weekly design meetings</li>
-                   	<li>weekly department meetings</li>
-                    <li>no cirtique without action</li>
-                    <li>open collaboration and acess to all creatives</li>
-                    <li>marketing, editors, production, copywriters, designers, developers</li>
-                    <li>positive and involved creative leadership</li>
-            	</ul>
-         	</p>
+            <p>Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</p>
           </div>
         </div>
       </div>
@@ -207,20 +164,8 @@ function() {
       <div class="container">
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
-            <h3>Hyperbole Search Results&nbsp;Design</h3>
-            <p>
-            	<ul>
-                	<li>redesign of website</li>
-                    <li>areas of improvement — promotion, sales or advertising, repsonsiveness</li>
-                    <li>advertisement should not be to intrusive</li>
-                    <li>started with mobile</li>
-                    <li>added layers and advertisment as the displays increased in size</li>
-                    <li>primary focus on delievering definitions</li>
-                    <li>advertisers can have exclusive access to specific words, if they match or can justify</li>
-                    <li>with proper justification</li>
-                	<li>A re-design of dictionary.com's search result page (i.e word definition results page) for the word "hyperbole". The page was given a modern responsive design, that adjusts to widescreen monitors, iPads and iPhones, and effectively integrates advertising and promotions in a way that is not intrusive.</li>
-               	</ul>
-          	</p>
+            <h3>Hyperbole Search Results Redesign</h3>
+            <p>A re-design of dictionary.com's search result page (i.e word definition results page) for the word "hyperbole". The design update integrates currated and exclusive advertising at various screen sizes in a way that is not intrusive.</p>
           </div>
         </div>
       </div>
@@ -238,18 +183,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>It's A Tiger</h3>
-            <p>
-            	<ul>
-                	<li>balance of potentially scary story and materials with kids book</li>
-                    <li>not a bed time story</li>
-                    <li>normal production work</li>
-                    <li>one code source multiple devices</li>
-                    <li>adjusting artwork to fit devices</li>
-                    <li>worked with actual new mothers to deliver read book to their kids</li>
-                    <li>the results helped bring the book to life in the digital format</li>
-                	<li>	Kids and parents alike will rejoice in this lively read-aloud picture book, as the main character runs into (and away from) a tiger over and over again as the plot gets sillier and sillier. Perfect for acting out while reading, It's a Tiger! offers just the right amount of excitement without being too scary, and a sweet ending with a bit of a twist.</li>
-                </ul>
-           	</p>
+            <p>Balanced the potentially scary kids book by working with new mothers the deliver just the right amount of excitement without being too scary.</p>
           </div>
         </div>
       </div>
@@ -264,18 +198,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>TrueBlood Cookbook</h3>
-            <p>
-            	<ul>
-                	<li>worked with hbo, editors, designers, production artists, and various other directors to achieve final results</li>
-                    <li>translated book to digital</li>
-                    <li>hbo looking for direct translation</li>
-                    <li>lakc of understanding process</li>
-                    <li>initially delivered two versions of sample pages</li>
-                    <li> direct v tweeking materials but staying to to original message / intent</li>
-                    <li>image tratements and fonts were big driving forces</li>
-                	<li>Collaborated with editors and managing editors to translate the cookbook based on HBO's blockbuster paranormal drama. Photos and stills from the show play a key role in the title and in order to be faithful to the highly designed physical title required working with various individuals, teams, and companies to insure the digital version remained true to the original intent and design of the content.</li>
-                </ul>
-      	    </p>
+            <p>Collaborated with editors and managing editors to translate the cookbook based on HBO's blockbuster paranormal drama. Photos and stills from the show play a key role in the title and in order to be faithful to the highly designed physical title required working with various individuals, teams, and companies to insure the digital version remained true to the original intent and design of the content.</p>
           </div>
         </div>
       </div>
@@ -290,20 +213,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Goodnight, Goodnight, Construction Site</h3>
-            <p>
-            	<ul>
-                	<li>translated to ebook</li>
-                    <li>production</li>
-                    <li>converting artwork to appropriate sizes</li>
-                    <li>audience</li>
-         			<li>parents reading to their children a bedtime story</li>
-                    <li>avoid real construction site sounds and even imitations</li>
-                    <li>this was closer to a straight read</li>
-                    <li>end goal was to get kids to go to bed</li>
-                    <li>also left the option for parents to read themselves</li>
-                	<li>Worked closely with illustrator Tom Lichtenheld and author Sherri Duskey Rinker to convert The New York Times Best Seller to a fixed layout ebook. Goodnight, Goodnight Construction Site tells the story of a big construction site, where all the hardworking trucks get ready to say goodnight.</li>
-                    </ul>
-                    </p>
+            <p>Worked closely with illustrator Tom Lichtenheld and author Sherri Duskey Rinker to convert The New York Times Best Seller to a fixed layout ebook. Goodnight, Goodnight Construction Site tells the story of a big construction site, where all the hardworking trucks get ready to say goodnight.</p>
           </div>
         </div>
       </div>
@@ -318,19 +228,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>E-MERGENCY!</h3>
-            <p>
-            	<ul>
-                	<li>worked with outside vendor</li>
-                    <li>set out to create a fun education, highly interactive and energetic ebook</li>
-                    <li>would be a flag ship in capabilites, process, and sucess</li>
-                    <li>set indicators for interaction</li>
-                    <li>small moves - eye blinking and arm / hand movement</li>
-                    <li>each character had a small back story based on importance and usage within english language</li>
-                    <li>a lot of art direction and production work around annimation and interactions</li>
-                    <li>great expereince working with some many people, on so many levels to deliver a successful product</li>
-            		<li>Collaborated with outside vendors to storyboard, animate, and develop an interactive fixed layout ebook. In E-Mergency! the letter E takes a tumble and the only way to get her back on her foot is for people to stop using her. But who can take her place? The other letters have to make a decision ASAP.</li>
-                </ul>
-      	    </p>
+            <p>Collaborated with outside vendors to storyboard, animate, and develop an interactive fixed layout ebook. In E-Mergency! the letter E takes a tumble and the only way to get her back on her foot is for people to stop using her. But who can take her place? The other letters have to make a decision ASAP.</p>
           </div>
         </div>
       </div>
@@ -345,15 +243,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>The Ultimate Metallica</h3>
-            <p>
-            	<ul>
-                	<li>passion project</li>
-                    <li>ross halfin was / is particular abot how his work is displayed</li>
-                    <li>every bit a rock star as his subject matter</li>
-                    <li>ensured cadid photos would be reporposed with original intention in mind</li>
-                    <li>Worked with legendary music photographer Ross Halfin, as well as editors and designers to ensure that the candid photographs in the physical book were portrayed and re-cropped to ensure original intentions were translated for the various devices.</li>
-               	</ul>
-           	</p>
+            <p>Worked with legendary music photographer Ross Halfin, on this passion project, as well as editors and designers to ensure that the candid photographs in the physical book were portrayed and re-cropped to ensure original intentions were translated for the various devices.</p>
           </div>
         </div>
       </div>
@@ -368,14 +258,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>The History Of Surfing</h3>
-            <p>
-            	<ul>
-                	<li>passion project of mine and apples ebook team</li>
-                    <li>subject matter challenges status quo and is perfect fit for apple's team</li>
-                    <li>worked closely with ebook team and outside vendors to find out what was possible with the fixed layout ebook</li>
-                    <li>set the highwater mark for digital books of the time</li>
-                </ul>
-          	</p>
+            <p>Worked with the Apple's iBooks team and outside vendors to set the highwater mak for digital books at the time. The History of Surfing reveals and defines this sport with a voice that is authoritative, funny, and wholly original.</p>
           </div>
         </div>
       </div>
@@ -393,14 +276,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Website, Application, and Experience Design</h3>
-            <p>
-            	<ul>
-                	<li>connect users and owners of the trx suspension trainer to a community of users and trainers based on location and workout preferences</li>
-                    <li>initial launch started with the NFL MVO Drew Brees Suspension Training for Football workout</li>
-                    <li>the workouts quickly expanded to other areas and became customizable</li>
-                    <li>The iPhone application was designed for the users and online community members of the TRX Suspension Trainer. The mobile application provides users with full body workouts and connects them other community members. The appliction was launched as part of a partnership with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP.</li>
-                </ul>
-           </p>
+            <p>The iPhone application was designed for the users and online community members of the TRX Suspension Trainer. The mobile application provides users with full body workouts and connects them other community members. The appliction was launched as part of a partnership with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP.</p>
           </div>
         </div>
       </div>
@@ -414,23 +290,23 @@ function() {
             <p>
             <h3>About H2</h3>
             During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.
-            <h3>Contact, Downloads & Other Sites</h3>
-            <span class="social social-e-mail"></span>h0ld3n@gmail.com<br>
-            <span class="social social-behance"></span>about me<br>
-            <span class="social social-behance"></span>behance<br>
-            <span class="social social-dribbble"></span>dribble<br>
-            <span class="social social-facebook"></span>facebook<br>
-            <span class="social social-github"></span>github<br>
-            <span class="social social-google-plus"></span>google+<br>
-            <span class="social social-instagram"></span>instagram<br>
-            <span class="social social-linked-in"></span>linkedin<br>
-            <span class="social social-linked-in"></span>localsolo<br>
-            <span class="social social-pinterest"></span>pinterest<br>
-            <span class="social social-tumblr"></span>tumblr<br>
-            <span class="social social-twitter"></span>twitter<br>
-            resume<br>
-            cargo collective<br>
-            dunked (beta)
+            <h3>Contact<!--, Downloads & Other Sites--></h3>
+            <span class="social social-e-mail"><a href="mailto:h0ld3n@gmail.com"></span>h0ld3n@gmail.com</a><br>
+            <!-- span class="social social-behance"></span>about me<br-->
+            <!-- span class="social social-behance"></span>behance<br-->
+            <!-- span class="social social-dribbble"></span>dribble<br-->
+            <!-- span class="social social-facebook"></span>facebook<br-->
+            <!-- span class="social social-github"></span>github<br-->
+            <!-- span class="social social-google-plus"></span>google+<br-->
+            <!--span class="social social-instagram"></span>instagram<br-->
+            <!--span class="social social-linked-in"></span>linkedin<br-->
+            <!-- span class="social social-linked-in"></span>localsolo<br-->
+            <!-- span class="social social-pinterest"></span>pinterest<br-->
+            <!--span class="social social-tumblr"></span>tumblr<br-->
+            <!--span class="social social-twitter"></span>twitter<br-->
+            <!--resume<br-->
+            <!--cargo collective<br-->
+            <!--dunked (beta)-->
             </p>
           </div>
           <div class="col-md-3">
@@ -470,10 +346,10 @@ function() {
             <p><h3>Experience</h3>
             <h4>Advanced Energy Economy</h4>
             (07.2013 - Present)<br>
-              Short description...
+            Responsible for visual and brand precense of Advanced Energy Economy
             <h4>Gap Inc. (freelance)</h4>
             (06.2013 - 07.2013)<br>
-            Short description...
+            Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.
             <h4>Chronicle Books</h4>
             (12.2010 - 02.2013)<br>
             Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications, for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.
@@ -505,13 +381,13 @@ function() {
           </div>
         </div>
       </div>
-      <div style="text-align:center"> &copy;
+      <!--div style="text-align:center"> &copy;
         <?php 
   		$fromYear = 1977; 
   		$thisYear = (int)date('Y'); 
   		echo $fromYear . (($fromYear != $thisYear) ? '-' . $thisYear : '');?>
         Holden Hardcastle </div>
-    </div>
+    </div-->
   </footer>
 </main>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
