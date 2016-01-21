@@ -346,7 +346,7 @@ function() {
             <p><h3>Experience</h3>
             <h4>Advanced Energy Economy</h4>
             (07.2013 - Present)<br>
-            Responsible for visual and brand precense of Advanced Energy Economy
+            Responsible for visual and brand presence of Advanced Energy Economy.
             <h4>Gap Inc. (freelance)</h4>
             (06.2013 - 07.2013)<br>
             Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.
