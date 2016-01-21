@@ -31,16 +31,17 @@ function() {
 </script>
 
 <!-- Bootstrap -->
-<link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<!--link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css"-->
 <link rel="stylesheet" href="css/glyphicons-social.css">
 <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
-
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 <body>
@@ -69,7 +70,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>AEE Website and Process Redesign</h3>
-            <p>The updated design improves on the previously bandwidth and process intensive version. The updating process was streamline by using an existing infastructure and content management systems, built on Bootstrap 2.0.4. The low cost solution not only free'd up the developers to focus on other projects, but enabled marketers and project owners to easily create and update pages within brand guidlines.</p>
+            <p>The updated design improves on the previously bandwidth and process intensive version. The updating process was streamline by using an existing infastructure and content management systems, built on Bootstrap 2.0.4. The low cost solution not only freedu p the developers to focus on other projects, but enabled marketers and project owners to easily create and update pages within brand guidlines.</p>
           </div>
         </div>
       </div>
@@ -84,7 +85,7 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>Advanced Energy Economy&nbsp;Reports</h3>
-            <p>Much of the content that comes out of the energy sector is very dry, heavy and difficult to digest. By working closely with communications teams, and content creators We were able to bring some life to the reports beyond branding. The covers and designed materials make the materials easier to digest, and even we won some awards.</p>
+            <p>Much of the content that comes out of the energy sector is very dry, heavy and difficult to digest. By working closely with communications teams, and content creators. We were able to bring some life to the reports beyond branding. The covers and designed materials make the materials easier to digest.</p>
           </div>
         </div>
       </div>
