@@ -7,12 +7,12 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Holden Hardcastle</title>
 
-<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){var a=/webkit|msies10|(firefox)[/s](d+)|(opera)[sS]*version[/s](d+)|3ds/i.exec(navigator.userAgent);return a?a[1]&&+a[2]<4?!1:a[3]&&+a[4]<11?!1:!0:!1},
+<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 // path to mobify.js
-"//cdn.mobify.com/mobifyjs/build/mobify-2.0.1.min.js",
+"//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
 
-// calls to APIs go here
+// calls to APIs go here (or path to a main.js)
 function() {
   var capturing = window.Mobify && window.Mobify.capturing || false;
 
@@ -22,13 +22,12 @@ function() {
 
       var images = capturedDoc.querySelectorAll("img, picture");
       Mobify.ResizeImages.resize(images);
-
+        
       // Render source DOM to document
       capture.renderCapturedDoc();
     });
   }
-});
-</script>
+});</script>
 
 <!-- Bootstrap -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -47,11 +46,20 @@ function() {
 <body>
 <h1 style="display:none;">Holden Hardcastle</h1>
 <header>
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <a class="navbar-brand" href="mailto:h0ld3n@gmail.com">Holden Hardcastle (1.61803.3.6) <span class="social social-e-mail"></span>h0ld3n@gmail.com</a> 
+    </div>
+  </div><!-- /.container-fluid -->
+</nav>
+
   <div class="jumbotron" id="holden-hardcastle">
     <div class="container-fluid">
       <div class="row">
-        <h1>Holden Hardcastle (1.61803.3.5)</h1>
-        <!-- h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
+        <!-- h1>Holden Hardcastle (1.61803.3.5)</h1>
+        <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
         <h3>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</h3-->
       </div>
     </div>

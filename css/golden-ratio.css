@@ -22,6 +22,18 @@ img {
 	position: relative;
 }
 
+.navbar-default {
+    background-image: none;
+    filter: none;
+    border-radius: 0px;
+    -webkit-box-shadow: none ;
+    box-shadow: none;
+}
+
+.social {
+	margin-bottom: 3px;
+}
+
 #aee-blue {
     background-image: url('../images/477eca.png');
     background-repeat: repeat-x;
