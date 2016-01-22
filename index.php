@@ -289,16 +289,16 @@ function() {
             <p>
             <h3>About H2</h3>
             During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.
-            <h3>Contact<!--, Downloads & Other Sites--></h3>
-            <span class="social social-e-mail"><a href="mailto:h0ld3n@gmail.com"></span>h0ld3n@gmail.com</a><br>
+            <h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
+            <a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a><br>
             <!-- span class="social social-behance"></span>about me<br-->
             <!-- span class="social social-behance"></span>behance<br-->
             <!-- span class="social social-dribbble"></span>dribble<br-->
             <!-- span class="social social-facebook"></span>facebook<br-->
-            <!-- span class="social social-github"></span>github<br-->
+            <a href="https://github.com/h20ld3n" target="new"><span class="social social-github"></span>github<br>
             <!-- span class="social social-google-plus"></span>google+<br-->
             <!--span class="social social-instagram"></span>instagram<br-->
-            <!--span class="social social-linked-in"></span>linkedin<br-->
+            <a href="https://www.linkedin.com/in/holdenhardcastle" target="new"><span class="social social-linked-in"></span>linkedin</a><br>
             <!-- span class="social social-linked-in"></span>localsolo<br-->
             <!-- span class="social social-pinterest"></span>pinterest<br-->
             <!--span class="social social-tumblr"></span>tumblr<br-->
@@ -318,8 +318,7 @@ function() {
             <h3>Knowledge</h3>
             Adobe Photoshop, ImageReady, Illustrator, AfterEffects, InDesign, GoLive, Flash, Quark, Dreamweaver and other HTML editors, HTML/CSS/XHTML/PHP and JavaScript, Avid, Final Cut Pro and All Related Software
             <h3>Awards</h3>
-            <h4>Graphic Design USA</h4>
-            American Graphic Design Awards 2015<br>
+            <h4>American Graphic Design Awards 2015</h4>
             Advanced Energy Now 2015 Market Report<br>
             California Advanced Energy Employment Future<br>
             Ohio's Electricity Future<br>
