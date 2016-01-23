@@ -41,7 +41,8 @@ function() {
       <div class="row">
         <h1>Holden Hardcastle (1.61803.3.5)</h1>
         <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
-        <h3>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</h3-->
+        <h3>Creating inspired experiences is achieved through the hard work of teams and individuals who aspire to be the best</h3>
+        <h4>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</h4>
       </div>
     </div>
   </div>
