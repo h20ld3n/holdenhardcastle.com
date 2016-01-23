@@ -115,6 +115,8 @@ container h3 {
 	background-image: none;
 }
 
+/* arrow indication https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
+
 @-webkit-viewport   { width: device-width; }
 @-moz-viewport      { width: device-width; }
 @-ms-viewport       { width: device-width; }
