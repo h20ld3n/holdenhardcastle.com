@@ -294,7 +294,7 @@ function() {
             <!-- span class="social social-behance"></span>about me<br-->
             <!-- span class="social social-behance"></span>behance<br-->
             <!-- span class="social social-dribbble"></span>dribble<br-->
-            <!-- span class="social social-facebook"></span>facebook<br-->
+            <a href="https://www.facebook.com/holden.hardcastle" target="new"><span class="social social-facebook"></span>facebook<br>
             <a href="https://github.com/h20ld3n" target="new"><span class="social social-github"></span>github<br>
             <!-- span class="social social-google-plus"></span>google+<br-->
             <!--span class="social social-instagram"></span>instagram<br-->
