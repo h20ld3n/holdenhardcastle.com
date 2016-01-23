@@ -36,19 +36,10 @@ function() {
 <body>
 <h1 style="display:none;">Holden Hardcastle</h1>
 <header>
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <a class="navbar-brand" href="mailto:h0ld3n@gmail.com">Holden Hardcastle (1.61803.3.6) <span class="social social-e-mail"></span>h0ld3n@gmail.com</a> 
-    </div>
-  </div><!-- /.container-fluid -->
-</nav>
-
   <div class="jumbotron" id="holden-hardcastle">
     <div class="container-fluid">
       <div class="row">
-        <!-- h1>Holden Hardcastle (1.61803.3.5)</h1>
+        <h1>Holden Hardcastle (1.61803.3.5)</h1>
         <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
         <h3>Creating inspired experiences is a goal achieved through the hard work of teams and individuals who aspire to be the best, regardless of department or industry.</h3-->
       </div>
@@ -294,10 +285,10 @@ function() {
             <!-- span class="social social-behance"></span>about me<br-->
             <!-- span class="social social-behance"></span>behance<br-->
             <!-- span class="social social-dribbble"></span>dribble<br-->
-            <a href="https://www.facebook.com/holden.hardcastle" target="new"><span class="social social-facebook"></span>facebook<br>
-            <a href="https://github.com/h20ld3n" target="new"><span class="social social-github"></span>github<br>
+            <a href="https://www.facebook.com/holden.hardcastle" target="new"><span class="social social-facebook"></span>facebook</a><br>
+            <a href="https://github.com/h20ld3n" target="new"><span class="social social-github"></span>github</a><br>
             <!-- span class="social social-google-plus"></span>google+<br-->
-            <!--span class="social social-instagram"></span>instagram<br-->
+            <a href="https://www.instagram.com/h20ld3n/" target="new"><span class="social social-instagram"></span>instagram<br>
             <a href="https://www.linkedin.com/in/holdenhardcastle" target="new"><span class="social social-linked-in"></span>linkedin</a><br>
             <!-- span class="social social-linked-in"></span>localsolo<br-->
             <!-- span class="social social-pinterest"></span>pinterest<br-->
