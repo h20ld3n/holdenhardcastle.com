@@ -42,7 +42,7 @@ function() {
         <h1>Holden Hardcastle (1.61803.3.5)</h1>
         <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
         <h3>Creating inspired experiences is achieved through the hard work of teams and individuals who aspire to be the best</h3>
-        <h4>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</h4>
+        <h4>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes &amp; Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</h4>
       </div>
     </div>
   </div>
@@ -164,7 +164,7 @@ function() {
   </section>
   <section>
     <h2>Chronicle Books</h2>
-    <article>
+    <!--article>
       <div class="jumbotron" id="chronicle-blue">
         <div class="container-fluid">
           <div class="row"><img src="images/its-a-tiger.png" class="img-responsive"></div>
@@ -178,7 +178,7 @@ function() {
           </div>
         </div>
       </div>
-    </article>
+    </article-->
     <article>
       <div class="jumbotron" id="chronicle-blue">
         <div class="container-fluid">
@@ -194,7 +194,7 @@ function() {
         </div>
       </div>
     </article>
-    <article>
+    <!-- article>
       <div class="jumbotron" id="chronicle-blue">
         <div class="container-fluid">
           <div class="row"><img src="images/goodnight-construction-site.png" class="img-responsive"></div>
@@ -208,8 +208,8 @@ function() {
           </div>
         </div>
       </div>
-    </article>
-    <article>
+    </article-->
+    <!--article>
       <div class="jumbotron" id="chronicle-blue">
         <div class="container-fluid">
           <div class="row"><img src="images/e-mergency.png" class="img-responsive"></div>
@@ -223,7 +223,7 @@ function() {
           </div>
         </div>
       </div>
-    </article>
+    </article-->
     <article>
       <div class="jumbotron" id="chronicle-blue">
         <div class="container-fluid">
