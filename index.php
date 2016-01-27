@@ -60,7 +60,10 @@ function() {
         <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
           <div class="col-md-6 col-md-offset-3" id="description">
             <h3>AEE Website and Process Redesign</h3>
-            <p>The updated design improves on the previously bandwidth and process intensive version. The updating process was streamline by using an existing infastructure and content management systems, built on Bootstrap 2.0.4. The low cost solution not only freedu p the developers to focus on other projects, but enabled marketers and project owners to easily create and update pages within brand guidlines.</p>
+            <p>In order to create a more prosperous world that runs on secure, clean and affordable energy, the Advanced Energy Economy website engages member companies, and recruits potential members and partners through education, and encouraging participation in energy policy changing initiatives.</p>
+            <p>Policy and legislation changes quickly. In order to empower initiative leads and project leads to take ownership of the constantly changing content, and allow the development team to focus on larger projects, the site was migrated to a currently in place, but under-utilized content management system (CMS).</p>
+            <p>The communications, marketing, and development teams worked together to identify and implement specific improvements on both the front and backend.</p>
+            <p>Building standardized templates on a flexible and responsive Bootstrap foundation made the content updating process more efficient, and streamlined the look an feel of the site. Initiative and project leads were empowered to make changes quickly and easily to their particular sections without worrying about effecting other sections or areas of the site.</p>
           </div>
         </div>
       </div>
