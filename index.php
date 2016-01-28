@@ -51,9 +51,7 @@ function() {
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure>
           <img src="images/aee-initiatives.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-          </figure>
         </div>
       </div>
     </div>
@@ -73,7 +71,7 @@ function() {
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure> <img src="images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive"> </figure>
+           <img src="images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive"> 
         </div>
       </div>
     </div>
@@ -90,7 +88,7 @@ function() {
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure> <img src="images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive"> </figure>
+           <img src="images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive"> 
         </div>
       </div>
     </div>
@@ -107,7 +105,7 @@ function() {
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive"></figure>
+          <img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive">
         </div>
       </div>
     </div>
@@ -124,7 +122,7 @@ function() {
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/aee-letterhead.png" alt="Advanced Energy Economy Letterhead" class="img-responsive"></figure>
+          <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Letterhead" class="img-responsive">
         </div>
       </div>
     </div>
@@ -144,7 +142,7 @@ function() {
     <div class="jumbotron" id="old-navy-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/gap-old-navy-email.png" alt="Old Navy Online Email Campaigns" class="img-responsive"></figure>
+          <img src="images/gap-old-navy-email.png" alt="Old Navy Online Email Campaigns" class="img-responsive">
         </div>
       </div>
     </div>
@@ -164,7 +162,7 @@ function() {
     <div class="jumbotron" id="dictionary-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/dictionary.png" class="img-responsive" alt="Dictionary.com Search Results Redesign"></figure>
+          <img src="images/dictionary.png" class="img-responsive" alt="Dictionary.com Search Results Redesign">
         </div>
       </div>
     </div>
@@ -199,7 +197,7 @@ function() {
     <div class="jumbotron" id="chronicle-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/trueblood.png" class="img-responsive"></figure>
+          <img src="images/trueblood.png" class="img-responsive">
         </div>
       </div>
     </div>
@@ -246,7 +244,7 @@ function() {
     <div class="jumbotron" id="chronicle-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/the-ultimate-metallica.png" class="img-responsive"></figure>
+          <img src="images/the-ultimate-metallica.png" class="img-responsive">
         </div>
       </div>
     </div>
@@ -263,7 +261,7 @@ function() {
     <div class="jumbotron" id="chronicle-blue">
       <div class="container-fluid">
         <div class="row">
-          <figure><img src="images/history-of-surfing.png" class="img-responsive"></figure>
+          <img src="images/history-of-surfing.png" class="img-responsive">
         </div>
       </div>
     </div>
@@ -283,7 +281,7 @@ function() {
     <div class="jumbotron" id="trx-bg">
       <div class="container-fluid">
         <div class="row">
-          <figure> <img src="images/trx-drew-brees-app.png" class="img-responsive"> </figure>
+           <img src="images/trx-drew-brees-app.png" class="img-responsive"> 
         </div>
       </div>
     </div>
