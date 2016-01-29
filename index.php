@@ -26,6 +26,14 @@ function() {
     });
   }
 });</script>
+<script>
+function imgLoaded(img){
+    var $img = $(img);
+ 
+    $img.parent().addClass('loaded');
+};
+
+</script>
 <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/glyphicons-social.css">
 <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
@@ -50,9 +58,7 @@ function() {
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/aee-initiatives.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-        </div>
+        <div class="row img_wrapper"> <img src="images/aee-initiatives.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -70,9 +76,7 @@ function() {
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row">
-           <img src="images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive"> 
-        </div>
+        <div class="row img_wrapper"> <img src="images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -87,9 +91,7 @@ function() {
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row">
-           <img src="images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive"> 
-        </div>
+        <div class="row img_wrapper"> <img src="images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -104,9 +106,7 @@ function() {
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive">
-        </div>
+        <div class="row img_wrapper"> <img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -121,9 +121,7 @@ function() {
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Letterhead" class="img-responsive">
-        </div>
+        <div class="row img_wrapper"> <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Letterhead" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -141,9 +139,7 @@ function() {
   <article>
     <div class="jumbotron" id="old-navy-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/gap-old-navy-email.png" alt="Old Navy Online Email Campaigns" class="img-responsive">
-        </div>
+        <div class="row img_wrapper"> <img src="images/gap-old-navy-email.png" alt="Old Navy Online Email Campaigns" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -161,9 +157,7 @@ function() {
   <article>
     <div class="jumbotron" id="dictionary-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/dictionary.png" class="img-responsive" alt="Dictionary.com Search Results Redesign">
-        </div>
+        <div class="row img_wrapper"> <img src="images/dictionary.png" alt="Dictionary.com Search Results Redesign" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -178,27 +172,10 @@ function() {
 </section>
 <section>
   <h2>Chronicle Books</h2>
-  <!--article>
-      <div class="jumbotron" id="chronicle-blue">
-        <div class="container-fluid">
-          <div class="row"><img src="images/its-a-tiger.png" class="img-responsive"></div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-          <div class="col-md-6 col-md-offset-3" id="description">
-            <h3>It's A Tiger</h3>
-            <p>Balanced the potentially scary kids book by working with new mothers the deliver just the right amount of excitement without being too scary.</p>
-          </div>
-        </div>
-      </div>
-    </article-->
   <article>
     <div class="jumbotron" id="chronicle-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/trueblood.png" class="img-responsive">
-        </div>
+        <div class="row img_wrapper"> <img src="images/trueblood.png" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -210,42 +187,10 @@ function() {
       </div>
     </div>
   </article>
-  <!-- article>
-      <div class="jumbotron" id="chronicle-blue">
-        <div class="container-fluid">
-          <div class="row"><img src="images/goodnight-construction-site.png" class="img-responsive"></div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-          <div class="col-md-6 col-md-offset-3" id="description">
-            <h3>Goodnight, Goodnight, Construction Site</h3>
-            <p>Worked closely with illustrator Tom Lichtenheld and author Sherri Duskey Rinker to convert The New York Times Best Seller to a fixed layout ebook. Goodnight, Goodnight Construction Site tells the story of a big construction site, where all the hardworking trucks get ready to say goodnight.</p>
-          </div>
-        </div>
-      </div>
-    </article--> 
-  <!--article>
-      <div class="jumbotron" id="chronicle-blue">
-        <div class="container-fluid">
-          <div class="row"><img src="images/e-mergency.png" class="img-responsive"></div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-          <div class="col-md-6 col-md-offset-3" id="description">
-            <h3>E-MERGENCY!</h3>
-            <p>Collaborated with outside vendors to storyboard, animate, and develop an interactive fixed layout ebook. In E-Mergency! the letter E takes a tumble and the only way to get her back on her foot is for people to stop using her. But who can take her place? The other letters have to make a decision ASAP.</p>
-          </div>
-        </div>
-      </div>
-    </article-->
   <article>
     <div class="jumbotron" id="chronicle-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/the-ultimate-metallica.png" class="img-responsive">
-        </div>
+        <div class="row"> <img src="images/the-ultimate-metallica.png" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -260,9 +205,7 @@ function() {
   <article>
     <div class="jumbotron" id="chronicle-blue">
       <div class="container-fluid">
-        <div class="row">
-          <img src="images/history-of-surfing.png" class="img-responsive">
-        </div>
+        <div class="row img_wrapper"><img src="images/history-of-surfing.png" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
@@ -280,13 +223,11 @@ function() {
   <article>
     <div class="jumbotron" id="trx-bg">
       <div class="container-fluid">
-        <div class="row">
-           <img src="images/trx-drew-brees-app.png" class="img-responsive"> 
-        </div>
+        <div class="row"> <img src="images/trx-drew-brees-app.png" class="img-responsive" onload="imgLoaded(this)"/></div>
       </div>
     </div>
     <div class="container">
-      <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row img_wrapper"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Website, Application, and Experience Design</h3>
           <p>The iPhone application was designed for the users and online community members of the TRX Suspension Trainer. The mobile application provides users with full body workouts and connects them other community members. The appliction was launched as part of a partnership with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP.</p>
@@ -408,43 +349,5 @@ function() {
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- script src="js/bootstrap.min.js"></script--> 
-<script src="bootstrap/js/carousel.js"></script> 
-<script>
-$(document).ready(function() {      
-   function carouselNormalization(divIdName) {
-		var items = $(divIdName), //grab all slides	
-    	heights = [], //create empty array to store height values
-    	tallest; //create variable to make note of the tallest slide
-
-		console.log('Number of carousel items: ' + items.length);
-		
-		if (items.length) {
-			function normalizeHeights() {
-				items.each(function() { //add heights to array
-					heights.push($(this).height()); 
-				});
-				tallest = Math.max.apply(null, heights); //cache largest value
-				
-				console.log('Tallest is ' + tallest);
-				
-				items.each(function() {
-					$(this).css('min-height',tallest + 'px');
-				});
-			};
-    		normalizeHeights();
-
-			$(window).on('resize orientationchange', function () {
-				tallest = 0, heights.length = 0; //reset vars
-				items.each(function() {
-					$(this).css('min-height','0'); //reset min-height
-				}); 
-				normalizeHeights(); //run it again 
-			});
-		}
-	}
-	carouselNormalization('#odu-air-space .carousel-inner .item');
-	carouselNormalization('#odu-theatre-of-the-absurd .carousel-inner .item');
-});
-</script>
 </body>
 </html>

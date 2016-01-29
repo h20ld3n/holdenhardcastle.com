@@ -114,8 +114,27 @@ container h3 {
 	background-size:cover;
 }
 
-.carousel-control.right, .carousel-control.left {
-	background-image: none;
+/* image optimization */
+
+.img_wrapper{
+    position: relative;
+    padding-top: 61.97233%;
+    overflow: hidden;
+}
+ 
+.img_wrapper img{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    opacity: 0;
+	-webkit-transition: opacity 150ms;
+    -moz-transition: opacity 150ms;
+    -ms-transition: opacity 150ms;
+    transition: opacity 150ms;
+}
+
+.img_wrapper.loaded img{
+    opacity: 1;
 }
 
 /* arrow indication https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
