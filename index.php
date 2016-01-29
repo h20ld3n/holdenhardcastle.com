@@ -72,7 +72,7 @@ function imgLoaded(img){
           <p>In order to create a more prosperous world that runs on secure, clean and affordable energy, the Advanced Energy Economy website engages member companies, and recruits potential members and partners through education, and encouraging participation in energy policy changing initiatives.</p>
           <p>Policy and legislation changes quickly. In order to empower initiative leads and project leads to take ownership of the constantly changing content, and allow the development team to focus on larger projects, the site was migrated to a currently in place, but under-utilized content management system (CMS).</p>
           <p>The communications, marketing, and development teams worked together to identify and implement specific improvements on both the front and backend.</p>
-          <p>Building standardized templates on a flexible and responsive Bootstrap foundation made the content updating process more efficient, and streamlined the look an feel of the site. Initiative and project leads were empowered to make changes quickly and easily to their particular sections without worrying about effecting other sections or areas of the site.</p>
+          <p>Building standardized templates on a flexible and responsive Bootstrap foundation made the content updating process more efficient, and streamlined the look an feel of the site. Initiative and project leads were empowered to make changes quickly and easily to their particular sections without worrying about effecting other sections or areas of the site.</p>		        
         </div>
       </div>
     </div>
@@ -87,7 +87,9 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Advanced Energy Economy&nbsp;Reports</h3>
-          <p>Much of the content that comes out of the energy sector is very dry, heavy and difficult to digest. By working closely with communications teams, and content creators. We were able to bring some life to the reports beyond branding. The covers and designed materials make the materials easier to digest.</p>
+          <p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
+          <p>The AEE brand guidelines complement the company vision. Using the established brand guidelines, and collaborating with the communications team and initiatives define a consistent hierarchy, and visual style between the various reports. Covers, often the subject of much debate among the various teams, communicate the subject and main points of the complex reports in a single image through powerful iconography.</p> 
+          <p>Using a grid system and content management system that allows for instant and decentralized editing of text, the annual and semi-annual reports of varied length are effortlessly designed, and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
         </div>
       </div>
     </div>
@@ -115,10 +117,11 @@ function imgLoaded(img){
     </div>
     <div class="container">
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-        <div class="col-md-6 col-md-offset-3" id="description">
+        <div class="col-md-6 col-md-offset-2" id="description">
           <h3>AEE and AEE Institue Infographics</h3>
           <p>Collaborated with presenters and initiative leads to simplify the complex information surrounding the growth of the exapansive advanced energy sector for congressional hearings.</p>
         </div>
+        <div cla
       </div>
     </div>
   </article>
@@ -227,11 +230,11 @@ function imgLoaded(img){
   <article>
     <div class="jumbotron" id="trx-bg">
       <div class="container-fluid">
-        <div class="row"> <img src="images/trx-drew-brees-app.png" class="img-responsive" onload="imgLoaded(this)"/></div>
+        <div class="row img_wrapper"> <img src="images/trx-drew-brees-app.png" class="img-responsive" onload="imgLoaded(this)"/></div>
       </div>
     </div>
     <div class="container">
-      <div class="row img_wrapper"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Website, Application, and Experience Design</h3>
           <p>The iPhone application was designed for the users and online community members of the TRX Suspension Trainer. The mobile application provides users with full body workouts and connects them other community members. The appliction was launched as part of a partnership with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP.</p>
