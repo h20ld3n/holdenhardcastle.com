@@ -62,11 +62,11 @@ function imgLoaded(img){
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row img_wrapper"> <img src="images/aee-initiatives.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive" onload="imgLoaded(this)"/> </div>
+        <div class="row img_wrapper"> <img src="images/aee-initiatives.png"  alt="Advanced Energy Economy Responsive Website" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
-      <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row"> <img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>AEE Website and Process Redesign</h3>
           <p>In order to create a more prosperous world that runs on secure, clean and affordable energy, the Advanced Energy Economy website engages member companies, and recruits potential members and partners through education, and encouraging participation in energy policy changing initiatives.</p>
@@ -84,7 +84,7 @@ function imgLoaded(img){
       </div>
     </div>
     <div class="container">
-      <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row"> <img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Advanced Energy Economy&nbsp;Reports</h3>
           <p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
@@ -101,7 +101,7 @@ function imgLoaded(img){
       </div>
     </div>
     <div class="container">
-      <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row"><img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Ohio's Electricity Future Report</h3>
           <p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to appeal the their member base and reached out to AEE for branding, and design help, base on previously completed work.</p>
@@ -117,7 +117,7 @@ function imgLoaded(img){
       </div>
     </div>
     <div class="container">
-      <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row"><img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>AEE and AEE Institue Infographics</h3>
           <p>In order to support the varied reports and white papers, infographics were created to offer insight into complex topics and visualize immense data.</p>
@@ -129,14 +129,14 @@ function imgLoaded(img){
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row img_wrapper"> <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Letterhead" class="img-responsive" onload="imgLoaded(this)"/> </div>
+        <div class="row img_wrapper"> <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Brand and Style Guide" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
-      <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+      <div class="row"><img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
-          <h3>Advanced Energy Economy Letterhead &amp; Branding</h3>
-          <p>UAdvanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
+          <h3>Advanced Energy Economy Letterhead&nbsp;&amp;&nbsp;Branding</h3>
+          <p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
           <p>The design values and guidelines complement the company vision of creating a more prosperous world that runs on secure clean and affordable energy. The brand guidelines aim to create a consistent, clean, and efficient experience.</p>
           <p>The foundations of the AEE Style Guide are the design values and company vision. This solid foundation allows for evolution. Company logos, iconography, infographics, reports, responsive websites, and even co-workers have all played a part in the Advanced Energy Economy Brand, as it aims to engage with companies to create a more prosperous world that runs on secure, clean and affordable energy.</p>
         </div>
