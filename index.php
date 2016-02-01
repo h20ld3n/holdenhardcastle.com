@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Holden Hardcastle</title>
-<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
+<!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 // path to mobify.js
 "//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
@@ -25,7 +25,7 @@ function() {
       capture.renderCapturedDoc();
     });
   }
-});</script>
+});</script-->
 
 <script>
 
@@ -104,7 +104,8 @@ function imgLoaded(img){
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Ohio's Electricity Future Report</h3>
-          <p>The award winning report was created in partnership with the Ohio Advanced Energy Economy.</p>
+          <p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to appeal the their member base and reached out to AEE for branding, and design help, base on previously completed work.</p>
+          <p>Beginning with a logo and font, the report has a unique feel that was created on the structure and design guidelines of Advanced Energy Economy, keeping it part of the extended family. </p>
         </div>
       </div>
     </div>
@@ -112,16 +113,16 @@ function imgLoaded(img){
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
-        <div class="row img_wrapper"> <img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive" onload="imgLoaded(this)"/> </div>
+        <div class="row img_wrapper"><img src="images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
     <div class="container">
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
-        <div class="col-md-6 col-md-offset-2" id="description">
+        <div class="col-md-6 col-md-offset-3" id="description">
           <h3>AEE and AEE Institue Infographics</h3>
-          <p>Collaborated with presenters and initiative leads to simplify the complex information surrounding the growth of the exapansive advanced energy sector for congressional hearings.</p>
+          <p>In order to support the varied reports and white papers, infographics were created to offer insight into complex topics and visualize immense data.</p>
+          <p>Instead of several ideas, vague incomplete ideas and data are pared down by working with the communications team, and initiative leads. The resulting visuals represent a  strong singular goal and supportive argument that moves interested viewers to action.</p>
         </div>
-        <div cla
       </div>
     </div>
   </article>
@@ -134,8 +135,10 @@ function imgLoaded(img){
     <div class="container">
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
-          <h3>Advanced Energy Economy&nbsp;Letterhead</h3>
-          <p>Using the company vision as insperation, guidelines were to establish to help create consistent and clean materials, that could be replicated and reproduced at scale.</p>
+          <h3>Advanced Energy Economy Letterhead &amp; Branding</h3>
+          <p>UAdvanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
+          <p>The design values and guidelines complement the company vision of creating a more prosperous world that runs on secure clean and affordable energy. The brand guidelines aim to create a consistent, clean, and efficient experience.</p>
+          <p>The foundations of the AEE Style Guide are the design values and company vision. This solid foundation allows for evolution. Company logos, iconography, infographics, reports, responsive websites, and even co-workers have all played a part in the Advanced Energy Economy Brand, as it aims to engage with companies to create a more prosperous world that runs on secure, clean and affordable energy.</p>
         </div>
       </div>
     </div>
