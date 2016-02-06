@@ -5,6 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Holden Hardcastle</title>
+
+<link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/glyphicons-social.css">
+<link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
+
 <!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 // path to mobify.js
@@ -37,10 +42,6 @@ function imgLoaded(img){
 };
 
 </script>
-
-<link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="css/glyphicons-social.css">
-<link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
 </head>
 <body>
 <h1 style="display:none;">Holden Hardcastle</h1>
@@ -156,7 +157,8 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Online Email Campaigns</h3>
-          <p>Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</p>
+          <p>Old Navy is in constant communication with it's customers. The marketing and creative teams foster and build relationships through email and on-line campaigns. The campaigns are centered around new products, promotions and sales.</p>
+          <p>Constant communication within the Marketing group is part of the company culture. Weekly marketing and design meetings allow for open collaboration and exploration. Production artist, designers, copy editors, art directors and team leads are encouraged to discuss new ideas and fine tune project briefs, and even update style guides for targeted online email campaigns.</p>
         </div>
       </div>
     </div>
@@ -174,7 +176,9 @@ function imgLoaded(img){
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Hyperbole Search Results Redesign</h3>
-          <p>A re-design of dictionary.com's search result page (i.e word definition results page) for the word "hyperbole". The design update integrates currated and exclusive advertising at various screen sizes in a way that is not intrusive.</p>
+          	<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the worlds leading digital resource for language success, they were looking for solutions to increase the awareness of  expanding product awareness and increase revenue without compromising their primary vision.</p>
+			<p>Focusing on the the goal of increasing awareness and revenue, advertising and promotion needed be a more prominent part of the search results. Playing on the idea, "if you look up , hyperbole, in the dictionary, you'll find a picture of...", companies could have exclusivity to words. So when Lexus, launches their new "Hyperbole", they might want to buy "hyperbole" for the duration of the launch.</p>
+			<p>The responsive, grid based mock up works within the established style and brand guidelines to call out the exclusive promotions and ads, while the search result or word remains the primary focus through established typographical hierarchy.</p>
         </div>
       </div>
     </div>
@@ -192,7 +196,9 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>TrueBlood Cookbook</h3>
-          <p>Collaborated with editors and managing editors to translate the cookbook based on HBO's blockbuster paranormal drama. Photos and stills from the show play a key role in the title and in order to be faithful to the highly designed physical title required working with various individuals, teams, and companies to insure the digital version remained true to the original intent and design of the content.</p>
+          <p>In order to surprise and delight it's readers and reach a new audiences, Chronicle Books began converting it's entire catalogue into digital or eBooks in 2010.</p>
+          <p>eBooks have been around since 1998, with the release The Softbook and Gemstar’s Rocket eBook Reader. It wasn't until Apple debuted the iPad twelve years later in 2010, and sold half a million ebooks in a month that Chronicle Books took notice.</p>
+          <p>In order to algin with the publisher's core values, we established a culture of experimentation that allowed mistakes and happy accidents to find the limitations what we could and could not do with technology.</p>
         </div>
       </div>
     </div>
@@ -207,7 +213,8 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>The Ultimate Metallica</h3>
-          <p>Worked with legendary music photographer Ross Halfin, on this passion project, as well as editors and designers to ensure that the candid photographs in the physical book were portrayed and re-cropped to ensure original intentions were translated for the various devices.</p>
+          <p>Working with outside vendors we established base styles and CSS. Thousands of InDesign files were sent for conversion. Initial translations were delivered back to the Chronicle Team, based on guidelines and any additional specs related to titles. The device agnostic content would be fined tuned by embedding fonts, altering images, and adding other design elements.</p>
+          <p>High profile titles, authors, subject matter, and content require meeting to set expectations, and to learn or revisit the intent of the original material. High profile authors and content partners, like HBO, would need to be made educated about the capabilities of the technology, and how each of the varied devices would display their content.</p>
         </div>
       </div>
     </div>
@@ -222,8 +229,8 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>The History Of Surfing</h3>
-          <p>Worked with the Apple's iBooks team and outside vendors to set the highwater mak for digital books at the time. The History of Surfing reveals and defines this sport with a voice that is authoritative, funny, and wholly original.</p>
-        </div>
+			<p>The working relationships and open communication established with Amazon, Apple, and other on-line retailers allowed us to work with their internal development teams to create content for respective emerging technologies ahead of product launches.</p>
+            <p>By working openly as an internal team, and collaborating with outside vendors we were able to deliver device agnostic eBooks that surprised and delighted new and larger audiences across a variety of devices.</p>        </div>
       </div>
     </div>
   </article>
@@ -240,7 +247,9 @@ function imgLoaded(img){
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Website, Application, and Experience Design</h3>
-          <p>The iPhone application was designed for the users and online community members of the TRX Suspension Trainer. The mobile application provides users with full body workouts and connects them other community members. The appliction was launched as part of a partnership with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP.</p>
+			<p>In order to connect owners, and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout landing pages were all designed to encourage users to find other places and people to workout out with.</p>
+            <p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to wireframes, layouts, look and feel, and the eventual style guide that was born out of the extensive retooling of the site.</p>
+            <p>Partnering with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP, the application, and community launch, website update were part of a fitness campaign encouraging users of similar interest, and fitness goals to get out from in front of the television, and connect with other people in the community.</p>
         </div>
       </div>
     </div>
