@@ -368,7 +368,5 @@ function imgLoaded(img){
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- script src="js/bootstrap.min.js"></script--> 
-<script src="jquery.js"></script>
-<script src="jquery.lazyload.js"></script>
 </body>
 </html>
