@@ -52,7 +52,7 @@ function imgLoaded(img){
         <h1>Holden Hardcastle (1.61803.3.5)</h1>
         <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
         <h3>Creating inspired experiences is achieved through the hard work of teams and individuals who aspire to be the best</h3>
-        <h4>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes &amp; Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</h4>
+        <h4>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes &amp; Noble, HBO and Lucasfilm. collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</h4>
       </div>
     </div>
   </div>
@@ -70,10 +70,10 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>AEE Website and Process Redesign</h3>
-          <p>In order to create a more prosperous world that runs on secure, clean and affordable energy, the Advanced Energy Economy website engages member companies, and recruits potential members and partners through education, and encouraging participation in energy policy changing initiatives.</p>
-          <p>Policy and legislation changes quickly. In order to empower initiative leads and project leads to take ownership of the constantly changing content, and allow the development team to focus on larger projects, the site was migrated to a currently in place, but under-utilized content management system (CMS).</p>
-          <p>The communications, marketing, and development teams worked together to identify and implement specific improvements on both the front and backend.</p>
-          <p>Building standardized templates on a flexible and responsive Bootstrap foundation made the content updating process more efficient, and streamlined the look an feel of the site. Initiative and project leads were empowered to make changes quickly and easily to their particular sections without worrying about effecting other sections or areas of the site.</p>		        
+          <p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
+         <p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would able to make timely content updates.</p> 
+          <p>Working with the communications, marketing, and development teams we identified, and implemented specific improvements on both the front and backend.</p>
+          <p>By building templates on a flexible and responsive Bootstrap foundation, we made content updates more efficient, and streamlined the look and feel of the site.</p>       
         </div>
       </div>
     </div>
@@ -89,8 +89,8 @@ function imgLoaded(img){
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Advanced Energy Economy&nbsp;Reports</h3>
           <p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
-          <p>The AEE brand guidelines complement the company vision. Using the established brand guidelines, and collaborating with the communications team and initiatives define a consistent hierarchy, and visual style between the various reports. Covers, often the subject of much debate among the various teams, communicate the subject and main points of the complex reports in a single image through powerful iconography.</p> 
-          <p>Using a grid system and content management system that allows for instant and decentralized editing of text, the annual and semi-annual reports of varied length are effortlessly designed, and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
+          <p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers, the subject of much debate among the various teams, communicate the subject of the complex reports in a single image.</p> 
+          <p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
         </div>
       </div>
     </div>
