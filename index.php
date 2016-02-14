@@ -50,9 +50,9 @@ function imgLoaded(img){
     <div class="container-fluid">
       <div class="row">
         <h1>Holden Hardcastle (1.61803.3.5)</h1>
-        <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired, and driven people.</h2>
-        <h3>Creating inspired experiences is achieved through the hard work of teams and individuals who aspire to be the best</h3>
-        <h4>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes &amp; Noble, HBO and Lucasfilm. collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</h4>
+        <h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
+        <!-- h3>Creating inspired experiences is achieved through the hard work of teams and individuals who aspire to be the best</h3-->
+        <p>During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes &amp; Noble, HBO and Lucasfilm. Collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.</p>
       </div>
     </div>
   </div>
@@ -105,8 +105,9 @@ function imgLoaded(img){
       <div class="row"><img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Ohio's Electricity Future Report</h3>
-          <p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to appeal the their member base and reached out to AEE for branding, and design help, base on previously completed work.</p>
-          <p>Beginning with a logo and font, the report has a unique feel that was created on the structure and design guidelines of Advanced Energy Economy, keeping it part of the extended family. </p>
+          <p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidlines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
+          <p> A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
+          <p>The report on the state of Ohio's Electricity Future won a 2016 American Graphic Design Award</p>
         </div>
       </div>
     </div>
