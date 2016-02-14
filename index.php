@@ -72,8 +72,8 @@ function imgLoaded(img){
           <h3>AEE Website and Process Redesign</h3>
           <p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
          <p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would able to make timely content updates.</p> 
-          <p>Working with the communications, marketing, and development teams we identified, and implemented specific improvements on both the front and backend.</p>
-          <p>By building templates on a flexible and responsive Bootstrap foundation, we made content updates more efficient, and streamlined the look and feel of the site.</p>       
+          <p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
+          <p>By building templates on a flexible and responsive Bootstrap foundation, we made content updates more efficient and streamlined the look and feel of the site.</p>       
         </div>
       </div>
     </div>
@@ -91,6 +91,7 @@ function imgLoaded(img){
           <p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
           <p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers, the subject of much debate among the various teams, communicate the subject of the complex reports in a single image.</p> 
           <p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
+          <p>The California Advanced Energy Emplyment Survey report won a 2016 American Graphic Design Award.</p>
         </div>
       </div>
     </div>
@@ -107,7 +108,7 @@ function imgLoaded(img){
           <h3>Ohio's Electricity Future Report</h3>
           <p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidlines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
           <p> A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
-          <p>The report on the state of Ohio's Electricity Future won a 2016 American Graphic Design Award</p>
+          <p>The report on the state of Ohio's Electricity Future won a 2016 American Graphic Design Award.</p>
         </div>
       </div>
     </div>
@@ -122,8 +123,9 @@ function imgLoaded(img){
       <div class="row"><img src="images/chevron-up.png" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>AEE and AEE Institue Infographics</h3>
-          <p>In order to support the varied reports and white papers, infographics were created to offer insight into complex topics and visualize immense data.</p>
-          <p>Instead of several ideas, vague incomplete ideas and data are pared down by working with the communications team, and initiative leads. The resulting visuals represent a  strong singular goal and supportive argument that moves interested viewers to action.</p>
+          <p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
+          <p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
+          <p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2016 American Graphic Design Awards.</p>
         </div>
       </div>
     </div>
