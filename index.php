@@ -159,8 +159,8 @@ function imgLoaded(img){
       <div class="row"> <img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Online Email Campaigns</h3>
-          <p>Old Navy is in constant communication with it's customers. The marketing and creative teams foster and build relationships through email and on-line campaigns. The campaigns are centered around new products, promotions and sales.</p>
-          <p>Constant communication within the Marketing group is part of the company culture. Weekly marketing and design meetings allow for open collaboration and exploration. Production artist, designers, copy editors, art directors and team leads are encouraged to discuss new ideas and fine tune project briefs, and even update style guides for targeted online email campaigns.</p>
+          <p>Old Navy is in constant communication with their customers. The marketing and creative teams foster relationships through email and online campaigns. The campaigns are centered around new products, promotions, and sales.</p>
+          <p>Weekly marketing and design meetings allow for open collaboration and exploration. Production artists, designers, copy editors, art directors, and team leads are encouraged to discuss new ideas and fine tune project briefs, and even update style guides for targeted online email campaigns.</p>
         </div>
       </div>
     </div>
@@ -178,7 +178,7 @@ function imgLoaded(img){
       <div class="row"><img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         <div class="col-md-6 col-md-offset-3" id="description">
           <h3>Hyperbole Search Results Redesign</h3>
-          	<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the worlds leading digital resource for language success, they were looking for solutions to increase the awareness of  expanding product awareness and increase revenue without compromising their primary vision.</p>
+          	<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product and increase revenue without compromising their primary vision.</p>
 			<p>Focusing on the the goal of increasing awareness and revenue, advertising and promotion needed be a more prominent part of the search results. Playing on the idea, "if you look up , hyperbole, in the dictionary, you'll find a picture of...", companies could have exclusivity to words. So when Lexus, launches their new "Hyperbole", they might want to buy "hyperbole" for the duration of the launch.</p>
 			<p>The responsive, grid based mock up works within the established style and brand guidelines to call out the exclusive promotions and ads, while the search result or word remains the primary focus through established typographical hierarchy.</p>
         </div>
