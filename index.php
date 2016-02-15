@@ -63,6 +63,22 @@ function imgLoaded(img){
   <article>
     <div class="jumbotron" id="aee-blue">
       <div class="container-fluid">
+        <div class="row img_wrapper"> <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Brand and Style Guide" class="img-responsive" onload="imgLoaded(this)"/> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row"><img src="images/chevron-up.png" class="img-responsive">
+        <div class="col-md-6 col-md-offset-3" id="description">
+          <h3>Advanced Energy Economy Letterhead&nbsp;&amp;&nbsp;Branding</h3>
+          <p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
+          <p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
+        </div>
+      </div>
+    </div>
+  </article>
+  <article>
+    <div class="jumbotron" id="aee-blue">
+      <div class="container-fluid">
         <div class="row img_wrapper"> <img src="images/aee-initiatives.png"  alt="Advanced Energy Economy Responsive Website" class="img-responsive" onload="imgLoaded(this)"/> </div>
       </div>
     </div>
@@ -126,23 +142,6 @@ function imgLoaded(img){
           <p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           <p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
           <p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2016 American Graphic Design Awards.</p>
-        </div>
-      </div>
-    </div>
-  </article>
-  <article>
-    <div class="jumbotron" id="aee-blue">
-      <div class="container-fluid">
-        <div class="row img_wrapper"> <img src="images/aee-letterhead.png" alt="Advanced Energy Economy Brand and Style Guide" class="img-responsive" onload="imgLoaded(this)"/> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row"><img src="images/chevron-up.png" class="img-responsive">
-        <div class="col-md-6 col-md-offset-3" id="description">
-          <h3>Advanced Energy Economy Letterhead&nbsp;&amp;&nbsp;Branding</h3>
-          <p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
-          <p>The design values and guidelines complement the company vision of creating a more prosperous world that runs on secure clean and affordable energy. The brand guidelines aim to create a consistent, clean, and efficient experience.</p>
-          <p>The foundations of the AEE Style Guide are the design values and company vision. This solid foundation allows for evolution. Company logos, iconography, infographics, reports, responsive websites, and even co-workers have all played a part in the Advanced Energy Economy Brand, as it aims to engage with companies to create a more prosperous world that runs on secure, clean and affordable energy.</p>
         </div>
       </div>
     </div>
