@@ -33,6 +33,7 @@ function() {
 
 <link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/glyphicons-social.css">
+<link rel="stylesheet" href="css/glyphicons-filetypes.css">
 <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
 
 </head>
@@ -292,23 +293,25 @@ function() {
                         	<h3>About H2</h3>
       						During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.
       						<h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
-      						<a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a><br>
-      						<!-- span class="social social-behance"></span>about me<br--> 
-      						<!-- span class="social social-behance"></span>behance<br--> 
-      						<!-- span class="social social-dribbble"></span>dribble<br--> 
-      						<a href="https://www.facebook.com/holden.hardcastle" target="new"><span class="social social-facebook"></span>facebook</a><br>
-      						<a href="https://github.com/h20ld3n" target="new"><span class="social social-github"></span>github</a><br>
-      						<!-- span class="social social-google-plus"></span>google+<br--> 
-      						<a href="https://www.instagram.com/h20ld3n/" target="new"><span class="social social-instagram"></span>instagram<br>
-      						<a href="https://www.linkedin.com/in/holdenhardcastle" target="new"><span class="social social-linked-in"></span>linkedin</a><br>
-      						<!-- span class="social social-linked-in"></span>localsolo<br--> 
-      						<!-- span class="social social-pinterest"></span>pinterest<br--> 
-      						<!--span class="social social-tumblr"></span>tumblr<br--> 
-      						<!--span class="social social-twitter"></span>twitter<br--> 
-      						<!--resume<br--> 
-      						<!--cargo collective<br--> 
-      						<!--dunked (beta)-->
-                            <a href="http://tevko.github.io/practice/" target="new"><span class="social social-github"></span>Practice your skills by getting random suggestions or creative inspiration!</a><br>
+                            <ul>
+                            	<li><a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a></li>
+                                <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li>
+                                <li><a href="https://www.behance.net/h20ld3n" target="_blank"><span class="social social-behance"></span>behance</a></li>
+                                <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
+                                <li><a href="https://dribbble.com/h20ld3n" target="_blank"><span class="social social-dribbble"></span>dribbble</a></li>
+                                <li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li>
+                                <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
+                                <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
+                                <li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li>
+                                <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
+                                <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
+                                <li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li>
+                                <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
+                                <li><a href="" target="_blank"><span class="filetypes filetypes-pdf"></span>resume</a></li>
+                                <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
+                                <li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li>
+                                <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+                            </ul>
                         </p>
     				</div>
     				<div class="col-md-3">

@@ -22,6 +22,11 @@ img {
 	position: relative;
 }
 
+ul {
+	list-style:none outside none;
+	-webkit-padding-start: 0;
+}
+
 .navbar-default {
     background-image: none;
     filter: none;
@@ -107,35 +112,6 @@ section h2 {
 
 container h3 {
 	margin-bottom:14.562em;
-}
-
-<<<<<<< Updated upstream
-#holden-hardcastle {
-	/* background-image:url(../images/5120.png); */
-	background-size:cover;
-=======
-/* image optimization */
-
-.img_wrapper{
-    position: relative;
-    padding-top: 61.97233%;
-    overflow: hidden;
-}
- 
-.img_wrapper img{
-    position: absolute;
-    top: 0;
-    width: 100%;
-    opacity: 0;
-	-webkit-transition: opacity 150ms;
-    -moz-transition: opacity 150ms;
-    -ms-transition: opacity 150ms;
-    transition: opacity 150ms;
-}
-
-.img_wrapper.loaded img{
-    opacity: 1;
->>>>>>> Stashed changes
 }
 
 /* arrow indication https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
