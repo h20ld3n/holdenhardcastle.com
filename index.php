@@ -325,25 +325,35 @@ function() {
     	  					Adobe Photoshop, ImageReady, Illustrator, AfterEffects, InDesign, GoLive, Flash, Quark, Dreamweaver and other HTML editors, HTML/CSS/XHTML/PHP and JavaScript, Avid, Final Cut Pro and All Related Software
       						<h3>Awards</h3>
       						<h4>American Graphic Design Awards 2015</h4>
-      						Advanced Energy Now 2015 Market Report<br>
-      						California Advanced Energy Employment Future<br>
-      						Ohio's Electricity Future<br>
-      						North Carolina: Clean Energy Works!<br>
-      						Advanced Energy Leads California Jobs Growth
+      						<ul>
+                            	<li>Advanced Energy Now 2015 Market Report</li>
+                                <li>California Advanced Energy Employment Future</li>
+                                <li>Ohio's Electricity Future</li>
+                                <li>North Carolina: Clean Energy Works!</li>
+                                <li>Advanced Energy Leads California Jobs Growth</li>
+                            </ul>
 	      					<h4>PubWest Book Design Awards 2012</h4>
-     	 					Enhanced e-Book, Silver Award<br>
-      						Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to Survive
-	      					<h4>41st Annual Bookbuilders West Book Show 2012</h4>
-    	  					Certificate of Excellence<br>
-      						Worst-Case Scenario Ultimate Adventure: Everest
-	      					<h4>Publishing Innovation Awards2012</h4>
-    	  					Quality, Excellence, Design (QED)<br>
-      						Count, Dagmar!<br>
-      						Top Pot Hand-Forged Doughnuts
+     	 					<ul>
+                            	<li>Enhanced e-Book, Silver Award</li>
+      							<li>Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to Survive</li>
+                            </ul>
+	      					<h4>41st Annual Bookbuilders West Book Show 2012 - Certificate of Excellence</h4>
+    						<ul>
+                            	<li>Worst-Case Scenario Ultimate Adventure: Everest</li>
+                            </ul>
+	      					<h4>Publishing Innovation Awards 2012 - Quality, Excellence, Design (QED)</h4>
+							<ul>
+                            	<li>Count, Dagmar!</li>
+      							<li>Top Pot Hand-Forged Doughnuts</li>
+                            </ul>
       						<h4>The 48 Hour Film Project 2009</h4>
-	      					Best Acting Ensemble
+                            <ul>
+                            	<li>Best Acting Ensemble</li>
+							</ul>
       						<h4>Griffith Film School 2006</h4>
-      						Award for Individual Excellence and Highly Commended Editing
+      						<ul>
+                            	<li>Award for Individual Excellence and Highly Commended Editing</li>
+                           	</ul>
                      	</p>
     				</div>
     				<div class="col-md-6">
