@@ -45,7 +45,9 @@ function() {
     			<div class="row">
         			<h1>Holden Hardcastle (1.61803.3.5)</h1>
         			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists to push creative boundries. Collaborated with co-workers and peers by generously sharing ideas, resouces, and information. Whether it's bringing people together through an application, or cranking on one of a thousand ebooks for download, collaborating with inspired teams and people yields insperational results. </p>
+					<!-- p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists to push creative boundries. Collaborated with co-workers and peers by generously sharing ideas, resouces, and information. Whether it's bringing people together through an application, or developing a dynamic brand to impact the world, collaborating with inspired teams and people yields insperational results.</p-->
+					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resouces, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I belive that inspired teams yield inspirational results.</p>
+
       			</div>
  			</div>
 		</div>
