@@ -45,8 +45,7 @@ function() {
     			<div class="row">
         			<h1>Holden Hardcastle (1.61803.3.5)</h1>
         			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-        			<!-- h3>Creating inspired experiences is achieved through the hard work of teams and individuals who aspire to be the best</h3-->
-					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists. Collaborated with co-workers and peers. Whether it's bringing people together through an application, or cranking on one of a thousand ebooks for download, collaborating with inspired teams and people yields insperational results. </p>
+					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists to push creative boundries. Collaborated with co-workers and peers by generously sharing ideas, resouces, and information. Whether it's bringing people together through an application, or cranking on one of a thousand ebooks for download, collaborating with inspired teams and people yields insperational results. </p>
       			</div>
  			</div>
 		</div>
@@ -66,7 +65,7 @@ function() {
     			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Advanced Energy Economy Letterhead&nbsp;&amp;&nbsp;Branding</h3>
+          				<h3>AEE Letterhead and Branding</h3>
           				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
           				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
         			</div>
@@ -106,7 +105,7 @@ function() {
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Advanced Energy Economy&nbsp;Reports</h3>
+          				<h3>Advanced Energy Economy Reports</h3>
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
           				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers, the subject of much debate among the various teams, communicate the subject of the complex reports in a single image.</p> 
           				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
@@ -278,7 +277,7 @@ function() {
           				<h3>Website, Application, and Experience Design</h3>
 						<p>In order to connect owners, and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, an updated look and feel, and the eventual style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
-            			<p>The new experience and application was launched in partnership with Drew Brees, the Quarterback for the NFL's New Orleans Saints and 2010 Super Bowl MVP, encouraging users of similar interest, and fitness goals to get out from in front of the television, and connect with other people in the community.</p>
+            			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
         			</div>
       			</div>
     		</div>
@@ -295,19 +294,19 @@ function() {
       						<h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
                             <ul>
                             	<li><a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a></li>
-                                <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li>
-                                <li><a href="https://www.behance.net/h20ld3n" target="_blank"><span class="social social-behance"></span>behance</a></li>
-                                <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
-                                <li><a href="https://dribbble.com/h20ld3n" target="_blank"><span class="social social-dribbble"></span>dribbble</a></li>
-                                <li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li>
+                                <!-- li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li -->
+                                <!-- li><a href="https://www.behance.net/h20ld3n" target="_blank"><span class="social social-behance"></span>behance</a></li -->
+                                <!-- li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li -->
+                                <!-- li><a href="https://dribbble.com/h20ld3n" target="_blank"><span class="social social-dribbble"></span>dribbble</a></li -->
+                                <!-- li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li -->
                                 <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
                                 <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
-                                <li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li>
+                                <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
                                 <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
-                                <li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li>
+                                <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
                                 <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
-                                <li><a href="" target="_blank"><span class="filetypes filetypes-pdf"></span>resume</a></li>
+                                <!-- li><a href="" target="_blank"><span class="filetypes filetypes-pdf"></span>resume</a></li -->
                                 <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
                                 <li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li>
                                 <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
@@ -317,81 +316,91 @@ function() {
     				<div class="col-md-3">
                     	<p>
                         	<h3>Education</h3>
-      						<h4>Griffith University</h4>
-      						Master of Arts – Media Production with&nbsp;Honours
-	      					<h4>Old Dominion University</h4>
-    	  					Bachelor of Fine Arts – Graphic Design Cum Laude
+      						<dl class="h4">Griffith University</dl>
+                            	<dt>Master of Arts</dt>
+                                <dd>Media Production with Honours</dd>
+	      					<dl class="h4">Old Dominion University</dl>
+    	  						<dt>Bachelor of Fine Arts</dt>
+                                <dd>Graphic Design Cum Laude</dd>
 	      					<h3>Knowledge</h3>
-    	  					Adobe Photoshop, ImageReady, Illustrator, AfterEffects, InDesign, GoLive, Flash, Quark, Dreamweaver and other HTML editors, HTML/CSS/XHTML/PHP and JavaScript, Avid, Final Cut Pro and All Related Software
+    	  					<ul>
+                            	<li>Adobe Creative Suite</li>
+                                <li>Front-end web development - HTML, CSS and JavaScript</li>
+                          	</ul>
       						<h3>Awards</h3>
-      						<h4>American Graphic Design Awards 2015</h4>
       						<ul>
-                            	<li>Advanced Energy Now 2015 Market Report</li>
-                                <li>California Advanced Energy Employment Future</li>
-                                <li>Ohio's Electricity Future</li>
-                                <li>North Carolina: Clean Energy Works!</li>
-                                <li>Advanced Energy Leads California Jobs Growth</li>
+                            	<li class="h4">American Graphic Design Awards 2015</li>
+      							<ul>
+                            		<li>Advanced Energy Now 2015 Market Report</li>
+                                	<li>California Advanced Energy Employment Future</li>
+                                	<li>Ohio's Electricity Future</li>
+                                	<li>North Carolina: Clean Energy Works!</li>
+                                	<li>Advanced Energy Leads California Jobs Growth</li>
+                            	</ul>
+	      						<li class="h4">PubWest Book Design Awards 2012</li>
+     	 						<ul>
+                            		<li>Enhanced e-Book, Silver Award</li>
+      								<li>Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to Survive</li>
+                            	</ul>
+	      						<li class="h4">41st Annual Bookbuilders West Book Show 2012 - Certificate of Excellence</li>
+    							<ul>
+                            		<li>Worst-Case Scenario Ultimate Adventure: Everest</li>
+                            	</ul>
+	      						<li class="h4">Publishing Innovation Awards 2012 - Quality, Excellence, Design (QED)</li>
+								<ul>
+                            		<li>Count, Dagmar!</li>
+      								<li>Top Pot Hand-Forged Doughnuts</li>
+                            	</ul>
+      							<li class="h4">The 48 Hour Film Project 2009</li>
+                            	<ul>
+                            		<li>Best Acting Ensemble</li>
+								</ul>
+      							<li class="h4">Griffith Film School 2006</li>
+      							<ul>
+                            		<li>Award for Individual Excellence</li>
+                                	<li>Highly Commended Editing</li>
+                           		</ul>
                             </ul>
-	      					<h4>PubWest Book Design Awards 2012</h4>
-     	 					<ul>
-                            	<li>Enhanced e-Book, Silver Award</li>
-      							<li>Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to Survive</li>
-                            </ul>
-	      					<h4>41st Annual Bookbuilders West Book Show 2012 - Certificate of Excellence</h4>
-    						<ul>
-                            	<li>Worst-Case Scenario Ultimate Adventure: Everest</li>
-                            </ul>
-	      					<h4>Publishing Innovation Awards 2012 - Quality, Excellence, Design (QED)</h4>
-							<ul>
-                            	<li>Count, Dagmar!</li>
-      							<li>Top Pot Hand-Forged Doughnuts</li>
-                            </ul>
-      						<h4>The 48 Hour Film Project 2009</h4>
-                            <ul>
-                            	<li>Best Acting Ensemble</li>
-							</ul>
-      						<h4>Griffith Film School 2006</h4>
-      						<ul>
-                            	<li>Award for Individual Excellence and Highly Commended Editing</li>
-                           	</ul>
                      	</p>
     				</div>
     				<div class="col-md-6">
       					<p>
                         	<h3>Experience</h3>
-      						<h4>Advanced Energy Economy</h4>
-      						(07.2013 - Present)<br>
-      						Responsible for visual and brand presence of Advanced Energy Economy.
-      						<h4>Gap Inc. (freelance)</h4>
-      						(06.2013 - 07.2013)<br>
-      						Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.
-      						<h4>Chronicle Books</h4>
-      						(12.2010 - 02.2013)<br>
-      						Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications, for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.
-      						<h4>TRX - Fitness Anywhere</h4>
-      						(02.2007 – 07.2010)<br>
-      						Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages and large scale campaigns with the assistance of other designers and marketing managers.
-      						<h4>REO Company</h4>
-      						(12.2002 – 01.2005)<br>
-      						Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.
-      						<h4>US Race Series (freelance)</h4>
-      						(10.2002 – 01.2005)<br>
-      						Designed logos and marketing materials for national campaigns.
-     	 					<h4>Golden Gate Tennis and Swim Club (freelance)</h4>
-      						(08.2002 – 10.2003)<br>
-      						Designed the athletic club's monthly newsletter.
-      						<h4>Muscular Dystrophy Association (freelance)</h4>
-      						(09.2001 – 12.2002)<br>
-      						Collaborated with marketing directors to create collateral for local fund-raising events.
-      						<h4>Steven Irving Photography (freelance)</h4>
-      						(09.2001 – 12.2002)<br>
-      						Designed and developed website for the then San Francisco based photographer.
-      						<h4>California Academy of Science (freelance)</h4>
-      						(08.2001 – 12.2001)<br>
-      						Designed and coded website for the Arthropods of Madagascar Research Project.
-      						<h4>CBS MarketWatch</h4>
-      						(10.1999 – 05.2001)<br>
-      						Collaborated with news, and marketing teams to create online and printed materials.
+      						<dl>
+                            	<dt class="h4">Advanced Energy Economy</dt>
+      							<dd>(07.2013 - Present)<br>
+                                Responsible for visual and brand presence of Advanced Energy Economy.</dd>
+      							<dt class="h4">Gap Inc. (freelance)</dt>
+      							<dd>(06.2013 - 07.2013)<br>
+                                Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</dd>
+      							<dt class="h4">Chronicle Books</dt>
+      							<dd>(12.2010 - 02.2013)<br>
+      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications, for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</dd>
+      							<dt class="h4">TRX - Fitness Anywhere</dt>
+      							<dd>(02.2007 – 07.2010)<br>
+      							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages and large scale campaigns with the assistance of other designers and marketing managers.</dd>
+      							<dt class="h4">REO Company</dt>
+      							<dd>(12.2002 – 01.2005)<br>
+      							Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
+      							<dt class="h4">US Race Series (freelance)</dt>
+      							<dd>(10.2002 – 01.2005)<br>
+      							Designed logos and marketing materials for national campaigns.</dd>
+     	 						<dt class="h4">Golden Gate Tennis and Swim Club (freelance)</dt>
+      							<dd>(08.2002 – 10.2003)<br>
+      							Designed the athletic club's monthly newsletter.</dd>
+      							<dt class="h4">Muscular Dystrophy Association (freelance)</dt>
+      							<dd>(09.2001 – 12.2002)<br>
+      							Collaborated with marketing directors to create collateral for local fund-raising events.<dd>
+      							<dt class="h4">Steven Irving Photography (freelance)</dt>
+      							<dd>(09.2001 – 12.2002)<br>
+      							Designed and developed website for the then San Francisco based photographer.</dd>
+      							<dt class="h4">California Academy of Science (freelance)</dt>
+      							<dd>(08.2001 – 12.2001)<br>
+      							Designed and coded website for the Arthropods of Madagascar Research Project.</dd>
+      							<dt class="h4">CBS MarketWatch</dt>
+                         		<dd>(1999 - 2001)<br>
+                                Collaborated with news, and marketing teams to create online and printed materials.</dd>
+                           	</dl>
       					</p>
     				</div>
   				</div>

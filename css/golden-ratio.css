@@ -11,6 +11,10 @@ body {
 	hyphens: auto;
 }
 
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3;
+}
+
 .jumbotron {
 	padding-top: 1.6180em;
     padding-bottom: 1.6180em;
@@ -22,7 +26,7 @@ img {
 	position: relative;
 }
 
-ul {
+ul, dl {
 	list-style:none outside none;
 	-webkit-padding-start: 0;
 }
