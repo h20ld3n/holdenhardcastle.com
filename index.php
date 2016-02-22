@@ -32,7 +32,7 @@ function() {
   }
 });</script>
 
-<link rel="stylesheet" type="text/css" href="bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/glyphicons-social.css">
 <link rel="stylesheet" href="css/glyphicons-filetypes.css">
 <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
@@ -44,7 +44,7 @@ function() {
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container-fluid">
     			<div class="row">
-        			<h1>Holden Hardcastle (1.61803.3.5)</h1>
+        			<h1>Holden Hardcastle (1.61803.3.6)</h1>
         			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
 					<!-- p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists to push creative boundries. Collaborated with co-workers and peers by generously sharing ideas, resouces, and information. Whether it's bringing people together through an application, or developing a dynamic brand to impact the world, collaborating with inspired teams and people yields insperational results.</p-->
 					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resouces, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I belive that inspired teams yield inspirational results.</p>
@@ -278,9 +278,9 @@ function() {
                 	<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Website, Application, and Experience Design</h3>
-						<p>In order to connect owners, and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
-            			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, an updated look and feel, and the eventual style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
-            			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
+						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
+            			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
+            			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
         			</div>
       			</div>
     		</div>
@@ -291,10 +291,22 @@ function() {
 			<div class="container-fluid">
   				<div class="row text-muted">
     				<div class="col-md-3">
-      					<p>
+                    	<p>
                         	<h3>About H2</h3>
-      						During my professional career I have worked with content teams at Apple, Amazon, Sony, Barnes & Noble, HBO and Lucasfilm; collaborated with authors, editors and artists to create best selling ebooks; led teams on community and brochure site redesigns, created mock ups and other assets for on-line properties; worked with outside vendors to develop systems and workflows for on-line content distribution; set standards for best-in-class DVDs and downloadable content; and have taken lead roles on high profile campaigns.
-      						<h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
+							Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resouces, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I belive that inspired teams yield inspirational results.
+      						<h3>Education</h3>
+      						<dl class="h4">Griffith University</dl>
+                            	<dt>Master of Arts</dt>
+                                <dd>Media Production with Honours</dd>
+	      					<dl class="h4">Old Dominion University</dl>
+    	  						<dt>Bachelor of Fine Arts</dt>
+                                <dd>Graphic Design Cum Laude</dd>
+	      					<h3>Knowledge</h3>
+    	  					<ul>
+                            	<li>Adobe Creative Suite</li>
+                                <li>Front-end web development - HTML, CSS and JavaScript</li>
+                          	</ul>
+                            <h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
                             <ul>
                             	<li><a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a></li>
                                 <!-- li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li -->
@@ -310,26 +322,16 @@ function() {
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
                                 <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
                                 <!-- li><a href="" target="_blank"><span class="filetypes filetypes-pdf"></span>resume</a></li -->
+                                <!-- li><a href="http://www.shocase.com/go/user/rg50gm8kijioS1kys6udx99kii" target="_blank"><span class="social social-rss"></span>showcase</a></li -->
                                 <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
-                                <li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li>
+                                <!-- li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li-->
                                 <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+                                
                             </ul>
                         </p>
     				</div>
     				<div class="col-md-3">
                     	<p>
-                        	<h3>Education</h3>
-      						<dl class="h4">Griffith University</dl>
-                            	<dt>Master of Arts</dt>
-                                <dd>Media Production with Honours</dd>
-	      					<dl class="h4">Old Dominion University</dl>
-    	  						<dt>Bachelor of Fine Arts</dt>
-                                <dd>Graphic Design Cum Laude</dd>
-	      					<h3>Knowledge</h3>
-    	  					<ul>
-                            	<li>Adobe Creative Suite</li>
-                                <li>Front-end web development - HTML, CSS and JavaScript</li>
-                          	</ul>
       						<h3>Awards</h3>
       						<ul>
                             	<li class="h4">American Graphic Design Awards 2015</li>
@@ -371,21 +373,24 @@ function() {
                         	<h3>Experience</h3>
       						<dl>
                             	<dt class="h4">Advanced Energy Economy</dt>
-      							<dd>(07.2013 - Present)<br>
-                                Responsible for visual and brand presence of Advanced Energy Economy.</dd>
+      							<dd>(2013 - Present)<br>
+                               	Responsible for developing guidelines and directing creative work, including print collateral, websites, email campaigns, and related tasks. Work with and play an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
       							<dt class="h4">Gap Inc. (freelance)</dt>
-      							<dd>(06.2013 - 07.2013)<br>
+      							<dd>(2013)<br>
                                 Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</dd>
       							<dt class="h4">Chronicle Books</dt>
-      							<dd>(12.2010 - 02.2013)<br>
+      							<dd>(2010 - 2013)<br>
       							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications, for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</dd>
       							<dt class="h4">TRX - Fitness Anywhere</dt>
-      							<dd>(02.2007 – 07.2010)<br>
+      							<dd>(2007 – 2010)<br>
       							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages and large scale campaigns with the assistance of other designers and marketing managers.</dd>
       							<dt class="h4">REO Company</dt>
-      							<dd>(12.2002 – 01.2005)<br>
+      							<dd>(2002 – 2005)<br>
       							Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
-      							<dt class="h4">US Race Series (freelance)</dt>
+                                <dt class="h4">Four Eleven Productions (freelance)</dt>
+      							<dd>(2001 – 2005)<br>
+      							Created logos, websites, video, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and start-ups.</dd>
+                                <!-- dt class="h4">US Race Series (freelance)</dt>
       							<dd>(10.2002 – 01.2005)<br>
       							Designed logos and marketing materials for national campaigns.</dd>
      	 						<dt class="h4">Golden Gate Tennis and Swim Club (freelance)</dt>
@@ -399,7 +404,7 @@ function() {
       							Designed and developed website for the then San Francisco based photographer.</dd>
       							<dt class="h4">California Academy of Science (freelance)</dt>
       							<dd>(08.2001 – 12.2001)<br>
-      							Designed and coded website for the Arthropods of Madagascar Research Project.</dd>
+      							Designed and coded website for the Arthropods of Madagascar Research Project.</dd-->
       							<dt class="h4">CBS MarketWatch</dt>
                          		<dd>(1999 - 2001)<br>
                                 Collaborated with news, and marketing teams to create online and printed materials.</dd>
