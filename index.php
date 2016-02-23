@@ -1,42 +1,41 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Aspiring to create beautiful, exciting, and fun experiences by collaborating and working with inspired and driven companies, teams, and people.">
-<meta name="keywords" content="HTML,CSS,XML,JavaScript">
-<meta name="author" content="Holden Hardcastle">
-<meta name="pinterest" content="nopin" />
-<title>Holden Hardcastle</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Aspiring to create beautiful, exciting, and fun experiences by collaborating and working with inspired and driven companies, teams, and people.">
+	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+	<meta name="author" content="Holden Hardcastle">
+	<meta name="pinterest" content="nopin" />
+	<title>Holden Hardcastle</title>
+    
+	<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
-<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
+	// path to mobify.js
+	"//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
 
-// path to mobify.js
-"//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
+	// calls to APIs go here (or path to a main.js)
+	function() {
+	 		var capturing = window.Mobify && window.Mobify.capturing || false;
 
-// calls to APIs go here (or path to a main.js)
-function() {
-  var capturing = window.Mobify && window.Mobify.capturing || false;
+	  		if (capturing) {
+    		Mobify.Capture.init(function(capture){
+      		var capturedDoc = capture.capturedDoc;
 
-  if (capturing) {
-    Mobify.Capture.init(function(capture){
-      var capturedDoc = capture.capturedDoc;
-
-      var images = capturedDoc.querySelectorAll("img, picture");
-      Mobify.ResizeImages.resize(images);
+      		var images = capturedDoc.querySelectorAll("img, picture");
+      		Mobify.ResizeImages.resize(images);
         
-      // Render source DOM to document
-      capture.renderCapturedDoc();
-    });
-  }
-});</script>
+      		// Render source DOM to document
+      		capture.renderCapturedDoc();
+    		});
+  		}
+	});</script>
 
-<link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="css/glyphicons-social.css">
-<link rel="stylesheet" href="css/glyphicons-filetypes.css">
-<link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
-
+	<link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/glyphicons-social.css">
+	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
+	<link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
@@ -47,7 +46,7 @@ function() {
         			<h1>Holden Hardcastle (1.61803.3.6)</h1>
         			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
 					<!-- p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists to push creative boundries. Collaborated with co-workers and peers by generously sharing ideas, resouces, and information. Whether it's bringing people together through an application, or developing a dynamic brand to impact the world, collaborating with inspired teams and people yields insperational results.</p-->
-					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resouces, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I belive that inspired teams yield inspirational results.</p>
+					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
 
       			</div>
  			</div>
