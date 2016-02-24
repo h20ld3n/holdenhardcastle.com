@@ -195,8 +195,8 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Hyperbole Search Results Redesign</h3>
           				<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product line and increase earnings without compromising their primary vision.</p>
-						<p>Focusing on the the goal of increasing revenue, advertising and promotion needed to be a more prominent part of the search results. With this in mind, the site was redesigned giving more promenence to exclusive advertising for specific words.</p>
-						<p>The responsive and grid based mock up works within the established style and brand guidelines to call out the promotions and ads. The search result remain the primary focus through established typographic and visual hierarchy.</p>
+						<p>Focusing on the goal of increasing revenue, advertising and promotion became a more prominent part of the search results. The site was redesigned to give more emphasis to exclusive advertising.</p>
+						<p>The responsive and grid based mock ups work within the established style and brand guidelines to call out the promotions and ads. Using typographic and visual hierarchy, the search results remain the primary focus.</p>
         			</div>
       			</div>
     		</div>
@@ -218,7 +218,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TrueBlood Cookbook</h3>
           				<p>In order to surprise and delight their readers, Chronicle Books began converting it's entire catalogue into digital or eBooks in 2010.</p>
-          				<p>Algining with the publisher's core values, the newly established eBooks team created a culture of education and experimentation. By allowing mistakes and happy accidents to happen, we discovered new ways to keep faithful to the orignal content. </p>
+          				<p>Aligning with the publisher's core values, the newly established eBooks team created a culture of education and experimentation. By allowing mistakes and happy accidents to happen, we discovered new ways to keep faithful to the orignal content.</p>
         			</div>
       			</div>
     		</div>
@@ -236,7 +236,7 @@
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The Ultimate Metallica</h3>
-          				<p>Working with outside vendors the Chronicle eBooks team established base styles and CSS. Thousands of InDesign files were sent for conversion. Based on guidlines and title-by-title specs, initial book conversions were delivered back to the group. The device agnostic content would be fine-tuned by embedding fonts, altering images, and adding other design elements.</p>
+          				<p>Working with outside vendors the Chronicle eBooks team established base styles and CSS. Thousands of InDesign files were sent for conversion. Based on guidelines and title-by-title specs, initial book conversions were delivered back to the group. The device agnostic content would be fine-tuned by embedding fonts, altering images, and adding other design elements.</p>
           				<p>High profile titles, authors, subject matter, and content required careful management and setting of expectations. The titles were revisited to discuss the original intentions of the authors and content.</p>
         			</div>
       			</div>
@@ -256,7 +256,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The History Of Surfing</h3>
 						<p>The working relationships and open communication established with Amazon, Apple, and other on-line retailers allowed us to work with their internal development teams to create content for emerging technologies.</p>
-            			<p>Working and collaborating with outside vendors, the Chronicle eBooks team was able to deliver device agnostic eBooks that surprised and delighted new and larger audiences across a variety of devices.</p>
+            			<p>Working and collaborating with outside vendors, the Chronicle eBooks team was able to deliver device agnostic eBooks that surprised and delighted new and larger audiences.</p>
             		</div>
       			</div>
     		</div>
