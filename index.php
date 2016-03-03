@@ -319,12 +319,18 @@
                                 <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
+                                 <!-- li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li -->
                                 <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
                                 <!-- li><a href="" target="_blank"><span class="filetypes filetypes-pdf"></span>resume</a></li -->
                                 <!-- li><a href="http://www.shocase.com/go/user/rg50gm8kijioS1kys6udx99kii" target="_blank"><span class="social social-rss"></span>showcase</a></li -->
                                 <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
                                 <!-- li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li-->
                                 <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+                                
+                                <!-- other websites -->
+                                <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
+                                a game where you help Froggy and friends by writing CSS code!
+I am currently on level 4</a></li-->
                                 
                             </ul>
                         </p>

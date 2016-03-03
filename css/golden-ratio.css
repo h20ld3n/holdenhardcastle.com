@@ -26,8 +26,11 @@ img {
 	position: relative;
 }
 
-ul, dl {
+ul {
 	list-style:none outside none;
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
 	-webkit-padding-start: 0;
 }
 
