@@ -111,7 +111,7 @@
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
           				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers, the subject of much debate among the various teams, communicate the subject of the complex reports in a single image.</p> 
           				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
-          				<p>The California Advanced Energy Emplyment Survey report won a 2016 American Graphic Design Award.</p>
+          				<p>The California Advanced Energy Emplyment Survey report won a 2015 American Graphic Design Award.</p>
         			</div>
       			</div>
     		</div>
@@ -131,7 +131,7 @@
           				<h3>Ohio's Electricity Future Report</h3>
           				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidlines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
           				<p> A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
-          				<p>The report on the state of Ohio's Electricity Future won a 2016 American Graphic Design Award.</p>
+          				<p>The report on the state of Ohio's Electricity Future won a 2015 American Graphic Design Award.</p>
         			</div>
       			</div>
     		</div>
@@ -151,7 +151,7 @@
           				<h3>AEE and AEE Institue Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
-          				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2016 American Graphic Design Awards.</p>
+          				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
         			</div>
       			</div>
     		</div>
