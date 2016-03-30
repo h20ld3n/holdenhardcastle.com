@@ -10,7 +10,7 @@
 	<meta name="pinterest" content="nopin" />
 	<title>Holden Hardcastle</title>
     
-	<!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
+	<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 	// path to mobify.js
 	"//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
@@ -30,7 +30,7 @@
       		capture.renderCapturedDoc();
     		});
   		}
-	});</script-->
+	});</script>
 
 	<link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
@@ -305,6 +305,7 @@
     	  					<ul>
                             	<li>Adobe Creative Suite</li>
                                 <li>Front-end web development - HTML, CSS and JavaScript</li>
+                                <li>Print production process</li>
                           	</ul>
                             <h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
                             <ul>
@@ -396,21 +397,6 @@ I am currently on level 4</a></li-->
                                 <dt class="h4">Four Eleven Productions (freelance)</dt>
       							<dd>(2001 – 2005)<br>
       							Created logos, websites, video, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and start-ups.</dd>
-                                <!-- dt class="h4">US Race Series (freelance)</dt>
-      							<dd>(10.2002 – 01.2005)<br>
-      							Designed logos and marketing materials for national campaigns.</dd>
-     	 						<dt class="h4">Golden Gate Tennis and Swim Club (freelance)</dt>
-      							<dd>(08.2002 – 10.2003)<br>
-      							Designed the athletic club's monthly newsletter.</dd>
-      							<dt class="h4">Muscular Dystrophy Association (freelance)</dt>
-      							<dd>(09.2001 – 12.2002)<br>
-      							Collaborated with marketing directors to create collateral for local fund-raising events.<dd>
-      							<dt class="h4">Steven Irving Photography (freelance)</dt>
-      							<dd>(09.2001 – 12.2002)<br>
-      							Designed and developed website for the then San Francisco based photographer.</dd>
-      							<dt class="h4">California Academy of Science (freelance)</dt>
-      							<dd>(08.2001 – 12.2001)<br>
-      							Designed and coded website for the Arthropods of Madagascar Research Project.</dd-->
       							<dt class="h4">CBS MarketWatch</dt>
                          		<dd>(1999 - 2001)<br>
                                 Collaborated with news, and marketing teams to create online and printed materials.</dd>
