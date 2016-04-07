@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name="description" content="Aspiring to create beautiful, exciting, and fun experiences by collaborating and working with inspired and driven companies, teams, and people.">
 	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
 	<meta name="author" content="Holden Hardcastle">
@@ -31,7 +31,7 @@
     		});
   		}
 	});</script>
-
+   
 	<link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
 	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
@@ -45,9 +45,7 @@
     			<div class="row">
         			<h1>Holden Hardcastle (1.61803.3.6)</h1>
         			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-					<!-- p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. Collaborated with authors, editors, and artists to push creative boundries. Collaborated with co-workers and peers by generously sharing ideas, resouces, and information. Whether it's bringing people together through an application, or developing a dynamic brand to impact the world, collaborating with inspired teams and people yields insperational results.</p-->
-					<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
-
+                   	<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
       			</div>
  			</div>
 		</div>
@@ -67,7 +65,7 @@
     			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Letterhead and&nbsp;Branding</h3>
+          				<h3>AEE Letterhead<br> and Branding</h3>
           				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
           				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
         			</div>
@@ -86,7 +84,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Website and Process&nbsp;Redesign</h3>
+          				<h3>AEE Website and<br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
          				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would able to make timely content updates.</p> 
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
@@ -107,9 +105,9 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Advanced Energy Economy&nbsp;Reports</h3>
+          				<h3>Advanced Energy<br> Economy Reports</h3>
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
-          				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers, the subject of much debate among the various teams, communicate the subject of the complex reports in a single image.</p> 
+          				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p> 
           				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
           				<p>The California Advanced Energy Emplyment Survey report won a 2015 American Graphic Design Award.</p>
         			</div>
@@ -128,7 +126,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Ohio's Electricity Future&nbsp;Report</h3>
+          				<h3>Ohio's Electricity<br> Future Report</h3>
           				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidlines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
           				<p> A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
           				<p>The report on the state of Ohio's Electricity Future won a 2015 American Graphic Design Award.</p>
@@ -148,7 +146,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE and AEE Institue&nbsp;Infographics</h3>
+          				<h3>AEE and AEE<br> Institue Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
           				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
@@ -193,7 +191,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Hyperbole Search Results&nbsp;Redesign</h3>
+          				<h3>Hyperbole Search<br> Results Redesign</h3>
           				<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product line and increase earnings without compromising their primary vision.</p>
 						<p>Focusing on the goal of increasing revenue, advertising and promotion became a more prominent part of the search results. The site was redesigned to give more emphasis to exclusive advertising.</p>
 						<p>The responsive and grid based mock ups work within the established style and brand guidelines to call out the promotions and ads. Using typographic and visual hierarchy, the search results remain the primary focus.</p>
@@ -293,8 +291,7 @@
                     	<p>
                         	<h3>About H2</h3>
                  
-							Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resouces, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I belive that inspired teams yield inspirational results.
-      						<h3>Education</h3>
+Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      						<h3>Education</h3>
       						<dl class="h4">Griffith University</dl>
                             	<dt>Master of Arts</dt>
                                 <dd>Media Production with Honours</dd>
@@ -304,8 +301,8 @@
 	      					<h3>Knowledge</h3>
     	  					<ul>
                             	<li>Adobe Creative Suite</li>
-                                <li>Front-end web development - HTML, CSS and JavaScript</li>
-                                <li>Print production process</li>
+                                <li>Front-end web development - HTML5, CSS3, and JavaScript</li>
+                                <li>Print and Video production</li>
                           	</ul>
                             <h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
                             <ul>
@@ -318,6 +315,7 @@
                                 <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
                                 <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
                                 <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
+                                
                                 <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
@@ -328,6 +326,9 @@
                                 <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
                                 <!-- li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li-->
                                 <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+                                
+                                <!-- Resumes Additional Portfolios -->
+                                <!--li><a href="https://hired.com/profile.holden-hardcastle" target="_blank"><span class="social social-rss"></span>hired</a></li-->
                                 
                                 <!-- other websites -->
                                 <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
@@ -387,10 +388,10 @@ I am currently on level 4</a></li-->
                                 Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</dd>
       							<dt class="h4">Chronicle Books</dt>
       							<dd>(2010 - 2013)<br>
-      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications, for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</dd>
+      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</dd>
       							<dt class="h4">TRX - Fitness Anywhere</dt>
       							<dd>(2007 – 2010)<br>
-      							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages and large scale campaigns with the assistance of other designers and marketing managers.</dd>
+      							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages, and large scale campaigns with the assistance of other designers and marketing managers.</dd>
       							<dt class="h4">REO Company</dt>
       							<dd>(2002 – 2005)<br>
       							Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
@@ -399,7 +400,7 @@ I am currently on level 4</a></li-->
       							Created logos, websites, video, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and start-ups.</dd>
       							<dt class="h4">CBS MarketWatch</dt>
                          		<dd>(1999 - 2001)<br>
-                                Collaborated with news, and marketing teams to create online and printed materials.</dd>
+                                Collaborated with news and marketing teams to create online and printed materials.</dd>
                            	</dl>
       					</p>
     				</div>
