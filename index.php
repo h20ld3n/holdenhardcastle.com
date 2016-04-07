@@ -328,7 +328,9 @@ Throughout my professional career I have collaborated with teams at Apple, Amazo
                                 <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
                                 
                                 <!-- Resumes Additional Portfolios -->
+                                <li><a href="https://angel.co/holden-hardcastle" target="_blank"><span class="social social-rss"></span>angel.co</a></li>
                                 <!--li><a href="https://hired.com/profile.holden-hardcastle" target="_blank"><span class="social social-rss"></span>hired</a></li-->
+                                
                                 
                                 <!-- other websites -->
                                 <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
