@@ -110,7 +110,7 @@
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
           				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p> 
           				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
-          				<p>The California Advanced Energy Emplyment Survey report won a 2015 American Graphic Design Award.</p>
+          				<p>The California Advanced Energy Employment Survey report won a 2015 American Graphic Design Award.</p>
         			</div>
       			</div>
     		</div>
@@ -128,7 +128,7 @@
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Ohio's Electricity<br> Future Report</h3>
-          				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidlines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
+          				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidelines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
           				<p> A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
           				<p>The report on the state of Ohio's Electricity Future won a 2015 American Graphic Design Award.</p>
         			</div>
@@ -313,6 +313,7 @@ Throughout my professional career I have collaborated with teams at Apple, Amazo
                                 <!-- li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li -->
                                 <!-- li><a href="https://dribbble.com/h20ld3n" target="_blank"><span class="social social-dribbble"></span>dribbble</a></li -->
                                 <!-- li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li -->
+                                <!-- li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li -->
                                 <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
                                 <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
                                 <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
