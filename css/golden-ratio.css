@@ -93,6 +93,12 @@ img {
     background-size: auto 100%;
 }
 
+#griffith-red {
+    background-image: url('../images/dd0022.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
 #odu-blue {
     background-image: url('../images/0f3768.png');
     background-repeat: repeat-x;
@@ -123,7 +129,7 @@ section h2 {
 }
 
 container h3 {
-	margin-bottom:14.562em;
+	margin-bottom:14.562em;	
 }
 
 /* arrow indication https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
