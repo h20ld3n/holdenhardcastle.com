@@ -51,6 +51,12 @@ img {
 	margin-bottom: 3px;
 }
 
+#bleu-blue {
+    background-image: url('../images/042e61.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
 #aee-blue {
     background-image: url('../images/477eca.png');
     background-repeat: repeat-x;
