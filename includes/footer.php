@@ -18,7 +18,7 @@
                                 <li>Front-end web development - HTML5, CSS3, and JavaScript</li>
                                 <li>Print and Video production</li>
                           	</ul>
-                            <h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
+                            <h3>Contact<!--, Downloads--> <i>and</i> Other&nbsp;Sites</h3>
                             <ul>
                             	<li><a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a></li>
                                 <!-- li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li -->
@@ -98,8 +98,7 @@
       						<dl>
                             	<dt class="h4">Bleu Marketing Solutions</dt>
                                 <dd>(2016)<br>
-                                Oversaw the work of designers, illustrators and artists to produce campaign assets. Determined the overall style and tone for projects and articulated vision to other artists to deliver client presentations and final products. 
-                                </dd>
+                                Oversaw and determined the overall style and tone for client based projects. Responsible for communicating a clear vision to designers, illustrators, and other artists to deliver client presentations and final products.</dd>
                             	<dt class="h4">Advanced Energy Economy</dt>
       							<dd>(2013 - 2016)<br>
                                	Responsible for developing guidelines and directing creative work, including print collateral, websites, email campaigns, and related tasks. Work with and play an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>

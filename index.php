@@ -9,6 +9,7 @@
 	<meta name="author" content="Holden Hardcastle">
 	<meta http-equiv="Cache-Control" content="max-age=200" />
     <meta name="pinterest" content="nopin" />
+    <meta name="theme-color" content="#ffffff">
 	<title>Holden Hardcastle</title>
 	<!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
@@ -31,16 +32,17 @@
     		});
   		}
 	});</script-->
+    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
 	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
-	<link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
+    <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="/manifest.json">
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-	<meta name="theme-color" content="#ffffff">
+	
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
@@ -48,12 +50,9 @@
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container-fluid">
     			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
-                    <div class="col-md-6 col-md-offset-3" id="description">
-        				<h1>Holden Hardcastle (1.61803.3.6)</h1>
-        				<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-                   		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
-      				</div>
+        			<h1>Holden Hardcastle (1.61803.3.6)</h1>
+        			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
+                   	<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
                 </div>
  			</div>
 		</div>
@@ -73,7 +72,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Dell EMC and the Hybrid Cloud</h3>
+          				<h3>Dell EMC <i>and the</i> Hybrid Cloud</h3>
 						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
             			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
@@ -96,7 +95,7 @@
     			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Letterhead<br> and Branding</h3>
+          				<h3>AEE Letterhead<br> <i>and</i> Branding</h3>
           				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
           				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
         			</div>
@@ -115,7 +114,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Website and<br> Process Redesign</h3>
+          				<h3>AEE Website <i>and</i><br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
          				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would able to make timely content updates.</p> 
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
@@ -177,7 +176,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE and AEE<br> Institue Infographics</h3>
+          				<h3>AEE <i>and</i> AEE<br> Institute Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
           				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
@@ -222,7 +221,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Hyperbole Search<br> Results Redesign</h3>
+          				<h3>Hyperbole Search Results</h3>
           				<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product line and increase earnings without compromising their primary vision.</p>
 						<p>Focusing on the goal of increasing revenue, advertising and promotion became a more prominent part of the search results. The site was redesigned to give more emphasis to exclusive advertising.</p>
 						<p>The responsive and grid based mock ups work within the established style and brand guidelines to call out the promotions and ads. Using typographic and visual hierarchy, the search results remain the primary focus.</p>
@@ -264,7 +263,7 @@
       			<div class="row">
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>The Ultimate Metallica</h3>
+          				<h3><i>the</i> Ultimate Metallica</h3>
           				<p>Working with outside vendors the Chronicle eBooks team established base styles and CSS. Thousands of InDesign files were sent for conversion. Based on guidelines and title-by-title specs, initial book conversions were delivered back to the group. The device agnostic content would be fine-tuned by embedding fonts, altering images, and adding other design elements.</p>
           				<p>High profile titles, authors, subject matter, and content required careful management and setting of expectations. The titles were revisited to discuss the original intentions of the authors and content.</p>
         			</div>
@@ -283,7 +282,7 @@
       			<div class="row">
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>The History Of Surfing</h3>
+          				<h3><i>the</i> History Of Surfing</h3>
 						<p>The working relationships and open communication established with Amazon, Apple, and other on-line retailers allowed us to work with their internal development teams to create content for emerging technologies.</p>
             			<p>Working and collaborating with outside vendors, the Chronicle eBooks team was able to deliver device agnostic eBooks that surprised and delighted new and larger audiences.</p>
             		</div>
@@ -326,7 +325,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Website, Application, and Experience Design</h3>
+          				<h3>Website, Application, <i>and</i> Experience Design</h3>
 						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
             			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
@@ -377,7 +376,6 @@
     		</div>
   		</article>
 	</section>
-	
     <?php include 'includes/footer.php';?>
 </main>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
