@@ -48,11 +48,13 @@
 	<h1 style="display:none;">Holden Hardcastle</h1>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
-			<div class="container-fluid">
+			<div class="container">
     			<div class="row">
-        			<h1>Holden Hardcastle (1.61803.3.6)</h1>
-        			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-                   	<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
+					<div class="col-md-6 col-md-offset-3">
+        				<h1>Holden Hardcastle</h1>
+        				<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
+                   		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
+  					</div>
                 </div>
  			</div>
 		</div>
@@ -304,7 +306,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Brocade Logo Concepts For Loud Dog" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Brocade World Wide Sales Laedership Logo Concepts</h3>
+          				<h3>Brocade World Wide Sales Leadership Logo Concepts</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut elit commodo, consectetur dolor ut, aliquam justo. Curabitur at nunc lacus. Nulla elementum lorem in diam lacinia tempus. Suspendisse bibendum orci ut leo mattis, id tincidunt odio eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris a justo sapien. Fusce lorem felis, pretium eu tellus eu, consectetur condimentum augue. Proin eu mollis tellus. Nunc et velit justo. Donec eget arcu commodo, ullamcorper sem eget, faucibus elit. Nullam sit amet venenatis nulla. Mauris egestas ultrices libero, eu laoreet nunc.</p>
         			</div>
       			</div>

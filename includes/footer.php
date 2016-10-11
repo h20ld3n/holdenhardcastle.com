@@ -125,11 +125,12 @@
     				</div>
   				</div>
 			</div>
-			<!--div style="text-align:center"> &copy;
-        	<?php 
-  			$fromYear = 1977; 
-  			$thisYear = (int)date('Y'); 
-  			echo $fromYear . (($fromYear != $thisYear) ? '-' . $thisYear : '');?>
-        	Holden Hardcastle </div>
-    		</div-->
+				<div style="text-align:center"><h6><small> &copy;
+        			<?php 
+  					$fromYear = 1977; 
+  					$thisYear = (int)date('Y'); 
+  					echo $fromYear . (($fromYear != $thisYear) ? '-' . $thisYear : '');?>
+        			Holden Hardcastle v.1.61803.3.6</small></h6>
+            	</div>
+    		</div>
 	</footer>
