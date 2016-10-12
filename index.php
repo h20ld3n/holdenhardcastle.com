@@ -45,6 +45,7 @@
 	
 </head>
 <body>
+
 	<h1 style="display:none;">Holden Hardcastle</h1>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
@@ -292,27 +293,6 @@
     		</div>
   		</article>
 	</section>
-    <section>
-  		<h2>Loud Dog | Brocade</h2>
-  		<article>
-    		<div class="jumbotron" id="loud-dog-red">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="images/brocade-concepts.png" class="img-responsive">
-                   	</div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Brocade Logo Concepts For Loud Dog" class="img-responsive">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Brocade World Wide Sales Leadership Logo Concepts</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut elit commodo, consectetur dolor ut, aliquam justo. Curabitur at nunc lacus. Nulla elementum lorem in diam lacinia tempus. Suspendisse bibendum orci ut leo mattis, id tincidunt odio eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris a justo sapien. Fusce lorem felis, pretium eu tellus eu, consectetur condimentum augue. Proin eu mollis tellus. Nunc et velit justo. Donec eget arcu commodo, ullamcorper sem eget, faucibus elit. Nullam sit amet venenatis nulla. Mauris egestas ultrices libero, eu laoreet nunc.</p>
-        			</div>
-      			</div>
-    		</div>
-  		</article>
-	</section>
 	<section>
   		<h2>TRX | Fitness Anywhere</h2>
   		<article>
@@ -331,48 +311,6 @@
 						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
             			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
-        			</div>
-      			</div>
-    		</div>
-  		</article>
-	</section>
-    <section>
-  		<h2>Griffith University | Queensland College of Art</h2>
-  		<article>
-    		<div class="jumbotron" id="griffith-red">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="images/hurry-kiki-hurry.png" class="img-responsive">
-                   	</div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Hurry Kiki Hurry</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut elit commodo, consectetur dolor ut, aliquam justo. Curabitur at nunc lacus. Nulla elementum lorem in diam lacinia tempus. Suspendisse bibendum orci ut leo mattis, id tincidunt odio eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris a justo sapien. Fusce lorem felis, pretium eu tellus eu, consectetur condimentum augue. Proin eu mollis tellus. Nunc et velit justo. Donec eget arcu commodo, ullamcorper sem eget, faucibus elit. Nullam sit amet venenatis nulla. Mauris egestas ultrices libero, eu laoreet nunc.</p>
-        			</div>
-      			</div>
-    		</div>
-  		</article>
-	</section>
-    <section>
-  		<h2>Four Eleven Productions</h2>
-  		<article>
-    		<div class="jumbotron" id="websites-04">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="images/websites-2004.png" class="img-responsive">
-                   	</div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Websites</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut elit commodo, consectetur dolor ut, aliquam justo. Curabitur at nunc lacus. Nulla elementum lorem in diam lacinia tempus. Suspendisse bibendum orci ut leo mattis, id tincidunt odio eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris a justo sapien. Fusce lorem felis, pretium eu tellus eu, consectetur condimentum augue. Proin eu mollis tellus. Nunc et velit justo. Donec eget arcu commodo, ullamcorper sem eget, faucibus elit. Nullam sit amet venenatis nulla. Mauris egestas ultrices libero, eu laoreet nunc.</p>
         			</div>
       			</div>
     		</div>
