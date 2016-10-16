@@ -76,8 +76,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Dell EMC and the Hybrid Cloud</h3>
 						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
-                        <p>The Hybrid Cloud enables a digital transformation that reduces IT costs.</p>
-        			</div>
+                        <p>Taking cues from white paper content, stories were created that tied to metrics appealing to CFO and reinvesting savings back into companies.</p>
       			</div>
     		</div>
   		</article>

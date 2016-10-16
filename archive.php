@@ -45,7 +45,6 @@
 	
 </head>
 <body>
-
 	<h1 style="display:none;">Holden Hardcastle</h1>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
