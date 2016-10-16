@@ -9,8 +9,9 @@
 	<meta name="author" content="Holden Hardcastle">
 	<meta http-equiv="Cache-Control" content="max-age=200" />
     <meta name="pinterest" content="nopin" />
+    <meta name="theme-color" content="#ffffff">
 	<title>Holden Hardcastle</title>
-	<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
+	<!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 	// path to mobify.js
 	"//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
@@ -30,32 +31,56 @@
       		capture.renderCapturedDoc();
     		});
   		}
-	});</script>
+	});</script-->
+    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
 	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
-	<link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
+    <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="/manifest.json">
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-	<meta name="theme-color" content="#ffffff">
+	
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
-			<div class="container-fluid">
+			<div class="container">
     			<div class="row">
-        			<h1>Holden Hardcastle (1.61803.3.6)</h1>
-        			<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-                   	<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
-      			</div>
+					<div class="col-md-6 col-md-offset-3">
+        				<h1>Holden Hardcastle</h1>
+        				<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
+                   		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
+  					</div>
+                </div>
  			</div>
 		</div>
 	</header>
 	<main>
+    <section>
+  		<h2>Bleu Marketing Solutions Inc.</h2>
+  		<article>
+    		<div class="jumbotron" id="bleu-blue">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="images/bleu-dell-emc-hybrid-cloud.png" class="img-responsive">
+                   	</div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="images/chevron-up.png"  alt="Website and appliction experience for TRX" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Dell EMC and the Hybrid Cloud</h3>
+						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
+                        <p>Taking cues from white paper content, stories were created that tied to metrics appealing to CFO and reinvesting savings back into companies.</p>
+      			</div>
+    		</div>
+  		</article>
+	</section>
 	<section>
 		<h2>Advanced Energy Economy</h2>
 		<article>
@@ -151,7 +176,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE and AEE<br> Institue Infographics</h3>
+          				<h3>AEE <i>and</i> AEE<br> Institute Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
           				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
@@ -196,7 +221,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Hyperbole Search<br> Results Redesign</h3>
+          				<h3>Hyperbole Search Results</h3>
           				<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product line and increase earnings without compromising their primary vision.</p>
 						<p>Focusing on the goal of increasing revenue, advertising and promotion became a more prominent part of the search results. The site was redesigned to give more emphasis to exclusive advertising.</p>
 						<p>The responsive and grid based mock ups work within the established style and brand guidelines to call out the promotions and ads. Using typographic and visual hierarchy, the search results remain the primary focus.</p>
@@ -238,7 +263,7 @@
       			<div class="row">
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>The Ultimate Metallica</h3>
+          				<h3><i>the</i> Ultimate Metallica</h3>
           				<p>Working with outside vendors the Chronicle eBooks team established base styles and CSS. Thousands of InDesign files were sent for conversion. Based on guidelines and title-by-title specs, initial book conversions were delivered back to the group. The device agnostic content would be fine-tuned by embedding fonts, altering images, and adding other design elements.</p>
           				<p>High profile titles, authors, subject matter, and content required careful management and setting of expectations. The titles were revisited to discuss the original intentions of the authors and content.</p>
         			</div>
@@ -257,31 +282,10 @@
       			<div class="row">
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>The History Of Surfing</h3>
+          				<h3><i>the</i> History Of Surfing</h3>
 						<p>The working relationships and open communication established with Amazon, Apple, and other on-line retailers allowed us to work with their internal development teams to create content for emerging technologies.</p>
             			<p>Working and collaborating with outside vendors, the Chronicle eBooks team was able to deliver device agnostic eBooks that surprised and delighted new and larger audiences.</p>
             		</div>
-      			</div>
-    		</div>
-  		</article>
-	</section>
-    <section>
-  		<h2>Loud Dog | Brocade</h2>
-  		<article>
-    		<div class="jumbotron" id="loud-dog-red">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="images/brocade-concepts.png" class="img-responsive">
-                   	</div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Brocade Logo Concepts For Loud Dog" class="img-responsive">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Brocade Logo Concepts</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut elit commodo, consectetur dolor ut, aliquam justo. Curabitur at nunc lacus. Nulla elementum lorem in diam lacinia tempus. Suspendisse bibendum orci ut leo mattis, id tincidunt odio eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris a justo sapien. Fusce lorem felis, pretium eu tellus eu, consectetur condimentum augue. Proin eu mollis tellus. Nunc et velit justo. Donec eget arcu commodo, ullamcorper sem eget, faucibus elit. Nullam sit amet venenatis nulla. Mauris egestas ultrices libero, eu laoreet nunc.</p>
-        			</div>
       			</div>
     		</div>
   		</article>
@@ -300,7 +304,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Website, Application, and Experience Design</h3>
+          				<h3>Website, Application, <i>and</i> Experience Design</h3>
 						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
             			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
@@ -309,161 +313,7 @@
     		</div>
   		</article>
 	</section>
-    <section>
-  		<h2>Griffith University | Queensland College of Art</h2>
-  		<article>
-    		<div class="jumbotron" id="griffith-red">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="images/hurry-kiki-hurry.png" class="img-responsive">
-                   	</div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Hurry Kiki Hurry</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut elit commodo, consectetur dolor ut, aliquam justo. Curabitur at nunc lacus. Nulla elementum lorem in diam lacinia tempus. Suspendisse bibendum orci ut leo mattis, id tincidunt odio eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris a justo sapien. Fusce lorem felis, pretium eu tellus eu, consectetur condimentum augue. Proin eu mollis tellus. Nunc et velit justo. Donec eget arcu commodo, ullamcorper sem eget, faucibus elit. Nullam sit amet venenatis nulla. Mauris egestas ultrices libero, eu laoreet nunc.</p>
-        			</div>
-      			</div>
-    		</div>
-  		</article>
-	</section>
-	<footer>
-		<div class="jumbotron">
-			<div class="container-fluid">
-  				<div class="row text-muted">
-    				<div class="col-md-3">
-                    	<p>
-                        	<h3>About H2</h3>
-                 			Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      						<h3>Education</h3>
-      						<dl class="h4">Griffith University</dl>
-                            	<dt>Master of Arts</dt>
-                                <dd>Media Production with Honours</dd>
-	      					<dl class="h4">Old Dominion University</dl>
-    	  						<dt>Bachelor of Fine Arts</dt>
-                                <dd>Graphic Design Cum Laude</dd>
-	      					<h3>Knowledge</h3>
-    	  					<ul>
-                            	<li>Adobe Creative Suite</li>
-                                <li>Front-end web development - HTML5, CSS3, and JavaScript</li>
-                                <li>Print and Video production</li>
-                          	</ul>
-                            <h3>Contact<!--, Downloads--> &amp; Other Sites</h3>
-                            <ul>
-                            	<li><a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a></li>
-                                <!-- li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li -->
-                                <!-- li><a href="https://www.behance.net/h20ld3n" target="_blank"><span class="social social-behance"></span>behance</a></li -->
-                                <!-- li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li -->
-                                <!-- li><a href="https://dribbble.com/h20ld3n" target="_blank"><span class="social social-dribbble"></span>dribbble</a></li -->
-                                <!-- li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li -->
-                                <!-- li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li -->
-                                <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
-                                <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
-                                <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
-                                
-                                <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
-                                <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
-                                <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
-                                 <!-- li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li -->
-                                <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
-                                <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
-                                <!-- li><a href="http://www.shocase.com/go/user/rg50gm8kijioS1kys6udx99kii" target="_blank"><span class="social social-rss"></span>showcase</a></li -->
-                                <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
-                                <!-- li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li-->
-                                <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
-                                
-                                <!-- Resumes Additional Portfolios -->
-                                <!--li><a href="https://angel.co/holden-hardcastle" target="_blank"><span class="social social-rss"></span>angel.co</a></li-->
-                                <!--li><a href="https://hired.com/profile.holden-hardcastle" target="_blank"><span class="social social-rss"></span>hired</a></li-->
-                                
-                                
-                                <!-- other websites -->
-                                <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
-                                a game where you help Froggy and friends by writing CSS code!
-								I am currently on level 4</a></li-->                             
-                            </ul>
-                        </p>
-    				</div>
-    				<div class="col-md-3">
-                    	<p>
-      						<h3>Awards</h3>
-      						<ul>
-                            	<li class="h4">American Graphic Design Awards&nbsp;2015</li>
-      							<ul>
-                            		<li>Advanced Energy Now 2015 Market Report</li>
-                                	<li>California Advanced Energy Employment Future</li>
-                                	<li>Ohio's Electricity Future</li>
-                                	<li>North Carolina: Clean Energy Works!</li>
-                                	<li>Advanced Energy Leads California Jobs Growth</li>
-                            	</ul>
-	      						<li class="h4">PubWest Book Design Awards 2012</li>
-     	 						<ul>
-                            		<li>Enhanced e-Book, Silver Award</li>
-      								<li>Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to Survive</li>
-                            	</ul>
-	      						<li class="h4">41st Annual Bookbuilders West Book Show 2012 - Certificate of Excellence</li>
-    							<ul>
-                            		<li>Worst-Case Scenario Ultimate Adventure: Everest</li>
-                            	</ul>
-	      						<li class="h4">Publishing Innovation Awards 2012 - Quality, Excellence, Design (QED)</li>
-								<ul>
-                            		<li>Count, Dagmar!</li>
-      								<li>Top Pot Hand-Forged Doughnuts</li>
-                            	</ul>
-      							<li class="h4">The 48 Hour Film Project 2009</li>
-                            	<ul>
-                            		<li>Best Acting Ensemble</li>
-								</ul>
-      							<li class="h4">Griffith Film School 2006</li>
-      							<ul>
-                            		<li>Award for Individual Excellence</li>
-                                	<li>Highly Commended Editing</li>
-                           		</ul>
-                            </ul>
-                     	</p>
-    				</div>
-    				<div class="col-md-6">
-      					<p>
-                        	<h3>Experience</h3>
-      						<dl>
-                            	<dt class="h4">Bleu Marketing</dt>
-                                <dd>(2016 - Present)</dd>
-                            	<dt class="h4">Advanced Energy Economy</dt>
-      							<dd>(2013 - 2016)<br>
-                               	Responsible for developing guidelines and directing creative work, including print collateral, websites, email campaigns, and related tasks. Work with and play an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
-      							<dt class="h4">Gap Inc. (freelance)</dt>
-      							<dd>(2013)<br>
-                                Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</dd>
-      							<dt class="h4">Chronicle Books</dt>
-      							<dd>(2010 - 2013)<br>
-      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</dd>
-      							<dt class="h4">TRX - Fitness Anywhere</dt>
-      							<dd>(2007 – 2010)<br>
-      							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages, and large scale campaigns with the assistance of other designers and marketing managers.</dd>
-      							<dt class="h4">REO Company</dt>
-      							<dd>(2002 – 2005)<br>
-      							Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
-                                <dt class="h4">Four Eleven Productions (freelance)</dt>
-      							<dd>(2001 – 2005)<br>
-      							Created logos, websites, video, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and start-ups.</dd>
-      							<dt class="h4">CBS MarketWatch</dt>
-                         		<dd>(1999 - 2001)<br>
-                                Collaborated with news and marketing teams to create online and printed materials.</dd>
-                           	</dl>
-      					</p>
-    				</div>
-  				</div>
-			</div>
-			<!--div style="text-align:center"> &copy;
-        	<?php 
-  			$fromYear = 1977; 
-  			$thisYear = (int)date('Y'); 
-  			echo $fromYear . (($fromYear != $thisYear) ? '-' . $thisYear : '');?>
-        	Holden Hardcastle </div>
-    		</div-->
-	</footer>
+    <?php include 'includes/footer.php';?>
 </main>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
