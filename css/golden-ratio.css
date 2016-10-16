@@ -13,6 +13,11 @@ body {
 	hyphens: none;
 }
 
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
 .jumbotron {
 	padding-top: 1.6180em;
     padding-bottom: 1.6180em;

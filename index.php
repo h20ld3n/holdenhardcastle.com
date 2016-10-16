@@ -45,7 +45,6 @@
 	
 </head>
 <body>
-
 	<h1 style="display:none;">Holden Hardcastle</h1>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
@@ -73,12 +72,11 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
+                	<img src="images/chevron-up.png"  alt="Website and appliction experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Dell EMC <i>and the</i> Hybrid Cloud</h3>
-						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
-            			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
-            			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
+          				<h3>Dell EMC and the Hybrid Cloud</h3>
+						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
+                        <p>The Hybrid Cloud enables a digital transformation that reduces IT costs.</p>
         			</div>
       			</div>
     		</div>
@@ -98,7 +96,7 @@
     			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Letterhead<br> <i>and</i> Branding</h3>
+          				<h3>AEE Letterhead<br> and Branding</h3>
           				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
           				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
         			</div>
@@ -117,7 +115,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Website <i>and</i><br> Process Redesign</h3>
+          				<h3>AEE Website and<br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
          				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would able to make timely content updates.</p> 
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
