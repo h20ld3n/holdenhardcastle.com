@@ -18,30 +18,20 @@
                                 <li>Front-end web development - HTML5, CSS3, and JavaScript</li>
                                 <li>Print and Video production</li>
                           	</ul>
-                            <h3>Contact<!--, Downloads--> <i>and</i> Other&nbsp;Sites</h3>
+                            <h3>Contact, social media, and misc. sites</h3>
                             <ul>
-                            	<li><a href="mailto:h0ld3n@gmail.com"><span class="social social-e-mail"></span>h0ld3n@gmail.com</a></li>
-                                <!-- li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about me</a></li -->
-                                <!-- li><a href="https://www.behance.net/h20ld3n" target="_blank"><span class="social social-behance"></span>behance</a></li -->
+                            	<li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>holden@holdenhardcastle.com</a></li>
                                 <!-- li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li -->
-                                <!-- li><a href="https://dribbble.com/h20ld3n" target="_blank"><span class="social social-dribbble"></span>dribbble</a></li -->
-                                <!-- li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li -->
-                                <!-- li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li -->
-                                <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
                                 <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
                                 <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
-                                
-                                <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
-                                 <!-- li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li -->
-                                <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
+                                <!-- li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li -->
+                                
                                 <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
                                 <!-- li><a href="http://www.shocase.com/go/user/rg50gm8kijioS1kys6udx99kii" target="_blank"><span class="social social-rss"></span>showcase</a></li -->
-                                <li><a href="https://www.tumblr.com/blog/h0ld3n" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
-                                <!-- li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li-->
-                                <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
                                 
+                                <!-- li><a href="http://tevko.github.io/practice/" target="_blank"><span class="social social-rss"></span>tevko - Practice your skills by getting random suggestions or creative inspiration!</a></li-->
                                 <!-- Resumes Additional Portfolios -->
                                 <!--li><a href="https://angel.co/holden-hardcastle" target="_blank"><span class="social social-rss"></span>angel.co</a></li-->
                                 <!--li><a href="https://hired.com/profile.holden-hardcastle" target="_blank"><span class="social social-rss"></span>hired</a></li-->
@@ -50,7 +40,18 @@
                                 <!-- other websites -->
                                 <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
                                 a game where you help Froggy and friends by writing CSS code!
-								I am currently on level 4</a></li-->                             
+								I am currently on level 4</a></li-->    
+                                <li>---</li>
+                                <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about.me</a></li>
+                                <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>
+                                <li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li>
+                                <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li>
+                                <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
+                                <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
+                                <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
+                                <li><a href="http://h0ld3n.tumblr.com/" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
+                                <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+                                                         
                             </ul>
                         </p>
     				</div>
@@ -98,7 +99,7 @@
       						<dl>
                             	<dt class="h4">Bleu Marketing Solutions</dt>
                                 <dd>(2016)<br>
-                                Oversaw and determined the overall style and tone for client based projects. Responsible for communicating a clear vision to designers, illustrators, and other artists to deliver client presentations and final products.</dd>
+                                Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
                             	<dt class="h4">Advanced Energy Economy</dt>
       							<dd>(2013 - 2016)<br>
                                	Responsible for developing guidelines and directing creative work, including print collateral, websites, email campaigns, and related tasks. Work with and play an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>

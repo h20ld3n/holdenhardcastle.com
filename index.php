@@ -11,7 +11,7 @@
     <meta name="pinterest" content="nopin" />
     <meta name="theme-color" content="#ffffff">
 	<title>Holden Hardcastle</title>
-	<!--script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
+	<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 	// path to mobify.js
 	"//cdn.mobify.com/mobifyjs/build/mobify-2.0.16.min.js",
@@ -31,7 +31,7 @@
       		capture.renderCapturedDoc();
     		});
   		}
-	});</script-->
+	});</script>
     <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
@@ -62,7 +62,7 @@
 	<main>
     <section>
   		<h2>Bleu Marketing Solutions Inc.</h2>
-  		<article>
+  		<article id="dell-emc-hybrid-cloud">
     		<div class="jumbotron" id="bleu-blue">
       			<div class="container-fluid">
         			<div class="row">
@@ -72,11 +72,12 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and appliction experience for TRX" class="img-responsive">
+                	<img src="images/chevron-up.png"  alt="Bleu Marketing Solutions" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Dell EMC and the Hybrid Cloud</h3>
 						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
-                        <p>Taking cues from white paper content, stories were created that tied to metrics appealing to CFO and reinvesting savings back into companies.</p>
+                   	    <p>Identified audience, messaging, stories, and stats, to develop a cohesive campaign that adhered to brand guidelines. Digital content and collateral was designed to highlight metrics that influence CFO decision making.</p>
+                   	</div>
       			</div>
     		</div>
   		</article>
@@ -116,9 +117,9 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Website and<br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
-         				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would able to make timely content updates.</p> 
+         				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p> 
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
-          				<p>By building templates on a flexible and responsive Bootstrap foundation, we made content updates more efficient and streamlined the look and feel of the site.</p>       
+          				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>       
         			</div>
       			</div>
     		</div>
@@ -176,7 +177,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE <i>and</i> AEE<br> Institute Infographics</h3>
+          				<h3>AEE and AEE<br> Institute Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
           				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
@@ -263,7 +264,7 @@
       			<div class="row">
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3><i>the</i> Ultimate Metallica</h3>
+          				<h3>The Ultimate Metallica</h3>
           				<p>Working with outside vendors the Chronicle eBooks team established base styles and CSS. Thousands of InDesign files were sent for conversion. Based on guidelines and title-by-title specs, initial book conversions were delivered back to the group. The device agnostic content would be fine-tuned by embedding fonts, altering images, and adding other design elements.</p>
           				<p>High profile titles, authors, subject matter, and content required careful management and setting of expectations. The titles were revisited to discuss the original intentions of the authors and content.</p>
         			</div>
@@ -282,7 +283,7 @@
       			<div class="row">
             		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3><i>the</i> History Of Surfing</h3>
+          				<h3>The History Of Surfing</h3>
 						<p>The working relationships and open communication established with Amazon, Apple, and other on-line retailers allowed us to work with their internal development teams to create content for emerging technologies.</p>
             			<p>Working and collaborating with outside vendors, the Chronicle eBooks team was able to deliver device agnostic eBooks that surprised and delighted new and larger audiences.</p>
             		</div>
@@ -304,7 +305,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Website, Application, <i>and</i> Experience Design</h3>
+          				<h3>Website, Application, and Experience Design</h3>
 						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
             			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>

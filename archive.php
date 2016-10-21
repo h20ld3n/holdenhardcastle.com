@@ -75,7 +75,7 @@
                 	<img src="images/chevron-up.png"  alt="E-mergency! ebook" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>E-mergency!</h3>
-          				<p>It’s an E-mergency! The letter E took a tumble and the only way to get her back on her foot is for people to stop using her. But who can take her place? The other letters have to make a decision ASAP. Z is too sleepy and Y asks way too many questions. Thankfully, O rolls in to try and save the day. Now E can rost up and got bottor . . . as long as ovorybody follows the rulos. Chock-full of verbal and visual puns, this zany book is sure to tickle both the brain and the funny bone.</p>
+          				<p>Collaborated with outside vendors to storyboard, animate, and develop an interactive fixed layout ebook. In E-Mergency! letter E took a tumble and the only way to get her back on her foot is for people to stop using her. But who can take her place? The other letters have to make a decision ASAP. Z is too sleepy and Y asks way too many questions. Thankfully, O rolls in to try and save the day. Now E can rost up and got bottor . . . as long as ovorybody follows the rulos. Chock-full of verbal and visual puns, this zany book is sure to tickle both the brain and the funny bone.</p>
         				<h6><small>(src. <a href="http://www.chroniclebooks.com/titles/e-mergency.html" target="_blank">Chronicle Books</a>)</small></h6>
                     </div>
       			</div>
