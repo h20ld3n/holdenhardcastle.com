@@ -26,7 +26,7 @@
                                 <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
-                                <!-- li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li -->
+                                <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li>
                                 
                                 <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
                                 <!-- li><a href="http://www.shocase.com/go/user/rg50gm8kijioS1kys6udx99kii" target="_blank"><span class="social social-rss"></span>showcase</a></li -->
@@ -42,12 +42,15 @@
                                 a game where you help Froggy and friends by writing CSS code!
 								I am currently on level 4</a></li-->    
                                 <li>---</li>
+                                http://en.gravatar.com/h20ld3n
                                 <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about.me</a></li>
                                 <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>
                                 <li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li>
                                 <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li>
                                 <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
+                                <li><a href="http://en.gravatar.com/h20ld3n" target="_blank"><span class="social social-rss"></span>gravatar</a></li -->
                                 <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
+                                <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li>
                                 <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
                                 <li><a href="http://h0ld3n.tumblr.com/" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
                                 <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
