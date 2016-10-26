@@ -12,21 +12,21 @@
 	      					<dl class="h4">Old Dominion University</dl>
     	  						<dt>Bachelor of Fine Arts</dt>
                                 <dd>Graphic Design Cum Laude</dd>
+                                <dd><a href="././archive/old-dominion-university.php">Portfolio</a></dd>
 	      					<h3>Knowledge</h3>
     	  					<ul>
                             	<li>Adobe Creative Suite</li>
                                 <li>Front-end web development - HTML5, CSS3, and JavaScript</li>
                                 <li>Print and Video production</li>
                           	</ul>
-                            <h3>Contact, social media, and misc. sites</h3>
+                            <h3>Contact and Other Sites</h3>
                             <ul>
                             	<li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>holden@holdenhardcastle.com</a></li>
-                                <!-- li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li -->
+                                
                                 <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
                                 <!-- li><a href="https://plus.google.com/101862561720087132645/posts/p/pub" target="_blank"><span class="social social-google-plus"></span>google+</a></li -->
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->
-                                <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li>
                                 
                                 <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
                                 <!-- li><a href="http://www.shocase.com/go/user/rg50gm8kijioS1kys6udx99kii" target="_blank"><span class="social social-rss"></span>showcase</a></li -->
@@ -41,10 +41,10 @@
                                 <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
                                 a game where you help Froggy and friends by writing CSS code!
 								I am currently on level 4</a></li-->    
-                                <li>---</li>
-                                http://en.gravatar.com/h20ld3n
+                                <li>Connect</li>
                                 <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about.me</a></li>
                                 <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>
+                                <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
                                 <li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li>
                                 <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li>
                                 <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
