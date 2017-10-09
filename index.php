@@ -32,11 +32,13 @@
     		});
   		}
 	});</script>
+
+   
     <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
 	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
-    <link rel="stylesheet" type="text/css" href="css/golden-ratio.css">
+    <link rel="stylesheet" type="text/css" href="css/golden-ratio-01.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
@@ -60,6 +62,35 @@
 		</div>
 	</header>
 	<main>
+   <section>
+  		<h2>Union Bank </h2>
+  		<article id="dell-emc-hybrid-cloud">
+    		<div class="jumbotron" id="ub-cool-grey11">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="images/wlt-ub-double-up.png" class="img-responsive">
+                   	</div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="images/chevron-up.png"  alt="Union Bank" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Double Up Campaign</h3>
+						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
+                  	   
+                  	    <dl>
+ 	 					<dt>A title of the graph</dt>
+  						<dd>
+        				<canvas id="canvas" height="450" width="600"></canvas>
+  						</dd>
+						</dl>
+                  	    
+                   	    <p>Identified audience, messaging, stories, and stats, to develop a cohesive campaign that adhered to brand guidelines. Digital content and collateral was designed to highlight metrics that influence CFO decision making.</p>
+                   	</div>
+      			</div>
+    		</div>
+  		</article>
     <section>
   		<h2>Bleu Marketing Solutions Inc.</h2>
   		<article id="dell-emc-hybrid-cloud">
@@ -319,6 +350,9 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.js"></script>
+<script  src="js/chart.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- script src="js/bootstrap.min.js"></script--> 
 </body>
