@@ -32,8 +32,6 @@
     		});
   		}
 	});</script>
-
-   
     <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/glyphicons-social.css">
@@ -54,7 +52,7 @@
     			<div class="row">
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Holden Hardcastle</h1>
-        				<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
+        				<h2>Aspiring to create beautiful, exciting, and positive experiences by working with inspired and driven people.</h2>
                    		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
   					</div>
                 </div>
@@ -80,7 +78,6 @@
 						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
                   	   
                   	    <dl>
- 	 					<dt>A title of the graph</dt>
   						<dd>
         				<canvas id="canvas" height="450" width="600"></canvas>
   						</dd>
