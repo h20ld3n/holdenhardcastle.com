@@ -9,25 +9,25 @@ var randomScalingFactor = function() {
         labels: ["wk 1", "wek 2", "wk 3", "wk 4", "wk 5"],
         datasets: [{
             label: 'Prev. Month',
-            backgroundColor: "rgba(151,187,205,0.5)",
+            backgroundColor: "rgba(90,90,90,0.5)",
             data: [53, 56, 64, 62, 85],
             borderColor: 'white',
             borderWidth: 2
         }, {
             label: 'Campaign Month',
-            backgroundColor: "rgba(151,187,205,0.5)",
+            backgroundColor: "rgba(130,130,130,0.5)",
             data: [96, 193, 253, 229, 378],
             borderColor: 'white',
             borderWidth: 2
         }, {
             type: 'line',
             label: 'Dataset 3',
-            backgroundColor: "rgba(220,220,220,0.5)",
+            backgroundColor: "rgba(130,130,130,0.5)",
             data: [70, 120, 170, 230, 322],
 		}, {
            	type: 'line',
             label: 'Dataset 4',
-            backgroundColor: "rgba(220,220,220,0.5)",
+            backgroundColor: "rgba(200,200,200,0.5)",
             data: [137, 342, 595, 824, 1202],
         }, ]
     };

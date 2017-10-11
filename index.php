@@ -74,8 +74,8 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Double Up Campaign</h3>
-						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
+          				<h3>Union Bank Double Up Campaign</h3>
+						<p>MUFG and Union Bank aim to be a foundation of strength committed to meeting the needs of their customers, serving society and fostering shared and substainable growth for a better world.</p>
                   	   
                   	    <dl>
   						<dd>
