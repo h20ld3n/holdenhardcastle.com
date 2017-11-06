@@ -88,6 +88,7 @@
       			</div>
     		</div>
   		</article>
+	</section>
     <section>
   		<h2>Bleu Marketing Solutions Inc.</h2>
   		<article id="dell-emc-hybrid-cloud">

@@ -41,7 +41,7 @@
                                 <!-- li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-rss"></span>http://flexboxfroggy.com/
                                 a game where you help Froggy and friends by writing CSS code!
 								I am currently on level 4</a></li-->    
-                                <li>Connect</li>
+                                <!--li>Connect</li-->
                                 <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about.me</a></li>
                                 <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>
                                 <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
