@@ -102,7 +102,7 @@
       						<dl>
                             	<dt class="h4">Williams Lea Tag</dt>
                                 <dd>(2016 - Present)<br>
-                                Responsible for building and maintaining MUFG and Union Bank brands. Work with Senior Creative Director, the art director will be responsible for content/design creation for campaigns that supports overall MUFG and Union Bank Enterprise Marketing goals.</dd>
+                                Create and present strategy concepts to clients and senior executives. Directing designers, production artist, copywriters and other specialist to create effective advertising materials for multi-channel (print, packaging, digital, and TV) campaigns. </dd>
                                	<dt class="h4">Bleu Marketing Solutions</dt>
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>

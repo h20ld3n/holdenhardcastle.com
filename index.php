@@ -4,13 +4,23 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<meta name="description" content="Aspiring to create beautiful, exciting, and fun experiences by collaborating and working with inspired and driven companies, teams, and people.">
+	<meta name="description" content="Aspiring to create beautiful, exciting, and positive experiences by collaborating and working with inspired and driven companies, teams, and people.">
 	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
 	<meta name="author" content="Holden Hardcastle">
 	<meta http-equiv="Cache-Control" content="max-age=200" />
     <meta name="pinterest" content="nopin" />
     <meta name="theme-color" content="#ffffff">
 	<title>Holden Hardcastle</title>
+    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/glyphicons-social.css">
+	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
+    <link rel="stylesheet" type="text/css" href="css/golden-ratio-01.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 	<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 	// path to mobify.js
@@ -32,17 +42,6 @@
     		});
   		}
 	});</script>
-    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/glyphicons-social.css">
-	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
-    <link rel="stylesheet" type="text/css" href="css/golden-ratio-01.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-	
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
@@ -75,15 +74,14 @@
                 	<img src="images/chevron-up.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Union Bank Double Up Campaign</h3>
-						<p>MUFG and Union Bank aim to be a foundation of strength committed to meeting the needs of their customers, serving society and fostering shared and substainable growth for a better world.</p>
-                  	   
+						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+						<p>Williams Lea Tag was asked to design a "top of wallet" credit card and a campaign that announced the card benefits and aligned with the banks mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
                   	    <dl>
   						<dd>
         				<canvas id="canvas" height="450" width="600"></canvas>
   						</dd>
 						</dl>
-                  	    
-                   	    <p>Identified audience, messaging, stories, and stats, to develop a cohesive campaign that adhered to brand guidelines. Digital content and collateral was designed to highlight metrics that influence CFO decision making.</p>
+						<p>By identifying the audience and messaging a cohesive campaign was developed that adhered to brand guidelines, and resulted in a 400% increase in applications and approvals.</p>
                    	</div>
       			</div>
     		</div>
