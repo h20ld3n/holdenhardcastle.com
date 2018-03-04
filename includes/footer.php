@@ -4,20 +4,19 @@
   				<div class="row text-muted">
     				<div class="col-md-3">
                     	<p>
-                        	<h3>About H2</h3>
+                        	<h3>About</h3>
                  			Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      						<h3>Education</h3>
       						<dl class="h4">Griffith University</dl>
                             	<dt>Master of Arts</dt>
                                 <dd>Media Production with Honours</dd>
 	      					<dl class="h4">Old Dominion University</dl>
     	  						<dt>Bachelor of Fine Arts</dt>
-                                <dd>Graphic Design Cum Laude</dd>
-                                <dd><a href="././archive/old-dominion-university.php">Portfolio</a></dd>
+                                <dd>Graphic Design, Cum Laude</dd>
 	      					<h3>Knowledge</h3>
     	  					<ul>
-                            	<li>Adobe Creative Suite</li>
-                                <li>Front-end web development - HTML5, CSS3, and JavaScript</li>
-                                <li>Print and Video production</li>
+                            	<li>Adobe Creative Suite &amp; Microsoft Office</li>
+                                <li>Front-end web development (HTML5, CSS3, and JavaScript)</li>
+                                <li>Print and video production</li>
                           	</ul>
                             <h3>Contact and Other Sites</h3>
                             <ul>
@@ -99,32 +98,32 @@
                         	<h3>Experience</h3>
       						<dl>
                             	<dt class="h4">Williams Lea Tag</dt>
-                                <dd>(2016 - Present)<br>
-                                Create and present strategy concepts to clients and senior executives. Directing designers, production artist, copywriters and other specialist to create effective advertising materials for multi-channel (print, packaging, digital, and TV) campaigns. </dd>
+                                <dd>(2016-Present)<br>
+                                Create and present strategy concepts to clients and senior executives. Direct designers, production artist, copywriters, and other specialists to create effective advertising materials for multi-channel (print, packaging, digital, and TV) campaigns.</dd>
                                	<dt class="h4">Bleu Marketing Solutions</dt>
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
                             	<dt class="h4">Advanced Energy Economy</dt>
-      							<dd>(2013 - 2016)<br>
-                               	Responsible for developing guidelines and directing creative work, including print collateral, websites, email campaigns, and related tasks. Work with and play an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
+      							<dd>(2013-2016)<br>
+                               	Developed design guidelines and directed creative work, including printed collateral, websites, and email campaigns. Played an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
       							<dt class="h4">Gap Inc. (freelance)</dt>
       							<dd>(2013)<br>
-                                Lead by positive and involved creative leadership, collaborated with copywriters, designers and marketing teams to create and support on-line and email campaigns.</dd>
+                                Directed by positive and involved creative leadership, collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
       							<dt class="h4">Chronicle Books</dt>
-      							<dd>(2010 - 2013)<br>
-      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and mobile applications for various tablets and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to various on-line retailers.</dd>
+      							<dd>(2010-2013)<br>
+      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and applications, for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers. </dd>
       							<dt class="h4">TRX - Fitness Anywhere</dt>
-      							<dd>(2007 – 2010)<br>
-      							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, various landing pages, and large scale campaigns with the assistance of other designers and marketing managers.</dd>
+      							<dd>(2007–2010)<br>
+      							Worked with various teams to develop best practices for content creation and distribution, user interaction and experience for online communities, landing pages, and large scale campaigns with the assistance of other designers and marketing managers.</dd>
       							<dt class="h4">REO Company</dt>
-      							<dd>(2002 – 2005)<br>
-      							Worked with photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
+      							<dd>(2002–2005)<br>
+      							Led photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
                                 <dt class="h4">Four Eleven Productions (freelance)</dt>
-      							<dd>(2001 – 2005)<br>
-      							Created logos, websites, video, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and start-ups.</dd>
+      							<dd>(2001–2005)<br>
+      							Created logos, websites, videos, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and startups.</dd>
       							<dt class="h4">CBS MarketWatch</dt>
-                         		<dd>(1999 - 2001)<br>
-                                Collaborated with news and marketing teams to create online and printed materials.</dd>
+                         		<dd>(1999-2001)<br>
+                                Collaborated with news, and marketing teams to create online and printed materials.</dd>
                            	</dl>
       					</p>
     				</div>
