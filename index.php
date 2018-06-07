@@ -12,7 +12,9 @@
     <meta name="theme-color" content="#ffffff">
 	<title>Holden Hardcastle</title>
     <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="css/glyphicons-social.css">
 	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
     <link rel="stylesheet" type="text/css" href="css/golden-ratio-01.css">
@@ -45,14 +47,39 @@
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
+	<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><img src="favicon-16x16.png"></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>contact me</a></li>
+		  <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
+		<li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+	
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
-			<div class="container">
+			<div class="container-fluid">
     			<div class="row">
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Holden Hardcastle</h1>
         				<h2>Aspiring to create beautiful, exciting, and positive experiences by working with inspired and driven people.</h2>
                    		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
+						<!--p>If you're interested in working together or want to grab a cup of coffee, send me an <u><a href="mailto:holden@holdenhardcastle.com">email</a></u>.</p-->
   					</div>
                 </div>
  			</div>
@@ -65,7 +92,7 @@
     		<div class="jumbotron" id="ub-cool-grey11">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="images/wlt-ub-double-up.png" class="img-responsive">
+                    	<img src="images/wlt-ub-small-business-promo.png" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -73,7 +100,7 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Union Bank Double Up Campaign</h3>
+          				<h3>Union Bank<br> Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
 						<p>Williams Lea Tag was asked to design a "top of wallet" credit card and a campaign that announced the card benefits and aligned with the banks mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
                   	    <dl>
@@ -81,7 +108,7 @@
         				<canvas id="canvas" height="450" width="600"></canvas>
   						</dd>
 						</dl>
-						<p>By identifying the audience and messaging a cohesive campaign was developed that adhered to brand guidelines, and resulted in a 400% increase in applications and approvals.</p>
+						<p>By identifying the audience and messaging a cohesive campaign was developed that adhered to brand guidelines and resulted in a 400% increase in applications and approvals.</p>
                    	</div>
       			</div>
     		</div>
@@ -350,6 +377,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.js"></script>
 <script  src="js/chart.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<!-- script src="js/bootstrap.min.js"></script--> 
 </body>
 </html>
