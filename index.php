@@ -47,30 +47,7 @@
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
-	<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#"><img src="favicon-16x16.png"></a>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>contact me</a></li>
-		  <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
-		<li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
-	
+	<?php include 'includes/navbar.php';?>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container-fluid">
@@ -102,13 +79,13 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Union Bank<br> Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
-						<p>Williams Lea Tag was asked to design a "top of wallet" credit card and a campaign that announced the card benefits and aligned with the banks mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
+						<p>Williams Lea Tag was tasked with creating a "top of wallet" credit card and a campaign that announced the card benefits and aligned with the banks mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
                   	    <dl>
   						<dd>
         				<canvas id="canvas" height="450" width="600"></canvas>
   						</dd>
 						</dl>
-						<p>By identifying the audience and messaging a cohesive campaign was developed that adhered to brand guidelines and resulted in a 400% increase in applications and approvals.</p>
+						<p>By identifying the audience and messaging, cohesive campaigns were developed that adhered to brand guidelines and often resulted in a 400% increase in response rates.</p>
                    	</div>
       			</div>
     		</div>

@@ -121,7 +121,7 @@
                                 <dt class="h4">Four Eleven Productions (freelance)</dt>
       							<dd>(2001–2005)<br>
       							Created logos, websites, videos, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and startups.</dd>
-      							<dt class="h4">CBS MarketWatch</dt>
+      							<dt class="h4"><a href="../archive/cbs-marketwatch.php">CBS MarketWatch</a></dt>
                          		<dd>(1999-2001)<br>
                                 Collaborated with news, and marketing teams to create online and printed materials.</dd>
                            	</dl>

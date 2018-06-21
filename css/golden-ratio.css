@@ -142,6 +142,12 @@ img {
     background-size: auto 61.97233%;
 }
 
+#mktw-black {
+    background-image: url('../images/000000.png');
+    background-repeat: repeat-x;
+    background-size: auto 61.97233%;
+}
+
 #odu-blue {
     background-image: url('../images/0f3768.png');
     background-repeat: repeat-x;

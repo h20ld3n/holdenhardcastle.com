@@ -146,7 +146,6 @@ container h3 {
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 /* Small devices (tablets, 768px and up) */
-
 @media (min-width: 768px) {
   br {
     display: none; } }
