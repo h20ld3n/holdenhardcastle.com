@@ -51,11 +51,6 @@
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container">
     			<div class="row">
-					<div class="col-md-6 col-md-offset-3">
-        				<h1>CBS MarketWatch</h1>
-        				<h2>(1999-2001)</h2>
-                   		<p>This was my first job after college. </p>
-  					</div>
                 </div>
  			</div>
 		</div>
@@ -76,7 +71,7 @@
                 	<img src="../images/chevron-up.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>CBS MarketWatch</h3>
-          				<p>The multi-channel campaign increased small business engagement with the Union Bank and sign-ups for the Elavon credit card point of sales systems.</p>
+          				<p>Collaborated with news, and marketing teams to create online and printed materials.</p>
                     </div>
       			</div>
     		</div>

@@ -55,8 +55,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Holden Hardcastle</h1>
         				<h2>Aspiring to create beautiful, exciting, and positive experiences by working with inspired and driven people.</h2>
-                   		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
-						<!--p>If you're interested in working together or want to grab a cup of coffee, send me an <u><a href="mailto:holden@holdenhardcastle.com">email</a></u>.</p-->
+                   		<p>Throughout my professional career, I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
   					</div>
                 </div>
  			</div>
@@ -77,9 +76,9 @@
       			<div class="row">
                 	<img src="images/chevron-up.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Union Bank<br> Campaigns</h3>
+          				<h3>Union Bank Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
-						<p>Williams Lea Tag was tasked with creating a "top of wallet" credit card and a campaign that announced the card benefits and aligned with the banks mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
+						<p>Williams Lea Tag was tasked with creating "top of wallet" campaigns that aligned with the bank's mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
                   	    <dl>
   						<dd>
         				<canvas id="canvas" height="450" width="600"></canvas>
@@ -337,7 +336,7 @@
                 	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Website, Application, and Experience Design</h3>
-						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout out with.</p>
+						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout with.</p>
             			<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
             			<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
         			</div>
