@@ -45,15 +45,17 @@
 	
 </head>
 <body>
-	<h1 style="display:none;">Holden Hardcastle</h1>
+	<h1 style="display:none;">Old Dominion University</h1>
+	<?php include '../includes/navbar.php';?>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container">
     			<div class="row">
 					<div class="col-md-6 col-md-offset-3">
-        				<h1>Holden Hardcastle</h1>
-        				<h2>Aspiring to create beautiful, exciting, and fun experiences by working with inspired and driven people.</h2>
-                   		<p>Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.</p>
+        				<h1>Old Dominion University (ODU)</h1>
+        				<h2>I probably had a pretty standard college expierence. It was better than high-school, that's the way I like to remember it.</h2>
+                   		<p>I spent three years swimming, going to parties, and trying to figure out what I wanted to do. I was as serious as college students can be about design and what was next my Senior Year, after spending a summer in California.</p>
+						<p>I don't really know anyone that I went to college with.</p>
   					</div>
                 </div>
  			</div>
@@ -72,7 +74,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/chevron-up.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Theatre of the&nbsp;Absurd</h3>
           				<p>While working on "the absurd posters", discussions about the college student audience, lifestyle, and sexuality where rampant. The cyclical, repetitive, and often meaningless activities of the undergrad defined the monkey spanking the monkey image. The monkey image was the first of a series of illustrations created specifically for the posters. Later ideas of scale, cliche, and dated icons surfaced and defined the look and feel of the posters.</p>
@@ -84,13 +86,31 @@
     		<div class="jumbotron" id="odu-blue">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/odu-barnett.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="Virginia Air And Space Posters" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Business Cards &amp; Letterhead</h3>
+        				<p>My professor wasn't crazy about this treatment for the children's optometrist letterhead, envelopes and business cards. It wasn't until later that I was ok with that.</p></div>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="odu-blue">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/odu-va-air-space.png" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/chevron-up.png"  alt="Virginia Air And Space Posters" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="Virginia Air And Space Posters" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Virginia Air &amp; Space Posters</h3>
         				<p>Attik Designs heavily influenced the work created when the Virginia Air and Space Center asked me to create some cool educational posters, that kids would want to pin up in their rooms. The posters had to live next to supermodels, cars, magazine pullouts and rock stars. The strong imagery of the Space Shuttle launch and jets flying straight on center were enhanced with illustrations and interpretations of aerodynamic patterns.</p></div>
