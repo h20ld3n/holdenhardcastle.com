@@ -67,6 +67,26 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/180912-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Creativity and innovation need to be business priorities</h3>
+          				<p>Daily execution—you need to practice everyday and be on the hook for it.</p>
+						<p>Employees within an organization need to believe in what the company is trying to accomplish, and that they can help achieve that goal.</p>
+						<p>Marketing is an investment rather than an expense. (Whatever is being spent on marketing you need to double or triple it)</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/180911-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
@@ -94,7 +114,7 @@
                 	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>14.15&#41;</h3>
-          				<p>The synergy between three photographs seen together reveals more about the feeling of a time and a place then they ever could seperately. Scale and cropping intensify the expression</p>
+          				<p>The synergy between three photographs seen together reveals more about the feeling of a time and a place then they ever could seperately. Scale and cropping intensify the expression.</p>
                     </div>
       			</div>
     		</div>
