@@ -76,7 +76,7 @@
                 	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Spend more on data</h3>
-						<p>We need develope a fanatical devotion to customers and understanding of them, by studying multiple sources of data, advanced analytics, ethnographic research, and behaviorial analysis.</p>
+						<p>We need develop a fanatical devotion to customers and understanding of them, by studying multiple sources of data, advanced analytics, ethnographic research, and behaviorial analysis.</p>
                     </div>
       			</div>
     		</div>
