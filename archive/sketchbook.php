@@ -63,6 +63,24 @@
 	<main>
 	<section>
   		<h2>Wake Me When September Ends</h2>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/180918-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Understanding customers</h3>
+						<p>The three keys to understanding customers are orientation, viewing them and your product through multiple lens' to generate insight, and develop different value propositions based on insight.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
   		<article>
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
