@@ -74,7 +74,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Union Bank" class="img-responsive">
+                	<img src="images/transparency.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Union Bank Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
@@ -102,7 +102,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Bleu Marketing Solutions" class="img-responsive">
+                	<img src="images/transparency.png"  alt="Bleu Marketing Solutions" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Dell EMC and the Hybrid Cloud</h3>
 						<p>Dell EMC provides the foundation to help companies  modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
@@ -124,7 +124,7 @@
     		</div>
     		<div class="container">
     			<div class="row">
-                	<img src="images/chevron-up.png" class="img-responsive">
+                	<img src="images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Letterhead<br> and Branding</h3>
           				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
@@ -143,7 +143,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png" class="img-responsive">
+                	<img src="images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Website and<br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
@@ -164,7 +164,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png" class="img-responsive">
+                	<img src="images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Advanced Energy<br> Economy Reports</h3>
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
@@ -185,7 +185,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png" class="img-responsive">
+                	<img src="images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Ohio's Electricity<br> Future Report</h3>
           				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidelines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
@@ -205,7 +205,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png" class="img-responsive">
+                	<img src="images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE and AEE<br> Institute Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
@@ -228,7 +228,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-            		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+            		<img src="images/transparency.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Online Email Campaigns</h3>
           				<p>Old Navy is in constant communication with their customers. The marketing and creative teams foster relationships through email and online campaigns. The campaigns are centered around new products, promotions, and sales.</p>
@@ -250,7 +250,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+                	<img src="images/transparency.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Hyperbole Search Results</h3>
           				<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product line and increase earnings without compromising their primary vision.</p>
@@ -273,7 +273,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+                	<img src="images/transparency.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TrueBlood Cookbook</h3>
           				<p>In order to surprise and delight their readers, Chronicle Books began converting it's entire catalogue into digital or eBooks in 2010.</p>
@@ -292,7 +292,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-            		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+            		<img src="images/transparency.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The Ultimate Metallica</h3>
           				<p>Working with outside vendors the Chronicle eBooks team established base styles and CSS. Thousands of InDesign files were sent for conversion. Based on guidelines and title-by-title specs, initial book conversions were delivered back to the group. The device agnostic content would be fine-tuned by embedding fonts, altering images, and adding other design elements.</p>
@@ -311,7 +311,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-            		<img src="images/chevron-up.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+            		<img src="images/transparency.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The History Of Surfing</h3>
 						<p>The working relationships and open communication established with Amazon, Apple, and other on-line retailers allowed us to work with their internal development teams to create content for emerging technologies.</p>
@@ -333,7 +333,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/chevron-up.png"  alt="Website and application experience for TRX" class="img-responsive">
+                	<img src="images/transparency.png"  alt="Website and application experience for TRX" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Website, Application, and Experience Design</h3>
 						<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout with.</p>
