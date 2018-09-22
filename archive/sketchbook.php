@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/180921-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>You have to seek creativity out</h3>
+						<p>Calculated risk taking based on clear and regularly tracked goals should be encouraged.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/180920-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
@@ -76,7 +94,7 @@
                 	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Effective creativity</h3>
-						<p>The kind that drives growth and business performance comes from working the problem and having the disciplined management practices that foster sparks of insight </p>
+						<p>The kind that drives growth and business performance comes from working the problem and having the disciplined management practices that foster sparks of insight.</p>
                     </div>
       			</div>
     		</div>
