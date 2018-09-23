@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/180923-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Adapt or die</h3>
+						<p>The launch of your product is only the beginning. Teams need to be given the authority to apply and act on data gathered. Spend more on data.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/180921-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
