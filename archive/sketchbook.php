@@ -67,6 +67,54 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/180925-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The grid</h3>
+						<p>Designers often face the problem of organizing diverse visual elements on a plane. It is necessary to determine a rational structural system toward this end. One standard system used by designers is the grid. The grid provides an objective armature for organizing a visual composition.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/180924-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Our goal is communication</h3>
+						<p>Designers are involved with creating visual compositions from diverse visual elements. In most cases practical situations the designer is involved with both the semantic and (what the element means) and the formal (what the element looks like ) apsect of the visual elements within a composition</p>
+						<p style="font-size: .5em">Colorplate 180.<br>
+							Piet Mondrian, Tableau II<br>
+							1921-1925, Oil on canvas<br>
+							Collection: Max Bill, Zurich</p>
+						<p style="font-size: .5em">Colorplate 181.<br>
+							Piet Mondrian, Composition with Red, Blue, and Yellow<br>
+							1921, Oil on canvas<br>
+							Gemeente Museum, The Hague, The Netherlands</p>
+						<p style="font-size: .5em">Colorplate 182.<br>
+							Piet Mondrian, Composition with Red, Blue, and Yellow<br>
+							1930, Oil on canvas<br>
+							Collection: Mr. and Mrs. Armand P. Bartos, New York</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/180923-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
