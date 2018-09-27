@@ -67,13 +67,32 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/180926-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="dynamic versus static" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Asymmetic composition</h3>
+						<p>Designers oftern need to organize information in situations where there is not a logical opportunity for a symmetrical compisition. Symmetry is a situation where, (as in human physiology) elements are balanced based ona center line. The composition of one side is identical (but reversed) to another. Whiel this a is a good system, all situations do not lend themselves to a symmetrical order. Asymmetry is a balanced ordering of elements where one side of the composition does not mirror the other. An additional advantage of asymmetric compositions is that they have a tendency to be more dynamic that symmetric compositions.</p>
+						<p>Dynamic compositions refers to a situation where the visual elements imply motion. The term dynamic is in contrast to the term staticm as situation where the elements appear ina fixed position.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/180925-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="designing with a grid" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The grid</h3>
 						<p>Designers often face the problem of organizing diverse visual elements on a plane. It is necessary to determine a rational structural system toward this end. One standard system used by designers is the grid. The grid provides an objective armature for organizing a visual composition.</p>
@@ -91,7 +110,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="back to college" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Our goal is communication</h3>
 						<p>Designers are involved with creating visual compositions from diverse visual elements. In most cases practical situations the designer is involved with both the semantic and (what the element means) and the formal (what the element looks like ) apsect of the visual elements within a composition</p>
@@ -121,7 +140,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="this is not the end" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Adapt or die</h3>
 						<p>The launch of your product is only the beginning. Teams need to be given the authority to apply and act on data gathered. Spend more on data.</p>
@@ -139,7 +158,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="creative commitment" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>You have to seek creativity out</h3>
 						<p>Calculated risk taking based on clear and regularly tracked goals should be encouraged.</p>
@@ -157,7 +176,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="a line about performance" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Effective creativity</h3>
 						<p>The kind that drives growth and business performance comes from working the problem and having the disciplined management practices that foster sparks of insight.</p>
@@ -175,7 +194,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="three ways to understand customers" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Understanding customers</h3>
 						<p>The three keys to understanding customers are orientation, viewing them and your product through multiple lens' to generate insight, and develop different value propositions based on insight.</p>
@@ -193,7 +212,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="understanding users and data" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Spend more on data</h3>
 						<p>We need develop a fanatical devotion to customers and understanding of them, by studying multiple sources of data, advanced analytics, ethnographic research, and behaviorial analysis.</p>
@@ -211,7 +230,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="what are your priorities" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Creativity and innovation need to be business priorities</h3>
           				<p>Daily execution—you need to practice being creative everyday and be on the hook for it.</p>
@@ -231,7 +250,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="creativity" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Business practices can drive creativity</h3>
           				<p>Creativity is associated with superior performance, and is at the heart of business innovation, and innovation is the engine of growth.</p>
@@ -249,7 +268,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="The ODU Theatre of the Absurd" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="first sketchbook entry" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>14.15&#41;</h3>
           				<p>The synergy between three photographs seen together reveals more about the feeling of a time and a place then they ever could seperately. Scale and cropping intensify the expression.</p>
