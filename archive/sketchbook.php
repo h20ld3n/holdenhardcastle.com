@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/180927-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="about grid size" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Grid size</h3>
+						<p>A strong reason for using a grid is to provide perceptual organization for an audience. When choosing the of grid units beware of too many or too few. Designers can not communicate effectively above or below the perceptual limits of the audience. Viewers must be able to decipher a grid and sense its coherence to be comfortable. two or three grdis per panel are too few modules. 72 or 124 are too many, as the audience has great difficulty sorting out the organization. The more grid modules and intersections, the more the layout positions exist for the designer. However, small grid units are difficult to construct, impede decision making and are not comfortable to the audience. The goal then is to adjust content to the number of grid units within a zone of perceptual acuity. Challenge the audience visually, but don't completely remove the the clues to the grid.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/180926-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
