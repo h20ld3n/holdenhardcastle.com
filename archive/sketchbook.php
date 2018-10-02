@@ -62,7 +62,30 @@
 	</header>
 	<main>
 	<section>
-  		<h2>Wake Me When September Ends</h2>
+  		<h2>October</h2>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/181001-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="about grid size" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Column length &amp; width</h3>
+						<p>Lines with a length of 10-12 words are the most readable. Shorter lines are also effective. Extremely long lines decrease readability.</p>
+						<p>Decide column length from margin requirements. It should be an exact number of lines. Cap height of the first line will determine the top of the column. Base line of the last line will determine the bottom of the column. Type density (greyness) relates to typeface and degree of linespacing.</p>
+						<p>Experiment with margins to alter the look of grid layouts. margins are arbitrary. Unequal margins offer great design potential as do unusually wide margins. Bleed the grid or butt it to an edge for impact.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+	</section>
+	<section>
+  		<h2>Wake Me Up When September Ends</h2>
 		<article>
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
