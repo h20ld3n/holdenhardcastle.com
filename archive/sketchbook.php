@@ -67,13 +67,33 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181002-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="incline grids" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Inclined girds</h3>
+						<p>Angled grids offer relief from the familiar orientation of information.</p>
+						<p>Inclined grids can push some units off the page that can be disregarded or used to bleed select photos.</p>
+						<p>Keep the angle of inclination consistent. Information reading on an upward tilt is percieved more positively than tilting downward. The inclined grid is more effective for simple posters, flyers, and brochures than longer annual reports, magazines, or books. Inclined layouts have dynamic potential. Spaces tend to be unequal in volume. Incline helps exaggerate asymmetry.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181001-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="about grid size" class="img-responsive">
+                	<img src="../images/transparency.png"  alt="all about columns" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Column length &amp; width</h3>
 						<p>Lines with a length of 10-12 words are the most readable. Shorter lines are also effective. Extremely long lines decrease readability.</p>
