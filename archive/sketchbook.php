@@ -67,6 +67,25 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181004-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="clean lines" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The illustrative grid</h3>
+						<p>Another approach to the use of grids involves grid imagery as non-functional subject matter. The grid becomes an illustrative element rather than a functional skeleton. The grid becomes visible and conveys structure on itself. A stong association with planning, building, technology, architecture, and science is often implied.</p>
+						<p>Postion of the grid is determined through a sense of pictorial space. Structure is incidental. Elements are placed inuitively.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181003-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
@@ -94,7 +113,7 @@
       			<div class="row">
                 	<img src="../images/transparency.png"  alt="incline grids" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Inclined girds</h3>
+          				<h3>Inclined grids</h3>
 						<p>Angled grids offer relief from the familiar orientation of information.</p>
 						<p>Inclined grids can push some units off the page that can be disregarded or used to bleed select photos.</p>
 						<p>Keep the angle of inclination consistent. Information reading on an upward tilt is percieved more positively than tilting downward. The inclined grid is more effective for simple posters, flyers, and brochures than longer annual reports, magazines, or books. Inclined layouts have dynamic potential. Spaces tend to be unequal in volume. Incline helps exaggerate asymmetry.</p>
