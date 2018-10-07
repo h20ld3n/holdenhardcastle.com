@@ -54,7 +54,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Preferential Shape Test</h1>
         				<h2>Interpreting the test results</h2>
-                   		<p><i>Test interpretation hinges on the meaning of the process of change and growth associated with each shape. The meaning attributed to the shapes describe universal aspireations, needs, and fears; each shape symbolizes a specfic inner and outer experience relevant to humankins.</i></p>
+                   		<p><i>Test interpretation hinges on the meaning of the process of change and growth associated with each shape. The meaning attributed to the shapes describe universal aspireations, needs, and fears; each shape symbolizes a specfic inner and outer experience relevant to humankind.</i></p>
   					</div>
                 </div>
  			</div>
