@@ -67,6 +67,28 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181006-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="The Isms of Art" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The preferential shape test</h3>
+						<p>Provides a window on individual experiences and needs, as well as clues to the direction of future growth. It is not intended as an index fo character flaws. The process revealed by the shape preferences are a part of everyone's expierences. The potentials symbolized by each shape are present in everyone, although their expression in any individual is always unique.</p>
+						<p><strong>Instructions for taking the Preferential Shapes Test:</strong></p>
+						<p>Step 1: Draw a circle, square, triangle, cross, and a spiral on a sheet of paper.</p>
+						<p>Step 2: Number the shapes 1 through 5 in order of your preference. Number 1 being the most prefered shape.</p>
+						<p>Step 3: <a href="../archive/preferential-shape-test.php">Interpret your test results and gain understanding of the meaning of each shape and it's position</a>.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181005-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
