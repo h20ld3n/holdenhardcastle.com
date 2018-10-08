@@ -67,6 +67,25 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181008-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="laird hamilton" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The shape of 40+</h3>
+						<p><strong>Get back in the game.</strong> Within every man is the heart of an athlete. Rediscover yours.</p>
+						<p>At some point, many a fortysomething guy has come to the same delusion: His glory days in athletics are behind him. "It's the greatest falsehoo of aging," says Mark Verstegen, president of Athletes' Performance, in Tempe Arizona. "At the age of 40, much of a man's athletic potential has simply been locked down by the sacrifices he has made to climb the ladder of success." The key to turning back the clock is to focus on excercises that build not only strength and power, but also muscular symmetry, coordination, and stability.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181006-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
