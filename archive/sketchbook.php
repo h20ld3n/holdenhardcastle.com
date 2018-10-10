@@ -67,6 +67,25 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181009-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="laird hamilton" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>New Baskerville</h3>
+						<p>John Baskerville (1706-1775) was an accomplished writing master and printer from Birmingham, England. He was the designer of several types, punchcut by John Handy, which are the basis for the fonts that bear the name Baskerville today. The excellent quality of his printing influenced such famous printers as Didot in France and Bodoni in Italy. Though he was known internationally as an innovator of technique and style, his high standards for paper and ink quality made it difficult for him to compete with local commercial printers. However, his fellow Englishmen imitated his types, and in 1768, Isaac Moore punchcut a version of Baskerville's letterforms for the Fry Foundry. Baskerville produced a masterpiece folio Bible for Cambridge University, and today, his types are considered to be fine representations of eighteenth century rationalism and neoclassicism. Legible and eminently dignified, Baskerville makes an excellent text typeface; and its sharp, high-contrast forms make it suitable for elegant advertising pieces as well.</p>
+						<p style="font-size: .5em">(src. <a href="https://www.linotype.com/749/itc-new-baskerville-family.html" target="_blank">Linotype)</a></p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181008-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
