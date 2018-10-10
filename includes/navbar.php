@@ -15,7 +15,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>contact me</a></li>
-		  <li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
+		  <li><a href="../pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
 		<li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
       </ul>
     </div>

@@ -82,7 +82,7 @@
       			</div>
     		</div>
   		</article>
-		<article>
+		<!--article>
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
@@ -103,7 +103,7 @@
                     </div>
       			</div>
     		</div>
-  		</article>
+  		</article-->
 		<article>
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
