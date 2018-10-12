@@ -67,6 +67,25 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181011-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="laird hamilton" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Bodoni</h3>
+						<p>Giambattista Bodoni (1740-1813) was called the King of Printers; he was a prolific type designer, a masterful engraver of punches and the most widely admired printer of his time. His books and typefaces were created during the 45 years he was the director of the fine press and publishing house of the Duke of Parma in Italy. He produced the best of what are known as modern" style types, basing them on the finest writing of his time. Modern types represented the ultimate typographic development of the late eighteenth and early nineteenth centuries. They have characteristics quite different from the types that preceded them; such as extreme vertical stress, fine hairlines contrasted by bold main strokes, and very subtle, almost non-existent bracketing of sharply defined hairline serifs. Bodoni saw this style as beautiful and harmonious-the natural result of writing done with a well-cut pen, and the look was fashionable and admired. Other punchcutters, such as the Didot family (1689-1853) in France, and J. E. Walbaum (1768-1839) in Germany made their own versions of the modern faces. Even though some nineteenth century critics turned up their noses and called such types shattering and chilly, today the Bodoni moderns are seen in much the same light as they were in his own time. When used with care, the Bodoni types are both romantic and elegant, with a presence that adds tasteful sparkle to headlines and advertising.</p>
+						<p style="font-size: .5em">(src. <a href="https://www.linotype.com/170/bodoni-family.html" target="_blank">Linotype)</a></p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181009-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
