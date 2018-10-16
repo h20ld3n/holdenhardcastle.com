@@ -67,6 +67,32 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181015-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="garamond typeface" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Univers</h3>
+						<p>The font family Univers is one of the greatest typographic achievements of the second half of the 20th century. The family has the advantage of having a variety of weights and styles, which, even when combined, give an impression of steadiness and homogeneity. The clear, objective forms of Univers make this a legible font suitable for almost any typographic need. In 1954 the French type foundry Deberny &amp; Peignot wanted to add a linear sans serif type in several weights to the range of the Lumitype fonts. Adrian Frutiger, the foundry's art director, suggested refraining from adapting an existing alphabet. He wanted to instead make a new font that would, above all, be suitable for the typesetting of longer texts—quite an exciting challenge for a sans-serif font at that time. Starting with his old sketches from his student days at the School for the Applied Arts in Zurich, he created the Univers type family. In 1957, the family was released by Deberny &amp; Piegnot, and afterwards, it was produced by Linotype. The Deberny &amp; Peignot type library was acquired in 1972 by Haas, and the Haas'sche Schriftgiesserei (Haas Type Foundry) was folded into the D. Stempel AG/Linotype collection in 1985/1989. Adrian Frutiger continues to do design work with Linotype right up to the present day. In 1997, Frutiger and the design staff at Linotype completed a large joint project of completely re-designing and updating the Univers family. The result: Univers Next - available with 59 weights and four Linotype Univers Typewriter weights. With its sturdy, clean forms Univers can facilitate an expression of cool elegance and rational competence.</p>
+						<p>Univers has the uncanny ability to combine well with fonts of many different styles and origins:</p>
+						<p>Old style fonts such as: Janson Text, Meridien, Sabon, Wilke.</p>
+						<p>Modern-stressed fonts such as: Linotype Centennial, Walbaum.</p>
+						<p>Slab serif fonts such as Egyptienne F, Serifa.</p>
+						<p>Script and brush fonts such as: Brush Script, Mistral, Ruling Script.</p>
+						<p>Blackletter fonts such as: Duc De Berry, Grace, San Marco.</p>
+						<p>Even fun fonts such as F2F OCRAlexczyk, Linotype Red Babe, Linotype Seven."</p>
+						<p style="font-size: .5em">(src. <a href="https://www.linotype.com/1212814/univers-family.html" target="_blank">Linotype)</a></p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181014-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
