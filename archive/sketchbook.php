@@ -67,13 +67,50 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181016-sketchbook.png" class="img-responsive">
+                    	<img src="../images/181018-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="westernization" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The end result</h3>
+						<p>The powerful process of de-Westernization—unpeeling of the Western influence from around the globe—should lead to a happier universe where we have, for the first time in human history, several different civilizations flourishing at the same time, with simultaneous explosions of knowledge and wisdom</p>
+						<p style="font-size: .5em">—Kishore Mahbubani</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/181017-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
                 	<img src="../images/transparency.png"  alt="welcome riley" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Gesture drawings</h3>
+						<p>Draw not what thing looks like, not even what it is, but <i>WHAT IT IS DOING</i>. More like scribbling than printing carefully—more of the meaning than the way the thing looks. In five seconds put something down that indicates everypart of the body in the pose.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/181016-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="Ramblings" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Random thought of a 20 year-old</h3>
 						<p>Sign a waiver before getting a cup of coffee.</p>
