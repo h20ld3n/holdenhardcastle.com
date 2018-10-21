@@ -62,6 +62,32 @@
 	</header>
 	<main>
 	<section>
+  		<h2>Cross</h2>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/181019-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="Wholeness" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The equidistant cross</h3>
+						<p>The equidistant cross, the plus sign, universally symbolizes the process of relationship and integration. This is a coupling, synthesizing, integrating and balancing process. This process carries the need for connection—to a creative project, to a group, to another person, or to oneself. It is the symbol that demonstrates integration and balanced connection.</p>
+						<p>People who favor the cross will place emphasis on the quality not the quantity , of the time shared with others. Experienceing balance will be an essential goal for them. The individuals will often ask for a specific meeting time ; they love collaborative work; and the equate quality of time spent in the company of colleagues and close firends with love and trust.</p>
+						<p>For other who want to support people who are in the cross process, it is important to be responsive to their stated needs, to honor their requests for shared time and activities, to be cooperative, and to express caring. </p>
+						<p><i>Your relationship to your own heroic journey is made more clear by your relationship with the circle.</i></p>
+						<p>The underlying fear associated with the process of relationship is the feat of loss, abondonment, and isolation. When the process of relationship, or needed connection, is taken to an extreme, personal identity can be lost if the individual tries to live life through another person or through a group.</p>
+						
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+	</section>
+	<section>
   		<h2>Circle</h2>
 		<article>
     		<div class="jumbotron" id="sketchbook">
