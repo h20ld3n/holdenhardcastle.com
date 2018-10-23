@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181023-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="the basic elements" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Visual elements</h3>
+						<p>Whenever anything is designed and made, sketched and painted, drawn, scratched, constructed, sculpted, or gestured, the visual substance of the work is composed from a basic list of elements. Visual elements are not to be confused with the materials or the medium, the wood or clay or paint or film. The visual elments are the basic substance of what we see, and they are few in number: the dot, line, shape, direction, tone, color, texture, dimension, scale, movement. Few though they may be, they comprise the raw material of all visual information in selective choices and combinations. The structure of the visual work is the force that determines which visual elements are present and with what emphasis.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181018-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
