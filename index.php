@@ -123,16 +123,14 @@
       			</div>
     		</div>
     		<div class="container">
-    			<div class="row">
+    			<div class="row">					
                 	<img src="images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Letterhead<br> and Branding</h3>
           				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
           				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
+						<p><a href="#"><button type="button" class="btn btn-default" style="margin-top: 1em">Discover more work</button></a></p>
         			</div>
-					<div class="col-md-6 col-md-offset-3">
-						<p><a href="archive/advanced-energy-economy.php"><button type="button" class="btn btn-default">Discover more work</button></a></p>
-					</div>
       			</div>
     		</div>
   		</article>
