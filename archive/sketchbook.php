@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181024-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="the line" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Trompe l'oeil</h3>
+						<p>Using basic visual components as a means for knowledge and understanding of either complete categories of visual media or individual works is an excellent method for exploration of their potential and relized success in expression. Dimension, for instance, exists as a visual element in architecture and sculpture and in both these media is a dominant in relation to other visual elements. The whole science and art of perspective was developed during the Renaissance to suggest the presence of dimension in two dimensional visual work such as painting and drawing. Even the trompe l'oeil aid of perspective, dimension in these visual forms can only be implied, not expressed. But nowhere is dimension more subtly and completely synthesized than in film, still and moving. The lens sees as the eye sees in complete detail, fully reinforced with all of the visual elements. All of which is another way of saying the visual elements are richly present in our natural environment. No such completeness of replication of out visual setting is present in the beginning of visual ideas, the plan, the rough sketch. Previsualization is dominated by the simple, spare, yet highly expressive element of line.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181022-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
