@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181028-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="the dot" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The dot</h3>
+						<p>The dot is the simplest, irreducibly minimum unit of visual communication. In nature, roundness is the most common formulation, the straight or square in the natural state being a rarity. When any liquid material is dropped on a surface, it assumes a rounded form, even if it does not simulate a perfect dot. When we make a mark, whether with color of heavy substance or with a stick, we think of that visual element asa dat that can serve as a reference point or a marker of space. Any point has a strong visual power to attract the eye wherever it exists naturally or is placed by man in response to a purpose.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181025-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
