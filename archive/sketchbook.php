@@ -67,6 +67,25 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181025-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="visual communication" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>A note</h3>
+						<p>It is vital to note that the choice of emphasis of visual elements, the manipulation of those elements toward and intended effect, lies in the hands of the artist and craftsman and designer; they are the visualizer. What they choose to do with them is their art and craft, and the choices are infinite. The simplest visual elements can be used with great complexity of intention; the dot juxtaposed in varying sizes is the integral element of the halftone print and plate (cut), which is the mechanical means of mass reproduction of continuous tone visual material, particularly photographs; at the same tim, the photograph, whose character it is to report the environment in exact detail, can become a simplifying and abstract medium in the hands of a master photographer.  like Aaron Siskind. Deeper understanding of the elemental construction of visual forms offers the visualizer greater freedom and options in composition; those options are essential to the visual communicator.</p>
+						<p>To analyze and understand the total structure of the a visual language, it is help to focus on the individual visual elements, one at a time, so as to better understand their unique qualities. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181024-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
