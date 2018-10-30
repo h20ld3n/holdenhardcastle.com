@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181029-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="mutiple dots" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>More dots</h3>
+						<p>Two dots serve as handy tools for measuring space in environment or in the development of any kind of visual plan. We learn early to utilize the dot as the ideal notation system in conjunction with the ruler and other measurement devices such as the compass. The more complex the measurement necessary in a visual plan the more dates are employed.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181028-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
