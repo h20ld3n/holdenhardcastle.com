@@ -62,6 +62,28 @@
 	</header>
 	<main>
 	<section>
+		<h2>November Rain</h2>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/181102-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="mutiple dots" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Connecting the dots</h3>
+						<p>When seen, dots connect and therefore are capable of leading the eye. In great profusion and juxtaposed, dots create the illusion of tone or color, which, as already noted, is the visual fact on which mechanical means for reproducing and continuous tone is based. The perceptual phenomenon of visual fusion was explored bt Seurat in his Pointillist paintings, which are remarkably varied in color and tone, although he used only four pots of paint—yellow, red, blue, and black—and applied the paint with tiny, pointed brushes. All the Impressionists explored the process of blending, contrasting, and organizing, which took place in the eyes of the viewer. Involving and exciting, the process was in some ways similar to some of the more recent theories of McLuhan concerning visual involvement and participation in the act of seeing as a part of the meaning. But no one probed the possibilities as completely as Seurat, who, in his efforts, seems to have anticipated four-color halftone process by which almost all full-color continuos-tone photographs and drawings are not reproduced in mass printing.</p>
+						<p>The unique ability of a series of dots to lead the eye is intensified the closer the dots are to one another.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+	</section>
+	<section>
   		<h2>October</h2>
 		<article>
     		<div class="jumbotron" id="sketchbook">
