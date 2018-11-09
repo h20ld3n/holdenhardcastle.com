@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181108-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="enormous energy" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The visual arts</h3>
+						<p>A line, because of its nature, has enormous energy. It is never static; it is the restless, probing, visual elements of the sketch. Line, whenever it is employed, is the essential tool of pre-visualization, the means for presenting in palpable form that which does not exist yet, except in the imagination. In this way, it is tremendously useful to the visual process. Its fluid linear quality contributes to the freedom of experimentation. Yet for all its looseness and freedom, line is not vague: it is decisive; it has direction and purpose, it is going somewhere, it is doing some definitive. Thus, line can also be tight and technical, serving as the prime event in diagrammatic plans for mechanical construction and architecture and many other highly measured or scaled visual representations. Whether it is used loosely and experimentally or tightly and measured, line is the indispensable means for making visible what cannot be see, what does not exist except in the imagination. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181104-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
