@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181110-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="Notation systems" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Essential spareness</h3>
+						<p>Line is also a tool for notation systems, writing, for example. Writing, map-making, electric symbols, and music are all examples of symbol systems in which line is the most important element. But in art, line is the essential element of drawing,  which is a notation system that does not stand for something else, symbolically, but does capsulize visual information, boiling it down to a state of reduction where all superfluous information has been stripped away and only the essential remains. This spareness has a highly dramatic effect in drawing or dry points, woodcuts, etching, and lithographs. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181108-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
