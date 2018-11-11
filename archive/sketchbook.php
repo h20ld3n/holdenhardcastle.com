@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181111-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="many different moods" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Various meanings</h3>
+						<p>Line can take many different forms to express many different moods. It can be very loose and undisciplined, as in sketches, to take advantage of it spontaneity of expression. It can be very delicate and undulating or bold and coarse, even in the hands of the same artist. It can be hesitant, indecisive, questioning, when it is merely a visual probe toward design. It can also be as personal as a handwriting in the form of nervous doodles, which are a hallmark of the unconscious activity under pressure thinking or as amusement in boredom. Even in the bloodless, mechanical format of maps, plans for a house, cogs in a machine, line expresses the intention of the maker and artist, and further, personal feelings and emotions, and most important, vision.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181110-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
