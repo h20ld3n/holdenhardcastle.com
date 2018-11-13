@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181112-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="end of the line" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Cracks in the sidewalk</h3>
+						<p>Line rarely exists in nature, but line does appear in the environment: the crack in a sidewalk, telephone wires against the sky, bare branches in winter, a cable bridge. The visual element of line is used mostly to express the juxtaposition of two tones. Line is utilized most to describe that juxtaposition, and in this, it is an artificial device.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181111-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
