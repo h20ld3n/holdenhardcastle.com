@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181114-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="Figure 3.13" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Shape</h3>
+						<p>Line describes shape. In the parlance of the visual arts, line articulates the complexity of shape. There are three basic shapes, the square, circle, and equilateral triangle. Each of the basic shapes has it's own unique character, and characteristics and to each is attache a great deal of meaning, some through association, some thought arbitrary attached meaning, and some though our own psychological and physiological perceptions. The has associated to it dullness, honesty, straightens, and workmanlike meaning; the triangle action, conflict, tension; the circle, endless, warmth, protection.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181112-sketchbook.png" class="img-responsive">
                     </div>
       			</div>

@@ -74,7 +74,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/transparency.png"  alt="Union Bank" class="img-responsive">
+                	<a href="#"><img src="images/swipe-right.png"  alt="Union Bank" class="img-responsive"></a>
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Union Bank Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
@@ -85,6 +85,7 @@
   						</dd>
 						</dl>
 						<p>By identifying the audience and messaging, cohesive campaigns were developed that adhered to brand guidelines and often resulted in a 400% increase in response rates.</p>
+						<p><button type="button" class="btn btn-light">Light</button></p>
                    	</div>
       			</div>
     		</div>
