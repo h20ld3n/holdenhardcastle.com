@@ -65,121 +65,103 @@
   		<h2>Advanced Energy Economy</h2>
   		<article>
     		<div class="jumbotron" id="aee-blue">
-      			<div class="container-fluid">
+    			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-letterhead.png" class="img-responsive">
-                    </div>
+                    	<img src="../images/aee-letterhead.png" alt="Advanced Energy Economy Brand and Style Guide" class="img-responsive">
+                  	</div>
       			</div>
     		</div>
     		<div class="container">
-      			<div class="row">
-                	<img src="../images/transparency.png"  alt="letterhead and branding" class="img-responsive">
+    			<div class="row">
+                	<img src="../images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Letterhead and Branding</h3>
-          				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.
-The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
-                    </div>
+          				<h3>AEE Letterhead<br> and Branding</h3>
+          				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
+          				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
+        			</div>
       			</div>
     		</div>
   		</article>
-		<article>
+  		<article id="aee-website-process">
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-initiatives.png" class="img-responsive">
-                    </div>
+                    	<img src="../images/aee-initiatives.png"  alt="Advanced Energy Economy Responsive Website" class="img-responsive">
+                   	</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="website and process" class="img-responsive">
+                	<img src="../images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Website and Process Redesign</h3>
-          				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.
-The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
-                    </div>
-      			</div>
-    		</div>
-  		</article>
-		<article>
-    		<div class="jumbotron" id="aee-blue">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="../images/aee-initiatives.png" class="img-responsive">
-                    </div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-                	<img src="../images/transparency.png"  alt="website and process" class="img-responsive">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE Website and Process Redesign</h3>
+          				<h3>AEE Website and<br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
-						<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p>
-						<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
-						<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>
-                    </div>
+         				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p> 
+          				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
+          				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>    
+						<p><a class="btn btn-default" href="#" role="button">Link</a></p>
+        			</div>
       			</div>
     		</div>
   		</article>
-		<article>
+  		<article>
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-covers.png" class="img-responsive">
-                    </div>
+                    	<img src="../images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+                   	</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="reports and covers" class="img-responsive">
+                	<img src="../images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Advanced Energy Economy Reports</h3>
+          				<h3>Advanced Energy<br> Economy Reports</h3>
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
-						<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p>
-						<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
-						<p>The California Advanced Energy Employment Survey report won a 2015 American Graphic Design Award.</p>
-                    </div>
+          				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p> 
+          				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
+          				<p>The California Advanced Energy Employment Survey report won a 2015 American Graphic Design Award.</p>
+        			</div>
       			</div>
     		</div>
   		</article>
-		<article>
+  		<article>
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-ohio-electricity-future.png" class="img-responsive">
-                    </div>
+                    	<img src="../images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive">
+                   	</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="ohio advanced energy economy" class="img-responsive">
+                	<img src="../images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Ohio's Electricity Future Report</h3>
+          				<h3>Ohio's Electricity<br> Future Report</h3>
           				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidelines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
-						<p>A logo, font face, and collateral were structured around the established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
-						<p>The report on the state of Ohio's Electricity Future won a 2015 American Graphic Design Award.</p>
-                    </div>
+          				<p> A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
+          				<p>The report on the state of Ohio's Electricity Future won a 2015 American Graphic Design Award.</p>
+        			</div>
       			</div>
     		</div>
   		</article>
-		<article>
+  		<article>
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-infographics.png" class="img-responsive">
-                    </div>
+                    	<img src="../images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive">
+                   	</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="infographics" class="img-responsive">
+                	<img src="../images/transparency.png" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>AEE and AEE Institute Infographics</h3>
+          				<h3>AEE and AEE<br> Institute Infographics</h3>
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
-						<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
-						<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
-                    </div>
+          				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
+          				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
+        			</div>
       			</div>
     		</div>
   		</article>
