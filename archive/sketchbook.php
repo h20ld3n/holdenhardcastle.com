@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181125-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="figure 3.14" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Direction</h3>
+						<p>Every basic shape expresses three basic and meaningful visual directions: the square, the horizontal and vertical; the triangle, diagonal; the circle, the curve. Each of the visual directions has strong associative meaning and is a valuable tool in making visual messages. The horizontal-vertical is man's primary reference in terms of his well-being and maneuverability. Its most basic meaning has to do not only with the human organism's relationship to the environment but also to stability in all visual matters. Not only does man have more ease in balance; so do all things constructed and designed. Diagonal direction has particular significance in direct reference to the idea of stability. It is the opposite formulation, the most unstable directional force and consequently the most provoking visual formulation. Its meaning is threatening and almost literally upsetting. Curved directional forces have meanings associated with encompassment, repetition, and warmth. All directional forces have great importance to compositional intention toward final effect and purpose. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181124-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
