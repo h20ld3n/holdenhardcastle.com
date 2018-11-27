@@ -74,6 +74,7 @@
     		</div>
     		<div class="container">
       			<div class="row">
+					<img src="images/transparency.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Union Bank Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>

@@ -10,7 +10,7 @@
 	<meta http-equiv="Cache-Control" content="max-age=200" />
     <meta name="pinterest" content="nopin" />
     <meta name="theme-color" content="#ffffff">
-	<title>Holden Hardcastle</title>
+	<title>Holden Hardcastle's Sketchbook</title>
     <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
