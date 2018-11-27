@@ -67,6 +67,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181126-sketchbook.png" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+                	<img src="../images/transparency.png"  alt="This is what it is all about" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Tone</h3>
+						<p>The edges that line used to represent in a rough sketch or a detailed, mechanical plan in the environment, for the most part, appear as the juxtaposition of tone, the intensity of darkness or lightness of anything seen. We see because of the relative presence or absence of light, but light is not uniformly shed on the environment either by the sun or moon or by artificial light. If it were, we would be as much in the dark as we are in complete absence of light. Light goes around things, is reflected by shiny surfaces, falls on objects which themselves have relative lightness and darkness. Variations in light or tone are the means by which we optically distinguish the complicated visual information in the environment. In other words, we see what is dark because it abuts or overlaps what is light, and vice-versa.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181125-sketchbook.png" class="img-responsive">
                     </div>
       			</div>
