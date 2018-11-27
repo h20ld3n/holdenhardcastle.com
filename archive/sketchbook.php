@@ -4,13 +4,25 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<meta name="description" content="Aspiring to create beautiful, exciting, and fun experiences by collaborating and working with inspired and driven companies, teams, and people.">
+	<meta name="description" content="Aspiring to create beautiful, exciting, and positive experiences by collaborating and working with inspired and driven companies, teams, and people.">
 	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
 	<meta name="author" content="Holden Hardcastle">
 	<meta http-equiv="Cache-Control" content="max-age=200" />
     <meta name="pinterest" content="nopin" />
     <meta name="theme-color" content="#ffffff">
 	<title>Holden Hardcastle</title>
+    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="css/glyphicons-social.css">
+	<link rel="stylesheet" href="css/glyphicons-filetypes.css">
+    <link rel="stylesheet" type="text/css" href="../css/golden-ratio-01.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 	<script>!function(a,b,c,d,e){function g(a,c,d,e){var f=b.getElementsByTagName("script")[0];a.src=e,a.id=c,a.setAttribute("class",d),f.parentNode.insertBefore(a,f)}a.Mobify={points:[+new Date]};var f=/((; )|#|&|^)mobify=(\d)/.exec(location.hash+"; "+b.cookie);if(f&&f[3]){if(!+f[3])return}else if(!c())return;b.write('<plaintext style="display:none">'),setTimeout(function(){var c=a.Mobify=a.Mobify||{};c.capturing=!0;var f=b.createElement("script"),h="mobify",i=function(){var c=new Date;c.setTime(c.getTime()+3e5),b.cookie="mobify=0; expires="+c.toGMTString()+"; path=/",a.location=a.location.href};f.onload=function(){if(e)if("string"==typeof e){var c=b.createElement("script");c.onerror=i,g(c,"main-executable",h,mainUrl)}else a.Mobify.mainExecutable=e.toString(),e()},f.onerror=i,g(f,"mobify-js",h,d)})}(window,document,function(){a=/webkit|(firefox)[\/\s](\d+)|(opera)[\s\S]*version[\/\s](\d+)|(trident)[\/\s](\d+)/i.exec(navigator.userAgent);return!a||a[1]&&4>+a[2]||a[3]&&11>+a[4]||a[5]&&6>+a[6]?!1:!0},
 
 	// path to mobify.js
@@ -32,17 +44,6 @@
     		});
   		}
 	});</script>
-    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="../bootstrap-3.3.6-dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../css/glyphicons-social.css">
-	<link rel="stylesheet" href="../css/glyphicons-filetypes.css">
-    <link rel="stylesheet" type="text/css" href="../css/golden-ratio.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-	
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
@@ -67,13 +68,13 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181126-sketchbook.png" class="img-responsive">
+                    	<img src="../images/181126-sketchbook.png" alt="what it is all about" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="../images/transparency.png"  alt="This is what it is all about" class="img-responsive">
+					<img src="../images/transparency.png"  alt="what it is all about" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Tone</h3>
 						<p>The edges that line used to represent in a rough sketch or a detailed, mechanical plan in the environment, for the most part, appear as the juxtaposition of tone, the intensity of darkness or lightness of anything seen. We see because of the relative presence or absence of light, but light is not uniformly shed on the environment either by the sun or moon or by artificial light. If it were, we would be as much in the dark as we are in complete absence of light. Light goes around things, is reflected by shiny surfaces, falls on objects which themselves have relative lightness and darkness. Variations in light or tone are the means by which we optically distinguish the complicated visual information in the environment. In other words, we see what is dark because it abuts or overlaps what is light, and vice-versa.</p>

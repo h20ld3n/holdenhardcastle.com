@@ -68,13 +68,12 @@
     		<div class="jumbotron" id="ub-cool-grey11">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="images/wlt-ub-small-business-promo.png" class="img-responsive">
+                    	<img src="images/wlt-ub-small-business-promo.png" alt="Union Bank" class="img-responsive">
                    	</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-                	<img src="images/transparency.png"  alt="Union Bank" class="img-responsive">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Union Bank Campaigns</h3>
 						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
@@ -85,7 +84,6 @@
   						</dd>
 						</dl>
 						<p>By identifying the audience and messaging, cohesive campaigns were developed that adhered to brand guidelines and often resulted in a 400% increase in response rates.</p>
-						<p><a class="btn btn-default" href="#" role="button">Link</a></p>
                    	</div>
       			</div>
     		</div>
@@ -150,8 +148,7 @@
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
          				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p> 
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
-          				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>    
-						<p><a class="btn btn-default" href="#" role="button">Link</a></p>
+          				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>       
         			</div>
       			</div>
     		</div>
