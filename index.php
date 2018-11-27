@@ -38,7 +38,7 @@
 
       		var images = capturedDoc.querySelectorAll("img, picture");
       		Mobify.ResizeImages.resize(images);
-        
+
       		// Render source DOM to document
       		capture.renderCapturedDoc();
     		});
@@ -85,6 +85,7 @@
   						</dd>
 						</dl>
 						<p>By identifying the audience and messaging, cohesive campaigns were developed that adhered to brand guidelines and often resulted in a 400% increase in response rates.</p>
+						<p><button type="button" class="btn btn-light">Light</button></p>
                    	</div>
       			</div>
     		</div>
@@ -147,9 +148,9 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Website and<br> Process Redesign</h3>
           				<p>In order to create a prosperous future, Advanced Energy Economy (AEE) envisions a world that runs on secure, clean, and affordable energy. AEE engages member companies, and recruits partners through education, and encourages participation in energy policy changing initiatives.</p>
-         				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p> 
+         				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p>
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
-          				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>       
+          				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>
         			</div>
       			</div>
     		</div>
@@ -168,7 +169,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Advanced Energy<br> Economy Reports</h3>
           				<p>The educational reports focus on the technical, economic, social, and political issues surrounding advanced energy, and how to improve the energy sector. To engage member companies the reports are available for download, distributed at events, and presented at congressional hearings.</p>
-          				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p> 
+          				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p>
           				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
           				<p>The California Advanced Energy Employment Survey report won a 2015 American Graphic Design Award.</p>
         			</div>
@@ -244,7 +245,7 @@
     		<div class="jumbotron" id="dictionary-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="images/dictionary.png" alt="Dictionary.com Search Results Redesign" class="img-responsive"> 
+                    	<img src="images/dictionary.png" alt="Dictionary.com Search Results Redesign" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -346,12 +347,12 @@
 	</section>
     <?php include 'includes/footer.php';?>
 </main>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
-<script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="bootstrap/js/jquery-1.11.3.min.js"></script>
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.js"></script>
 <script  src="js/chart.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<!-- Include all compiled plugins (below), or include individual files as needed -->
 </body>
 </html>
