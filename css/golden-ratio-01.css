@@ -126,6 +126,11 @@ img {
   font-size: 21px;
   font-weight: 200; }
 
+#sketchbook {
+    background-image: url(../images/000000.png);
+    background-repeat: repeat-x;
+	background-size: auto 61.97233%;}
+
 .row {
   margin-right: 0;
   margin-left: 0; }
