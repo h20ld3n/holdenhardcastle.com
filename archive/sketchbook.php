@@ -68,6 +68,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181127-sketchbook.png" alt="limited reproduction" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+					<img src="../images/transparency.png" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>From dark to light</h3>
+						<p>In nature there are multiple subtle steps which, in man's means for reproduction of nature in art and film, are severely limited. When we observe tonality in nature, we see true light. When we talk of tonality in graphics, paintings, photography, film, we have reference to some pigment, paint, or nitrate of silver, which is used to simulate natural tone. Between light and dark in nature, there are hundreds of distinct tonal steps, but in graphic arts and photography, these steps are severely limited. From white to black in pigment, the most commonly used tonal scale has about thirty steps. At the Bauhaus and many other art schools, students have always been challenged to see how many distinct and recognizable tonal steps they could represent from black to white. With great sensitivity and delicacy, they can be pushed to 30+ tones of gray, but this is not practical for common use since it is too subtle visually. How, then, can the visualizer cope with this tonal limitation? Manipulation of tone through juxtaposition greatly lessons the tonal limitation inherent in the problem of emulating the tonal largess of nature. One tone of gray can change dramatically when it is placed on a tonal scale. The possibility for highly expanded tonal representation can be achieved through utilization of these means. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181126-sketchbook.png" alt="what it is all about" class="img-responsive">
                     </div>
       			</div>
