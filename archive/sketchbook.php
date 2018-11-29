@@ -28,6 +28,24 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181128-sketchbook.png" alt="limited reproduction" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+					<img src="../images/transparency.png" class="img-responsive">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Dimensions</h3>
+						<p>The world we live in is dimensional, and tone is one of the visualizer's best tools for indicating and expressing that dimension. Perspective is the method for plotting many of the special effects in our natural surroundings, to represent the three-dimensional way we see in two-dimensional graphic form. It uses many devices to plot distance, bulk, point of view, the vanishing point, the horizon line, eye level, et cetera. But even with the aid of perspective, line alone will not create the illusion of reality effectively without the assistance of tone. The addition of tonal background detail reinforced the appearance of reality through the sensation of reflected light and cast shadows. The effect is even more dramatic in simple, basic shaped such as the circle, which could not appear as dimensional without tonal information.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181127-sketchbook.png" alt="limited reproduction" class="img-responsive">
                     </div>
       			</div>
