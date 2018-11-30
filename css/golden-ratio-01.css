@@ -61,6 +61,11 @@ img {
 #holden-hardcastle {
   margin-top: 1em; }
 
+#sketchbook   {
+  background-image: url("../images/000000.png");
+  background-repeat: repeat-x;
+  background-size: auto 61.97233%; }
+
 #ub-cool-grey11 {
   background-image: url("../images/56565a.png");
   background-repeat: repeat-x;
