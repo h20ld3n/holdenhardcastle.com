@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181129-sketchbook.png" alt="painting sketches" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Dimensions</h3>
+						<p>Lightness and darkness are so intensely important to the perception of our environment that we accept a monochromatic representation of reality in the visual arts and we do it without hesitation. In Fact, the varying tones of gray in photographs, film, television, etching, mezzotints, tonal sketches, are monochromatic surrogates and represent a world that does not exist, a visual world we accept only because of the dominance of tonal values in our perceptions. The ease with which we accept the monochromatic visual representation is the exact measure of just how vitally important tone is to us, and even more interesting, just how unconsciously sensitive we are to the dull, monochromatic values of our environment. How many people even realize they have this sensitivity? The reason for this startling visual fact is that tonal sensitivity is essential to our survival. It is second only to the vertical-horizontal reference as visual clues to our relationship to our surroundings. Through it, we see sudden movement, depth, distance, and other environmental references. Tonal value is another way of describing light. Through it, and only through it, we see.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181128-sketchbook.png" alt="horizon line" class="img-responsive">
                     </div>
       			</div>
