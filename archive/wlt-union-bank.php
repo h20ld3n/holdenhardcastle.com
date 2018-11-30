@@ -52,6 +52,24 @@
     		<div class="jumbotron" id="ub-cool-grey11">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/wlt-ub-credit-cards.png" alt="Union Bank Credit Cards" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Union Bank Credit &amp; ATM Cards</h3>
+          				<p>Lorem ipsum dolor amet unicorn viral semiotics plaid venmo kombucha. La croix plaid banh mi post-ironic franzen. Listicle sriracha jean shorts authentic hella. Organic ennui pitchfork trust fund sartorial polaroid taxidermy hexagon gochujang narwhal etsy woke art party. Lomo trust fund migas, dreamcatcher literally small batch air plant quinoa four loko green juice thundercats tumeric. Asymmetrical tumeric snackwave pop-up, ugh aesthetic kickstarter normcore next level slow-carb kinfolk tofu everyday carry. Hella chartreuse taiyaki, occupy food truck schlitz affogato chambray art party la croix subway tile.</p>
+						<p><a class="btn btn-default" href="../index.php#Union-Bank" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="ub-cool-grey11">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/wlt-ub-car-wrap.png" alt="Union Bank Car Wrap" class="img-responsive">
                     </div>
       			</div>
