@@ -133,7 +133,7 @@
   					$fromYear = 1977; 
   					$thisYear = (int)date('Y'); 
   					echo $fromYear . (($fromYear != $thisYear) ? '-' . $thisYear : '');?>
-        			Holden Hardcastle v.1.61803.3.6</small></h6>
+        			Holden Hardcastle v.1.61803.3.7</small></h6>
             	</div>
     		</div>
 	</footer>
