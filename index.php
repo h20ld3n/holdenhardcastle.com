@@ -63,7 +63,7 @@
   						</dd>
 						</dl>
 						<p>By identifying the audience and messaging, cohesive campaigns were developed that adhered to brand guidelines and often resulted in a 400% increase in response rates.</p>
-						<!--p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p-->
+						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                    	</div>
       			</div>
     		</div>
