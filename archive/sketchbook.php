@@ -23,6 +23,29 @@
 	</header>
 	<main>
 	<section>
+		<h2>December</h2>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/181202-sketchbook.png" alt="no notes" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Color</h3>
+						<p>The monochromatic representations we so readily accept in the visual media are tonal stand-ins for color, for what is, in truth, a chromatic world, our richly colored universe. While tone is related to questions of survival and is therefore essential to the human organism, color has a stronger affinity to emotions. It is possible to think of color as the aesthetic frosting on the cake, rich, and in many ways useful, but not absolutely necessary for creating visual messages. That would be a very shallow view of the matter. Color is loaded with information and one of the pervasive visual experience we all have in common. It is, therefore, an invaluable source of visual communicators. In the environment, we share the associative meanings of the color of trees, grass, sky, earth and on endlessly to where we see color as a common stimulus. And there, we associate meaning. We know color also under a broad category of symbolic meaning. Red means something, for instance, even where it does not have any environmental connection. The red that is associated with anger has been carried over in the 'red flag (or cape) waved in front of a bull." The color red has little significance for the bull, who has no sensitivity to the color but only to the fact that the cape or flag moves. Red means danger, and love, and warmth, and life, and maybe a hundred other things. Each color has as many meanings, associative and symbolic; thus, color offers an enormous vocabulary of great usefulness in visual literacy. The variety of meaning obtainable is expressed from Carl Sanburg's poem, "The People, Yes":</p>
+						<p style="text-align: center">The blood of all men of all nations being red the Communist International named red its banner color<br style="display: block">
+							Pop Innocent IV gave cardinals their first red hats saying a cardinal's blood belonged to the holy mother church.<br style="display: block">
+							The bloodcolor red is a symbol</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		</section>
+		<section>
 		<h2>November Rain</h2>
 		<article>
     		<div class="jumbotron" id="sketchbook">
