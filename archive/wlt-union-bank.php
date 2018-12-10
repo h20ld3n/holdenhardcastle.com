@@ -59,7 +59,7 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Union Bank Credit &amp; ATM Cards</h3>
+          				<h3>Union Bank Credit &amp; ATM&nbsp;Cards</h3>
           				<p>Lorem ipsum dolor amet unicorn viral semiotics plaid venmo kombucha. La croix plaid banh mi post-ironic franzen. Listicle sriracha jean shorts authentic hella. Organic ennui pitchfork trust fund sartorial polaroid taxidermy hexagon gochujang narwhal etsy woke art party. Lomo trust fund migas, dreamcatcher literally small batch air plant quinoa four loko green juice thundercats tumeric. Asymmetrical tumeric snackwave pop-up, ugh aesthetic kickstarter normcore next level slow-carb kinfolk tofu everyday carry. Hella chartreuse taiyaki, occupy food truck schlitz affogato chambray art party la croix subway tile.</p>
 						<p><a class="btn btn-default" href="../index.php#Union-Bank" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
@@ -77,7 +77,7 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Union Bank Car Wrap</h3>
+          				<h3>Union Bank Car&nbsp;Wrap</h3>
           				<p>Lorem ipsum dolor amet unicorn viral semiotics plaid venmo kombucha. La croix plaid banh mi post-ironic franzen. Listicle sriracha jean shorts authentic hella. Organic ennui pitchfork trust fund sartorial polaroid taxidermy hexagon gochujang narwhal etsy woke art party. Lomo trust fund migas, dreamcatcher literally small batch air plant quinoa four loko green juice thundercats tumeric. Asymmetrical tumeric snackwave pop-up, ugh aesthetic kickstarter normcore next level slow-carb kinfolk tofu everyday carry. Hella chartreuse taiyaki, occupy food truck schlitz affogato chambray art party la croix subway tile.</p>
 						<p><a class="btn btn-default" href="../index.php#Union-Bank" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
@@ -95,7 +95,7 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Onserts and direct mail</h3>
+          				<h3>Onserts and direct&nbsp;mail</h3>
           				<p>Close the loop sacred cow. Baseline the procedure and samepage your department. It just needs more cowbell timeframe race without a finish line knowledge process outsourcing. This proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables hard stop, yet criticality . Helicopter view i also believe it's important for every member to be involved and invested in our company and this is one way to do so nor not a hill to die on and viral engagement, for staff engagement mobile friendly. Drop-dead date. Locked and loaded cannibalize, so knowledge process outsourcing nor table the discussion . Land the plane. Ramp up we need to socialize the comms with the wider stakeholder community overcome key issues to meet key milestones back of the net minimize backwards overflow. We're ahead of the curve on that one we need to touch base off-line before we fire the new ux experience. That ipo will be a game-changer we want to see more charts gain traction what the, translating our vision of having a market leading platfrom run it up the flagpole. Future-proof we need to future-proof this. First-order optimal strategies locked and loaded, but meeting assassin idea shower UI, but low-hanging fruit, so this is meaningless. It's about managing expectations get buy-in optics pull in ten extra bodies to help roll the tortoise, or push back. Golden goose synergestic actionables low engagement out of the loop.</p>
 						<p><a class="btn btn-default" href="../index.php#Union-Bank" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
