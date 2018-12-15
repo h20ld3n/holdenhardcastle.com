@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/181211-sketchbook.png" alt="Hoo Ru Da San" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Just a theory</h3>
+						<p>There are many color theories. Color, both the color of light and the color of pigment, behaves in unique ways, but our knowledge of color in visual communication goes a little further than collecting observations of our reactions to it. There is no single, ultimate system of how hues relate to each other. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="sketchbook">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/181202-sketchbook.png" alt="no notes" class="img-responsive">
                     </div>
       			</div>
