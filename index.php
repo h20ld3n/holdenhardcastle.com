@@ -54,16 +54,9 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Union Bank Campaigns</h3>
-						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
-						<p>Williams Lea Tag was tasked with creating "top of wallet" campaigns that aligned with the bank's mission. Working closely with team and channel leads—cards, materials, and strategies were developed to retain, update, and grow the Union Bank customer base.</p>
-                  	    <dl>
-  						<dd>
-        				<canvas id="canvas" height="450" width="600"></canvas>
-  						</dd>
-						</dl>
-						<p>By identifying the audience and messaging, cohesive campaigns were developed that adhered to brand guidelines and often resulted in a 400% increase in response rates.</p>
-						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Explore more work from Union Bank</a></p>
+          				<h3>Williams Lea Tag—Art Director</h3>
+						<p>(2016-Present) Create and present strategy concepts to clients and senior executives: direct designers, production artist, copywriters, and other specialists to create effective advertising materials for multi-channel (print, packaging, digital, ATM screens, and TV) campaigns.</p>
+						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
     		</div>
@@ -104,7 +97,7 @@
     			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Letterhead<br> and Branding</h3>
-          				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean and affordable energy.</p>
+          				<p>Advanced Energy Economy engages with companies in order to create a more prosperous world that runs on secure, clean, and affordable energy.</p>
           				<p>The design values complement the company vision. The brand guidelines aim to create a consistent, clean, and efficient experience. This solid foundation allows for evolution. Corporate logos, iconography, infographics, reports, responsive websites, and members of the AEE team, have all played a part in the progression of the Advanced Energy Economy brand.</p>
         			</div>
       			</div>
