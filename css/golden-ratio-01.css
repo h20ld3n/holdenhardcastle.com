@@ -13,6 +13,9 @@ body {
   background-color: #ffffff;
   border-color: #ffffff; }
 
+.navbar-default .navbar-nav .li .a {
+  color: #ffffff; }
+
 .jumbotron {
   padding-top: 1.6180em;
   padding-bottom: 1.6180em;
