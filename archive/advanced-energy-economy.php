@@ -58,7 +58,7 @@
          				<p>Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p>
           				<p>Working with the communications, marketing and development teams we identified and implemented specific improvements on both the front and backend.</p>
           				<p>By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>
-						<p><a class="btn btn-default" href="../index.php#wlt-ub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
+						<p><a class="btn btn-default" href="../index.php#aee" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
         			</div>
       			</div>
     		</div>
@@ -79,7 +79,7 @@
           				<p>By collaborating with the communications team and project leads we implemented the newly established brand guidelines to define and apply consistent hierarchy and visual style to reports. Covers communicate the subject of the complex reports in a single image.</p>
           				<p>Using a grid system and dynamically linking text to design files, the annual and semi-annual reports are effortlessly designed and produced. The powerful imagery and iconography create a visual message that accelerates the transition to an advanced energy economy.</p>
           				<p>The California Advanced Energy Employment Survey report won a 2015 American Graphic Design Award.</p>
-						<p><a class="btn btn-default" href="../index.php#wlt-ub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
+						<p><a class="btn btn-default" href="../index.php#aee" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
         			</div>
       			</div>
     		</div>
@@ -99,7 +99,7 @@
           				<p>The Ohio Advanced Energy Economy, an Advanced Energy Economy State Partner, was looking to create brand guidelines and an annual report that appealed to their members. They reached out to AEE to create impactful design standards that represented their messaging.</p>
           				<p>A logo, font face, and collateral were structured around the&nbsp;established AEE design guidelines. The newly created brand visually identified Ohio as part of the extended AEE family.</p>
           				<p>The report on the state of Ohio's Electricity Future won a 2015 American Graphic Design Award.</p>
-						<p><a class="btn btn-default" href="../index.php#wlt-ub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
+						<p><a class="btn btn-default" href="../index.php#aee" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
         			</div>
       			</div>
     		</div>
@@ -119,7 +119,7 @@
           				<p>Advanced Energy Economy initiative leads present data and reports to companies and legislatures across all levels of government. Infographics are created to present complex information and tell the story behind the energy data in an easily understandable way.</p>
           				<p>Working with communications and initiative leads, we distilled complex data down to identify key messaging. The resulting visuals are designed to support arguments that move executives and government officials to action.</p>
           				<p>The North Carolina: Clean Energy Works! and California Advanced Energy Employment Future infographics both won 2015 American Graphic Design Awards.</p>
-						<p><a class="btn btn-default" href="../index.php#wlt-ub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
+						<p><a class="btn btn-default" href="../index.php#aee" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
         			</div>
       			</div>
     		</div>
