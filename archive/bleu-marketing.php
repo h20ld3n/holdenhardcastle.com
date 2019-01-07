@@ -36,7 +36,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Dell EMC and the Hybrid Cloud</h3>
           				<p>Dell EMC provides the foundation to help companies modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
-						<p>Identified audience, messaging, stories, and stats, to develop a cohesive campaign that adhered to brand guidelines. Digital content and collateral was designed to highlight metrics that influence CFO decision making.</p>
+						<p>Identified audience, messaging, stories, and statistics, to develop a cohesive launch campaign that adhered to brand guidelines. Digital content and collateral was designed to highlight metrics that influence CFO decision making.</p>
 						<p><a class="btn btn-default" href="../index.php#wlt-ub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
       			</div>
