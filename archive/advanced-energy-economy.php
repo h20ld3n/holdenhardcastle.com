@@ -53,7 +53,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>AEE Website and<br> Process Redesign</h3>
-          				<p>AEE engages member companies, and recruits partners through education and encourages participation in energy policy changing initiatives. Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates..</p>
+          				<p>AEE engages member companies and recruits partners through education and encourages participation in energy policy changing initiatives. Policy and legislation changes quickly. In order to keep up emerging energy regulations, the AEE website needed to be redesigned and migrated to a content management system (CMS). By implementing a CMS, projects leads would be able to make timely content updates.</p>
           				<p>Working with the communications, marketing and development teams, we identified and implemented specific improvements on both the front and backend. By building templates on a flexible and responsive Bootstrap foundation, content updates became more efficient and streamlined the look and feel of the site.</p>
         			</div>
       			</div>

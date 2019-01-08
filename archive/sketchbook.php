@@ -28,7 +28,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181211-sketchbook.png" alt="Hoo Ru Da San" class="img-responsive">
+                    	<img src="../images/sketchbook/181211-sketchbook.png" alt="Hoo Ru Da San" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -45,7 +45,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181202-sketchbook.png" alt="no notes" class="img-responsive">
+                    	<img src="../images/sketchbook/181202-sketchbook.png" alt="no notes" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -68,7 +68,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181129-sketchbook.png" alt="painting sketches" class="img-responsive">
+                    	<img src="../images/sketchbook/181129-sketchbook.png" alt="painting sketches" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -85,7 +85,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181128-sketchbook.png" alt="horizon line" class="img-responsive">
+                    	<img src="../images/sketchbook/181128-sketchbook.png" alt="horizon line" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -102,7 +102,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181127-sketchbook.png" alt="limited reproduction" class="img-responsive">
+                    	<img src="../images/sketchbook/181127-sketchbook.png" alt="limited reproduction" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -119,7 +119,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181126-sketchbook.png" alt="what it is all about" class="img-responsive">
+                    	<img src="../images/sketchbook/181126-sketchbook.png" alt="what it is all about" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -136,7 +136,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181125-sketchbook.png" alt="figure 3.19" class="img-responsive">
+                    	<img src="../images/sketchbook/181125-sketchbook.png" alt="figure 3.19" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -153,7 +153,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181124-sketchbook.png" alt="figure 3.14" class="img-responsive">
+                    	<img src="../images/sketchbook/181124-sketchbook.png" alt="figure 3.14" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -170,7 +170,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181114-sketchbook.png" alt="Figure 3.13" class="img-responsive">
+                    	<img src="../images/sketchbook/181114-sketchbook.png" alt="Figure 3.13" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -187,7 +187,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181112-sketchbook.png" alt="end of the line" class="img-responsive">
+                    	<img src="../images/sketchbook/181112-sketchbook.png" alt="end of the line" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -204,7 +204,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181111-sketchbook.png" alt="many different moods" class="img-responsive">
+                    	<img src="../images/sketchbook/181111-sketchbook.png" alt="many different moods" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -221,7 +221,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181110-sketchbook.png" alt="Notation systems" class="img-responsive">
+                    	<img src="../images/sketchbook/181110-sketchbook.png" alt="Notation systems" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -238,7 +238,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181108-sketchbook.png" alt="enormous energy" class="img-responsive">
+                    	<img src="../images/sketchbook/181108-sketchbook.png" alt="enormous energy" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -255,7 +255,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181104-sketchbook.png" alt="connect the dots" class="img-responsive">
+                    	<img src="../images/sketchbook/181104-sketchbook.png" alt="connect the dots" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -272,7 +272,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181102-sketchbook.png" alt="connect the dots" class="img-responsive">
+                    	<img src="../images/sketchbook/181102-sketchbook.png" alt="connect the dots" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -293,7 +293,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181029-sketchbook.png" alt="mutiple dots" class="img-responsive">
+                    	<img src="../images/sketchbook/181029-sketchbook.png" alt="mutiple dots" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -310,7 +310,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181028-sketchbook.png" alt="the dot" class="img-responsive">
+                    	<img src="../images/sketchbook/181028-sketchbook.png" alt="the dot" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -327,7 +327,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181025-sketchbook.png" alt="visual communication" class="img-responsive">
+                    	<img src="../images/sketchbook/181025-sketchbook.png" alt="visual communication" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -345,7 +345,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181024-sketchbook.png" alt="the line" class="img-responsive">
+                    	<img src="../images/sketchbook/181024-sketchbook.png" alt="the line" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -362,7 +362,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181022-sketchbook.png" alt="gestalt phychology" class="img-responsive">
+                    	<img src="../images/sketchbook/181022-sketchbook.png" alt="gestalt phychology" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -379,7 +379,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181023-sketchbook.png" alt="the basic elements" class="img-responsive">
+                    	<img src="../images/sketchbook/181023-sketchbook.png" alt="the basic elements" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -396,7 +396,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181018-sketchbook.png" alt="westernization" class="img-responsive">
+                    	<img src="../images/sketchbook/181018-sketchbook.png" alt="westernization" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -414,7 +414,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181017-sketchbook.png" alt="welcome riley" class="img-responsive">
+                    	<img src="../images/sketchbook/181017-sketchbook.png" alt="welcome riley" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -431,7 +431,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181016-sketchbook.png" alt="Ramblings" class="img-responsive">
+                    	<img src="../images/sketchbook/181016-sketchbook.png" alt="Ramblings" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -448,7 +448,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181015-sketchbook.png" alt="Univers" class="img-responsive">
+                    	<img src="../images/sketchbook/181015-sketchbook.png" alt="Univers" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -473,7 +473,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181014-sketchbook.png" alt="garamond typeface" class="img-responsive">
+                    	<img src="../images/sketchbook/181014-sketchbook.png" alt="garamond typeface" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -491,7 +491,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181011-sketchbook.png" alt="bodoni typeface" class="img-responsive">
+                    	<img src="../images/sketchbook/181011-sketchbook.png" alt="bodoni typeface" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -509,7 +509,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181009-sketchbook.png" alt="new baskerville typeface" class="img-responsive">
+                    	<img src="../images/sketchbook/181009-sketchbook.png" alt="new baskerville typeface" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -527,7 +527,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181008-sketchbook.png" alt="laird hamilton" class="img-responsive">
+                    	<img src="../images/sketchbook/181008-sketchbook.png" alt="laird hamilton" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -545,7 +545,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181006-sketchbook.png" alt="Shape Test" class="img-responsive">
+                    	<img src="../images/sketchbook/181006-sketchbook.png" alt="Shape Test" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -566,7 +566,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181005-sketchbook.png" alt="The Isms of Art"class="img-responsive">
+                    	<img src="../images/sketchbook/181005-sketchbook.png" alt="The Isms of Art"class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -585,7 +585,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181004-sketchbook.png" alt="clean lines" class="img-responsive">
+                    	<img src="../images/sketchbook/181004-sketchbook.png" alt="clean lines" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -603,7 +603,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181003-sketchbook.png" alt="interrupted grid" class="img-responsive">
+                    	<img src="../images/sketchbook/181003-sketchbook.png" alt="interrupted grid" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -621,7 +621,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181002-sketchbook.png" alt="incline grids" class="img-responsive">
+                    	<img src="../images/sketchbook/181002-sketchbook.png" alt="incline grids" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -640,7 +640,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/181001-sketchbook.png" alt="all about columns" class="img-responsive">
+                    	<img src="../images/sketchbook/181001-sketchbook.png" alt="all about columns" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -662,7 +662,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180930-sketchbook.png" alt="building blocks" class="img-responsive">
+                    	<img src="../images/sketchbook/180930-sketchbook.png" alt="building blocks" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -679,7 +679,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180929-sketchbook.png" alt="grid use" class="img-responsive">
+                    	<img src="../images/sketchbook/180929-sketchbook.png" alt="grid use" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -696,7 +696,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180927-sketchbook.png" alt="about grid size" class="img-responsive">
+                    	<img src="../images/sketchbook/180927-sketchbook.png" alt="about grid size" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -713,7 +713,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180926-sketchbook.png" alt="dynamic versus static" class="img-responsive">
+                    	<img src="../images/sketchbook/180926-sketchbook.png" alt="dynamic versus static" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -731,7 +731,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180925-sketchbook.png" alt="designing with a grid" class="img-responsive">
+                    	<img src="../images/sketchbook/180925-sketchbook.png" alt="designing with a grid" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -748,7 +748,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180924-sketchbook.png" alt="back to college" class="img-responsive">
+                    	<img src="../images/sketchbook/180924-sketchbook.png" alt="back to college" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -777,7 +777,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180923-sketchbook.png" alt="this is not the end" class="img-responsive">
+                    	<img src="../images/sketchbook/180923-sketchbook.png" alt="this is not the end" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -794,7 +794,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180921-sketchbook.png" alt="creative commitment" class="img-responsive">
+                    	<img src="../images/sketchbook/180921-sketchbook.png" alt="creative commitment" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -811,7 +811,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180920-sketchbook.png" alt="a line about performance" class="img-responsive">
+                    	<img src="../images/sketchbook/180920-sketchbook.png" alt="a line about performance" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -828,7 +828,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180918-sketchbook.png" alt="three ways to understand customers" class="img-responsive">
+                    	<img src="../images/sketchbook/180918-sketchbook.png" alt="three ways to understand customers" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -845,7 +845,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180913-sketchbook.png" alt="understanding users and data" class="img-responsive">
+                    	<img src="../images/sketchbook/180913-sketchbook.png" alt="understanding users and data" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -862,7 +862,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180912-sketchbook.png" alt="what are your priorities" class="img-responsive">
+                    	<img src="../images/sketchbook/180912-sketchbook.png" alt="what are your priorities" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -881,7 +881,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/180911-sketchbook.png" alt="creativity" class="img-responsive">
+                    	<img src="../images/sketchbook/180911-sketchbook.png" alt="creativity" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -898,7 +898,7 @@
     		<div class="jumbotron" id="sketchbook">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/distributed-sketchbook-test.png" alt="first sketchbook entry" class="img-responsive">
+                    	<img src="../images/sketchbook/distributed-sketchbook-test.png" alt="first sketchbook entry" class="img-responsive">
                     </div>
       			</div>
     		</div>

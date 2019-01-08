@@ -35,7 +35,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TrueBlood Cookbook</h3>
-          				<p>In order to surprise and delight their readers, Chronicle Books began converting it's entire catalogue into digital or ebooks in 2010.</p>
+          				<p>In order to surprise and delight their readers, Chronicle Books began converting their entire catalogue into digital or ebooks in 2010.</p>
           				<p>Aligning with the publisher's core values, the newly established ebooks team created a culture of education and experimentation. By allowing mistakes and happy accidents to happen, we discovered new ways to keep faithful to the original content.</p>
         			</div>
       			</div>

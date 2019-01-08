@@ -14,7 +14,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>TRX Fitness Anywhere</h1>
         				<h2>Creative Manager</h2>
-                   		<p>(2007–2010) Worked with various teams to develop best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with the other designers and marketing managers.</p>
+                   		<p>(2007–2010) Worked with various teams to develop best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</p>
   					</div>
                 </div>
  			</div>
@@ -36,7 +36,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Website, Application, and Experience Design</h3>
           				<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout with.</p>
-						<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, updated look and feel, and the style guide that was born out of the extensive retooling, were created through a team effort to bring owners of the TRX together.</p>
+						<p>The internal team of production artists, designers, developers, marketing leads, and program directors all contributed to the updated user experience. Wireframes, layouts, an updated look and feel, and a style guide were born out of extensive retooling.</p>
 						<p>The new experience and application was launched in partnership with Drew Brees, the 2010 Super Bowl MVP and Quarterback for the NFL's New Orleans Saints, encouraging users with similar fitness goals to get out from in front of the television and connect with other people in the community.</p>
                     </div>
       			</div>
@@ -46,7 +46,7 @@
     		<div class="jumbotron" id="trx-bg">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/trx-military-fitness.png" alt="Dell EMC and the Hybrid Cloud" class="img-responsive">
+                    	<img src="../images/trx-military-fitness.png" alt="TRX Force Kit" class="img-responsive">
                     </div>
       			</div>
     		</div>

@@ -184,7 +184,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TRX Training—Creative Manager</h3>
-						<p>(2007–2010) Worked with various teams to develop best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with the other designers and marketing managers.</p>
+						<p>(2007–2010) Worked with various teams to develop best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</p>
 						<p><a class="btn btn-default" href="archive/trx-fitness-anywhere.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More from TRX</a></p>
         			</div>
       			</div>
