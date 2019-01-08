@@ -129,6 +129,16 @@ img {
   background-repeat: repeat-x;
   background-size: auto 62.97233%; }
 
+#sketchbook {
+  background-image: url("../images/000000.png");
+  background-repeat: repeat-x;
+  background-size: auto 62.97233%; }
+
+#inspiration {
+  background-image: url("../images/fa7268.png");
+  background-repeat: repeat-x;
+  background-size: auto 62.97233%; }
+
 #description {
   font-size: 21px;
   font-weight: 200; }
