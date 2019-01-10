@@ -14,7 +14,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>TRX Fitness Anywhere</h1>
         				<h2>Creative Manager</h2>
-                   		<p>(2007–2010) Worked with various teams to develop best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</p>
+                   		<p>(2007–2010) Responsible for hiring and managing video production team and developing best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</p>
   					</div>
                 </div>
  			</div>
