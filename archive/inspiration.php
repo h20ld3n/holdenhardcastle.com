@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190109-inspiration.png" alt="Plate 3.2 - Color Wheel" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Color wheel</h3>
+						<p>Color structure in its simplest formulation is taught through the color wheel. The primary colors, yellow, red, blue, and secondary colors, orange, green, violet, are invariably included in such a chart. However, it usually also includes expanded mixtures of at least twelve hues. From this simple chart of a color wheel, multiple variations of color hues can be developed.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190107-inspiration.png" alt="Hoo Ru Da San" class="img-responsive">
                     </div>
       			</div>
