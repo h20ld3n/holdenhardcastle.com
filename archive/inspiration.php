@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190112-inspiration.png" alt="After Image (Plate 3.3 and 3.4)" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Afterimage</h3>
+						<p>An afterimage is the physiological visual phenomenon that takes place after the human eye has been fixed or focused on any visual information. When the object or information being stared at is replaced with a blank white field, a negative image is seen on the blank space. The effect is related to the spots one sees after bright lights are directed into the eye. Although this is an extreme example, any image of color produces the complementary color or its exact opposite. It is on this visual phenomenon that Munsell based the entire structure of his color theory. The opposite color on his color wheel is what afterimage would be. There are further implications of what happens when you stare at a color long enough to produce an afterimage. You will first see the complementary color. For instance, if you stare at yellow, purple will appear on the blank area in your afterimage. Yellow is the closest hue to white or light; purple the closest to black or dark. The afterimage will not only be tonally darker than the value of yellow but will be the median tone of gray. A red of a middle tonal value would produce a complementary green of the same middle tone. The afterimage then appears to react in the same tonal fashion as the pigment. When you mix two complementary colors, red and green, yellow and purple, they not only can cancel out each other's chroma or hue to gray, they also produce from their mixture a middle tone of gray.  </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190111-inspiration.png" alt="three dimensions" class="img-responsive">
                     </div>
       			</div>
