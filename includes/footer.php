@@ -87,7 +87,7 @@
       							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</dd>
       							<dt class="h4">TRX - Fitness Anywhere</dt>
       							<dd>(2007–2010)<br>
-      							Worked with various teams to develop best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</dd>
+      							Responsible for hiring and managing video production team and developing best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</dd>
       							<dt class="h4">REO Company</dt>
       							<dd>(2002–2005)<br>
       							Led photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
