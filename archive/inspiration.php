@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190111-inspiration.png" alt="three dimensions" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>3rd dimension</h3>
+						<p>The third, and last dimension of color is achromatic. It is the relative brightness, from light to dark, of value or tonal gradations. It must be noted, underlined, and emphasized that the presence or absence of color does not affect tone; it is a constant. A color television is an excellent device for demonstrating this visual fact. When you turn the color knobs slowly to black and white, to the monochromatic picture, you slowly drain off the color saturation. The process in no way affects the tonal value of the picture. Turning the saturation up and down demonstrates the constancy of tone and proves that color and tone coexist in perception without modifying each other. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190110-inspiration.png" alt="Two dimensions" class="img-responsive">
                     </div>
       			</div>
@@ -36,7 +53,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>2nd dimension</h3>
-						<p>The second dimension of color is saturation, which is the relative purity of color from the hue to gray. Saturated color is pure, almost primitive, and always given preference by folk artists and children. It is both uncomplicated and overstated, composed of the primary and secondary hues. The less saturated colors reach toward neutrality of color, even noncolor, and are subtle and restful. The more intensely saturated the coloration of the visual object or event, the more highly charged it is with the expression and emotion—informational results in the choice of saturated or neutralized color based choice on intention. But saturation or its absence as a meaningful visual effect is the difference between the dentist's office and the Electric Circus. </p>
+						<p>The second dimension of color is saturation, which is the relative purity of color from the hue to gray. Saturated color is pure, almost primitive, and always given preference by folk artists and children. It is both uncomplicated and overstated, composed of the primary and secondary hues. The less saturated colors reach toward neutrality of color, even noncolor, and are subtle and restful. The more intensely saturated the coloration of the visual object or event, the more highly charged it is with the expression and emotion—informational results in the choice of saturated or neutralized color based choice on intention. But saturation or its absence as a meaningful visual effect is the difference between the dentist's office and the Electric Circus.</p>
                     </div>
       			</div>
     		</div>
