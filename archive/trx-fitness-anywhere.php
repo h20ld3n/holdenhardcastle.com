@@ -55,6 +55,24 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TRX Force Kit Campaign</h3>
           				<p>In order to connect owners and users of the TRX Suspension Trainer to gyms, trainers, and each other, Fitness Anywhere was looking to move away from producing single workouts distributed on DVDs. The application, online community, and sport specific workout pages were all designed to encourage users to find places and people to workout with.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="trx-bg">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/trx-suspended-campaign.png" alt="I got suspended campaign" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>I Got Suspended Campaign</h3>
+          				<p>The awareness campaign was created to promote the TRX and Suspension Training and launch the brand to consumer markets. The campaign starts with a narrow focus on professional and top end athletes, like Drew Brees and Melanie Oudin, and then pulls out to more approachable and even retired athletes, who are using the TRX to stay in shape. Eventually, the campaign pulls back to the individual users who are balancing all the things life throws at us. The ads link back to the site where users are encouraged to “get suspended” or train with the TRX Suspension Trainer.</p>
+						<p>The imagery is authentic. No models or staged photography. The images all came from actual games or matches from the sponsored athletes. Later everyday photos came from real and current users of the TRX Suspension Trainer.</p>
 						<p><a class="btn btn-default" href="../index.php#trx" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
       			</div>
