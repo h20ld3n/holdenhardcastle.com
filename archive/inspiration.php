@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190113-inspiration.png" alt="Plate 3.5 and 3.6" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Complementary colors</h3>
+						<p>There is another way of demonstrating this process. Two complementary colors displayed on the same middle tone of gray affect the neutral tone. The gray panel with a warm, red-orange hue appears bluish or cool, while the reverse occurs with the gray on which a blue-green square is displayed. Its gray background appears reddish-toned and warm. This experiment shows that the eye is seeing the opposite or contrasting hue, not just in the afterimage, but at the same time, it is viewing a color. The process is called "simultaneous contrast," and its psychophysiological significance extends beyond just its importance to color theory. It is another piece of evidence that indicated the intense need to reach for complete neutrality and hence complete repose that man demonstrates over and over again in the visual context.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190112-inspiration.png" alt="After Image (Plate 3.3 and 3.4)" class="img-responsive">
                     </div>
       			</div>
