@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190114-inspiration.png" alt="Plate 3.5 and 3.6" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The force is strong</h3>
+						<p>Since perception of color is the single most strongly emotional part of the visual process, it has great force and can be utilized to express and reinforce visual information to significant advantage. Color not only has universally shared meaning through experience, but it also has separate worth informationally through symbolically attached meaning. In addition to the highly negotiable color meaning, each of us has our own personal and subjective color preferences. We choose our own color statements and settings, but there is little analytic thought or concern about what methods or motivation we use to arrive at our own choices regarding the meaning and effect of color. When a jockey dons an owners silks, a soldier wears his dress uniform, and a nation displays its flag, the attempt to find symbolic meaning in their colors may be obvious. Not so in our personal color choices, which are less symbolic and therefore less clearly defined. Nevertheless, whether we think about it or not, realize it or not, we tell the world a great deal when we make a color choice.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190113-inspiration.png" alt="Plate 3.5 and 3.6" class="img-responsive">
                     </div>
       			</div>
