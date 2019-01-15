@@ -28,7 +28,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190114-inspiration.png" alt="Plate 3.5 and 3.6" class="img-responsive">
+                    	<img src="../images/inspiration/190114-inspiration.png" alt="First nudes" class="img-responsive">
                     </div>
       			</div>
     		</div>
