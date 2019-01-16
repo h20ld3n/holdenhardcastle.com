@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190115-inspiration.png" alt="Oil and pastel" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Texture</h3>
+						<p>Texture is the visual element that frequently serves as a stand-in for the qualities of another sense, touching. But in fact, we can appreciate and recognize texture either by touch or by sight individually, or by a combination of both. It is possible for a texture to have no tactile quality, only optical, like the lines of type on a printed page, or polka dots on material, or cross-hatched lines on a doodle. Where there is actual texture, the tactile and optical qualities coexist, not like tone and color which are unified, affording individual sensation to the eye and hand, even though we project onto both strong associative meaning. What sandpapers looks like and what sandpaper feels like have the same intellectual meaning, but not the same value. They are singular experiences which may or may not suggest each other under certain circumstances. The judgment of the eye is usually checked on by the hand by actual touching. Is it smooth or does it just look that way? Is that an indentation or a raised mark? No wonder there are so many " DO NOT TOUCH! signs. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190114-inspiration.png" alt="First nudes" class="img-responsive">
                     </div>
       			</div>
