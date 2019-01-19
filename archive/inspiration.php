@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190119-inspiration.png" alt="Go figure" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Scale</h3>
+						<p>All visual elements have the capacity to modify and define each other. The process, itself, is the element of scale. Color is bright or subdued depending on juxtaposition, just as relative tonal values take on enormous visual modifications depending on what tone is next to or behind them. In other words, there can be no large without small. But even when large is established through small, the entire scale can be changed with the addition of another visual modification. Scale can be determined not only through relative size of visual clues but also through relationships to the field or the environment. The visible results concerning scale are fluid and not absolute since they are subject to so many variables of modification. All that is being observed is true in the context of scale.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190117-inspiration.png" alt="Oil and pastel" class="img-responsive">
                     </div>
       			</div>
