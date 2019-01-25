@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190124-inspiration.png" alt="Drawings" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>What is real</h3>
+						<p>Scale is often used in plans and maps to represent real measurement in proportion. The scale is usually designated, for example, 1 inch = 100 miles, or 1 inch = 10 miles. The globe of the world represents enormous distance in small measurement. All of which requires some extension of understanding to visualize in terms of distance real measurement as it is simulated in a map or plan. Measurement is an integral part of scale, but it is not crucial. What is critical is juxtaposition, what is alongside the visual subject, what setting it is in; these factors are more important.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190119-inspiration.png" alt="Go figure" class="img-responsive">
                     </div>
       			</div>
