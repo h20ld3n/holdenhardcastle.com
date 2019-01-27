@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190127-inspiration.png" alt="Self Portraits" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Golden Mean</h3>
+						<p>There are proportional formulas on which scale can be based; the most famous is the Greek "Golden Mean." This is a mathematical formula of great visual elegance. it is arrived at by bisecting a square and using the diagonal of one half of the square as a radius to extend the dimensions of the square to become a "Golden Rectangle." In the proportion arrived at, a:b=c:a. The "Golden Mean" was used by the Greeks to design most of what they built from the classic Greek amphora to the floor plans of the temples and their elevations.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190125-inspiration.png" alt="Self Portraits" class="img-responsive">
                     </div>
       			</div>
