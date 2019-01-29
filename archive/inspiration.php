@@ -28,7 +28,24 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190127-inspiration.png" alt="Self Portraits" class="img-responsive">
+                    	<img src="../images/inspiration/190128-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Human scale</h3>
+						<p>There are many other scale systems; the most outstanding contemporary version is that developed by the late French architect, Le Corbusier. His modular unit, on which his entire system is based, is the size of man, and on this proportion, he establishes an average ceiling height, door size, window opening, et cetera. Everything becomes utilized and repeatable. Oddly enough, the unitized system of mass production has these effects built into it, and creative design solutions are often limited by what is available to design with, a limiting factor. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190127-inspiration.png" alt"Greek designs" class="img-responsive">
                     </div>
       			</div>
     		</div>
