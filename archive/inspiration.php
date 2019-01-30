@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190129-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Scale and structure</h3>
+						<p>Learning to relate size to purpose and meaning is essential in the structuring of visual messages. Control of scale can make a large room seem small and cozy, and a small room appear open and airy. This effect can extend to all manipulation of space, illusory though it may be.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190128-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
                     </div>
       			</div>
