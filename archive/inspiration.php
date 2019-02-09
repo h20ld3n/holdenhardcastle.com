@@ -22,6 +22,26 @@
 		</div>
 	</header>
 	<main>
+		<section>
+		<h2>Blinded by the Light</h2>
+		<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190208-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Exactly relaxed</h3>
+						<p>Perspective has exact formulas with many complicated rules. It uses line to plot its effect, but its final intention is to produce the feeling of reality. There are some fairly easy rules and methods which can be demonstrated. Showing how two planes of a cube appear to the eye depends first on establishing the eye level. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		</section>
 	<section>
 		<h2>Tonight's the Night</h2>
 		<article>
