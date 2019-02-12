@@ -24,11 +24,28 @@
 	<main>
 		<section>
 		<h2>Blinded by the Light</h2>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190211-inspiration.png" alt="a few typefaces" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Points that vanish</h3>
+						<p>Two vanishing points must be used to express the perspective of a cube with three surfaces in sight. To present perspective adequately would take an enormous amount of explanation. The artist certainly does not use perspective slavishly. The artist uses it; they know it. Ideally, the technical facts of perspective are in mind because of careful study and can be utilized in quite a free way. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		<article>
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190208-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    	<img src="../images/inspiration/190208-inspiration.png" alt="a couple paintings and a resume" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -48,7 +65,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190130-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    	<img src="../images/inspiration/190130-inspiration.png" alt="skull painting" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -65,7 +82,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190129-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    	<img src="../images/inspiration/190129-inspiration.png" alt="Self portrait" class="img-responsive">
                     </div>
       			</div>
     		</div>
