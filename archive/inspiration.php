@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190226-inspiration.png" alt="photography" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>In photography, perspective dominates</h3>
+						<p>The lens has some of the same properties as the eye, and simulation of dimension is one of its prime abilities. But there are some significant modifications. The eye has a wide peripheral vision, which the camera cannot duplicate.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190211-inspiration.png" alt="a few typefaces" class="img-responsive">
                     </div>
       			</div>
