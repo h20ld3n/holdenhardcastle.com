@@ -23,6 +23,43 @@
 	</header>
 	<main>
 		<section>
+		<h2>Evergreen</h2>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190313-inspiration.png" alt="Claredon and study of g" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Real dimension</h3>
+						<p>...is the dominating element in industrial design, crafts, sculpture, architecture, and any visual material in which the total and actual volume must be dealt with. This is enormously complex and requires an ability to previsualize and plan in full dimension. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190306-inspiration.png" alt="Lens figures and some type" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The scope of field of the camera lens is changeable</h3>
+						<p>What a lens can see, and record is determined by the focal length of its lens. However, it cannot match the eye without enormous distortion of a fisheye lens. The standard lens has nowhere near the range of field of the eye, but what it does see is close to the perspective of the eye. The telephoto lens can record visual information in ways the eye cannot, collapsing space like an accordion. The wide angle lens broadens the scope of field but covers nowhere near the area of the eyes. Even though we are aware that the camera has its own perspective different from the human eye, one thing is certain; the camera can replicate the environment with startling accuracy and in infinite detail. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		</section>
+		<section>
 		<h2>Blinded by the Light</h2>
 			<article>
     		<div class="jumbotron" id="inspiration">
