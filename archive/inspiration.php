@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190318-inspiration.png" alt="Claredon and study of g" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Successful understanding of a problem</h3>
+						<p>The design and planning of three-dimensional visual materials requires many steps to think through and project possible solutions. First, there is the sketch, usually in perspective. There may be endless sketches, loose and probing and uncommitted. Second, there are the working drawings which are rigid and mechanical. The technical and engineering requirements of building or manufacturing require these in careful detail. Last, though it is expensive, building a model is probably the only way people with little sensitivity to visualization can be shown how something will appear in its completed form. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190313-inspiration.png" alt="Claredon and study of g" class="img-responsive">
                     </div>
       			</div>
