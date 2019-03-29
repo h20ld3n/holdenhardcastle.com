@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190328-inspiration.png" alt="Bowling pins and mannequin sketches" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Ignoring problems/h3>
+						<p>Despite the fact that our total human experience is set in a dimensional world, we tend to think of visualization as mark-making and ignore the unique problems of visual problem-solving in terms of dimensions. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190318-inspiration.png" alt="Claredon and study of g" class="img-responsive">
                     </div>
       			</div>
