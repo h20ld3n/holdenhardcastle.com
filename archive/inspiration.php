@@ -23,6 +23,26 @@
 	</header>
 	<main>
 		<section>
+		<h2>Dancing Queen</h2>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190406-inspiration.png" alt="the borg" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Movement</h3>
+						<p>The visual element of movement, like dimension, is more often implied in the visual mode than expressed. Movement is probably one of the most dominant forces in the human experience. In fact, it exists only in film, television, the charming mobiles of Alexander Calder, and where something visualized and made has a movement component, like machinery or windows. However, techniques can trick the eye; the illusion of texture or dimension appears real through the use of the intense expression of detail, as in the case of texture, and the use of perspective and intensified light and shade as in the case of dimension. The suggestion of motion in static visual statements is at once more laborious to achieve without distorting reality at the same time, implicit in everything we see. It derives from our complete experience of movement in life. In part, this implied action is projected into static visual information both psychologically and kinesthetically. After all, like the tonal world of achromatic film, we accept so readily, the static forms of the visual arts are not natural to our experience. This stilled, frozen world is the best we could create, until the advent of the motion picture and its miracle of representing movement. But note, even in this form, true movement does not exist as we know it; it lies not in the medium, but in the eye of the beholder through the physiological phenomenon of "persistence of vision." Movie film is really a string of still pictures containing slight changes which, when viewed by man in the proper time intervals, are blended together by a holdover factor in seeing so that the movement appears real.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		</section>
+		<section>
 		<h2>Evergreen</h2>
 			<article>
     		<div class="jumbotron" id="inspiration">
