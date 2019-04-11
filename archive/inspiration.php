@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190410-inspiration.png" alt="the borg" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Persistence of vision</h3>
+						<p>Some of the properties of "persistence of vision" may be the incorrect reason for the use of the word, "movement," to describe compositional tensions and rhythms in visual data when what is being seen is fixed and unmoving. A painting, photograph, or fabric design may be static, but the amount of repose it projects compositionally may imply movement in response to the artist's design emphasis and intention. There is little rest in the process of seeing. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190406-inspiration.png" alt="the borg" class="img-responsive">
                     </div>
       			</div>
