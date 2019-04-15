@@ -14,9 +14,7 @@
                                 <dd>Graphic Design, Cum Laude</dd>
 	      					<h3>Knowledge</h3>
     	  					<ul>
-                            	<li>Adobe Creative Suite &amp; Microsoft Office</li>
-                                <li>Front-end web development (HTML5, CSS3, and JavaScript)</li>
-                                <li>Print and video production</li>
+                            	<li>branding and creative direction, user experience and interface (UX/ UI), Adobe Creative Suite, Microsoft Office, front-end web development (HTML5, CSS3, and JavaScript), print and video production</li>
                           	</ul>
                             <h3>Contact and Other References</h3>
                             <ul>
