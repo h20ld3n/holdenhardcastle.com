@@ -14,7 +14,7 @@
                                 <dd>Graphic Design, Cum Laude</dd>
 	      					<h3>Knowledge</h3>
     	  					<ul>
-                            	<li>branding and creative direction, user experience and interface (UX/ UI), Adobe Creative Suite, Microsoft Office, front-end web development (HTML5, CSS3, and JavaScript), print and video production</li>
+                            	<li>Branding and creative direction, user experience and interface design (UX/UI), Adobe Creative Suite, Microsoft Office, front-end web development (HTML5, CSS3, and JavaScript), print and video production</li>
                           	</ul>
                             <h3>Contact and Other References</h3>
                             <ul>
@@ -70,7 +70,7 @@
       						<dl>
                             	<dt class="h4">Williams Lea Tag</dt>
                                 <dd>(2016-Present)<br>
-                                Create and present strategy and concepts to clients and senior executives: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</dd>
+                                Act as brand steward ensuring consistency across channels, mediums, and campaigns. Create and present strategy and concepts to Union Bank senior executives and decision makers: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</dd>
                                	<dt class="h4">Bleu Marketing Solutions</dt>
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>

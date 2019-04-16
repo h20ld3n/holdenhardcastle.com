@@ -28,7 +28,24 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190410-inspiration.png" alt="the borg" class="img-responsive">
+                    	<img src="../images/inspiration/190415-inspiration.png" alt="eye paths" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Scanning</h3>
+						<p>The eye is continuously scanning the environment in pursuit of the many methods it has for absorbing visual information. The formalized convention of reading, for instance, follows an organized sequence. Scanning, as a method of seeing, appears to be unstructured, yet, random though it may appear, research and measurement show that human scanning patterns are as individual and unique as fingerprints, It can be measured through the projection of light into the eye and recording the reflection in the pupil as the eye looks at something. The eye also moves in response to the unconscious process of measurement and balance through the "felt axis" and left-right, top-bottom preferences. Since two or even all three of these visual methods may be going on at once, it is clear there is action not only in what is seen but also in the process of seeing.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/inspiration/190410-inspiration.png" alt="sketchbook drawings" class="img-responsive">
                     </div>
       			</div>
     		</div>
