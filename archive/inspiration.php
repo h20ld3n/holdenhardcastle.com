@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190416-inspiration.png" alt="more eyes and g studies" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The miracle of motion as a visual component is dynamic</h3>
+						<p>Man has used picture making, form making for many purposes, one of the most important of which is to objectify himself. No visual means has approached as complete and effective a mirror of man and the world as the motion picture. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190415-inspiration.png" alt="eye paths" class="img-responsive">
                     </div>
       			</div>
