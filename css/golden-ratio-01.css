@@ -4,13 +4,10 @@ body {
   /* -- hypenation and word breaks for longer words --*/
   overflow-wrap: break-word;
   word-wrap: break-word;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-}
-
-p {
 	hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  -moz-hyphens: none;
 }
 
 .navbar-default {
