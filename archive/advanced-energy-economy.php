@@ -7,6 +7,7 @@
 </head>
 <body>
 	<h1 style="display:none;">Creative Director — Advanced Energy Economy</h1>
+	<?php include '../includes/navbar.php';?>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container">
