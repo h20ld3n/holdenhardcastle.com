@@ -28,6 +28,23 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/inspiration/190421-inspiration.png" alt="last of the study of g" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The basic elements of visual communication</h3>
+						<p>These elements, the dot, line, shape, direction, tone, color, texture, scale, dimension, movement, are the fundamental components of the visual media. They are essential ingredients we draw on for the development of visual thinking and communication. They have the dramatic potential for carrying information with simple directness and ease, messages that are effortlessly understandable to anyone who can see. These potentialities for conveying universal meaning universally have been recognized, but not pursued with the determination the situation demands. The instant information of television will make the world into a global village, says McLuhan. Language seperates, nationalizes; the visual anneals. Language is complex and challenging; the visual is as fast as the speed of light and can instantaneously express man ideas. These basic elements are the essential visual means. Proper understanding of their character and workings is the basis for a language that will recognize no boundaries or barriers.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="inspiration">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/inspiration/190416-inspiration.png" alt="more eyes and g studies" class="img-responsive">
                     </div>
       			</div>
