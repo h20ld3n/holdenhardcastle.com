@@ -55,7 +55,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Williams Lea Tag—Art Director</h3>
-						<p>(2016-Present) Create and present strategy and concepts to clients and senior executives: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</p>
+						<p>(2016-Present) Act as brand steward ensuring consistency across channels, mediums, and campaigns. Create and present strategy and concepts to Union Bank senior executives and decision makers: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
@@ -163,7 +163,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Chronicle Books—Dynamic Digital Production Coordinator</h3>
-          				<p>(2013-2016) Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</p>
+          				<p>(2013-2016) Collaborated with authors, editors, designers, content creators at Sony, HBO, and Lucasfilm, and distibutors at Apple and Amazon to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</p>
 						<p><a class="btn btn-default" href="archive/chronicle-books.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More ebooks from Chronicle Books</a></p>
         			</div>
       			</div>
