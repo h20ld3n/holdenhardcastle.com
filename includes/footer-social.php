@@ -5,19 +5,14 @@
     				<div class="col-md-3">
                     	<p>
                         	<h3>About</h3>
-                 			Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      						<h3>Education</h3>
-      						<dl class="h4">Griffith University</dl>
-                            	<dt>Master of Arts</dt>
-                                <dd>Media Production with Honours</dd>
-	      					<dl class="h4">Old Dominion University</dl>
-    	  						<dt>Bachelor of Fine Arts</dt>
-                                <dd>Graphic Design, Cum Laude</dd>
-	      					<h3>Knowledge</h3>
-    	  					<ul>
-                            	<li>Adobe Creative Suite &amp; Microsoft Office</li>
-                                <li>Front-end web development (HTML5, CSS3, and JavaScript)</li>
-                                <li>Print and video production</li>
-                          	</ul>
+                 			Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      						
+						<h3>Random Excerpts</h3>
+      						<dl class="h4"><a href="../archive/sketchbook.php">Sketchbook</a></dl>
+                            	<dt>Blank pages frequently used by artists as a part of their creative process.</dt>
+                                <dd>Sketchbooks come in a wide variety of shapes and sizes, and over time, they might allow others to see the artist's progress, as their style, skills, and ideas develop.</dd>
+	      					<dl class="h4"><a href="../archive/inspiration.php">Inspiration</a></dl>
+    	  						<dt>The action or power of moving the intellect or emotions.</dt>
+                                <dd>The act of influencing or suggesting opinions, drawing in specifically, quality or state of being inspired, something that is motivated, an inspiring agent or influence.</dd>
                             <h3>Contact and Other Sites</h3>
                             <ul>
                             	<li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>holden@holdenhardcastle.com</a></li>
