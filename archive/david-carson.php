@@ -6,7 +6,7 @@
 	<?php include '../includes/link.php';?>
 </head>
 <body>
-	<h1 style="display:none;">A conversation with David Carson</h1>
+	<h1 style="display:none;">A conversation...</h1>
 	<?php include '../includes/navbar.php';?>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
@@ -15,7 +15,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>A Conversation with David Carson</h1>
         				<h2></h2>
-                   		<p>Rudy: I should start off this conversation by saying that I found Ray Gun 6 to be brilliant and a milestone issue design-wise. I remember being at Tower Books, picking up that issue and just browsing through it, and being really amazed. I was flipping through it from back to front, so I started with the review section…<strong>David: I’ve actually thought that might be a good way to do magazines, from back to front, since so many people look at them that way.</strong></p>
+                   		<p>Rudy: I should start off this conversation by saying that I found <i>Ray Gun 6</i> to be brilliant and a milestone issue design-wise. I remember being at Tower Books, picking up that issue and just browsing through it, and being really amazed. I was flipping through it from back to front, so I started with the review section…<strong>David: I’ve actually thought that might be a good way to do magazines, from back to front, since so many people look at them that way.</strong></p>
   					</div>
                 </div>
  			</div>
@@ -28,15 +28,14 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190421-inspiration.png" alt="last of the study of g" class="img-responsive">
+                    	<img src="../images/david-carson/ray-gun-01.png" alt="Cover, Ray Gun 6" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>The basic elements of visual communication</h3>
-						<p>These elements, the dot, line, shape, direction, tone, color, texture, scale, dimension, movement, are the fundamental components of the visual media. They are essential ingredients we draw on for the development of visual thinking and communication. They have the dramatic potential for carrying information with simple directness and ease, messages that are effortlessly understandable to anyone who can see. These potentialities for conveying universal meaning universally have been recognized, but not pursued with the determination the situation demands. The instant information of television will make the world into a global village, says McLuhan. Language seperates, nationalizes; the visual anneals. Language is complex and challenging; the visual is as fast as the speed of light and can instantaneously express man ideas. These basic elements are the essential visual means. Proper understanding of their character and workings is the basis for a language that will recognize no boundaries or barriers.</p>
+						<p>R: I thought the review section was just really, really nice and it's difficult to put how it affected me into words becuase it was truly a gut feeling, especially...<strong>D: I actually felt that to be our weakest review section yet. But I like the idea of the work eliciting a "gut reaction."</strong> R: Standing there at the Tower Books newsstand, with about two thousand different magazines on the shelves, and yet you just know you are not going to find this approach in a whole lot of magazones, if in any at all. I've looked at all issues of <i>Ray Gun</i> and I do think there are hits and misses from page to page. <strong>D: I agree.</strong></p>
                     </div>
       			</div>
     		</div>
