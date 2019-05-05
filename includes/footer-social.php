@@ -13,6 +13,9 @@
 	      					<dl class="h4"><a href="../archive/inspiration.php">Inspiration</a></dl>
     	  						<dt>The action or power of moving the intellect or emotions.</dt>
                                 <dd>The act of influencing or suggesting opinions, drawing in specifically, quality or state of being inspired, something that is motivated, an inspiring agent or influence.</dd>
+							<dl class="h4"><a href="../archive/david-carson.php">A Conversation</a></dl>
+    	  						<dt>with David Carson</dt>
+                                <dd>from EMIGRE</dd>
                             <h3>Contact and Other Sites</h3>
                             <ul>
                             	<li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>holden@holdenhardcastle.com</a></li>
