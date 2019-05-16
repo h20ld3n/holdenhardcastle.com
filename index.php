@@ -163,7 +163,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Chronicle Books—Dynamic Digital Production Coordinator</h3>
-          				<p>(2013-2016) Collaborated with authors, editors, designers, content creators at Sony, HBO, and Lucasfilm, and distibutors at Apple and Amazon to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</p>
+          				<p>(2013-2016) Collaborated with authors, editors, designers, content creators at Sony, HBO, and Lucasfilm, and distributors at Apple and Amazon to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</p>
 						<p><a class="btn btn-default" href="archive/chronicle-books.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More ebooks from Chronicle Books</a></p>
         			</div>
       			</div>
