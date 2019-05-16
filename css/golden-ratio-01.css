@@ -1,13 +1,12 @@
 /* CSS Document */
 @import "https://fonts.googleapis.com/css?family=Abhaya+Libre:600";
 body {
-  /* -- hypenation and word breaks for longer words --*/
-  overflow-wrap: break-word;
-  word-wrap: break-word;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
 	hyphens: none;
-  -webkit-hyphens: none;
-  -ms-hyphens: none;
-  -moz-hyphens: none;
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	-moz-hyphens: none;
 }
 
 .navbar-default {

@@ -82,7 +82,7 @@
                                 Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
       							<dt class="h4">Chronicle Books</dt>
       							<dd>(2010-2013)<br>
-      							Collaborated with authors, editors, designers, and outside vendors to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</dd>
+      							Collaborated with authors, editors, designers, content creators at Sony, HBO, and Lucasfilm, and distributors at Apple and Amazon to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</dd>
       							<dt class="h4">TRX - Fitness Anywhere</dt>
       							<dd>(2007–2010)<br>
       							Responsible for hiring and managing video production team and developing best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</dd>
