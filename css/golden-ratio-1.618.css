@@ -61,6 +61,34 @@ img {
 .social {
   margin-bottom: 3px; }
 
+<-- script --> 
+
+.screenbox {
+    list-style: none;
+}
+
+.screenbox li { font-family: "Courier New", "monospace" }
+
+.sceneheader, .action, .character { 
+	padding-top: 1.5ex; 
+	text-transform: uppercase;
+	
+}
+
+.action { padding-right: 5%; }
+
+.character { margin-left: 40%; text-transform: uppercase; }
+
+.dialogue { margin-left: 25%; padding-right: 25%; }
+
+.parenthetical { margin-left: 32%; padding-right: 30%; }
+
+/* special case: dialogue followed by a parenthetical; the extra line needs to be suppressed */
+
+.dialogue + .parenthetical { padding-bottom: 0; }
+
+.transition { padding-top: 3ex; margin-left: 65%; padding-bottom: 1.5ex; }
+
 #holden-hardcastle {
   margin-top: 1em; }
 
@@ -139,9 +167,17 @@ img {
   background-repeat: repeat-x;
   background-size: auto 62.97233%; }
 
+#design-issues {
+  background-image: url("../images/0f4c81.png");
+  background-repeat: repeat-x;
+  background-size: auto 62.97233%; }
+
 #description {
   font-size: 21px;
   font-weight: 200; }
+
+#dc {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; }
 
 .row {
   margin-right: 0;
