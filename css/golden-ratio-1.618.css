@@ -70,8 +70,7 @@ img {
 .screenbox li { font-family: "Courier New", "monospace" }
 
 .sceneheader, .action, .character { 
-	padding-top: 1.5ex; 
-	text-transform: uppercase;
+	padding-top: 1.5ex;
 	
 }
 

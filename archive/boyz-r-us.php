@@ -23,7 +23,7 @@
 	</header>
 	<main>
 		<section>
-		<article>
+		<article id="01">
     		<div class="container">
       			<div class="row">
         			<div class="col-md-10 col-md-offset-1" id="description">
@@ -37,7 +37,7 @@
       			</div>
     		</div>
   		</article>
-		<article>
+		<article id="02">
     		<div class="container">
       			<div class="row">
         			<div class="col-md-10 col-md-offset-1" id="description">
@@ -61,7 +61,7 @@
       			</div>
     		</div>
   		</article>
-			<article>
+		<article id="03">
     		<div class="container">
       			<div class="row">
         			<div class="col-md-10 col-md-offset-1" id="description">
@@ -75,6 +75,85 @@
 							<li class="action">Mitch walks through the door and sits on the cot.</li>
 							<li class="character">MITCH</li>
 							<li class="dialogue">Thanks.</li>
+						</ul>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article id="04">
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-10 col-md-offset-1" id="description">
+						<ul class="screenbox">
+							<li class="sceneheader">INT. DAY - HIGH SCHOOl HALLWAY</li>
+							<li class="action">Marc, Peeper, and Flash Jack dressed in American street wear and black baseball hats are walking down the hallway. </li>
+							<li class="character">PEEPER</li>
+							<li class="dialogue">Cant's believe Wheeler.</li>
+							<li class="character">MARC</li>
+							<li class="dialogue">What an asshole.</li>
+							</ul>
+                    	</div>
+      				</div>
+    			</div>
+				<div class="container">
+      				<div class="row">
+        				<div class="col-md-10 col-md-offset-1" id="description">
+							<ul class="screenbox">
+							<li class="sceneheader">INT. DAY - NURSE'S OFFICE</li>
+							<li class="action">Mitch is lying on a cot drawing a spade on the back of his hand with a pen.</li>
+							<li class="action">The school bell rings.</li>
+							</ul>
+                    	</div>
+      				</div>
+    			</div>
+				<div class="container">
+      			<div class="row">
+        			<div class="col-md-10 col-md-offset-1" id="description">
+						<ul class="screenbox">			
+							<li class="sceneheader">INT. DAY - HIGH SCHOOL HALLWAY</li>
+							<li class="action">The school bell rings.</li>
+							<li class="action">Kids push their way out of classrooms filling the hallways.</li>
+						</ul>
+                    </div>
+      			</div>
+    		</div>
+			<div class="container">
+      			<div class="row">
+        			<div class="col-md-10 col-md-offset-1" id="description">
+						<ul class="screenbox">
+							<li class="sceneheader">INT. DAY - NURSE'S OFFICE</li>
+							<li class="action">Mitch sits up on the cot. he grabs his backpack and walk out of the room.</li>
+							<li class="action">The school bell rings.</li>
+						</ul>
+                    </div>
+      			</div>
+    		</div>
+			<div class="container">
+      			<div class="row">
+        			<div class="col-md-10 col-md-offset-1" id="description">
+						<ul class="screenbox">							
+							<li class="sceneheader">INT. DAY - HIGH SCHOOL HALLWAY</li>
+							<li class="action">High school kids are rushhing around to their next class.</li>
+							<li class="action">Mitch walks out of the nurses office and is tackled by Wheeler.</li>
+							<li class="action">Wheeler is pounding on Mitch with his fists.</li>
+							<li class="action">Other kids swarm around Mitch and Wheeler.</li>
+							<li class="action">The cheers from the crowd are mangled and violent.</li>
+							<li class="action">Mtich defends himself after the intial beating and begins to gain control.</li>
+							<li class="action">Four teachers push through the corwd and pull Mitch and Wheeler apart.</li>
+							<li class="character">MITCH</li>
+							<li class="dialogue">Fuck you.</li>
+							<li class="character">TEACHER #1</li>
+							<li class="dialogue">Watch it.</li>
+							<li class="action">Wheeler is being dragged away by two teachers but manages to grab is balls.</li>
+							<li class="character">TEACHER #2</li>
+							<li class="dialogue">Get to class.</li>
+							<li class="character">TEACHER #1</li>
+							<li class="dialogue">Get moving.</li>
+							<li class="character">MITCH</li>
+							<li class="dialogue">You little bitch.</li>
+							<li class="action">The crowd of kids boo and whistle as they disperse.</li>
+							<li class="character">WHEELER</li>
+							<li class="dialogue">You're gonna fucking bleed Jarrett.</li>
 						</ul>
                     </div>
       			</div>
