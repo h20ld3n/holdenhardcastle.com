@@ -44,10 +44,10 @@
    <section>
 	   <h2>Union Bank</h2>
   		<article id="union-bank">
-    		<div class="jumbotron" id="ub-cool-grey11">
+    		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="wlt-ub"><img src="images/wlt-ub-small-business-promo.png" alt="Union Bank" class="img-responsive"></a>
+                    	<a name="wlt-ub"><img src="images/tag-ub-email-design-specs.png" alt="Union Bank" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>

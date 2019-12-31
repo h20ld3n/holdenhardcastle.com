@@ -24,8 +24,31 @@
 	<main>
 	<section>
   		<h2>Williams Lea Tag &amp; Union Bank</h2>
-  		<article>
-    		<div class="jumbotron" id="ub-cool-grey11">
+		<article>
+    		<div class="jumbotron" id="ub-cool-grey3">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/tag-ub-email-design-specs.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Email Design Updates and Specs</h3>
+						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+					</div>
+					<div class="col-md-12">
+						<img src="../images/tag-ub-email-specs.png" class="img-responsive">
+					</div>
+					<div class="col-md-6 col-md-offset-3" id="description">
+          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/wlt-ub-small-business-promo.png" alt="Small Business Campaign" class="img-responsive">
@@ -42,7 +65,7 @@
     		</div>
   		</article>
 		<article>
-    		<div class="jumbotron" id="ub-cool-grey11">
+    		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/wlt-ub-credit-cards.png" alt="Union Bank Credit Cards" class="img-responsive">
@@ -59,7 +82,7 @@
     		</div>
   		</article>
 		<article>
-    		<div class="jumbotron" id="ub-cool-grey11">
+    		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/wlt-ub-car-wrap.png" alt="Union Bank Car Wrap" class="img-responsive">
