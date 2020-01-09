@@ -47,14 +47,14 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="wlt-ub"><img src="images/tag-ub-email-design-specs.png" alt="Union Bank" class="img-responsive"></a>
+                    	<a name="wlt-ub"><img src="images/tag-ub-lunar-new-year.png" alt="Union Bank" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Williams Lea Tag—Art Director</h3>
+          				<h3>Tag—Art Director</h3>
 						<p>(2016-Present) Act as brand steward ensuring consistency across channels, mediums, and campaigns. Create and present strategy and concepts to Union Bank senior executives and decision makers: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
