@@ -54,8 +54,8 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Tag—Art Director</h3>
-						<p>(2016-Present) Act as brand steward ensuring consistency across channels, mediums, and campaigns. Create and present strategy and concepts to Union Bank senior executives and decision makers: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</p>
+          				<h3>Tag @ Union Bank—Art Director</h3>
+						<p>(2016-Present) Acted as the brand steward, directing designers, production artists, copywriters, and other specialists, ensuring consistency for 360 marketing campaigns delivering assets across channels, mediums, and campaigns and delivered collateral on schedule and to specifications.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
@@ -98,7 +98,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Advanced Energy Economy—Creative Director</h3>
-          				<p>(2013-2016) Developed brand guidelines and directed creative work, including printed collateral, websites, and email campaigns. Played an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</p>
+          				<p>(2013-2016) Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</p>
 						<p><a class="btn btn-default" href="archive/advanced-energy-economy.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the AEE branding</a></p>
         			</div>
       			</div>
@@ -163,7 +163,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Chronicle Books—Dynamic Digital Production Coordinator</h3>
-          				<p>(2013-2016) Collaborated with authors, editors, designers, content creators at Sony, HBO, and Lucasfilm, and distributors at Apple and Amazon to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</p>
+          				<p>(2013-2016) Collaborated with authors, editors, designers, content creators, and managed outside vendors to convert physical book mechanicals to ebooks. Responsible for hiring and managing front-end web developers and interns.</p>
 						<p><a class="btn btn-default" href="archive/chronicle-books.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More ebooks from Chronicle Books</a></p>
         			</div>
       			</div>
@@ -184,7 +184,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TRX Training—Creative Manager</h3>
-						<p>(2007–2010) Responsible for hiring and managing video production team and developing best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</p>
+						<p>(2007–2010) Responsible for hiring and managing the video production team and resources, and developing best practices for content creation and distribution.</p>
 						<p><a class="btn btn-default" href="archive/trx-fitness-anywhere.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More from TRX</a></p>
         			</div>
       			</div>

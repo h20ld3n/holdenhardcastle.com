@@ -68,15 +68,17 @@
       					<p>
                         	<h3>Experience</h3>
       						<dl>
-                            	<dt class="h4">Williams Lea Tag</dt>
+                            	<dt class="h4">Tag @ Union Bank—Art Director</dt>
                                 <dd>(2016-Present)<br>
                                 Act as brand steward ensuring consistency across channels, mediums, and campaigns. Create and present strategy and concepts to Union Bank senior executives and decision makers: direct designers, production artists, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</dd>
-                               	<dt class="h4">Bleu Marketing Solutions</dt>
+								<dd><strong>Accomplishments:</strong> Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials; developed emails, mock-ups, redlines, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines; presented concepts and strategies to C-suite and decision-makers; and 200%-400% increased in response rate across various campaigns.</dd>
+                               	<dt class="h4">Bleu Marketing Solutions—Art Director</dt>
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
-                            	<dt class="h4">Advanced Energy Economy</dt>
+                            	<dt class="h4">Advanced Energy Economy-Creative Director</dt>
       							<dd>(2013-2016)<br>
                                	Developed brand guidelines and directed creative work, including printed collateral, websites, and email campaigns. Played an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
+								<dd><strong>Accomplishments:</strong> Managed files and repositories using Dropbox and Github; incorporated Hubspot (CRM), Trello, and Asana project management tools into existing processes to maximized talents and time of program leads and developers; and created award-winning report and infographic design</dt>
       							<dt class="h4">Gap Inc. (freelance)</dt>
       							<dd>(2013)<br>
                                 Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
