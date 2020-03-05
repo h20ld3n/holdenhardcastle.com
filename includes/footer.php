@@ -75,19 +75,21 @@
                                	<dt class="h4">Bleu Marketing Solutions—Art Director</dt>
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
-                            	<dt class="h4">Advanced Energy Economy-Creative Director</dt>
+                            	<dt class="h4">Advanced Energy Economy—Creative Director</dt>
       							<dd>(2013-2016)<br>
                                	Developed brand guidelines and directed creative work, including printed collateral, websites, and email campaigns. Played an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
-								<dd><strong>Accomplishments:</strong> Managed files and repositories using Dropbox and Github; incorporated Hubspot (CRM), Trello, and Asana project management tools into existing processes to maximized talents and time of program leads and developers; and created award-winning report and infographic design</dt>
+								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Managed files and repositories using Dropbox and Github; incorporated Hubspot (CRM), Trello, and Asana project management tools into existing processes to maximized talents and time of program leads and developers; and created award-winning report and infographic designs.</dt>
       							<dt class="h4">Gap Inc. (freelance)</dt>
       							<dd>(2013)<br>
                                 Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
-      							<dt class="h4">Chronicle Books</dt>
+      							<dt class="h4">Chronicle Books—Dynamic Digital Production Coordinator</dt>
       							<dd>(2010-2013)<br>
-      							Collaborated with authors, editors, designers, content creators at Sony, HBO, and Lucasfilm, and distributors at Apple and Amazon to create award-winning ebooks and applications for various mobile devices, tablets, and ebook readers. Formulated best practices and strategies for the creation and distribution of ebooks to online retailers.</dd>
-      							<dt class="h4">TRX - Fitness Anywhere</dt>
+      							Collaborated with authors, editors, designers, content creators, and managed outside vendors to convert physical book mechanicals to ebooks. Responsible for hiring and managing front-end web developers and interns.</dd>
+								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Formulated best practices and strategies to create and distribute ebooks to online retailers; worked with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications; and won awards for excellence in design, interactivity, and quality from various publishing bodies.</dt>
+      							<dt class="h4">TRX / Fitness Anywhere—Creative Manager</dt>
       							<dd>(2007–2010)<br>
-      							Responsible for hiring and managing video production team and developing best practices for content creation and distribution. Designed user experiences and interactions across online communities, landing pages, and large scale campaigns with designers and marketing managers.</dd>
+      							Responsible for hiring and managing the video production team and resources, and developing best practices for content creation and distribution.</dd>
+								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Designed user experiences and interactions across online communities, landing pages, and large scale campaigns; and created lo-fi and hi-fi prototypes for abstract ideas to help make wireframes, storyboards, and user flows more tangible to project and product partners</dt>
       							<dt class="h4">REO Company</dt>
       							<dd>(2002–2005)<br>
       							Led photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
