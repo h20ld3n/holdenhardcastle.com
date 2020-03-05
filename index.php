@@ -47,7 +47,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="wlt-ub"><img src="images/tag-ub-lunar-new-year.png" alt="Union Bank" class="img-responsive"></a>
+                    	<a name="wlt-ub"><img src="images/tag-ub-email-design-specs.png" alt="Union Bank" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
