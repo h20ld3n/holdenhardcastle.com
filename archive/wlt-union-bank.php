@@ -15,7 +15,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Union Bank</h1>
         				<h2>Tag—Art Director</h2>
-                   		<p>(2016-Present) Create and present strategy concepts to clients and senior executives: direct designers, production artist, copywriters, and other specialists to create effective advertising materials for print, packaging, digital, ATM signage, and TV campaigns.</p>
+                   		<p>(2016-2020) Acted as the brand steward, directing designers, production artists, copywriters, and other specialists, ensuring consistency for 360 marketing campaigns delivering assets across channels, mediums, and campaigns and delivered collateral on schedule and to specifications.</p>
   					</div>
                 </div>
  			</div>
@@ -24,46 +24,6 @@
 	<main>
 	<section>
   		<h2>Williams Lea Tag &amp; Union Bank</h2>
-		<article>
-    		<div class="jumbotron" id="ub-cool-grey3">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="../images/tag-ub-lunar-new-year.png" alt="Union Bank Email Design and Specs" class="img-responsive">
-                    </div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Lunar New Year Landing Page</h3>
-						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
-					</div>
-      			</div>
-    		</div>
-  		</article>
-		<article>
-    		<div class="jumbotron" id="ub-cool-grey3">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="../images/tag-ub-heloc-2020.png" alt="Union Bank Email Design and Specs" class="img-responsive">
-                    </div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Home Lending Campaign</h3>
-						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
-					</div>
-					<div class="col-md-12">
-						<img src="../images/tag-ub-mortgage-2020.png" class="img-responsive">
-					</div>
-					<div class="col-md-6 col-md-offset-3" id="description">
-          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
-                    </div>
-      			</div>
-    		</div>
-  		</article>
 		<article>
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
@@ -87,6 +47,47 @@
       			</div>
     		</div>
   		</article>
+		<article>
+    		<div class="jumbotron" id="ub-cool-grey3">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/tag-ub-lunar-new-year.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Lunar New Year Landing Page</h3>
+						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+					</div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="ub-cool-grey3">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/tag-ub-home-lending-2020.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Home Lending Campaign</h3>
+						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+					</div>
+					<div class="col-md-12">
+						<img src="../images/tag-ub-mortgage-2020.png" class="img-responsive">
+					</div>
+					<div class="col-md-6 col-md-offset-3" id="description">
+          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		
 		<article>
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
