@@ -84,6 +84,12 @@
 					<div class="col-md-6 col-md-offset-3" id="description">
           				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
                     </div>
+                    <div class="col-md-12">
+						<img src="../images/tag-ub-heloc-2020.png" class="img-responsive">
+					</div>
+					<div class="col-md-6 col-md-offset-3" id="description">
+          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+                    </div>
       			</div>
     		</div>
   		</article>
