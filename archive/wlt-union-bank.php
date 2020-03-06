@@ -68,7 +68,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/tag-ub-home-lending-2020.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    	<img src="../images/tag-ub-home-lending-2019.png" alt="Union Bank Email Design and Specs" class="img-responsive">
                     </div>
       			</div>
     		</div>

@@ -79,7 +79,7 @@
       							<dd>(2013-2016)<br>
                                	Developed brand guidelines and directed creative work, including printed collateral, websites, and email campaigns. Played an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
 								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Managed files and repositories using Dropbox and Github; incorporated Hubspot (CRM), Trello, and Asana project management tools into existing processes to maximized talents and time of program leads and developers; and created award-winning report and infographic designs.</dt>
-      							<dt class="h4">Gap Inc. (freelance)</dt>
+      							<dt class="h4">Gap Inc.—Freelance Sr. Designer</dt>
       							<dd>(2013)<br>
                                 Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
       							<dt class="h4">Chronicle Books—Dynamic Digital Production Coordinator</dt>
@@ -90,13 +90,13 @@
       							<dd>(2007–2010)<br>
       							Responsible for hiring and managing the video production team and resources, and developing best practices for content creation and distribution.</dd>
 								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Designed user experiences and interactions across online communities, landing pages, and large scale campaigns; and created lo-fi and hi-fi prototypes for abstract ideas to help make wireframes, storyboards, and user flows more tangible to project and product partners</dt>
-      							<dt class="h4">REO Company</dt>
+      							<dt class="h4">REO Company—Creative Lead</dt>
       							<dd>(2002–2005)<br>
       							Led photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
-                                <dt class="h4">Four Eleven Productions (freelance)</dt>
+                                <dt class="h4">Four Eleven Productions—Principle Desginer / Owner</dt>
       							<dd>(2001–2005)<br>
       							Created logos, websites, videos, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and startups.</dd>
-      							<dt class="h4"><a href="../archive/cbs-marketwatch.php">CBS MarketWatch</a></dt>
+      							<dt class="h4"><a href="../archive/cbs-marketwatch.php">CBS MarketWatch—Graphic Designer</a></dt>
                          		<dd>(1999-2001)<br>
                                 Collaborated with news, and marketing teams to create online and printed materials.</dd>
                            	</dl>
