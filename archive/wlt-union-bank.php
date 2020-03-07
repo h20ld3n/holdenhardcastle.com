@@ -76,19 +76,20 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Home Lending Campaign</h3>
-						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+						<p>The nine-month 360 multi-channel marketing campaigns including printed collateral, ATMs, digital signage, landing pages, emails, and in-branch environmental signage featured across all Union Bank branches. The goal was to drive conversations of mortgage pre-qualification and raise awareness of the advantages of using your home’s equity, which in turn  should generate increased application volumes from interested customers.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/tag-ub-mortgage-360.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
-          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+                        <p>Background &amp; audience: The "purchase season" or prime time for both mortgage and home equity lines of credit (HELOC) is the spring & summer months. During the spring and summer months, when the weather is nice, many families begin a home a new home search in the hopes to move or buy a home before the next school year. Homeowners are also racking up record amounts of home equity, thanks to fast-rising values in today's competitive housing market and more people are now starting to tap into that cash.</p>
                     </div>
                     <div class="col-md-12">
 						<img src="../images/tag-ub-heloc-360.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
-          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+          				<p>Market and competitive considerations: Interest rates are the number one driver of when to get a home equity line of credit and mortgage. In late 2019 and early 2020 mortgage rates were were at their lowest since late 2016 and near historic lows, making it an ideal time to buy or refinance a home. Refinance applications were up a 116% compared with the previous year. Low mortgage rates were fueling a housing shortage and the number of homes for sale nationwide fell 2.5% from the previous year. The drop in inventory was prompted by low mortgage rates and led to fast-paced sales and higher home prices.</p>
+                        <p>The Fed lowered interest rates in September 2019 and borrower home equity rose to all-time high in first half of 2019. Homeowners with a mortgage—about 63% of all homeowners—saw equity increase by 4.8%, a total of nearly $428 billion, since the second quarter of the previous year. The average homeowner gained about $4,900 in equity over the previous quarter.</p>
                     </div>
       			</div>
     		</div>
