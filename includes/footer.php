@@ -69,7 +69,7 @@
                         	<h3>Experience</h3>
       						<dl>
                             	<dt class="h4">Tag @ Union Bank—Art Director</dt>
-                                <dd>(2016-Present)<br>
+                                <dd>(2016-2020)<br>
                                 Acted as the brand steward, directing designers, production artists, copywriters, and other specialists, ensuring consistency for 360 marketing campaigns delivering assets across channels, mediums, and campaigns and delivered collateral on schedule and to specifications.</dd>
 								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials; developed emails, mock-ups, redlines, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines; presented concepts and strategies to C-suite and decision-makers; and 200%-400% increased in response rate across various campaigns.</dd>
                                	<dt class="h4">Bleu Marketing Solutions—Art Director</dt>
