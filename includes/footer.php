@@ -70,14 +70,21 @@
       						<dl>
                             	<dt class="h4">Tag @ Union Bank—Art Director</dt>
                                 <dd>(2016-2020)<br>
-                                Acted as the brand steward, directing designers, production artists, copywriters, and other specialists, ensuring consistency for 360 marketing campaigns delivering assets across channels, mediums, and campaigns and delivered collateral on schedule and to specifications.</dd>
-								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials; developed emails, mock-ups, redlines, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines; presented concepts and strategies to C-suite and decision-makers; and 200%-400% increased in response rate across various campaigns.</dd>
+                                A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</dd>
+                                <dd style="padding-top: .66em";><strong>Accomplishments:</strong>
+                                <ul style="list-style-type: disc; padding-left: 1.5em;">
+                                <li>Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials.Product marketing campaigns yielded a 200% - 400% increase in applications and approvals for various products.</li>
+                                <li>Developed emails, mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines resulting in a 75% reduction in the time required to deliver final assets. The increase in efficiency of asset delivery allowed for strategic and design thinking around email campaigns.</li>
+                                <li>Presented concepts for high visibility products (credit cards and car wraps) and marketing strategies (home loans and mortgage products) to C-suite and decision-makers. Increased the overall business and grew to the agency statement of work by leveraging the internal team capabilities.</li>
+                                <li>Managed files and cloud repositories using Microsoft OneDrive, allowing for greater transparency and smoother handoff of mechanical files throughout the entire design process.</li>
+                                </ul>
+                                </dd>
                                	<dt class="h4">Bleu Marketing Solutions—Art Director</dt>
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
                             	<dt class="h4">Advanced Energy Economy—Creative Director</dt>
       							<dd>(2013-2016)<br>
-                               	Developed brand guidelines and directed creative work, including printed collateral, websites, and email campaigns. Played an essential role in the marketing, communications, and digital departments to maximize the talents of copywriters, web developers, initiative leads, and other creatives.</dd>
+                               	Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
 								<dd style="padding-top: .66em;"><strong>Accomplishments:</strong> Managed files and repositories using Dropbox and Github; incorporated Hubspot (CRM), Trello, and Asana project management tools into existing processes to maximized talents and time of program leads and developers; and created award-winning report and infographic designs.</dt>
       							<dt class="h4">Gap Inc.—Freelance Sr. Designer</dt>
       							<dd>(2013)<br>
