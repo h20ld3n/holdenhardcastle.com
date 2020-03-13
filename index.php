@@ -5,12 +5,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name="description" content="Aspiring to create beautiful, exciting, and positive experiences by collaborating and working with inspired and driven companies, teams, and people.">
-	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+	<meta name="keywords" content="Team Leadership & Motivation, Brand Development, Creative Strategy, User Experience & Interface Design, Digital & Online Marketing, 360 Marketing Campaigns, Data & Process Driven Design, Concept Development">
 	<meta name="author" content="Holden Hardcastle">
 	<meta http-equiv="Cache-Control" content="max-age=200" />
 	<meta name="pinterest" content="nopin" />
 	<meta name="theme-color" content="#ffffff">
-	<title>Holden Hardcastle</title>
+	<title>Art &amp; Creative Director / Process Driven Cross-Functional Team Leadership &amp; Technology</title>
 	<link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -55,7 +55,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Tag @ Union Bank—Art Director</h3>
-						<p>(2016-Present) Acted as the brand steward, directing designers, production artists, copywriters, and other specialists, ensuring consistency for 360 marketing campaigns delivering assets across channels, mediums, and campaigns and delivered collateral on schedule and to specifications.</p>
+						<p>(2016-Present) A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
@@ -163,7 +163,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Chronicle Books—Dynamic Digital Production Coordinator</h3>
-          				<p>(2013-2016) Collaborated with authors, editors, designers, content creators, and managed outside vendors to convert physical book mechanicals to ebooks. Responsible for hiring and managing front-end web developers and interns.</p>
+          				<p>(2013-2016) Worked with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications. Responsible for hiring and managing a five-person team of front-end web developers, fellows, and interns.</p>
 						<p><a class="btn btn-default" href="archive/chronicle-books.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More ebooks from Chronicle Books</a></p>
         			</div>
       			</div>
@@ -184,7 +184,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>TRX Training—Creative Manager</h3>
-						<p>(2007–2010) Responsible for hiring and managing the video production team and resources, and developing best practices for content creation and distribution.</p>
+						<p>(2007–2010) Responsible for hiring and managing a six-person video production team and developing best practices for content creation and distribution.</p>
 						<p><a class="btn btn-default" href="archive/trx-fitness-anywhere.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More from TRX</a></p>
         			</div>
       			</div>
