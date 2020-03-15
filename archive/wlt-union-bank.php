@@ -76,7 +76,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Home Lending Campaign</h3>
-						<p>The nine-month 360 multi-channel marketing campaigns including printed collateral, ATMs, digital signage, landing pages, emails, and in-branch environmental signage featured across all Union Bank branches. The goal was to drive conversations of mortgage pre-qualification and raise awareness of the advantages of using your home’s equity, which in turn  should generate increased application volumes from interested customers.</p>
+						<p>The nine-month 360 multi-channel marketing campaigns included printed collateral, ATMs, digital signage, landing pages, emails, and in-branch environmental signage featured across all Union Bank branches. The goal was to drive conversations of mortgage pre-qualification and raise awareness of the advantages of using your home’s equity, which in turn  should generate increased application volumes from interested customers.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/tag-ub-mortgage-360.png" class="img-responsive">
