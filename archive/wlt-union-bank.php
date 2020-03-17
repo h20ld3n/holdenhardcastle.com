@@ -15,7 +15,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Union Bank</h1>
         				<h2>Tag—Art Director</h2>
-                   		<p>(2016-2020) Acted as the brand steward, directing designers, production artists, copywriters, and other specialists, ensuring consistency for 360 marketing campaigns delivering assets across channels, mediums, and campaigns and delivered collateral on schedule and to specifications.</p>
+                   		<p>(2016-2020) A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</p>
   					</div>
                 </div>
  			</div>
@@ -36,13 +36,13 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Email Design Updates</h3>
-						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+						<p>Worked with Union Bank channel and marketing leads, brand managers, Salesforce development leads and designers to develope emails mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/tag-ub-email-specs.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
-          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+          				<p>The established templates resulted in a 75% reduction in the time required to deliver final assets. The increase in efficiency of asset delivery allowed for strategic and design thinking around email campaigns.</p>
                     </div>
       			</div>
     		</div>
