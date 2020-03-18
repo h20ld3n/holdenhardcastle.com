@@ -55,7 +55,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Tag @ Union Bank—Art Director</h3>
-						<p>(2016-Present) A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</p>
+						<p>(2016-2020) A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
