@@ -14,8 +14,8 @@
     			<div class="row">
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Design Issues</h1>
-        				<h2>The action or power of moving the intellect or emotions.</h2>
-                   		<p>The act of influencing or suggesting opinions, drawing in specifically, quality or state of being inspired, something that is motivated, an inspiring agent or influence.</p>
+        				<h2>An important personal topic, problem, or difficulty for debate or discussion.</h2>
+                   		<p>The action of supplying or distributing an item for use, sale, or official purposes.</p>
   					</div>
                 </div>
  			</div>
@@ -35,8 +35,8 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Perception and visual communication</h3>
-						<p>Meaning in visual message-making lies not only in the cumulative effects of the arrangement of the basic elements but also in the perceptual mechanism that is universally shared by the human organism. More simply put; we create a design out many colors and shapes and textures and tones and relative proportions; we relate these elements interactively; we intend meaning. The result is the composition, the artist's or photographer or designer's intention. It is their input. eeing is another and separate step in visual communication. It is the process of absorbing information int the nervous system through the eyes, the sense of sight. This process and capacity are shared by all people on a more or less common basis, finding its significance in terms of shared meaning. The two separate steps, seeing and designing and/or making are interdependent for both meaning in a general sense and message in the case of attempting to respond to specific communication. Between the general meaning, mood, or ambiance of visual information and a specific, defined message lies yet another area of visual meaning, functionality, in the objects that are designed, made and manufactured to serve a purpose. While it would seem that the message of such works is secondary to their visibility, the facts prove otherwise. Clothes, houses, public buildings, even the whittling and scrimshaw of amateur craftsman tell us an enormous amount about the people who design and chose them. And our understanding of a culture depends on our study of the world they built and the tools and artifacts and art they created. </p>
+          				<h3>Color structure valuation is taught thought the color wheel.</h3>
+						<p> The primary colors, yellow, red, blue, and secondary colors, orange, green, violet, are invariably included in such a chart. But it usually also includes expanded mixtures of at least twelve hues. From this simple chart of a color wheel, multiple variations of color hues can be developed, which may or may not suggest to each other under certain circumstances. The judgement of the eye is usually checked on by the hand by actual touching. Is it really smooth, or does it just look that way? Is that an indentation or a raised mark? No wonder there are so many "DO NOT TOUCH!" signs. </p>
                     </div>
       			</div>
     		</div>
