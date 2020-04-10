@@ -28,9 +28,12 @@
                                 <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li>
                                 <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
                                 <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
+                                <li><a href="https://www.patreon.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>patreon</a></li>
                                 <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
                                 <li><a href="http://h0ld3n.tumblr.com/" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
 								<li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+                                
+                                
                                 <!-- Incompletes -->
 								<!--li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about.me</a></li-->
                                 <!-- li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li -->

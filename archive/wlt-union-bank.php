@@ -36,7 +36,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Email Design Updates</h3>
-						<p>Worked with Union Bank channel and marketing leads, brand managers, Salesforce development leads and designers to develope emails mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines.</p>
+						<p>Worked with Union Bank channel and marketing leads, brand managers, Salesforce development leads and designers to develop emails mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/tag-ub-email-specs.png" class="img-responsive">

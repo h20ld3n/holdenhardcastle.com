@@ -6,6 +6,12 @@
                     	<p>
                         	<h3>About</h3>
                  			With over twenty years of design and strategic art direction, I am an experienced leader who works with high-performing companies across a variety of industries. By working with inspired and driven orginizations, I aspire to create beautiful, exciting, and positive experiences. Whether it is bringing people together through an application, or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.
+                            <dd style="padding-top: .66em";><strong>Career Highlights</strong>
+                                <ul style="list-style-type: disc; padding-left: 1.5em;">
+                                	<li>Experienced and accomplished creative director—concepting and developing award-winning marketing campaigns and communications across a variety of industries, platforms, and mediums.</li>
+                                    <li>Collaborative cross-departmental leadership—using process, data, and technology to inform decisions, problem solve, and create solutions with measurable results.</li>
+                                </ul>
+                                </dd>
       						<h3>Education</h3>
 							<dl class="h4">Griffith University</dl>
                             	<dt>Master of Arts</dt>
@@ -69,7 +75,7 @@
                             	<dt class="h4">Tag @ Union Bank—Art Director</dt>
                                 <dd>(2016-2020)<br>
                                 A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</dd>
-                                <dd style="padding-top: .66em";><strong>Accomplishments:</strong>
+                                <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials. Product marketing campaigns yielded a 200% - 400% increase in applications and approvals for various products.</li>
                                 	<li>Developed emails, mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines resulting in a 75% reduction in the time required to deliver final assets. The increase in efficiency of asset delivery allowed for strategic and design thinking around email campaigns.</li>
@@ -83,7 +89,7 @@
                             	<dt class="h4">Advanced Energy Economy—Creative Director</dt>
       							<dd>(2013-2016)<br>
                                	Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
-								<dd style="padding-top: .66em";><strong>Accomplishments:</strong>
+								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Managed files and cloud repositories using Dropbox and Github. The use of Trello and Asana project management software and a consolidated file system allowed for automatic file updates, greater transparency, and a more effecient process. </li>
 									<li>Incorporated Hubspot (CRM) into existing processes to maximize talents and time of program leads and developers. This allowed program leads to instantly make content updates instead of the previous minimum two week turn around time, which required a cumbersome process and multiple levels of approvals.</li>
@@ -96,7 +102,7 @@
       							<dt class="h4">Chronicle Books—Dynamic Digital Production Coordinator</dt>
       							<dd>(2010-2013)<br>
       							Worked with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications. Responsible for hiring and managing a five-person team of front-end web developers, fellows, and interns.</dd>
-								<dd style="padding-top: .66em";><strong>Accomplishments:</strong>
+								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Collaborated with authors, editors, designers, content creators, and outside vendors to set up systems to translate the entire back catalog of physical books and mechanicals to ebooks. We effecietly converted approximately 1000 titles of varied complexity per year.</li>
 									<li>Won awards for excellence in design, interactivity, and quality from PubWest, Bookbuilders West, and Digital Book World.</li>
@@ -105,7 +111,7 @@
       							<dt class="h4">TRX / Fitness Anywhere—Creative Manager</dt>
       							<dd>(2007–2010)<br>
       							Responsible for hiring and managing a six-person video production team and developing best practices for content creation and distribution.</dd>
-								<dd style="padding-top: .66em";><strong>Accomplishments:</strong>
+								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Worked with the CEO and Founder and department heads to oversee the production, filming, and editing of the TRX Force Training Videos. The resulting two-disc DVD set would establish the standards for production quality for subsequent projects.</li>
 									<li>Developed and provided standards to give early-stage content creators ownership of their content. By allowing content creators and personal trainers to produce videos and blog posts independently, the internal production team was able to focus on revenue-generating projects.</li>
