@@ -59,7 +59,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Lunar New Year Landing Page</h3>
-						<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+						<p>With deep ties the eastern cultures and traditions the landing page was designed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
 					</div>
       			</div>
     		</div>
