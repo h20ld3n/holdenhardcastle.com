@@ -36,7 +36,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Email Design Updates</h3>
-						<p>Worked with Union Bank channel and marketing leads, brand managers, Salesforce development leads and designers to develop emails mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines.</p>
+						<p>Worked with Union Bank channel and marketing leads, brand managers, Salesforce development leads, and designers to develop email mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/tag-ub-email-specs.png" class="img-responsive">
@@ -59,7 +59,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Lunar New Year Landing Page</h3>
-						<p>With deep ties the eastern cultures and traditions the landing page and additioanl assets were designed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
+						<p>With deep ties to eastern cultures and traditions, the landing page and additional assets are designed and developed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
 					</div>
       			</div>
     		</div>
@@ -76,20 +76,20 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Home Lending Campaign</h3>
-						<p>The nine-month 360 multi-channel marketing campaigns included printed collateral, ATMs, digital signage, landing pages, emails, and in-branch environmental signage featured across all Union Bank branches. The goal was to drive conversations of mortgage pre-qualification and raise awareness of the advantages of using your home’s equity, which in turn  should generate increased application volumes from interested customers.</p>
+						<p>The nine-month 360 multi-channel marketing campaigns included printed collateral, ATMs, digital signage, landing pages, emails, and in-branch environmental signage featured across all Union Bank branches. The goal was to drive conversations of mortgage pre-qualification and raise awareness of the advantages of using your home's equity, which in turn should generate increased application volumes from interested customers.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/tag-ub-mortgage-360.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
-                        <p>Background &amp; audience: The "purchase season" or prime time for both mortgage and home equity lines of credit (HELOC) is the spring & summer months. During the spring and summer months, when the weather is nice, many families begin a home a new home search in the hopes to move or buy a home before the next school year. Homeowners are also racking up record amounts of home equity, thanks to fast-rising values in today's competitive housing market and more people are now starting to tap into that cash.</p>
+                        <p><i>Background &amp; audience:</i> The "purchase season" or prime time for both mortgage and home equity lines of credit (HELOC) is the spring & summer months. During the spring and summer months, when the weather is beautiful, many families begin a home a new home search in the hopes of moving or buying a home before the next school year. Homeowners are also racking up record amounts of home equity, thanks to fast-rising values in today's competitive housing market, and more people are now starting to tap into that cash.</p>
                     </div>
                     <div class="col-md-12">
 						<img src="../images/tag-ub-heloc-360.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
-          				<p>Market and competitive considerations: Interest rates are the number one driver of when to get a home equity line of credit and mortgage. In late 2019 and early 2020 mortgage rates were were at their lowest since late 2016 and near historic lows, making it an ideal time to buy or refinance a home. Refinance applications were up a 116% compared with the previous year. Low mortgage rates were fueling a housing shortage and the number of homes for sale nationwide fell 2.5% from the previous year. The drop in inventory was prompted by low mortgage rates and led to fast-paced sales and higher home prices.</p>
-                        <p>The Fed lowered interest rates in September 2019 and borrower home equity rose to all-time high in first half of 2019. Homeowners with a mortgage—about 63% of all homeowners—saw equity increase by 4.8%, a total of nearly $428 billion, since the second quarter of the previous year. The average homeowner gained about $4,900 in equity over the previous quarter.</p>
+                        <p><i>Market and competitive considerations:</i> Interest rates are the number one driver of when to get a home equity line of credit and mortgage. In late 2019 and early 2020, mortgage rates were at their lowest since late 2016 and near historic lows, making it an ideal time to buy or refinance a home. Refinance applications were up 116% compared with the previous year. Low mortgage rates were fueling a housing shortage, and the number of homes for sale nationwide fell 2.5% from the prior year. The drop in inventory was prompted by low mortgage rates and led to fast-paced sales and higher home prices.</p>
+                        <p>The Fed lowered interest rates in September 2019, and borrower home equity rose to an all-time high in the first half of 2019. Homeowners with a mortgage—about 63% of all homeowners—saw equity increase by 4.8%, a total of nearly $428 billion, since the second quarter of the previous year. The average homeowner gained about $4,900 in equity over the last quarter.</p>
                     </div>
       			</div>
     		</div>
@@ -107,7 +107,8 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Small Business and Merch. Campaigns</h3>
-          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of their customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+          				<p>MUFG Union Bank aims to be a foundation of strength committed to meeting the needs of its customers, serving society, and fostering shared and sustainable growth for a better world.</p>
+                        <p>Working with this mission in mind, the small business out of home advertising grew to become the first of many 360-marketing campaigns that included digital and ATM screens, emails, landing pages, social media posts, to name a few.</p>
                     </div>
       			</div>
     		</div>
@@ -163,7 +164,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Onserts and direct&nbsp;mail</h3>
-          				<p>Collateral created to be mailed with monthly statements. These pieces would eventually see an increase response rate and would be the basis for </p>
+          				<p>Collateral created was delivered with monthly statements and placed in branches. These pieces would eventually lead to an increased response rate and would be the templates for future campaigns and brand guidelines. </p>
 						<p><a class="btn btn-default" href="../index.php#Union-Bank" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
       			</div>
