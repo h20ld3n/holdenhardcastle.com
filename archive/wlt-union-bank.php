@@ -59,7 +59,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Lunar New Year Landing Page</h3>
-						<p>With deep ties the eastern cultures and traditions the landing page was designed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
+						<p>With deep ties the eastern cultures and traditions the landing page and additioanl assets were designed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
 					</div>
       			</div>
     		</div>
@@ -163,7 +163,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Onserts and direct&nbsp;mail</h3>
-          				<p></p>
+          				<p>Collateral created to be mailed with monthly statements. These pieces would eventually see an increase response rate and would be the basis for </p>
 						<p><a class="btn btn-default" href="../index.php#Union-Bank" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
                     </div>
       			</div>
