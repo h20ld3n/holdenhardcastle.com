@@ -62,7 +62,7 @@
                             <ul>
                             	<li><a href="mailto:holden@holdenhardcastle.com"><span class="social social-e-mail"></span>holden@holdenhardcastle.com</a></li>
 								<li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
-								<li><a href="pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
+								<li><a href="../pdf/holden-hardcastle.pdf" target="_blank"><span class="social social-rss"></span>resume</a></li>
 								<li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>
                                 <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
                             </ul>
