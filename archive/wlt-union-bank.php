@@ -59,7 +59,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Lunar New Year Landing Page</h3>
-						<p>With deep ties to eastern cultures and traditions, the landing page and additional assets are designed and developed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
+						<p>With deep ties to Eastern cultures and traditions, the landing page and additional assets were designed and developed to raise awareness and goodwill for the MUFG and Union Bank brands.</p>
 					</div>
       			</div>
     		</div>
