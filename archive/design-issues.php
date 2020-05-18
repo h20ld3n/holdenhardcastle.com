@@ -45,7 +45,7 @@
     		<div class="jumbotron" id="design-issues">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/design-issues/200515-design-issues.png" alt="random pages from my sketchbook" class="img-responsive">
+                    	<img src="../images/design-issues/200515-design-issues.png" alt="blurry lights" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -54,6 +54,23 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Texture has reference to the composition of a substance through minute variations on the surface material.</h3>
 						<p>Texture should serve as a sensitive and enriching experience. Unfortunately, those "DO NOT TOUCH! signs in the expensive shops overlap into social behavior, and we are strongly conditioned not to touch things or people with anything approximating sensual involvement. The result is a minimal tactile experience and even a fear of tactile contact; the sense of blind touch is carefully guarded in sighted people. We act super-cautiously when blindfolded or in the dark, reaching out tentatively, and, because of our limited experience of touch, we often do not recognize a texture. At the 1967 Montreal Expo, the 5+ Coming Pavilion was designed for visitors to explore the quality of their five senses. It was a popular and enjoyable exhibit. People sniffed away at a series of funnels offering a variety of odors, even though they suspected, and justifiably, that some would be unpleasant. They listened, they looked, they tasted, but they stood hesitant and inhibited in front of the yawning holes designed to be reached inro blindly. What did they fear? it appears that the natural, free, "hands-on" investigative approach of the baby and young child has been conditioned out of the adult by—Who knows what?—the Anglo-Saxon ethic, Puritan repression, instinctive taboos. Whatever the reason, the result starves one of our richest senses. But in this increasingly simulated and plastic world, the problem arises infrequently. Most of our textural experience is optical, not tactile. Not only is texture faked rather convincingly in plastics and printed material and faked fur, but, also, much of what we see that is painted, photographed, and filmed convincingly presents texture that is not there. If we ouch a photograph of silky velvet, we do not have the convincing tactile experience the visual clues promise. Meaning is based on what we see. This fakery is an important factor in survival in nature; animals, birds, reptiles, insects, fish, take on the coloration and texture of their surroundings as a protection against predators. Man copies this camouflage method in war in response to the same needs for survival that inspires it in nature.  </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200518-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>All visual elements have the capacity to modify and define each other.</h3>
+						<p>The process, itself, is the element of scale. Color is bright or subdued depending on juxtposition, just as relative tonal values take on enormous visual modifications depending on what tone is next to or behind them. In other words, there can be no large without small. But even when large is established through small, the entire scale can be changed with the addition of another visual modification. Scale can be established not only through relative size of visual clues, but also through relationships to the field or the environment. The visual resuls in terms of scale are fluid and not absolute, since they are subject to so many variables of modification. All that is being observed is true in the context of scale. </p>
                     </div>
       			</div>
     		</div>
