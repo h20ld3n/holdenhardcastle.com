@@ -92,6 +92,23 @@
       			</div>
     		</div>
   		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200520-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The most vital factor in the establishment of scale is the measurement of man himself.</h3>
+						<p>In matters of design that relate to comfort and fit, all manufacture is geared to the average size of human proportion. There is an ideal proportion, a mean average, and all the endless variations that make us all unique. Mass production is, of course, rules by the mean average with all large objects of manufacture, such as cars and bathtubs, adapted to that measure. On the other hand, clothes have multiple sizes in mass production, recognizing the enormous variations in individual human size. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
