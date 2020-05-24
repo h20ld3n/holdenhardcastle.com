@@ -109,6 +109,40 @@
       			</div>
     		</div>
   		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200522-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>There are proportional formulas on which scale can be based;</h3>
+						<p>The most famous is the Greek "Golden Mean." This is a mathematical formula of great visual elegance. it is arrived at by bisecting a square and using the diagonal of one half of the square as a radius to extend the dimensions of the square to become a "Golden Rectangle." In the proportion arrived at, a:b=c:a. The "Golden Mean" was used by the Greeks to design most of what they built from the classic Greek amphora to the floor plans of the temples and their elevations.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200524-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>There are many other scale systems;</h3>
+						<p>The most outstanding contemporary version was developed by the late French architect, Le Corbusier. His modular unit, on which his entire system is based, is the size of man, and on this proportion, he establishes an average ceiling height, door size, window opening, et cetera. Everything becomes unitized and repeatable. Oddly enough, the unitized system of mass production has these effects built into it, and creative design solutions are often limited by what is available to design with, a limiting factor. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
