@@ -160,6 +160,23 @@
       			</div>
     		</div>
   		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200527-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Representation of dimension in two-dimensional visual formats is also dependent on illusion.</h3>
+						<p>Dimension exists in the real world. We cannot only feel it, but with the aid of our two-eyed stereopticon sight, we can see it. But in all two-dimensional representations of reality in drawing, painting, photography, film, television, there is no actualized dimension; it is only implied. The illusion is reinforced in many ways, but the prime device for simulating dimension is the technical convention of perspective. The effects produced by perspective can be reinforced by tonal manipulation through "chiaroscuro," the dramatic emphasis of light and shade. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
