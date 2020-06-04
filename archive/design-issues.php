@@ -177,6 +177,23 @@
       			</div>
     		</div>
   		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200604-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Perspective has exact formulas with many complicated rules.</h3>
+						<p>It uses lines to plot its effect, but its final intention is to produce the feeling of reality. There are some fairly easy rules and methods that can be demonstrated. Showing how two planes of a cube appear to the eye depends first on establishing the eye level.  </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
