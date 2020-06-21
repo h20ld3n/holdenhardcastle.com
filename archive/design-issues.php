@@ -194,6 +194,40 @@
       			</div>
     		</div>
   		</article>
+		<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200620-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Two vanishing points must be used to express the perspective of a cube with three surfaces insight.</h3>
+						<p>To present perspective adequately would take an enormous amount of explanation. The artist certainly does not use perspective slavishly. The artist uses it; they know it. Ideally, the technical facts of perspective are in mind because of careful study and can be utilized in quite a free way. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+		<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200621-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>In photography, perspective dominates. </h3>
+						<p>The lens has some of the same properties as the eye, and simulation of dimension is one of its prime abilities. But there are some crucial modifications. The eye has a wide peripheral vision, which the camera cannot duplicate.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
