@@ -228,6 +228,23 @@
       			</div>
     		</div>
   		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200622-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The scope of the field of the camera lens is changeable; </h3>
+						<p>That is, what it can see and record is determined by the focal length of its lens. But it cannot match the eye without enormous distortion of a fish-eye lens. The normal lens (3.43) has nowhere near the range of field of the eye, but what it does see is close to the perspective of the eye. The telephoto lens (3.42) can record visual information in ways the eye cannot, collapsing space like an accordion. The wide-angle lens broadens the scope of the field, but covers nowhere near the area of the eyes (3.44) Even though we may observe of the camera that it has its own perspective different from the human eye, one thing is certain; the camera can replicate the environment with startling accuracy and in infinite detail.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
