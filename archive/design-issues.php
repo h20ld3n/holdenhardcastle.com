@@ -245,6 +245,23 @@
       			</div>
     		</div>
   		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200629-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Real dimension is the dominating element in industrial design, crafts, sculpture, architecture, and any visual material in which the total and actual volume must be dealt with.</h3>
+						<p>This is enormously complex and requires an ability to previsualize and plan in full dimension. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
