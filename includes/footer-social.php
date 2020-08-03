@@ -23,7 +23,12 @@
                     	<p>
       						<h3>Awards &amp; Recognition</h3>
       						<ul>
-                            	<li class="h4">American Graphic Design Awards&nbsp;2015</li>
+                            	<li class="h4">Film Sprint Homebound Edition—Documentary&nbsp;2020</li>
+      							<ul>
+                            		<li>Obscure Vinyl Boxset by Viral Media Network (VMN)</li>
+                                	<li><i>"...I loved everything about this. The graphics were perfect...cleverly edited...The use of stock footage and the choice to have a visualizer fill in when there was a VO moment with no footage was great..."</i></li>
+                            	</ul>
+                                <li class="h4">American Graphic Design Awards&nbsp;2015</li>
       							<ul>
                             		<li>Advanced Energy Now 2015 Market Report</li>
                                 	<li>California Advanced Energy Employment Future</li>
@@ -36,11 +41,11 @@
                             		<li>Enhanced e-Book, Silver Award</li>
       								<li>Worse Case Scenario Jr. Interactive Adventure: Everest: You Decide How to Survive</li>
                             	</ul>
-	      						<li class="h4">41st Annual Bookbuilders West Book Show 2012 - Certificate of Excellence</li>
+	      						<li class="h4">41st Annual Bookbuilders West Book Show 2012—Certificate of Excellence</li>
     							<ul>
                             		<li>Worst-Case Scenario Ultimate Adventure: Everest</li>
                             	</ul>
-	      						<li class="h4">Publishing Innovation Awards 2012 - Quality, Excellence, Design (QED)</li>
+	      						<li class="h4">Publishing Innovation Awards 2012—Quality, Excellence, Design (QED)</li>
 								<ul>
                             		<li>Count, Dagmar!</li>
       								<li>Top Pot Hand-Forged Doughnuts</li>
