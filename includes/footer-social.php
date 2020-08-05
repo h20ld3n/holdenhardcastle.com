@@ -16,6 +16,9 @@
 							<dl class="h4"><a href="../archive/david-carson.php">A Conversation</a></dl>
     	  						<dt>with David Carson</dt>
                                 <dd>from EMIGRE</dd>
+                        <dl class="h4"><a href="../archive/design-issues.php">Design Issues</a></dl>
+    	  						<dt>An important personal topic, problem, or difficulty for debate or discussion.</dt>
+                                <dd>The action of supplying or distributing an item for use, sale, or official purposes.</dd>
                             
                         </p>
     				</div>
