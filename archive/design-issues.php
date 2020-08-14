@@ -245,7 +245,7 @@
       			</div>
     		</div>
   		</article>
-			<article>
+		<article>
     		<div class="jumbotron" id="design-issues">
       			<div class="container-fluid">
         			<div class="row">
@@ -258,6 +258,23 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Real dimension is the dominating element in industrial design, crafts, sculpture, architecture, and any visual material in which the total and actual volume must be dealt with.</h3>
 						<p>This is enormously complex and requires an ability to previsualize and plan in full dimension. </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+			<article>
+    		<div class="jumbotron" id="design-issues">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/design-issues/200812-design-issues.png" alt="blurry lights" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Towards a successful understanding of a problem, the design and planning of three-dimensional visual material require many steps to think through and project possible solutions.</h3>
+						<p>First, there is the sketch, usually in perspective. There may be endless sketches, loose and probing, and uncommitted. Second, there are the working drawings that are rigid and mechanical. The technical and engineering requirements of building or manufacturing require these in careful detail. Last, though it is expensive, building a model is probably the only way people with little sensitivity to visualization can be shown how something will appear in its completed form. </p>
                     </div>
       			</div>
     		</div>
