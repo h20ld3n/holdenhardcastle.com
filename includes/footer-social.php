@@ -116,7 +116,10 @@
                         </ul>
                         <h3>Insperation &amp; Other Sites</h3>
                             <ul>
-								<li><a href="https://blackmusiclibrary.com/" target="_blank"><strong>The Black Music History&nbsp;Library.</strong></a></li>
+								<li><a href="https://adoptadrain.sfwater.org/" target="_blank"><strong>Adopt A Drain</strong></a></li>
+                                <li>Adopt one of San Francisco's 25,000+ storm drains and pledged to help keep it clear of leaves and debris. Adopt a Drain and help the City avoid flooding.</li>
+								<li>&nbsp;</li>
+                                <li><a href="https://blackmusiclibrary.com/" target="_blank"><strong>The Black Music History&nbsp;Library.</strong></a></li>
                                 <li>A living collection of books, articles, documentaries, series, podcasts and more about the Black origins of traditional and popular music dating from the 18th century to present day. Resources are organized chronologically and by genre for ease of browsing.</li>
 								<li>&nbsp;</li>
                               <li><a href="https://deckofbrilliance.com/" target="_blank"><strong>Deck Of Brilliance</strong></a></li>
