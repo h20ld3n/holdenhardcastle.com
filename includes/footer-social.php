@@ -130,8 +130,11 @@
                               <li><a href="http://flexboxfroggy.com/" target="_blank"><strong>Flexbox Froggy</strong></a></li>
                                 <li>A game where you help Froggy and friends by writing CSS code! <i>I am currently on level 8</i>.</li>
                                 <li>&nbsp;</li>
-                              <li><a href="https://mckups.com/" target="_blank"><strong>MCKUPS</strong></a></li>
+                                <li><a href="https://mckups.com/" target="_blank"><strong>MCKUPS</strong></a></li>
                                 <li>They have a lot of free mockups. Stay safe, stay well!</li>
+                                <li>&nbsp;</li>
+                                <li><a href="https://platforma.ws/" target="_blank"><strong>Platforma 2</strong></a></li>
+                                <li>Website Wireframe Kit for Sketch</li>
                                 <li>&nbsp;</li>
                                 <li><a href="https://roadmap.manager-tools.com/home" target="_blank"><strong>Roadmap Manager Tools</strong></a></li>
                                 <li>Weekly podcasts designed to give managers and individual contributors actionable recommendations...</li>
