@@ -136,6 +136,9 @@
                                 <li><a href="https://mckups.com/" target="_blank"><strong>MCKUPS</strong></a></li>
                                 <li>They have a lot of free mockups. Stay safe, stay well!</li>
                                 <li>&nbsp;</li>
+                                <li><a href="https://thenounproject.com/" target="_blank"><strong>The Noun Project</strong></a></li>
+                                <li>Building a global visual language that unites us.</li>
+                                <li>&nbsp;</li>
                                 <li><a href="https://platforma.ws/" target="_blank"><strong>Platforma 2</strong></a></li>
                                 <li>Website Wireframe Kit for Sketch</li>
                                 <li>&nbsp;</li>
