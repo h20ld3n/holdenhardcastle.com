@@ -26,21 +26,28 @@
                     	<p>
       						<h3>Awards &amp; Recognition</h3>
       						<ul>
-                                <li class="h4">Film Sprint Homebound Edition—Anything But Cameras (ABC)&nbsp;2020</li>
+                                <li class="h4">Film Sprint: Sprint Actually</li>
+      							<ul>
+                            		<li>Swiping For Love</li>
+                                    <li>Best Editing</li>
+                                    <li>&nbsp;</li>
+                                    <li><i>"Excellent use of locations and lighting. Loved the concept...The text graphics look really nice...Love the music choices here, and the use of the chapters, and the constant feed of the main character's life in the upper left corner...Technically, this was very impressive. The editing with double Holden was seamless, and overall effects were effective...The on-screen "texts" and graphics out the gate are awesome especially the way we see them all come in at the same time as sort of equally valuable or at least equally draining on the main character's time. Oh my gosh two Holdens?? The DREAM! One of them a satire of annoying Bay Area people? THE DOUBLE DREAM!! The horror of having to spend your day by yourself—the commentary on quarantine life. The way we see what he choose to respond to vs what he doesn't. The way value is applied in terms of photos vs monikers. I like this music a lot—cliche in a fun way because...holy how did you just throw a baseball to yourself and pan to yourself missing catching it? You're the best. Your acting is so freaking impressive like... against ... yourself. "You never think about what's right in front of you" SIGH Holden I have *chills* this is soimpactful in a both shallow AND deep way. I love this. I love these shots of you at the water with the sound over it - HOLDEN. Holden. Holden. This was awesome."</i></li>
+                            	</ul>
+                                <li class="h4">Film Sprint: Homebound Edition—Anything But Cameras (ABC)&nbsp;2020</li>
       							<ul>
                             		<li>Files Of Exile by Four 11 Productions &amp; Champagne Dreams</li>
                                     <li>Best Sound Design</li>
                                     <li>&nbsp;</li>
                                     <li><i>"Outstanding achievement in the field of jargon...love the production value added with the graphics in the hacking section - great use of screen capture and the Hitchcock zoom looked awesome! I really liked the stream of consciousness computer jargon...love the ridiculous tech talk...NOTHING happened but I couldn't turn away!!!!! WOOOW incredible art design. Liked how the tech/coding was used as like an aesthetic accent that mirrored the tone of the short. The scrambled code overlaid with itself really added a sense of mania and confusion, which complimented my own fake-jargon-induced confusion quite nicely. Good stuff!! Super creative. Sound design is not to be slept on...I appreciated the film noir choices and the sparing use of color was impactful. The jumbled graphics and jumbled jargon of the script worked really well together...loved the character and world building established by very little - and awesome touches of humor especially at the end...I loved starting with the credits here. Classic Noir vibes. Really well-cut conversation and, as always, loved the jargon! I Really liked the stream of consciousness...The graphics are also good for such a short time, and I like the 40s feeling font....I liked that as she is so urgent the guy is still treating this weird intrusion as part of his day to day instead of being a big deal...the voice over lines up with Holden's face perfectly...smooth transitions, less jarring...liked the voiceover and subtlety of the performance. Dude going through mundane thoughts over and over made the interruption of the woman in the screen especially jarring...clean cuts and a good visual sense of humor...I thought the narrative of this edit was really easy to follow - the heist aspect of it all stood out as well as the choice to have it wholly in black and white which made it very noir. I loved the ticketing monologue at the end - very real to life to experiences with IT folks and honestly the writing is sharp - I feel like it's hard to make that much consistent rhythmic nonsense.</i></li>
                             	</ul>
-                                <li class="h4">Film Sprint Homebound Edition—Wild Card&nbsp;2020</li>
+                                <li class="h4">Film Sprint: Homebound Edition—Wild Card&nbsp;2020</li>
       							<ul>
                             		<li>Entry_3410 by Four 11 Productions</li>
                                     <li>Best Cinematography, Editing, Sound Design, &amp; Trailer Moment</li>
                                     <li>&nbsp;</li>
                                     <li><i>"Loved the use of tape damage filters and the video distortion...really enjoyed it. Fun montage...loved the shot at the end where you couldn't force enjoyment. Kept the storytelling really tight and the whole project was really impressive...Excellent editing. Great, creative use of the space...Loved the world-building...Kudos for making something so watchable...The subject matter was so real, and it really struck a nerve. I loved the montage break from the tension...I really liked this...the shooting / cutting really gave a lot of tension...The video/audio distortion was really well done...this was solid."</i></li>
                             	</ul>
-                            	<li class="h4">Film Sprint Homebound Edition—Documentary&nbsp;2020</li>
+                            	<li class="h4">Film Sprint: Homebound Edition—Documentary&nbsp;2020</li>
       							<ul>
                             		<li>Obscure Vinyl Boxset by Viral Media Network&nbsp;(VMN)</li>
                                     <li>Best Unheralded Film Of The Summer</li>
@@ -122,16 +129,19 @@
                                 <li><a href="https://blackmusiclibrary.com/" target="_blank"><strong>The Black Music History&nbsp;Library.</strong></a></li>
                                 <li>A living collection of books, articles, documentaries, series, podcasts and more about the Black origins of traditional and popular music dating from the 18th century to present day. Resources are organized chronologically and by genre for ease of browsing.</li>
 								<li>&nbsp;</li>
-                              <li><a href="https://deckofbrilliance.com/" target="_blank"><strong>Deck Of Brilliance</strong></a></li>
+                                <li><a href="https://deckofbrilliance.com/" target="_blank"><strong>Deck Of Brilliance</strong></a></li>
                                 <li>Idea generation tools for creative professionals. By Juggi Ramakrishnan and Todd McCracken</li>
                                 <li>&nbsp;</li>
-                              <li><a href="https://designs.ai/" target="_blank"><strong>Designs.ai</strong></a></li>
+                                <li><a href="https://designs.ai/" target="_blank"><strong>Designs.ai</strong></a></li>
                                 <li>Part of a creative ecosystem on a mission to make design easy for everyone.</li>
                                 <li>&nbsp;</li>
-                              <li><a href="https://designmodo.com/" target="_blank"><strong>Designmodo</strong></a></li>
+                                <li><a href="https://designmodo.com/" target="_blank"><strong>Designmodo</strong></a></li>
                                 <li>&nbsp;</li>
-                              <li><a href="http://flexboxfroggy.com/" target="_blank"><strong>Flexbox Froggy</strong></a></li>
+                                <li><a href="http://flexboxfroggy.com/" target="_blank"><strong>Flexbox Froggy</strong></a></li>
                                 <li>A game where you help Froggy and friends by writing CSS code! <i>I am currently on level 8</i>.</li>
+                                <li>&nbsp;</li>
+                                <li><a href="https://www.filmsprint.com/" target="_blank"><strong>Film Sprint</strong></a></li>
+                                <li>Short films. Short notice.</li>
                                 <li>&nbsp;</li>
                                 <li><a href="https://mckups.com/" target="_blank"><strong>MCKUPS</strong></a></li>
                                 <li>They have a lot of free mockups. Stay safe, stay well!</li>

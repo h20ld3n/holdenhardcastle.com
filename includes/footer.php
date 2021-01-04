@@ -19,14 +19,22 @@
 	      					<dl class="h4">Old Dominion University</dl>
     	  						<dt>Bachelor of Fine Arts</dt>
                                 <dd>Graphic Design, Cum Laude</dd>
-	      					<h3>Knowledge / Skills</h3>
+	      					<h3>Knowledge &amp; Skills</h3>
     	  					<ul>
                             	<li>Team Leadership &amp; Motivation, Brand Development, Creative Strategy, User Experience &amp; Interface Design, Digital &amp; Online Marketing, 360 Marketing Campaigns, Art &amp; Creative Direction, Data &amp; Process Driven Design, Concept Development, Content Strategy, Branding &amp; Brand Development, Corporate Identity, Logo Design, User Experience Design (UX), Interaction Design, User Interface Design (UI), Information Architecture, Digital and Online Marketing, Web Design &amp; E-commerce, Advertising Campaigns, Graphic Design, Adobe Creative Suite, Sketch, Premiere, After Effects, Media Encoder, Microsoft Office 365, iWork—Keynote, Pages, Numbers, Front-end Web Development, HTML5, CSS, JavaScript, CRM—Hubspot, Salesforce, Mailchimp, CMS—WordPress, Joomla, Drupal, Cloud and File Storage Systems, Dropbox, AWS, OneDrive, Project Management, Basecamp, Asana, Trello, Github, MAMP, Digital Media, Web Development, Film &amp; Video Production, Print Production Process, Out-of-Home Advertising, Outdoor Advertising, Vendor Management, Concept Development, Time Management, Planning, Problem Solving</li>
                           	</ul>
 
       						<h3>Awards &amp; Recognitions</h3>
       						<ul>
-                            	<li class="h4">American Graphic Design Awards&nbsp;2015</li>
+                            	<li class="h4">Film Sprint&nbsp;2020 </li>
+      							<ul>
+                            		<li></li>
+                                	<li>Swiping For Love—Best Editing</li>
+                                	<li>Files Of Exile—Best Sound Design</li>
+                                	<li>Entry_3410—Best Cinematography, Editing, Sound Design, &amp; Trailer Moment</li>
+                                	<li>Obscure Vinyl Boxset—Best Unheralded Film Of The Summer</li>
+                            	</ul>
+                                <li class="h4">American Graphic Design Awards&nbsp;2015</li>
       							<ul>
                             		<li>Advanced Energy Now 2015 Market Report</li>
                                 	<li>California Advanced Energy Employment Future</li>
@@ -71,8 +79,18 @@
     				<div class="col-md-7">
       					<p>
                         	<h3>Experience</h3>
+                        
       						<dl>
-                            	<dt class="h4">Tag @ Union Bank—Art Director</dt>
+                            	<dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
+                                <dd>(2019-Present)<br>
+                                Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Responsible for setting annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
+                                <dd style="padding-top: .66em";><strong>Accomplishments</strong>
+                                <ul style="list-style-type: disc; padding-left: 1.5em;">
+                                	<li>Implemented and revitalized outreach programs to attract corporate sponsors, high-profile collaborators, and community members. With consistent and focused messaging the chapter has seen a 28% growth in membership since October 2019.</li>
+                                	<li>Partnering and collaborating with local businesses and corporations to help strengthen brand awareness, drive member acquisition and retention, and increase donation volumes</li>
+                                </ul>
+                                </dd>
+                                <dt class="h4">Tag @ Union Bank—Art Director</dt>
                                 <dd>(2016-2020)<br>
                                 A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
@@ -87,8 +105,7 @@
                                 <dd>(2016)<br>
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
                             	<dt class="h4">Advanced Energy Economy—Creative Director</dt>
-      							<dd>(2013-2016)<br>
-                               	Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
+      							<dd>(2013-2016) Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
 								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Managed files and cloud repositories using Dropbox and Github. The use of Trello and Asana project management software and a consolidated file system allowed for automatic file updates, greater transparency, and a more effecient process. </li>
