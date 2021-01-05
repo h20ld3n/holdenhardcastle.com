@@ -5,7 +5,7 @@
     				<div class="col-md-5">
                     	<p>
                         	<h3>About</h3>
-                 			With over twenty years of design and strategic art direction, I am an experienced leader who works with high-performing companies across a variety of industries. By working with inspired and driven orginizations, I aspire to create beautiful, exciting, and positive experiences. Whether it is bringing people together through an application, or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.
+                 			With over twenty years of design and strategic art direction, I am an experienced leader who works with high-performing companies across a variety of industries. By working with inspired and driven organizations, I aspire to create beautiful, exciting, and positive experiences. Whether it is bringing people together through an application, or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.
                             <dd style="padding-top: .66em";><strong>Career Highlights</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Experienced and accomplished creative director—concepting and developing award-winning marketing campaigns and communications across a variety of industries, platforms, and mediums.</li>
