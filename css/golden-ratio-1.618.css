@@ -176,6 +176,11 @@ img {
   background-repeat: repeat-x;
   background-size: auto 62.97233%; }
 
+#removable-disks {
+  background-image: linear-gradient(rgba(248, 217, 72), rgba(147 149 151));
+  background-repeat: repeat-x;
+  background-size: auto 62.97233%; }
+
 #description {
   font-size: 21px;
   font-weight: 200; }

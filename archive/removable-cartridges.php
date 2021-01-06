@@ -25,7 +25,7 @@
 		<section>
 		<h2>Hotel California</h2>
 			<article>
-    		<div class="jumbotron" id="design-issues">
+    		<div class="jumbotron" id="removable-disks">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/design-issues/200514-design-issues.png" alt="random pages from my sketchbook" class="img-responsive">

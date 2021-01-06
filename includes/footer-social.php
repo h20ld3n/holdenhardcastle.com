@@ -101,9 +101,9 @@
                         </ul>
                         <h3>Portfolios</h3>
                             <ul>
-                                <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>               <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
+                                <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>             <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
                                 <li><a href="https://www.coroflot.com/HoldenHardcastle" target="_blank"><span class="social social-rss"></span>coroflot</a></li>
-                                <li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li>
+                                <!--li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li-->
                                 <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li>
 
                         </ul>
@@ -162,11 +162,7 @@
                                 <li>Peter J. Wagoner created a tool to help us come up with ideas. It's not a substitute for strategy or insight – it's a substitute for pulling another all nighter.</li>
                                 <li>&nbsp;</li>
                               <li><a href="http://tevko.github.io/practice/" target="_blank"><strong>Tevko</strong></a></li>
-                                <li>Practice your skills by getting random suggestions or creative inspiration!</li>
-                                
-                                
-                            
-                                
+                                <li>Practice your skills by getting random suggestions or creative inspiration!</li>  
                         </ul>
                      	</p>
     				</div>
