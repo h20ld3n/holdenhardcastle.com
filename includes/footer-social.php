@@ -19,6 +19,9 @@
                         <dl class="h4"><a href="../archive/design-issues.php">Design Issues</a></dl>
     	  						<dt>An important personal topic, problem, or difficulty for debate or discussion.</dt>
                                 <dd>The action of supplying or distributing an item for use, sale, or official purposes.</dd>
+                        <dl class="h4"><a href="../archive/removable-cartridges.php">Removable Cartridges</a></dl>
+    	  						<dt>A hard disk enclosed in a case that can be removed from the disk drive, having more storage than floppy disks.</dt>
+                                <dd>Alternatively referred to as removable storage or removable media, a removable disk is media that enables a user to move data between computers without having to open their computer.</dd>
                             
                         </p>
     				</div>

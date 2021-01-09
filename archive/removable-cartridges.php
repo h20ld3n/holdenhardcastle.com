@@ -28,15 +28,15 @@
     		<div class="jumbotron" id="removable-disks">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/design-issues/200514-design-issues.png" alt="random pages from my sketchbook" class="img-responsive">
+                    	<img src="../images/removable-disks/210109-removable-disks.png" alt="random pages from my sketchbook" class="img-responsive">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Color structure valuation is taught through the color wheel.</h3>
-						<p> The primary colors, yellow, red, blue, and secondary colors, orange, green, violet, are invariably included in such a chart. But it usually also includes expanded mixtures of at least twelve hues. From this simple chart of a color wheel, multiple variations of color hues can be developed, which may or may not suggest to each other under certain circumstances. The judgement of the eye is usually checked on by the hand by actual touching. Is it really smooth, or does it just look that way? Is that an indentation or a raised mark? No wonder there are so many "DO NOT TOUCH!" signs. </p>
+          				<h3>Despite the fact that our total human experience is set in a dimensional world, we tend to think of visualization as mark-making and ignore the special problems of visual problem-solving in terms of dimensions.</h3>
+						<p>The visual element of movement, like dimension, is more often implied in the visual mode than actually expressed. Yet movement is probably one of the most dominant forces in human experience. In fact, it exists only in film, television, the charming mobiles of Alexander Calder, and where something visualized and made has a movement component, like machinery or windows. But techniques can track the eye; the illusion of texture or dimension appears real through the use of intense expression of detail, as in the case of texture, and the use of perspective and intensified light and shade as in the case of dimension. The suggestion of motion in static visual statements is at once harder to achieve without distorting reality while implicit in everything we see. It derives from our complete experience of movement in life. In part, this implied action is projected into static visual information, both psychologically and kinesthetically. After all, like the tonal world of achromatic film, we accept so readily, the static forms of the visual arts are not natural to our experience. This stilled, frozen world is the best we could create until the advent of the motion picture and its miracle of representing movement. But note, even in this form, true movement does not exist as we know it; it lies not in the medium but in the eye of the beholder through the physiological phenomenon of "persistence of vision." Movie film is really a string of still pictures containing slight changes which, when viewed by man in the proper time intervals, are blended together by a holdover factor in seeing so that the movement appears real. </p>
                     </div>
       			</div>
     		</div>
