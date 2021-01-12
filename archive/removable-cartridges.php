@@ -41,6 +41,23 @@
       			</div>
     		</div>
   		</article>
+            <article>
+    		<div class="jumbotron" id="removable-disks">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/removable-disks/210110-removable-disks.png" alt="random pages from my sketchbook" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>According to Typographic Design: Form and Communication</h3>
+						<p>"electronic page design offers designers more possibilities for type manipulation than ever before, resulting in an obligation to know more about the cultural and formal evolution of typography than in times past. Without adequate knowledge of typographic legibility, it is easy for designers to blindly follow fads, succumb to common visual cliches provided by software, or worse yet to thoughtlessly yield to built-in defaults of a computer application."</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
