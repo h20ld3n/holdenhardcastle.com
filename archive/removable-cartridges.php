@@ -58,6 +58,30 @@
       			</div>
     		</div>
   		</article>
+             <article>
+    		<div class="jumbotron" id="removable-disks">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/removable-disks/210114-removable-disks.png" alt="random pages from my sketchbook" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>First principle thinking</h3>
+						<p>
+                            <ol>
+                                <li>breaking down complicated problems and challenges into bare elements</li>
+                                <li>what is the fundamental proposition</li>
+                                <li>the assumption that stands alone</li>
+                                <li>you cannot deduce any other proposition or assumption</li>
+                            </ol>
+                        </p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 		</section>
     <?php include '../includes/footer-social.php';?>
 </main>
