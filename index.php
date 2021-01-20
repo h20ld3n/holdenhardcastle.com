@@ -47,7 +47,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="wlt-ub"><img src="images/tag-ub-email-design-specs.png" alt="Union Bank" class="img-responsive"></a>
+                    	<a name="wlt-ub"><img src="images/tag-ub-email-design-specs.webp" alt="Union Bank" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
@@ -68,7 +68,7 @@
     		<div class="jumbotron" id="bleu-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="images/bleu-dell-emc-hybrid-cloud.png" alt="Bleu Marketing Solutions" class="img-responsive">
+                    	<img src="images/bleu-dell-emc-hybrid-cloud.webp" alt="Bleu Marketing Solutions" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -90,7 +90,7 @@
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="aee"><img src="images/aee-initiatives.png"  alt="Advanced Energy Economy Responsive Website" class="img-responsive"></a>
+                    	<a name="aee"><img src="images/aee-initiatives.webp"  alt="Advanced Energy Economy Responsive Website" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
@@ -111,7 +111,7 @@
     		<div class="jumbotron" id="old-navy-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="images/gap-old-navy-email.png" alt="Old Navy Online Email Campaigns" class="img-responsive">
+                    	<img src="images/gap-old-navy-email.webp" alt="Old Navy Online Email Campaigns" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -133,7 +133,7 @@
     		<div class="jumbotron" id="dictionary-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="images/dictionary.png" alt="Dictionary.com Search Results Redesign" class="img-responsive">
+                    	<img src="images/dictionary.webp" alt="Dictionary.com Search Results Redesign" class="img-responsive">
                    	</div>
       			</div>
     		</div>
