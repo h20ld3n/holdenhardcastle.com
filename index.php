@@ -155,7 +155,7 @@
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="chronicle"><img src="images/history-of-surfing.png"  alt="The History Of Surfing" class="img-responsive"></a>
+                    	<a name="chronicle"><img src="images/history-of-surfing.webp"  alt="The History Of Surfing" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
