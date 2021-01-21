@@ -176,7 +176,7 @@
     		<div class="jumbotron" id="trx-bg">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="trx"><img src="images/trx-drew-brees-app.png" alt="Website and application experience for TRX" class="img-responsive"></a>
+                    	<a name="trx"><img src="images/trx-drew-brees-app.webp" alt="Website and application experience for TRX" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
