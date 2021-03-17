@@ -82,7 +82,7 @@
                         
       						<dl>
                             	<dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
-                                <dd>(2019-Present)<br>
+                                <dd>(2019-Present)
                                 Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Responsible for setting annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
@@ -91,7 +91,7 @@
                                 </ul>
                                 </dd>
                                 <dt class="h4">Tag @ Union Bank—Art Director</dt>
-                                <dd>(2016-2020)<br>
+                                <dd>(2016-2020)
                                 A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
@@ -102,7 +102,7 @@
                                 </ul>
                                 </dd>
                                	<dt class="h4">Bleu Marketing Solutions—Art Director</dt>
-                                <dd>(2016)<br>
+                                <dd>(2016)
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
                             	<dt class="h4">Advanced Energy Economy—Creative Director</dt>
       							<dd>(2013-2016) Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
@@ -114,7 +114,7 @@
                                 </ul>
                                 </dd>
       							<dt class="h4">Gap Inc.—Freelance Sr. Designer</dt>
-      							<dd>(2013)<br>
+      							<dd>(2013)
                                 Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
       							<dt class="h4">Chronicle Books—Dynamic Digital Production Coordinator</dt>
       							<dd>(2010-2013)<br>
@@ -126,7 +126,7 @@
                                 </ul>
                                 </dd>
       							<dt class="h4">TRX / Fitness Anywhere—Creative Manager</dt>
-      							<dd>(2007–2010)<br>
+      							<dd>(2007–2010)
       							Responsible for hiring and managing a six-person video production team and developing best practices for content creation and distribution.</dd>
 								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
@@ -136,13 +136,13 @@
                                 </ul>
                                 </dd>
       							<dt class="h4">REO Company—Creative Lead</dt>
-      							<dd>(2002–2005)<br>
+      							<dd>(2002–2005)
       							Led photographers, printers, and other vendors to design a consistent online and marketing presence.</dd>
                                 <dt class="h4">Four Eleven Productions—Principle Desginer / Owner</dt>
-      							<dd>(2001–2005)<br>
+      							<dd>(2001–2005)
       							Created logos, websites, videos, and various digital assets to support local and national campaigns for San Francisco based artists, non-profits, and startups.</dd>
       							<dt class="h4"><a href="../archive/cbs-marketwatch.php">CBS MarketWatch—Graphic Designer</a></dt>
-                         		<dd>(1999-2001)<br>
+                         		<dd>(1999-2001)
                                 Collaborated with news, and marketing teams to create online and printed materials.</dd>
                            	</dl>
       					</p>
