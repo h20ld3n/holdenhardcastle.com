@@ -23,7 +23,7 @@
     	  						<dt>A hard disk enclosed in a case that can be removed from the disk drive, having more storage than floppy disks.</dt>
                                 <dd>Alternatively referred to as removable storage or removable media, a removable disk is media that enables a user to move data between computers without having to open their computer.</dd>
                         <h3>Books</h3>
-      						<dl class="h4"><a href="https://www.amazon.com/dp/B08XN657DW/ref=cm_sw_em_r_mt_dp_9CMCEQHSDGF3C44RAT4B">Imagitron: First Clash</a></dl>
+      						<dl class="h4"><a href="https://www.amazon.com/dp/B08XN657DW/ref=cm_sw_em_r_mt_dp_9CMCEQHSDGF3C44RAT4B" target="_blank">Imagitron: First Clash</a></dl>
                             	<dt>Author: Joshua Cache</dt>
                                 <dd>Twelve-year-old Jake Starfox is very different from other human kids his age. For one, he lives on the far-off planet of Imagitron, and for another, he possesses powers not even he can control. When children from Earth crash onto Imagitron’s surface, Jake finds himself pulled into a quest that will take him across the lands of his home planet and into the vastness of space to protect the only home he has ever known.</dd>
                         </p>
@@ -96,81 +96,57 @@
     				</div>
                     <div class="col-md-2 col-md-offset-1">
                     	<p>
-      					<h3>Not Just Freelance</h3>	
+      					<h3>Freelance, Portfolios, Networks &amp; Other Sites</h3>	
                             <ul>
-                                <li><a href="https://angel.co/holdenhardcastle" target="_blank"><span class="social social-rss"></span>angel.co</a></li>
-                                <li><a href="https://hired.com/profile.holden-hardcastle" target="_blank"><span class="social social-rss"></span>hired</a></li>
+                                <li><a href="https://angel.co/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> angel.co</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
-                                <li><a href="https://localsolo.com/san-francisco-ca/profile/16124/" target="_blank"><span class="social social-rss"></span>localsolo</a></li>
-                                <li><a href="https://www.patreon.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>patreon</a></li>
-
-                        </ul>
-                        <h3>Portfolios</h3>
-                            <ul>
-                                <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>             <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="social social-rss"></span>cargo collective</a></li>
-                                <!--li><a href="http://holdenhardcastle.dunked.com/" target="_blank"><span class="social social-rss"></span>dunked</a></li-->
-                                <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="social social-rss"></span>ello</a></li>
-
-                        </ul>
-                        <h3>Networks &amp; Other Sites</h3>
-                        <ul>
-                            <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="social social-rss"></span>about.me</a></li>
-                            <li><a href="https://adoptadrain.sfwater.org/" target="_blank"><strong>Adopt A Drain</strong></a></li>
+                                <li><a href="https://www.patreon.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> patreon</a></li>
+                                <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>             <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> cargo collective</a></li>
+                                <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>ello</a></li>
+                            <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> about.me</a></li>
+                            <li><a href="https://adoptadrain.sfwater.org/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span> Adopt A Drain</strong></a></li>
                             <li>Adopt one of San Francisco's 25,000+ storm drains and pledged to help keep it clear of leaves and debris. Adopt a Drain and help the City avoid flooding.</li>
-				            <li>&nbsp;</li>
-                            <li><a href="https://blackmusiclibrary.com/" target="_blank"><strong>The Black Music History&nbsp;Library.</strong></a></li>
+                            <li><a href="https://blackmusiclibrary.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Black Music History&nbsp;Library.</strong></a></li>
                             <li>A living collection of books, articles, documentaries, series, podcasts and more about the Black origins of traditional and popular music dating from the 18th century to present day. Resources are organized chronologically and by genre for ease of browsing.</li>
-				            <li>&nbsp;</li>
-                            <li><a href="https://creatively.life/hhardcastle" target="_blank"><span class="social social-rss"></span>creatively</a></li>   
-				            <li><a href="https://deckofbrilliance.com/" target="_blank"><strong>Deck Of Brilliance</strong></a></li>
+                            <li><a href="https://creatively.life/hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;creatively</a></li>   
+				            <li><a href="https://deckofbrilliance.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Deck Of Brilliance</strong></a></li>
                             <li>Idea generation tools for creative professionals. By Juggi Ramakrishnan and Todd McCracken</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://designs.ai/" target="_blank"><strong>Designs.ai</strong></a></li>
+                            <li></li>
+                            <li><a href="https://designs.ai/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designs.ai</strong></a></li>
                             <li>Part of a creative ecosystem on a mission to make design easy for everyone.</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://designmodo.com/" target="_blank"><strong>Designmodo</strong></a></li>
-                            <li>&nbsp;</li>
+                            <li><a href="https://designmodo.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designmodo</strong></a></li>
                             <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
-                            <li><a href="http://flexboxfroggy.com/" target="_blank"><strong>Flexbox Froggy</strong></a></li>
+                            <li><a href="http://flexboxfroggy.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Flexbox Froggy</strong></a></li>
                             <li>A game where you help Froggy and friends by writing CSS code! <i>I am currently on level 8</i>.</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://www.filmsprint.com/" target="_blank"><strong>Film Sprint</strong></a></li>
+                            <li><a href="https://www.filmsprint.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Film Sprint</strong></a></li>
                             <li>Short films. Short notice.</li>
-                            <li>&nbsp;</li>
                             <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
-                            <li><a href="https://www.goodreads.com/user/show/69130149-holden-hardcastle" target="_blank"><span class="social social-github"></span>goodreads</a></li>
-                            <li><a href="http://en.gravatar.com/h20ld3n" target="_blank"><span class="social social-rss"></span>gravatar</a></li>
+                            <li><a href="https://www.goodreads.com/user/show/69130149-holden-hardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;goodreads</a></li>
+                            <li><a href="http://en.gravatar.com/h20ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;gravatar</a></li>
                             <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
-                            <li><a href="https://lunchclub.com/?invite_code=holdenh1" target="_blank"><span class="social social-rss"></span>lunchclub</a></li>
-                            <li><a href="https://mstdn.social/web/accounts/214145" target="_blank"><span class="social social-twitter"></span>mastadon</a></li>
-                            <li><a href="https://mckups.com/" target="_blank"><strong>MCKUPS</strong></a></li>
+                            <li><a href="https://lunchclub.com/?invite_code=holdenh1" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;lunchclub</a></li>
+                            <li><a href="https://mstdn.social/web/accounts/214145" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;mastadon</a></li>
+                            <li><a href="https://mckups.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;MCKUPS</strong></a></li>
                             <li>They have a lot of free mockups. Stay safe, stay well!</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="social social-rss"></span>medium</a></li>
-                            <li><a href="https://thenounproject.com/" target="_blank"><strong>The Noun Project</strong></a></li>
+                            <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;medium</a></li>
+                            <li><a href="https://thenounproject.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Noun Project</strong></a></li>
                             <li>Building a global visual language that unites us.</li>
-                            <li>&nbsp;</li>
                             <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
-                            <li><a href="https://platforma.ws/" target="_blank"><strong>Platforma 2</strong></a></li>
+                            <li><a href="https://platforma.ws/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Platforma 2</strong></a></li>
                             <li>Website Wireframe Kit for Sketch</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://www.rinse.com/?kid=QNVA6BZY9H" target="_blank"><strong>Rinse</strong></a></li>
+                            <li><a href="https://www.rinse.com/?kid=QNVA6BZY9H" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Rinse</strong></a></li>
                             <li>Your Dry Cleaning and Laundry. Done. Rinse picks up, cleans, and delivers. Now you have time for what really matters.</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://roadmap.manager-tools.com/home" target="_blank"><strong>Roadmap Manager Tools</strong></a></li>
+                            <li><a href="https://roadmap.manager-tools.com/home" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Roadmap Manager Tools</strong></a></li>
                             <li>Weekly podcasts designed to give managers and individual contributors actionable recommendations...</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://smartmockups.com/" target="_blank"><strong>Smartmockups</strong></a></li>
+                            <li><a href="https://smartmockups.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Smartmockups</strong></a></li>
                             <li>Product Mockup Generator</li>
-                            <li>&nbsp;</li>
-                            <li><a href="https://www.peterjwagoner.com/starters-concepting-cards" target="_blank"><strong>Starter Concept Cards</strong></a></li>
+                            <li><a href="https://www.peterjwagoner.com/starters-concepting-cards" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Starter Concept Cards</strong></a></li>
                             <li>Peter J. Wagoner created a tool to help us come up with ideas. It's not a substitute for strategy or insight – it's a substitute for pulling another all nighter.</li>
-                            <li>&nbsp;</li>
-                            <li><a href="http://tevko.github.io/practice/" target="_blank"><strong>Tevko</strong></a></li>
+                            <li><a href="http://tevko.github.io/practice/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Tevko</strong></a></li>
                             <li>Practice your skills by getting random suggestions or creative inspiration!</li>  
                             <li><a href="http://h0ld3n.tumblr.com/" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
 				            <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
-                            <li><a href="https://www.screenaustralia.gov.au/the-screen-guide/p/holden-hardcastle/27168/" target="_blank"><span class="social social-rss"></span>screen australia</a></li>       
+                            <li><a href="https://www.screenaustralia.gov.au/the-screen-guide/p/holden-hardcastle/27168/" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;screen australia</a></li>       
                         </ul>
                      	</p>
     				</div>
