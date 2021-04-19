@@ -23,12 +23,12 @@
 	</header>
 	<main>
 	<section>
-  		<h2>Dell EMC Hybrid Cloud and VCE Customer Value Infographics</h2>
+  		<h2>Self Portrait: A La Man</h2>
   		<article>
-    		<div class="jumbotron" id="bleu-blue">
+    		<div class="jumbotron" id="kirt-hardcaste">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/475-477-self-portrait-a-la-man.png" alt="self portrait: a la man #1 & #2" class="img-responsive">
+                    	<img src="../images/kirt-hardcastle/475-477-self-portrait-a-la-man.png" alt="self portrait: a la man #1 & #2" class="img-responsive" id="475-477">
                     </div>
       			</div>
     		</div>
@@ -36,6 +36,22 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Self Portrait: A La Man &#35;1 &amp; &#35;2</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/479-481-self-portriat-a-la-man.png" alt="self portrait: a la man #1 & #2" class="img-responsive" id="479-481">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Self Portrait: A La Man &#35;3 &amp; &#35;4</h3>
                     </div>
       			</div>
     		</div>
