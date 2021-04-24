@@ -103,34 +103,35 @@
                                 <li><a href="https://www.patreon.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> patreon</a></li>
                                 <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>             <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> cargo collective</a></li>
                                 <li><a href="https://ello.co/h0ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>ello</a></li>
-                            <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> about.me</a></li>
-                            <li><a href="https://adoptadrain.sfwater.org/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span> Adopt A Drain</strong></a></li>
-                            <li>Adopt one of San Francisco's 25,000+ storm drains and pledged to help keep it clear of leaves and debris. Adopt a Drain and help the City avoid flooding.</li>
-                            <li><a href="https://blackmusiclibrary.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Black Music History&nbsp;Library.</strong></a></li>
-                            <li>A living collection of books, articles, documentaries, series, podcasts and more about the Black origins of traditional and popular music dating from the 18th century to present day. Resources are organized chronologically and by genre for ease of browsing.</li>
-                            <li><a href="https://creatively.life/hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;creatively</a></li>   
-				            <li><a href="https://deckofbrilliance.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Deck Of Brilliance</strong></a></li>
-                            <li>Idea generation tools for creative professionals. By Juggi Ramakrishnan and Todd McCracken</li>
-                            <li></li>
-                            <li><a href="https://designs.ai/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designs.ai</strong></a></li>
-                            <li>Part of a creative ecosystem on a mission to make design easy for everyone.</li>
-                            <li><a href="https://designmodo.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designmodo</strong></a></li>
-                            <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
-                            <li><a href="http://flexboxfroggy.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Flexbox Froggy</strong></a></li>
-                            <li>A game where you help Froggy and friends by writing CSS code! <i>I am currently on level 8</i>.</li>
-                            <li><a href="https://www.filmsprint.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Film Sprint</strong></a></li>
-                            <li>Short films. Short notice.</li>
-                            <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
-                            <li><a href="https://www.goodreads.com/user/show/69130149-holden-hardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;goodreads</a></li>
-                            <li><a href="http://en.gravatar.com/h20ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;gravatar</a></li>
-                            <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
-                            <li><a href="https://lunchclub.com/?invite_code=holdenh1" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;lunchclub</a></li>
-                            <li><a href="https://mstdn.social/web/accounts/214145" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;mastadon</a></li>
-                            <li><a href="https://mckups.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;MCKUPS</strong></a></li>
-                            <li>They have a lot of free mockups. Stay safe, stay well!</li>
-                            <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;medium</a></li>
-                            <li><a href="https://thenounproject.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Noun Project</strong></a></li>
-                            <li>Building a global visual language that unites us.</li>
+                                <li><a href="https://about.me/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> about.me</a></li>
+                                <li><a href="https://adoptadrain.sfwater.org/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span> Adopt A Drain</strong></a></li>
+                                <li>Adopt one of San Francisco's 25,000+ storm drains and pledged to help keep it clear of leaves and debris. Adopt a Drain and help the City avoid flooding.</li>
+                                <li><a href="https://blackmusiclibrary.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Black Music History&nbsp;Library.</strong></a></li>
+                                <li>A living collection of books, articles, documentaries, series, podcasts and more about the Black origins of traditional and popular music dating from the 18th century to present day. Resources are organized chronologically and by genre for ease of browsing.</li>
+                                <li><a href="https://creatively.life/hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;creatively</a></li>   
+				                <li><a href="https://deckofbrilliance.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Deck Of Brilliance</strong></a></li>
+                                <li>Idea generation tools for creative professionals. By Juggi Ramakrishnan and Todd McCracken</li>
+                                <li></li>
+                                <li><a href="https://designs.ai/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designs.ai</strong></a></li>
+                                <li>Part of a creative ecosystem on a mission to make design easy for everyone.</li>
+                                <li><a href="https://designmodo.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designmodo</strong></a></li>
+                                <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
+                                <li><a href="http://flexboxfroggy.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Flexbox Froggy</strong></a></li>
+                                <li>A game where you help Froggy and friends by writing CSS code! <i>I am currently on level 8</i>.</li>
+                                <li><a href="https://www.filmsprint.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Film Sprint</strong></a></li>
+                                <li>Short films. Short notice.</li>
+                                <li><a href="https://github.com/h20ld3n" target="_blank"><span class="social social-github"></span>github</a></li>
+                                <li><a href="https://www.goodreads.com/user/show/69130149-holden-hardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;goodreads</a></li>
+                                <li><a href="http://en.gravatar.com/h20ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;gravatar</a></li>
+                                <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
+                                <li><a href="https://lunchclub.com/?invite_code=holdenh1" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;lunchclub</a></li>
+                                <li><a href="https://mstdn.social/web/accounts/214145" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;mastadon</a></li>
+                                <li><a href="https://mckups.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;MCKUPS</strong></a></li>
+                                <li>They have a lot of free mockups. Stay safe, stay well!</li>
+                                <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;medium</a></li>
+                                <li><a href="https://thenounproject.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Noun Project</strong></a></li>
+                                <li>Building a global visual language that unites us.</li>
+                                <li><a href="https://opensea.io/collection/kirt-hardcastle-paintings" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;OpenSea.io</a></li>
                             <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
                             <li><a href="https://platforma.ws/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Platforma 2</strong></a></li>
                             <li>Website Wireframe Kit for Sketch</li>
