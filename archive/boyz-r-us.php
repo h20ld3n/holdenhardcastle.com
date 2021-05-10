@@ -15,7 +15,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>BOYZ 'R' US</h1>
         				<h2>Adapted from the novel by Scott Monk</h2>
-                   		<p>Screenplay by Holden Hardcastle. 3rd Draft.</p>
+                   		<p>Screenplay by Holden Hardcastle. 4th Draft.</p>
   					</div>
                 </div>
  			</div>
