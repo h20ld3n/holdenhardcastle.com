@@ -28,6 +28,26 @@
     		<div class="jumbotron" id="kirt-hardcaste">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/kirt-hardcastle/009-holy-ghost.webp" alt="the holy ghost" class="img-responsive" id="009">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Holy Ghost</h3>
+                        <p>Chatting with a close friend about faith. Kirt was a big fan of existentialism.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        </section>
+        <section>
+  		<h2>Self Portrait: A La Man</h2>
+  		<article>
+    		<div class="jumbotron" id="kirt-hardcaste">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/kirt-hardcastle/475-477-self-portrait-a-la-man.webp" alt="self portrait: a la man #1 & #2" class="img-responsive" id="475-477">
                     </div>
       			</div>
@@ -44,7 +64,7 @@
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/479-481-self-portriat-a-la-man.webp" alt="self portrait: a la man #3 & #2" class="img-responsive" id="479-481">
+                    	<img src="../images/kirt-hardcastle/479-481-self-portriat-a-la-man.webp" alt="self portrait: a la man #3 & #4" class="img-responsive" id="479-481">
                     </div>
       			</div>
     		</div>
@@ -60,7 +80,7 @@
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/483-484-self-portriat-a-la-man.webp" alt="self portrait: a la man #5 & #26" class="img-responsive" id="483-484">
+                    	<img src="../images/kirt-hardcastle/483-484-self-portriat-a-la-man.webp" alt="self portrait: a la man #5 & #6" class="img-responsive" id="483-484">
                     </div>
       			</div>
     		</div>
@@ -76,7 +96,7 @@
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/486-self-portriat-a-la-man.webp" alt="self portrait: a la man #5 & #26" class="img-responsive" id="486">
+                    	<img src="../images/kirt-hardcastle/486-self-portriat-a-la-man.webp" alt="self portrait: a la man #7" class="img-responsive" id="486">
                     </div>
       			</div>
     		</div>
