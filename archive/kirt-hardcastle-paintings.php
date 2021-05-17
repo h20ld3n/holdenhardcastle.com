@@ -23,7 +23,7 @@
 	</header>
 	<main>
 	<section>
-  		<h2>Self Portrait: A La Man</h2>
+  		<h2>Religion</h2>
   		<article>
     		<div class="jumbotron" id="kirt-hardcaste">
       			<div class="container-fluid">
@@ -37,6 +37,26 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The Holy Ghost</h3>
                         <p>Chatting with a close friend about faith. Kirt was a big fan of existentialism.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        </section>
+        	<section>
+  		<h2>Religion</h2>
+  		<article>
+    		<div class="jumbotron" id="kirt-hardcaste">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/163-american-flag.webp" alt="the american flag" class="img-responsive" id="163">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The American Flag</h3>
+                        <p>When you invert the flag it signals disaster or distress.</p>
                     </div>
       			</div>
     		</div>
