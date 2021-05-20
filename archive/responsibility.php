@@ -14,7 +14,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>The Artist Responsibility To Original And Adapted Works</h1>
         				<h2>Where do these responsibilites end?</h2>
-                   		<p>November 3, 2006</p>
+                   		<p>Originally published 11.2006 / Updated 05.2021</p>
   					</div>
                 </div>
  			</div>
@@ -161,6 +161,16 @@
                         <p>The character struggles in "Chopper" and "City Of God" are external. In "Somersault," Heidi goes through the same internal battles as Mitch does in "Boyz 'R' Us." It's disturbing to see the young girl struggle with her age, being an outcast, and the innocence she possesses. She feels alone and isolated in the world and is looking for someone, anyone, to understand and accept her. Heidi constantly puts herself into situations with other people that have an understanding of the world, and she craves their attention. Heidi's major flaw is that she cannot handle being ignored or not being the focus. As with most teenagers, at some point in their lives, there is no middle ground. She doesn't have a moral grounding. She is just a confused kid who cuts and runs every time something goes wrong. In "Boyz 'R' Us," Mitch has just discovered his moral grounding but is struggling with who he is and letting go of his past and innocence.</p>
                         <p>When adapting "Leader of the Pack, the story and message of the original song simply became a base for characters and situations to live. Mark "Chopper" Read may or may not have taken liberties with stories in his autobiography. I would guess that most people adapt the stories they tell to make them more interesting. They are leaving out all the boring in-between bits and the minor details. When creating the first draft of "Boyz 'R' Us" the story and text needed to be adapted to reach the target audience and deliver a message. But what does adaptation mean to critics, my target audience, and me? </p>
                         <h3>Adaptation</h3>
+                        <p>There is a misconception held by the general public that films created, based on, and adapted from novels or any other text should follow the original work, page for page, line for line, and word for word. In most cases, critics disagree, "you cannot simply transpose characters from page to screen."<sup>9</sup> There are a few examples where the original works are followed with fidelity. "The Godfather" films are loyal to the book, published by Penguin Group and written by Mario Puzo of the same name.<sup>10</sup> Brokeback Mountain also follows the original text with fidelity. With "Brokeback Mountain," the original text was only 27 pages long. The original work was a treatment. Rather than take away and pull out the extraneous bits from the story to make it fit the silver screen, Annie Proulx and Larry McMurtry were able and required to develop and embellish on characters and scenes.<sup>11</sup></p>
+                         <hr align="left" size="1">
+                        <p><small>
+                            <ul>
+                                <li>9. Bluestone, G., Novels Into Films (Berkley and Los Angeles: University of California Press, 1971), p. 23.</li>
+                                <li>10. The Godfather Trilogy Bonus Material, 2001.</li>
+                                <li>11. McMurtry, Larry, Adapting Brokeback Mountain (New York: University of Scribner, 2005), p. 146.</li>
+                            </ul>
+                            </small></p>
+                        <p>&nbsp;</p>
                     </div>
       			</div>
     		</div>
