@@ -41,9 +41,26 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcaste">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/011-the-apocalypse.webp" alt="the apocalypse" class="img-responsive" id="011">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Apocalypse &#35;1</h3>
+                        <p>Proceeding toward the Apocalypse—Kirt come up with the idea and assemble them like a collage using papier-mâché. The whole process took 3-4 mos. to complete.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         	<section>
-  		<h2>Religion</h2>
+  		<h2>Social Issues</h2>
   		<article>
     		<div class="jumbotron" id="kirt-hardcaste">
       			<div class="container-fluid">
@@ -63,7 +80,7 @@
   		</article>
         </section>
         <section>
-  		<h2>Self Portrait: A La Man</h2>
+  		<h2>Self Portraits</h2>
   		<article>
     		<div class="jumbotron" id="kirt-hardcaste">
       			<div class="container-fluid">
