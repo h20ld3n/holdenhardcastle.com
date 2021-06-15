@@ -58,6 +58,22 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcaste">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/015-the-four-horsemen.webp" alt="the four horsemen" class="img-responsive" id="015">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Four Horsemen of the Apocalypse</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         	<section>
   		<h2>Social Issues</h2>

@@ -62,6 +62,12 @@ ol.start li:before, ol.continue li:before {
 img {
   position: relative; }
 
+.video-fluid {
+    padding: 1em;
+    border-radius: 20px; 
+    overflow: hidden; 
+}
+
 .navbar-default {
   background-image: none;
   filter: none;

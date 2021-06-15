@@ -51,7 +51,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/tag-ub-lunar-new-year.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    	<img src="../images/tag-ub-lunar-new-year.webp" alt="Lunar New Year Landing Page" class="img-responsive">
                     </div>
       			</div>
     		</div>
