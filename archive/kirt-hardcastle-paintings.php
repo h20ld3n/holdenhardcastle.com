@@ -25,7 +25,7 @@
 	<section>
   		<h2>Religion</h2>
   		<article>
-    		<div class="jumbotron" id="kirt-hardcaste">
+    		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/kirt-hardcastle/009-holy-ghost.webp" alt="the holy ghost" class="img-responsive" id="009">
@@ -42,7 +42,7 @@
     		</div>
   		</article>
         <article>
-    		<div class="jumbotron" id="kirt-hardcaste">
+    		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/kirt-hardcastle/011-the-apocalypse.webp" alt="the apocalypse" class="img-responsive" id="011">
@@ -59,7 +59,7 @@
     		</div>
   		</article>
         <article>
-    		<div class="jumbotron" id="kirt-hardcaste">
+    		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/kirt-hardcastle/015-the-four-horsemen.webp" alt="the four horsemen" class="img-responsive" id="015">
@@ -74,11 +74,28 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/042-confrontation-antichrist.webp" alt="Confrontation with the Antichrist" class="img-responsive" id="042">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Confrontation with the Antichrist</h3>
+                        <p>The internal struggle: We are the antichrist when we take the theory existentialism seriously.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         	<section>
   		<h2>Social Issues</h2>
   		<article>
-    		<div class="jumbotron" id="kirt-hardcaste">
+    		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/kirt-hardcastle/163-american-flag.webp" alt="the american flag" class="img-responsive" id="163">
@@ -98,7 +115,7 @@
         <section>
   		<h2>Self Portraits</h2>
   		<article>
-    		<div class="jumbotron" id="kirt-hardcaste">
+    		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
                     	<img src="../images/kirt-hardcastle/475-477-self-portrait-a-la-man.webp" alt="self portrait: a la man #1 & #2" class="img-responsive" id="475-477">
