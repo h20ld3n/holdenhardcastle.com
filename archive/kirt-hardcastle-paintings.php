@@ -15,7 +15,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Kirt Hardcastle (1949 - 2018)</h1>
         				<h2>Artist, Painter, Philosopher</h2>
-                   		<!--p>(2016) Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</p-->
+                   		<p>Check out the full catalog on <a href="https://opensea.io/collection/kirt-hardcastle-paintings" target="_blank">OpenSea</a>.</p>
   					</div>
                 </div>
  			</div>
@@ -87,6 +87,51 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Confrontation with the Antichrist</h3>
                         <p>The internal struggle: We are the antichrist when we take the theory existentialism seriously.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/051-the-antichrist.webp" alt="The Antichrist" class="img-responsive" id="051">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Antichrist #1</h3>
+                        <p>This is my world and welcome to it. These are my dreams. "Sometimes when you stare into the abyss, the abyss stares into you…" —Nietzsche</p>
+                    </div>
+      			</div>
+    		</div>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/096-the-antichrist.webp" alt="The Antichrist" class="img-responsive" id="096">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Antichrist #2</h3>
+                    </div>
+      			</div>
+    		</div>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/098-the-antichrist.webp" alt="The Antichrist" class="img-responsive" id="098">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Antichrist #3</h3>
                     </div>
       			</div>
     		</div>
