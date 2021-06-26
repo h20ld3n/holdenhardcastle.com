@@ -168,9 +168,23 @@
                     </div>
       			</div>
     		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/121-crucifixion.webp" alt="Crucifixion #2" class="img-responsive" id="121">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Crucifixion #2</h3>
+                    </div>
+      			</div>
+    		</div>
   		</article>
         </section>
-        	<section>
+        <section>
   		<h2>Social Issues</h2>
   		<article>
     		<div class="jumbotron" id="kirt-hardcastle">
