@@ -136,6 +136,39 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/105-saint-peter.webp" alt="Saint Peter" class="img-responsive" id="105">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>St. Peter (The Rock)</h3>
+                        <p>St. Peter is the foundation of the Church. He was crucified upside down by the Romans.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/117-crucifixion.webp" alt="Crucifixion #1" class="img-responsive" id="117">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Crucifixion #1</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         	<section>
   		<h2>Social Issues</h2>
