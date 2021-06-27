@@ -108,6 +108,11 @@ img {
 #holden-hardcastle {
   margin-top: 1em; }
 
+#rcm-black {
+  background-image: url("../images/000000.png");
+  background-repeat: repeat-x;
+  background-size: auto 62.97233%; }
+
 #ub-cool-grey3 {
   background-image: url("../images/c8c8c8.png");
   background-repeat: repeat-x;
