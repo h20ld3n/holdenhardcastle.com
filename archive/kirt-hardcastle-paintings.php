@@ -147,7 +147,7 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>St. Peter (The Rock)</h3>
+          				<h3>St. Peter (The&nbsp;Rock)</h3>
                         <p>St. Peter is the foundation of the Church. He was crucified upside down by the Romans.</p>
                     </div>
       			</div>
@@ -179,6 +179,23 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Crucifixion #2</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+         <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/245-skull-and-crown-of-thorns.webp" alt="Skull and Crown of Thorns" class="img-responsive" id="245">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Skull &amp; Crown Of Thorns</h3>
+                        <p>The paradox presented by Jesus (the man, the skull, the physical being) compared to the man of the crucifixion. c.1980</p>
                     </div>
       			</div>
     		</div>
