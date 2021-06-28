@@ -200,6 +200,23 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/250-251-254-256-the-three-marys.webp" alt="Skull and Crown of Thorns" class="img-responsive" id="250-251-254-156">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Three Marys</h3>
+                        <p>The three Marys that were involved in the life of Jesus. Mary Magallen goes through the transformation from prostitute to beloved disciple.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         <section>
   		<h2>Social Issues</h2>
