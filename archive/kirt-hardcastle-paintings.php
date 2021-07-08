@@ -73,6 +73,34 @@
                     </div>
       			</div>
     		</div>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/126-128-blue-black-horsemen.webp" alt="The Four Horsemen" class="img-responsive" id="126-128">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Blue &amp; Black Horsemen</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/129-132-red-white-horsemen.webp" alt="The Four Horsemen" class="img-responsive" id="129-132">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Red &amp; White Horsemen</h3>
+                    </div>
+      			</div>
+    		</div>
   		</article>
         <article>
     		<div class="jumbotron" id="kirt-hardcastle">
