@@ -1,28 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<meta name="description" content="Aspiring to create beautiful, exciting, and positive experiences by collaborating and working with inspired and driven companies, teams, and people.">
-	<meta name="keywords" content="Team Leadership & Motivation, Brand Development, Creative Strategy, User Experience & Interface Design, Digital & Online Marketing, 360 Marketing Campaigns, Data & Process Driven Design, Concept Development">
-	<meta name="author" content="Holden Hardcastle">
-	<meta http-equiv="Cache-Control" content="max-age=200" />
-	<meta name="pinterest" content="nopin" />
-	<meta name="theme-color" content="#ffffff">
-	<title>Art &amp; Creative Director / Process Driven Cross-Functional Team Leadership &amp; Technology</title>
-	<link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" href="../css/glyphicons-social.css">
-	<link rel="stylesheet" href="../css/glyphicons-filetypes.css">
-	<link rel="stylesheet" type="text/css" href="css/golden-ratio-1.618.css">
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<?php include '../includes/meta.php';?>
+	<title>Film And Video Production</title>
+	<?php include '../includes/link.php';?>
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
