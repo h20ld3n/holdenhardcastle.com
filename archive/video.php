@@ -53,7 +53,26 @@
 	</section>
     <section>
 	   <h2>Film Sprint</h2>
-  		<article id="union-bank">  
+  		<article id="film-sprint">  
+    		<div class="jumbotron" id="rcm-black">
+                <div class="row">
+                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
+                    <div class="col-md-12">
+                        <video class="video-fluid img-responsive" controls>
+                        <source src="../video/Obscure-Vinyl-Boxset-Editors-Cut.mp4" type="video/mp4" /></video>
+                    </div>
+                </div>    
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
+          				<h3>Obscure Vinyl Boxset—Editor</h3>
+						<p>(2020) Partnered with Viral Media Network for a Film Sprint...</p>
+                   	</div>
+      			</div>
+    		</div>
+  		</article>
+        <article id="film-sprint">  
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
                     	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
@@ -75,7 +94,7 @@
 	</section>
     <section>
 	   <h2>Griffith University Film School</h2>
-  		<article id="union-bank">  
+  		<article id="griffith-uni">  
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
                     	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
