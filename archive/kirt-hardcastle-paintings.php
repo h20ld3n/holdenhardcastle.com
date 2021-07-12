@@ -283,7 +283,7 @@
             <div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/054-056-dantes-inferno.webp" alt="dante's inferno" class="img-responsive" id="024-036">
+                    	<img src="../images/kirt-hardcastle/054-056-dantes-inferno.webp" alt="dante's inferno" class="img-responsive" id="054-056">
                     </div>
       			</div>
     		</div>
