@@ -275,7 +275,23 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Dante's Inferno &#35;1 &amp; &#35;2</h3>
+          				<h3>Dante's Inferno &#35;1&nbsp;&amp; &#35;2</h3>
+    
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/054-056-dantes-inferno.webp" alt="dante's inferno" class="img-responsive" id="024-036">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Dante's Inferno &#35;3&nbsp;&amp; &#35;4</h3>
+                        <p>A study in the various rings and levels of Hell.</p>
     
                     </div>
       			</div>
