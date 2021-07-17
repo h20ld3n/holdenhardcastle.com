@@ -268,6 +268,23 @@
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/kirt-hardcastle/018-prometheus.webp" alt="prometheus" class="img-responsive" id="018">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Prometheus</h3>
+                        <p>He gave fire to humans and in return the Gods chained him to the rock. Each night the Furies came out and ate his liver—the endless cycle of death and rebirth—the human condition.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/kirt-hardcastle/024-036-dantes-inferno.webp" alt="dante's inferno" class="img-responsive" id="024-036">
                     </div>
       			</div>
@@ -293,6 +310,54 @@
           				<h3>Dante's Inferno &#35;3&nbsp;&amp; &#35;4</h3>
                         <p>A study in the various rings and levels of Hell.</p>
     
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+         <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/067-071-medusa.webp" alt="medusa" class="img-responsive" id="067-071">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Medusa &#35;1&nbsp;&amp; &#35;2</h3>
+                        <p>Inspired by the Greek folklore and the "Bitch From Boston"—We all go through periods where we hate women.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/085-medusa.webp" alt="medusa" class="img-responsive" id="085">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+                        <h3>Medusa &#35;3</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+         <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/090-sisyphus.webp" alt="sisyphus" class="img-responsive" id="090">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sisyphus</h3>
+                        <p>It's the same old bullshit day in and day out— why&nbsp;do&nbsp;you&nbsp;do&nbsp;it?</p>
                     </div>
       			</div>
     		</div>

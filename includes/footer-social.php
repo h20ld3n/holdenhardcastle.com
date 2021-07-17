@@ -105,6 +105,8 @@
                     	<p>
       					<h3>Freelance, Portfolios, Networks &amp; Other Sites</h3>	
                             <ul>
+                                <li><a href="https://hls.harvard.edu/dept/opia/job-search-toolkit/action-verbs/" target="_blank"><span class="glyphicon glyphicon-link"></span> Action Verbs...</a></li>
+                                <li>to assist describing experiences and accomplishments</li>
                                 <li><a href="https://angel.co/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> angel.co</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <li><a href="https://www.patreon.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> patreon</a></li>
