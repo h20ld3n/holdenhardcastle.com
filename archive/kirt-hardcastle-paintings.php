@@ -362,6 +362,38 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/092-the-furies.webp" alt="the furies" class="img-responsive" id="092">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The Furies &#35;1</h3>
+                        <p>Associated with the legend of Promentheus.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/102-the-furies.webp" alt="the furies" class="img-responsive" id="102">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+                        <h3>The Furies &#35;2</h3>
+                        <p>Associated with the legend of Promentheus.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         <section>
   		<h2>Social Issues</h2>
