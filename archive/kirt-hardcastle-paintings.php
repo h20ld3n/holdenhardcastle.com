@@ -415,6 +415,25 @@
     		</div>
   		</article>
         </section>
+         <section>
+  		<h2>Windows</h2>
+  		<article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/169-watching-window.webp" alt="the american flag" class="img-responsive" id="169">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Watching Window</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        </section>
         <section>
   		<h2>Self Portraits</h2>
   		<article>
