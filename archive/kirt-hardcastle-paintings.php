@@ -433,6 +433,54 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/187-266-sonoma-window-factory-doorway.webp" alt="the american flag" class="img-responsive" id="187-266">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sonoma Window &amp; Factory Doorway</h3>
+                        <p>Doorway from an old factory showroom, near Vallejo, CA.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/268-306-warehouse-windows.webp" alt="warehouse windows" class="img-responsive" id="268-306">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Warehouse Windows &#35;1 &amp; &#35;6</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/296-300-warehouse-windows.webp" alt="warehouse windows" class="img-responsive" id="296-300">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Warehouse Windows &#35;2 &amp; &#35;3</h3>
+                        <p>Brokend windows and glass from an old armory north of Sonoma, CA.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         </section>
         <section>
   		<h2>Self Portraits</h2>
