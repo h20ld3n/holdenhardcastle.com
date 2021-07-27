@@ -476,7 +476,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Warehouse Windows &#35;2 &amp; &#35;3</h3>
-                        <p>Brokend windows and glass from an old armory north of Sonoma, CA.</p>
+                        <p>Broken windows and glass from an old armory north of Sonoma, CA.</p>
                     </div>
       			</div>
     		</div>
