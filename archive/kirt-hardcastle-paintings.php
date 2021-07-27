@@ -480,6 +480,20 @@
                     </div>
       			</div>
     		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/302-304-warehouse-windows.webp" alt="warehouse windows" class="img-responsive" id="302-304">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Warehouse Windows &#35;3 &amp; &#35;4</h3>
+                    </div>
+      			</div>
+    		</div>
   		</article>
         </section>
         <section>
