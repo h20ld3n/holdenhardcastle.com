@@ -437,7 +437,7 @@
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/187-266-sonoma-window-factory-doorway.webp" alt="the american flag" class="img-responsive" id="187-266">
+                    	<img src="../images/kirt-hardcastle/187-266-sonoma-window-factory-doorway.webp" alt="sonoma window & doorway" class="img-responsive" id="187-266">
                     </div>
       			</div>
     		</div>
@@ -446,6 +446,20 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Sonoma Window &amp; Factory Doorway</h3>
                         <p>Doorway from an old factory showroom, near Vallejo, CA.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/324-sonoma-window.webp" alt="sonoma window" class="img-responsive" id="324">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sonoma Window</h3>
                     </div>
       			</div>
     		</div>
