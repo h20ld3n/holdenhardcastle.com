@@ -582,6 +582,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Untitled &#35;2 &amp; &#35;3</h3>
+                        <p>Drape studies.</p>
                     </div>
       			</div>
     		</div>
