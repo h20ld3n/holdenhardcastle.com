@@ -5,8 +5,15 @@
     				<div class="col-md-3 col-md-offset-1">
                     	<p>
                         	<h3>About</h3>
-                 			Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      						
-						<h3>Random Excerpts</h3>
+                 			Throughout my professional career I have collaborated with teams at Apple, Amazon, Sony, HBO, and Lucasfilm. I've worked with authors, editors, and artists to push creative boundaries. I thrive on generously sharing ideas, resources, and information with my peers. Whether it's bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.      
+                        
+										
+						<h3>Crypto, Blockchain &amp; NFTs</h3>
+      						<dl class="h4"><a href="https://opensea.io/collection/kirt-hardcastle-paintings" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;OpenSea.io</a></dl>
+                            	<dd>Discover and collect extraordinary NFTs from the Kirt Hardcastle Collection.</dd>
+	      					<dl class="h4"><a href="https://foundation.app/@h20ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;Foundation</a></dl>
+                            	<dd>The new creative economy.</dd>
+                        <h3>Random Excerpts</h3>
       						<dl class="h4"><a href="../archive/sketchbook.php">Sketchbook</a></dl>
                             	<dt>Blank pages frequently used by artists as a part of their creative process.</dt>
                                 <dd>Sketchbooks come in a wide variety of shapes and sizes, and over time, they might allow others to see the artist's progress, as their style, skills, and ideas develop.</dd>
@@ -140,7 +147,6 @@
                                 <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;medium</a></li>
                                 <li><a href="https://thenounproject.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Noun Project</strong></a></li>
                                 <li>Building a global visual language that unites us.</li>
-                                <li><a href="https://opensea.io/collection/kirt-hardcastle-paintings" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;OpenSea.io</a></li>
                             <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
                             <li><a href="https://platforma.ws/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Platforma 2</strong></a></li>
                             <li>Website Wireframe Kit for Sketch</li>
@@ -155,7 +161,6 @@
                             <li>Peter J. Wagoner created a tool to help us come up with ideas. It's not a substitute for strategy or insight – it's a substitute for pulling another all nighter.</li>
                             <li><a href="http://tevko.github.io/practice/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Tevko</strong></a></li>
                             <li>Practice your skills by getting random suggestions or creative inspiration!</li>  
-                            <li><a href="http://h0ld3n.tumblr.com/" target="_blank"><span class="social social-tumblr"></span>tumblr</a></li>
 				            <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
                             <li><a href="https://unstoppabledomains.com/r/9b680ba55a03434" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;Unstoppable Domains</a></li>
                                 

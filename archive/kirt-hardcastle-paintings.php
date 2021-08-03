@@ -504,12 +504,75 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Warehouse Windows &#35;3 &amp; &#35;4</h3>
+          				<h3>Warehouse Windows &#35;4 &amp; &#35;5</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+             <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/385-window.webp" alt="window" class="img-responsive" id="385">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Window &#35;1</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/387-window.webp" alt="window" class="img-responsive" id="387">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Window &#35;2</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/389-window.webp" alt="window" class="img-responsive" id="389">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Window &#35;3</h3>
                     </div>
       			</div>
     		</div>
   		</article>
         </section>
+         <section>
+  		<h2>Untitled Sketches And Studies</h2>
+  		<article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/065-untitled.webp" alt="untitled #1" class="img-responsive" id="065">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Untitled &#35;1</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+	</section>
         <section>
   		<h2>Self Portraits</h2>
   		<article>
