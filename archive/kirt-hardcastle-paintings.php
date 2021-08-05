@@ -53,7 +53,7 @@
     </section>
      <section>
         <h2>Windows</h2>
-        <?php include 'kirt-hardcastle-mythology.html';?>
+        <?php include 'kirt-hardcastle-windows.html';?>
     </section>
     <section>
   		<h2>Untitled Sketches And Studies</h2>
@@ -84,6 +84,79 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Untitled &#35;2 &amp; &#35;3</h3>
                         <p>Drape studies.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/107-untitled.webp" alt="untitled #4" class="img-responsive" id="107">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Untitled &#35;4</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/282-284-sketches.webp" alt="sketches #1 & #2" class="img-responsive" id="282-284">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sketches &#35;1 &amp; &#35;2</h3>
+                        <p>A series of studies for a future work.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/287-289-sketches.webp" alt="sketches #3 & #4" class="img-responsive" id="287-289">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sketches &#35;3 &amp; &#35;4</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/291-293-sketches.webp" alt="sketches #5 & #6" class="img-responsive" id="291-293">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sketches &#35;5 &amp; &#35;6</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/295-sketch.webp" alt="sketches #7" class="img-responsive" id="295">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sketches &#35;7</h3>
                     </div>
       			</div>
     		</div>
