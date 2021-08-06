@@ -156,7 +156,7 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Sketches &#35;7</h3>
+          				<h3>Sketch &#35;7</h3>
                     </div>
       			</div>
     		</div>
