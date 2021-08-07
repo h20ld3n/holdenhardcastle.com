@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1 style="display:none;">Kirt Hardcastle</h1>
-	<?php include '../includes/navbar.php';?>
+	<?php include '../includes/navbar-kirt-hardcastle.html';?>
 	<header>
 		<div class="jumbotron" id="holden-hardcastle">
 			<div class="container">
