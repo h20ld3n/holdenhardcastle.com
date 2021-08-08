@@ -161,19 +161,50 @@
       			</div>
     		</div>
   		</article>
-                <article>
+        <article>
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/361-364-drape-studies.webp" alt="drape studies #1 & #2" class="img-responsive" id="361-364">
+                    	<img src="../images/kirt-hardcastle/350-364-drape-study-sketches.webp" alt="drape study sketches #1 & #2" class="img-responsive" id="350-364">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Drape Studies &#35;1&nbsp;&amp;&nbsp;&#35;2</h3>
-                        <p>Exploring some landscape ideas.</p>
+          				<h3>Drape Study Sketches &#35;1&nbsp;&amp;&nbsp;&#35;2</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/361-drape-study.webp" alt="drape study #1" class="img-responsive" id="361">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Drape Study &#35;1</h3>
+                        <p>An exploration of some landscape ideas.</p>
+                    </div>
+      			</div>
+    		</div>
+        <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/366-drape-study.webp" alt="drape studies #2" class="img-responsive" id="366">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Drape Study &#35;2</h3>
+                        <p>Just an old rug.</p>
                     </div>
       			</div>
     		</div>
