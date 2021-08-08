@@ -161,6 +161,23 @@
       			</div>
     		</div>
   		</article>
+                <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/361-364-drape-studies.webp" alt="drape studies #1 & #2" class="img-responsive" id="361-364">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Drape Studies &#35;1&nbsp;&amp;&nbsp;&#35;2</h3>
+                        <p>Exploring some landscape ideas.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
 	</section>
         <section>
   		<h2>Self Portraits</h2>
