@@ -102,66 +102,22 @@
       			</div>
     		</div>
   		</article>
-        <article>
+         <article>
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/kirt-hardcastle/282-284-sketches.webp" alt="sketches #1 & #2" class="img-responsive" id="282-284">
+                    	<img src="../images/kirt-hardcastle/197-220-frabric-drape-blanket-study.webp" alt="sketches #1 & #2" class="img-responsive" id="197-220">
                     </div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Sketches &#35;1 &amp; &#35;2</h3>
-                        <p>A series of studies for a future work.</p>
+          				<h3>Fabric Drape &amp; Blanket Studies</h3>
+                        <p>Some old rugs and quilts that were laying there. It's hard to make squares on a quilt look like squares on a quilt.</p>
                     </div>
       			</div>
     		</div>
-            <div class="jumbotron" id="kirt-hardcastle">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="../images/kirt-hardcastle/287-289-sketches.webp" alt="sketches #3 & #4" class="img-responsive" id="287-289">
-                    </div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Sketches &#35;3 &amp; &#35;4</h3>
-                    </div>
-      			</div>
-    		</div>
-            <div class="jumbotron" id="kirt-hardcastle">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="../images/kirt-hardcastle/291-293-sketches.webp" alt="sketches #5 & #6" class="img-responsive" id="291-293">
-                    </div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Sketches &#35;5 &amp; &#35;6</h3>
-                    </div>
-      			</div>
-    		</div>
-            <div class="jumbotron" id="kirt-hardcastle">
-      			<div class="container-fluid">
-        			<div class="row">
-                    	<img src="../images/kirt-hardcastle/295-sketch.webp" alt="sketches #7" class="img-responsive" id="295">
-                    </div>
-      			</div>
-    		</div>
-    		<div class="container">
-      			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Sketch &#35;7</h3>
-                    </div>
-      			</div>
-    		</div>
-  		</article>
-        <article>
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
@@ -173,6 +129,20 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Drape Study Sketches &#35;1&nbsp;&amp;&nbsp;&#35;2</h3>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/357-drape-study-sketch.webp" alt="drape study sketch #3" class="img-responsive" id="357">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Drape Study Sketch &#35;3</h3>
                     </div>
       			</div>
     		</div>
@@ -205,6 +175,34 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Drape Study &#35;2</h3>
                         <p>Just an old rug.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/332-333-drape-studies.webp" alt="drape study #4 & #5" class="img-responsive" id="332-333">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Drape Studies &#35;4&nbsp;&amp;&nbsp;&#35;5</h3>
+                    </div>
+      			</div>
+    		</div>
+             <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/337-drape-study.webp" alt="drape study #1 & #2" class="img-responsive" id="337">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Drape Study &#35;6</h3>
                     </div>
       			</div>
     		</div>
