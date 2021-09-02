@@ -86,6 +86,21 @@
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
         			<div class="row">
+                    	<img src="../images/kirt-hardcastle/030-veterans.webp" alt="veterans" class="img-responsive" id="030">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Veterans</h3>
+                        <p>An expendable pile of trash.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
                     	<img src="../images/kirt-hardcastle/163-american-flag.webp" alt="the american flag" class="img-responsive" id="163">
                     </div>
       			</div>
