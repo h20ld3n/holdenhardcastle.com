@@ -82,6 +82,54 @@
       			</div>
     		</div>
   		</article>
+         <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/039-046-faye-got-love.webp" alt="sexuality" class="img-responsive" id="039-046">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Faye Got Love &#35;1&nbsp;&amp;&nbsp;&#35;2</h3>
+                        <p>Dealing with our conception and ideas of sexuality.</p>
+                    </div>
+      			</div>
+    		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/063-faye-got-love.webp" alt="sexuality" class="img-responsive" id="063">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Faye Got Love &#35;3</h3>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
+        <article>
+    		<div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/134-137-obelisk.webp" alt="obelisk" class="img-responsive" id="134-137">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Obelisk &#35;1,&nbsp;&#35;2,&nbsp;&amp;&nbsp;&#35;3</h3>
+                        <p>A study of rape.</p>
+                    </div>
+      			</div>
+    		</div>
+  		</article>
         <article>
     		<div class="jumbotron" id="kirt-hardcastle">
       			<div class="container-fluid">
