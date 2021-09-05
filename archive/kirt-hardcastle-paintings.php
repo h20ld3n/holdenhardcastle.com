@@ -161,6 +161,21 @@
                     </div>
       			</div>
     		</div>
+            <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/258-262-walking-the-wire.webp" alt="walking the wire" class="img-responsive" id="258-262">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Walking The Wire &#35;1,&nbsp;&#35;2,&nbsp;&amp;&nbsp;&#35;3</h3>
+                        <p>Patroling the fences and barbed wire around the bases in Vietnam and picking up trash.</p>
+                    </div>
+      			</div>
+    		</div>
   		</article>
     </section>
      <section>
