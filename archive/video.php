@@ -59,15 +59,53 @@
                     	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
                         <video class="video-fluid img-responsive" controls>
-                        <source src="../video/Obscure-Vinyl-Boxset-Editors-Cut.mp4" type="video/mp4" /></video>
+                        <source src="../video/Swiping-For-Love.mp4" type="video/mp4" /></video>
                     </div>
                 </div>    
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
-          				<h3>Obscure Vinyl Boxset—Editor</h3>
-						<p>(2020) Partnered with Viral Media Network for a Film Sprint...</p>
+          				<h3>Swiping For Love</h3>
+						<p>(2020) Another shelter in place produciton for Film Sprint...</p>
+                   	</div>
+      			</div>
+    		</div>
+  		</article>
+        <article id="film-sprint">  
+    		<div class="jumbotron" id="rcm-black">
+                <div class="row">
+                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
+                    <div class="col-md-12">
+                        <video class="video-fluid img-responsive" controls>
+                        <source src="../video/Files-Of-Exile-Directors-Cut-1100.mp4" type="video/mp4" /></video>
+                    </div>
+                </div>    
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
+          				<h3>Files Of Exile (Director's Cut)</h3>
+						<p>(2020) Another shelter in place produciton for Film Sprint...</p>
+                   	</div>
+      			</div>
+    		</div>
+  		</article>
+        <article id="film-sprint">  
+    		<div class="jumbotron" id="rcm-black">
+                <div class="row">
+                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
+                    <div class="col-md-12">
+                        <video class="video-fluid img-responsive" controls>
+                        <source src="../video/Entry-3410.mp4" type="video/mp4" /></video>
+                    </div>
+                </div>    
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
+          				<h3>Entry 3410</h3>
+						<p>(2020) A solo effort for Film Sprint Homebound Edition...</p>
                    	</div>
       			</div>
     		</div>
