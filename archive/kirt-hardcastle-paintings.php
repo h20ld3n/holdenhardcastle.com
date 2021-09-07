@@ -176,6 +176,21 @@
                     </div>
       			</div>
     		</div>
+             <div class="jumbotron" id="kirt-hardcastle">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<img src="../images/kirt-hardcastle/352-356-1000-meter-stare.webp" alt="1,000 meter stare" class="img-responsive" id="352-356">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>The 1,000 Meter Stare &#35;1,&nbsp;&#35;2,&nbsp;&amp;&nbsp;&#35;3</h3>
+                        <p>The blank stares of veterans after seeing combat action in&nbsp;Vietnam.</p>
+                    </div>
+      			</div>
+    		</div>
   		</article>
     </section>
      <section>
