@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<?php include '../includes/meta.php';?>
+	<?php include 'includes/meta.php';?>
 	<title>Film And Video Production</title>
-	<?php include '../includes/link.php';?>
+	<?php include 'includes/link.html';?>
 </head>
 <body>
 	<h1 style="display:none;">Holden Hardcastle</h1>
