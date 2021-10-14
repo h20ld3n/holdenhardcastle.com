@@ -28,7 +28,6 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
   		<article id="union-bank">  
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
-                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
                         <img src="images/real-california-milk.webp" class="img-responsive">
                     </div>
@@ -66,7 +65,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Tag @ Union Bank—Art Director</h3>
-						<p>(2016-2020) A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</p>
+						<p>(2016-2020) Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
@@ -174,7 +173,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Chronicle Books—Dynamic Digital Production Coordinator</h3>
-          				<p>(2013-2016) Worked with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications. Responsible for hiring and managing a five-person team of front-end web developers, fellows, and interns.</p>
+          				<p>(2013-2016) Collaborated with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications.</p>
 						<p><a class="btn btn-default" href="archive/chronicle-books.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More ebooks from Chronicle Books</a></p>
         			</div>
       			</div>

@@ -5,10 +5,10 @@
     				<div class="col-md-5">
                     	<p>
                         	<h3>About</h3>
-                 			With over twenty years of design and strategic art direction, I am an experienced leader who works with high-performing companies across a variety of industries. By working with inspired and driven organizations, I aspire to create beautiful, exciting, and positive experiences. Whether it is bringing people together through an application, or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.
+                 			Over the last twenty years, I have produced award-winning strategic marketing campaigns. I am an experienced art and creative director who has led high-performing teams at companies across various industries. Working with inspired and driven individuals, I aspire to create beautiful, exciting, and positive experiences. Whether it is bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.
                             <dd style="padding-top: .66em";><strong>Career Highlights</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>Experienced and accomplished creative director—concepting and developing award-winning marketing campaigns and communications across a variety of industries, platforms, and mediums.</li>
+                                	<li>EExperienced and accomplished creative director—concepting and developing award-winning marketing campaigns and communications across a variety of industries, platforms, and mediums.</li>
                                     <li>Collaborative cross-departmental leadership—using process, data, and technology to inform decisions, problem solve, and create solutions with measurable results.</li>
                                 </ul>
                                 </dd>
@@ -83,21 +83,22 @@
       						<dl>
                             	<dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
                                 <dd>(2019-Present)
-                                Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Responsible for setting annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
+                                Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>Implemented and revitalized outreach programs to attract corporate sponsors, high-profile collaborators, and community members. With consistent and focused messaging the chapter has seen a 28% growth in membership since October 2019.</li>
-                                	<li>Partnering and collaborating with local businesses and corporations to help strengthen brand awareness, drive member acquisition and retention, and increase donation volumes</li>
+                                	<li>Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.</li>
+                                	<li>Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.</li>
+                                    <li>Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3).</li>
                                 </ul>
                                 </dd>
                                 <dt class="h4">Tag @ Union Bank—Art Director</dt>
                                 <dd>(2016-2020)
-                                A brand steward who directed designers, production artists, copywriters, and other specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule and to specifications.</dd>
+                                Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials. Product marketing campaigns yielded a 200% - 400% increase in applications and approvals for various products.</li>
-                                	<li>Developed emails, mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines resulting in a 75% reduction in the time required to deliver final assets. The increase in efficiency of asset delivery allowed for strategic and design thinking around email campaigns.</li>
-                                	<li>Presented concepts for high visibility products (credit cards and car wraps) and marketing strategies (home loans and mortgage products) to C-suite and decision-makers. Increased the overall business and grew to the agency statement of work by leveraging the internal team capabilities.</li>
+                                	<li>Developed emails, mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines resulting in a 75% reduction in the time required to deliver final assets. The improved efficiency of asset delivery allowed for strategic and design thinking around email campaigns.</li>
+                                	<li>Introduced concepts for high visibility products (credit cards and car wraps) and marketing strategies (home loans and mortgage products) to C-suite and decision-makers. Increased the overall business and grew the agency statement of work by leveraging the internal team capabilities.</li>
                                 	<li>Managed files and cloud repositories using Microsoft OneDrive, allowing for greater transparency and smoother handoff of mechanical files throughout the entire design process.</li>
                                 </ul>
                                 </dd>
@@ -105,12 +106,12 @@
                                 <dd>(2016)
                                 Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</dd>
                             	<dt class="h4">Advanced Energy Economy—Creative Director</dt>
-      							<dd>(2013-2016) Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
+      							<dd>(2013-2016) 
+                                Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</dd>
 								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>Managed files and cloud repositories using Dropbox and Github. The use of Trello and Asana project management software and a consolidated file system allowed for automatic file updates, greater transparency, and a more effecient process. </li>
-									<li>Incorporated Hubspot (CRM) into existing processes to maximize talents and time of program leads and developers. This allowed program leads to instantly make content updates instead of the previous minimum two week turn around time, which required a cumbersome process and multiple levels of approvals.</li>
-									<li>Recoginzed by Graphic Design USA for created award-winning report and infographic designs.</li>
+                                	<li>Managed files and cloud repositories using Dropbox and Github. The use of Trello and Asana project management software and a consolidated file system expedited file updates, led to greater transparency, and more efficient processes.</li>
+									<li>Incorporated Hubspot (CRM) into existing processes and website to maximize talents and time of program leads and developers, allowing program leads to instantly make content updates.</li>
                                 </ul>
                                 </dd>
       							<dt class="h4">Gap Inc.—Freelance Sr. Designer</dt>
@@ -118,11 +119,11 @@
                                 Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</dd>
       							<dt class="h4">Chronicle Books—Dynamic Digital Production Coordinator</dt>
       							<dd>(2010-2013)<br>
-      							Worked with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications. Responsible for hiring and managing a five-person team of front-end web developers, fellows, and interns.</dd>
+      							Collaborated with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications.</dd>
 								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>Collaborated with authors, editors, designers, content creators, and outside vendors to set up systems to translate the entire back catalog of physical books and mechanicals to ebooks. We effecietly converted approximately 1000 titles of varied complexity per year.</li>
-									<li>Won awards for excellence in design, interactivity, and quality from PubWest, Bookbuilders West, and Digital Book World.</li>
+                                	<li>Built relationships with authors, editors, designers, content creators, and outside vendors to set up systems to translate the entire back catalog of physical books and mechanicals to ebooks. Efficiently converted approximately 1000 titles of varied complexity per year.</li>
+									<li>Recruited and developed a five-person team of front-end web developers, design-fellows, and interns.</li>
                                 </ul>
                                 </dd>
       							<dt class="h4">TRX / Fitness Anywhere—Creative Manager</dt>
@@ -130,8 +131,8 @@
       							Responsible for hiring and managing a six-person video production team and developing best practices for content creation and distribution.</dd>
 								<dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>Worked with the CEO and Founder and department heads to oversee the production, filming, and editing of the TRX Force Training Videos. The resulting two-disc DVD set would establish the standards for production quality for subsequent projects.</li>
-									<li>Developed and provided standards to give early-stage content creators ownership of their content. By allowing content creators and personal trainers to produce videos and blog posts independently, the internal production team was able to focus on revenue-generating projects.</li>
+                                	<li>Worked with the CEO and Founder and department heads to oversee the production, filming, and editing of the TRX Force Training Videos. The resulting two-disc DVD set established the standards for production quality for subsequent projects.</li>
+									<li>Created standards to encourage early-stage content creators ownership of their content. By allowing content creators and personal trainers to produce videos and blog posts independently, the internal production team was able to focus on revenue-generating projects.</li>
 									<li>Designed, developed, and presented wireframes, storyboards, user experiences, interactions and prototypes for online communities, landing pages, and large scale campaigns resulting in a consistent look and feel across digital channels.</li>
                                 </ul>
                                 </dd>
