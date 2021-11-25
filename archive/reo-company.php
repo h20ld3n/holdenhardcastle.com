@@ -11,7 +11,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>REO Company—Creative Lead</h3>
-						<p>Worked with product designers &amp; photographers to create layouts and design the wholesale sterling silver jewelery companies yearly catalogue.</p>
+						<p>(2003-2005) Worked with product designers &amp; photographers to create layouts and design the wholesale sterling silver jewelery companies yearly catalogue.</p>
 					</div>
       			</div>
     		</div>

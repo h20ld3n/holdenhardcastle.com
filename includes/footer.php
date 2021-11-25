@@ -8,7 +8,7 @@
                  			Over the last twenty years, I have produced award-winning strategic marketing campaigns. I am an experienced art and creative director who has led high-performing teams at companies across various industries. Working with inspired and driven individuals, I aspire to create beautiful, exciting, and positive experiences. Whether it is bringing people together through an application or developing a dynamic brand to change the world, I believe that inspired teams yield inspirational results.
                             <dd style="padding-top: .66em";><strong>Career Highlights</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>EExperienced and accomplished creative director—concepting and developing award-winning marketing campaigns and communications across a variety of industries, platforms, and mediums.</li>
+                                	<li>Experienced and accomplished creative director—concepting and developing award-winning marketing campaigns and communications across a variety of industries, platforms, and mediums.</li>
                                     <li>Collaborative cross-departmental leadership—using process, data, and technology to inform decisions, problem solve, and create solutions with measurable results.</li>
                                 </ul>
                                 </dd>

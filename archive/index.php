@@ -22,12 +22,18 @@
 	</header>
 	<main>
 	<section>
+  		<?php include '../archive/max-borges-cricket-wireless.php';?>
+	</section>
+    <section>
   		<?php include '../archive/reo-company.php';?>
+	</section>
+    <section>
+  		<?php include '../archive/mda.php';?>
 	</section>
     <section>
   		<?php include '../archive/baseline.php';?>
 	</section>
-        <section>
+    <section>
   		<?php include '../archive/cbs-marketwatch.php';?>
 	</section>
     <?php include '../includes/footer.php';?>
