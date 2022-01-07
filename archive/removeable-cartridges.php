@@ -1,28 +1,12 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<?php include '../includes/meta.php';?>
-	<title>Holden Hardcastle's Removable Cartridges</title>
-	<?php include '../includes/link.php';?>
-</head>
-<body>
-	<h1 style="display:none;">Holden Hardcastle</h1>
-	<?php include '../includes/navbar.php';?>
-	<header>
-		<div class="jumbotron" id="holden-hardcastle">
+
 			<div class="container">
-    			<div class="row">
-					<div class="col-md-6 col-md-offset-3">
-        				<h1>Removable Cartridges &amp; Disks</h1>
-        				<h2>A hard disk enclosed in a case that can be removed from the disk drive, having more storage than floppy disks.</h2>
-                   		<p>Alternatively referred to as removable storage or removable media, a removable disk is media that enables a user to move data between computers without having to open their computer.</p>
-  					</div>
-                </div>
- 			</div>
-		</div>
-	</header>
-	<main>
-		<section>
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Removable Cartridges &amp; Disks</h3>
+						<p>A hard disk enclosed in a case that can be removed from the disk drive, having more storage than floppy disks. Alternatively referred to as removable storage or removable media, a removable disk is media that enables a user to move data between computers without having to open their computer.</p>
+                    </div>
+      			</div>
+    		</div>
 		<h2>Hotel California</h2>
 			<article>
     		<div class="jumbotron" id="removable-disks">
@@ -82,13 +66,3 @@
       			</div>
     		</div>
   		</article>
-		</section>
-    <?php include '../includes/footer-social.php';?>
-</main>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="../bootstrap/js/jquery-1.11.3.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<!-- script src="js/bootstrap.min.js"></script-->
-</body>
-</html>

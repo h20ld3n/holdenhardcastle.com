@@ -1,28 +1,11 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<?php include '../includes/meta.php';?>
-	<title>Holden Hardcastle's Sketchbook</title>
-	<?php include '../includes/link.php';?>
-</head>
-<body>
-	<h1 style="display:none;">Holden Hardcastle</h1>
-	<?php include '../includes/navbar.php';?>
-	<header>
-		<div class="jumbotron" id="holden-hardcastle">
-			<div class="container">
-    			<div class="row">
-					<div class="col-md-6 col-md-offset-3">
-        				<h1>Sketchbook</h1>
-        				<h2>Blank pages frequently used by artists as a part of their creative process.</h2>
-                   		<p>Sketchbooks come in a wide variety of shapes and sizes, and over time, they might allow others to see the artist's progress, as their style, skills, and ideas develop.</p>
-  					</div>
-                </div>
- 			</div>
-		</div>
-	</header>
-	<main>
-	<section>
+		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Sketchbook</h3>
+						<p>Blank pages frequently used by artists as a part of their creative process. Sketchbooks come in a wide variety of shapes and sizes, and over time, they might allow others to see the artist's progress, as their style, skills, and ideas develop. </p>
+                    </div>
+      			</div>
+    		</div>
 		<h2>December</h2>
 		<article>
     		<div class="jumbotron" id="sketchbook">
@@ -911,13 +894,3 @@
       			</div>
     		</div>
   		</article>
-	</section>
-    <?php include '../includes/footer-social.php';?>
-</main>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="../bootstrap/js/jquery-1.11.3.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<!-- script src="js/bootstrap.min.js"></script-->
-</body>
-</html>
