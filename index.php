@@ -24,6 +24,34 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
 	</header>
 	<main>
    <section>
+	   <h2>Ready State</h2>
+  		<article id="union-bank">  
+    		<div class="jumbotron" id="rcm-black">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="images/real-california-milk.webp" class="img-responsive">
+                    </div>
+                    <div class="col-md-6">
+                        <video class="video-fluid img-responsive" controls>
+                        <source src="video/RCD-Pimpin-Chkn-Elijah-v0306151104.mp4" type="video/mp4" /></video>
+                    </div>
+                    <div class="col-md-6">
+                        <video class="video-fluid img-responsive" controls>
+                        <source src="video/RCD-Full-Belly-Eva-v0306141554.mp4" type="video/mp4" /></video>
+                    </div>
+                </div>    
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
+          				<h3>Real California Milk—Editor</h3>
+						<p>(2021) Partnered with Tone Oliver Productions to create the video series promoting Real California Milk and local chefs. Responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting. The material included camera footage, interviews, sound effects, graphics and special effects.</p>
+                   	</div>
+      			</div>
+    		</div>
+  		</article>
+	</section>
+		<section>
 	   <h2>Tone Oliver Productions / Four 11 Productions</h2>
   		<article id="union-bank">  
     		<div class="jumbotron" id="rcm-black">
