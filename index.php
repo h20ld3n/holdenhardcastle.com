@@ -23,29 +23,22 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
 		</div>
 	</header>
 	<main>
-   <section>
+    <section>
 	   <h2>Ready State</h2>
-  		<article id="union-bank">  
-    		<div class="jumbotron" id="rcm-black">
-                <div class="row">
-                    <div class="col-md-12">
-                        <img src="images/real-california-milk.webp" class="img-responsive">
-                    </div>
-                    <div class="col-md-6">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="video/RCD-Pimpin-Chkn-Elijah-v0306151104.mp4" type="video/mp4" /></video>
-                    </div>
-                    <div class="col-md-6">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="video/RCD-Full-Belly-Eva-v0306141554.mp4" type="video/mp4" /></video>
-                    </div>
-                </div>    
+  		<article id="union-bank">
+    		<div class="jumbotron" id="readystate-cream">
+      			<div class="container-fluid">
+        			<div class="row">
+                    	<a name="wlt-ub"><img src="images/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV" class="img-responsive"></a>
+                   	</div>
+      			</div>
     		</div>
     		<div class="container">
       			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
-          				<h3>Real California Milk—Editor</h3>
-						<p>(2021) Partnered with Tone Oliver Productions to create the video series promoting Real California Milk and local chefs. Responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting. The material included camera footage, interviews, sound effects, graphics and special effects.</p>
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Ready State—Senior Designer</h3>
+						<p>(2021 - Present) Clients: Amazon, Instacart, Markforged, Snowflake, &amp; Torani. Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.</p>
+						<p><a class="btn btn-default" href="archive/ready-state.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more Ready State work</a></p>
                    	</div>
       			</div>
     		</div>
