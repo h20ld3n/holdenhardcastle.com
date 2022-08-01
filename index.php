@@ -37,7 +37,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Ready State—Senior Designer</h3>
-						<p>(2021 - Present) Clients: Amazon, Instacart, Markforged, Snowflake, &amp; Torani. Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.</p>
+						<p>(2021 - 2022) Clients: Amazon, Instacart, Markforged, Snowflake, &amp; Torani. Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.</p>
 						<p><a class="btn btn-default" href="archive/ready-state.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more Ready State work</a></p>
                    	</div>
       			</div>
