@@ -31,6 +31,11 @@
                             		<li></li>
                                 	<li>Detachable Man (Screenplay)—Audience Choice Award</li>
                             	</ul>
+								<li class="h4">San Francisco Surfrider Foundation&nbsp;2021 </li>
+      							<ul>
+                            		<li></li>
+                                	<li>Activist &amp; Vounteer Of The Year</li>
+                            	</ul>
 								<li class="h4">Film Sprint&nbsp;2020 </li>
       							<ul>
                             		<li></li>
@@ -86,8 +91,8 @@
                         	<h3>Experience</h3>
                         
       						<dl>
-                            	<dt class="h4">Ready State—Sr. Designer</dt>
-                                <dd>(2021-Present)
+                            	<dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
+                                <dd>(2019-Present)
                                 Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
@@ -96,14 +101,13 @@
                                     <li>Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3).</li>
                                 </ul>
                                 </dd>
-								<dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
-                                <dd>(2019-Present)
-                                Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
+								<dt class="h4">Ready State—Sr. Designer</dt>
+                                <dd>(2021-2022)
+                                Worked with clients (<i>Amazon, Instacart, Markforged, Snowflake, and Torani</i>) and copywriters to develop work from concept to final execution within deadlines. Responsible for all aspects of graphic design, from planning out infographics, managing marketing materials, and creating heroes for blog and social media posts.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
-                                	<li>Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.</li>
-                                	<li>Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.</li>
-                                    <li>Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3).</li>
+                                	<li>Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.</li>
+                                	<li>Created image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested graphics.</li>
                                 </ul>
                                 </dd>
                                 <dt class="h4">Tag @ Union Bank—Art Director</dt>
