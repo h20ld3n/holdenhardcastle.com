@@ -14,7 +14,7 @@
 					<div class="col-md-6 col-md-offset-3">
         				<h1>Ready State</h1>
         				<h2>Senior Designer</h2>
-                   		<p>(2021-2022) Worked with Amazon, Instacart, Markforged, Snowflake, and Torani to develop a variety of media from concept to final execution. Responsible for editing video and creating strategic content for blogs, social media, and marketing materials.</p>
+                   		<p>(2021-2022) Conceptulized and generated a variety of media from concept to final execution with teams from Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials.</p>
   					</div>
                 </div>
  			</div>
@@ -26,10 +26,10 @@
     		<div class="jumbotron" id="readystate-cream">
       			<div class="container-fluid">
 					 <div class="col-md-6">
-                        <img src="../images/rs-amazon-firetv-get-to-watching.webp" alt="Amazon FireTV Feature Rotator" style="width:100%"> <!-- class="img-responsive"-->
+                        <img src="../images/rs-amazon-firetv-get-to-watching.webp" alt="Amazon FireTV Feature Rotator" class="img-responsive">
                     </div>
                     <div class="col-md-6">
-                        <img src="../images/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV Feature Rotator" style="width:100%"> <!-- class="img-responsive"-->
+                        <img src="../images/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV Feature Rotator" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -40,7 +40,7 @@
 						<p>Feature rotators &amp; blog heroes</p>
 					</div>
 					<div class="col-md-12">
-						<img src="../images/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" style="width:100%"> <!-- class="img-responsive"-->
+						<img src="../images/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" class="img-responsive">
 					</div>
       			</div>
     		</div>
@@ -49,41 +49,35 @@
     		<div class="jumbotron" id="readystate-cream">
       			<div class="container-fluid">
 					 <div class="col-md-12">
-						<img src="../images/rs-markforged-art-part.webp" alt="Art to Part White Paper" style="width:100%"> <!-- class="img-responsive"-->
+						<img src="../images/rs-markforged-art-part.webp" alt="Art to Part White Paper" class="img-responsive">
 					</div>
       			</div>
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Markforged</h3>
+          				<h3>Markforged 3D Printers &amp; Software</h3>
 						<p>E-books, white papers, infographics..</p>
 					</div>
 					<div class="col-md-12">
-						<img src="../images/rs-markforged-one-pager.webp" alt="one pagers" style="width:100%"> <!-- class="img-responsive"-->
+						<img src="../images/rs-markforged-one-pager.webp" alt="one pagers" class="img-responsive">
 					</div>
       			</div>
     		</div>
-			<div class="container">
-      			<div class="row">
-					<div class="col-md-12">
-						<img src="../images/rs-markforged-ebook-aerospace-01.webp" alt="Aerospace ebook" style="width:100%"> <!-- class="img-responsive"-->
-					</div>
-      			</div>
-    		</div>
-			<div class="container">
-      			<div class="row">
-					<div class="col-md-12">
-						<img src="../images/rs-markforged-ebook-aerospace-02.webp" alt="Aerospace ebook" style="width:100%"> <!-- class="img-responsive"-->
-					</div>
-      			</div>
-    		</div>
+			<div class="container-fluid">
+				<div class="col-md-6">
+                	<img src="../images/rs-markforged-ebook-aerospace-01.webp" alt="Aerospace ebook" class="img-responsive">
+                </div>
+                <div class="col-md-6">
+                	<img src="../images/rs-markforged-ebook-aerospace-02.webp" alt="Aerospace ebook" class="img-responsive">
+                </div>
+      		</div>
   		</article>
-				<article>
+		<article>
     		<div class="jumbotron" id="readystate-cream">
       			<div class="container-fluid">
 					 <div class="col-md-12">
-						<img src="../images/rs-snowflake-tier-01.webp" alt="Tier 1" style="width:100%"> <!-- class="img-responsive"-->
+						<img src="../images/rs-snowflake-tier-01.webp" alt="Tier 1" class="img-responsive">
 					</div>
       			</div>
     		</div>
@@ -91,27 +85,18 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Snowflake</h3>
-						<p>Blog hero images and social media</p>
-					</div>
-					<div class="col-md-12">
-						<img src="../images/rs-snowflake-tier-02.webp" alt="Tier 2" style="width:100%"> <!-- class="img-responsive"-->
+						<p>Developed image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested blog hero images and social media graphics.</p>
 					</div>
       			</div>
     		</div>
-			<div class="container">
-      			<div class="row">
-					<div class="col-md-12">
-						<img src="../images/rs-snowflake-tier-03.webp" alt="Tier 3" style="width:100%"> <!-- class="img-responsive"-->
-					</div>
-      			</div>
-    		</div>
-			<div class="container">
-      			<div class="row">
-					<div class="col-md-12">
-						<img src="../images/rs-snowflake-tier-04.webp" alt="Tier 4" style="width:100%"> <!-- class="img-responsive"-->
-					</div>
-      			</div>
-    		</div>
+			<div class="container-fluid">
+				<div class="col-md-6">
+                	<img src="../images/rs-snowflake-tier-02.webp" alt="Tier 2" class="img-responsive">
+               	</div>
+              	<div class="col-md-6">
+                	<img src="../images/rs-snowflake-tier-04.webp" alt="Tier 4" class="img-responsive">
+                </div>
+      		</div>
   		</article>
 	</section>
     <?php include '../includes/footer.php';?>

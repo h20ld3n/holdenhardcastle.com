@@ -103,7 +103,7 @@
                                 </dd>
 								<dt class="h4">Ready State—Sr. Designer</dt>
                                 <dd>(2021-2022)
-                                Worked with clients (<i>Amazon, Instacart, Markforged, Snowflake, and Torani</i>) and copywriters to develop work from concept to final execution within deadlines. Responsible for all aspects of graphic design, from planning out infographics, managing marketing materials, and creating heroes for blog and social media posts.</dd>
+                               Conceptulized and generated a variety of media from concept to final execution with Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.</li>

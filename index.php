@@ -37,7 +37,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Ready State—Senior Designer</h3>
-						<p>(2021 - 2022) Worked with clients (Amazon, Instacart, Markforged, Snowflake, and Torani) and copywriters to develop work from concept to final execution within deadlines. Responsible for all aspects of graphic design, from planning out infographics, managing marketing materials, and creating heroes for blog and social media posts. </p>
+						<p>(2021-2022) Conceptulized and generated a variety of media from concept to final execution with teams from Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials.</p>
 						<p><a class="btn btn-default" href="archive/ready-state.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more Ready State work</a></p>
                    	</div>
       			</div>
