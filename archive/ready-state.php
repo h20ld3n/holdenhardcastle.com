@@ -37,7 +37,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Amazon FireTV</h3>
-						<p>Feature rotators &amp; blog heroes</p>
+						<p>Feature rotators &amp; blog heroes/</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" class="img-responsive">
@@ -57,7 +57,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Markforged 3D Printers &amp; Software</h3>
-						<p>E-books, white papers, infographics..</p>
+						<p>E-books, white papers, infographics...</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/rs-markforged-one-pager.webp" alt="one pagers" class="img-responsive">
