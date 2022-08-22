@@ -91,7 +91,6 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Dragon, Robot, Gatorbunny</h3>
 						<p>Using multi-touch gestures children were encouraged to stretch, sketch, and doodle with brushes to create beetle cats, dog snails, dapper griffins, or whatever they could imagine!</p>
-						<p><a class="btn btn-default" href="../epub/zoo_chronicle_drawing_sample.epub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Download drawing sample</a></p>
             		</div>
       			</div>
     		</div>
@@ -109,7 +108,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>E-mergency</h3>
 						<p> The letter E took a tumble and the only way to get her back on her foot is for people to stop using her. But who can take her place? The other letters have to make a decision ASAP. Z is too sleepy and Y asks way too many questions. Thankfully, O rolls in to try and save the day. Now E can rost up and got bottor...as long as ovorybody follows the rulos. Chock-full of verbal and visual puns, this zany book is sure to tickle both the brain and the funny bone.</p>
-						<p><a class="btn btn-default" href="../epub/9781452112558.epub" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Download interactive sample</a><a class="btn btn-default" href="../index.php#chronicle" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
+						<p><a class="btn btn-default" href="../index.php#chronicle" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Back to main page</a></p>
             		</div>
       			</div>
     		</div>
