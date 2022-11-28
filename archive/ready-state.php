@@ -45,6 +45,29 @@
       			</div>
     		</div>
   		</article>
+        <article>
+    		<div class="jumbotron" id="readystate-cream">
+      			<div class="container-fluid">
+					 <div class="col-md-6">
+                        <img src="../images/rs-amazon-firetv-get-to-watching.webp" alt="Amazon FireTV Feature Rotator" class="img-responsive">
+                    </div>
+                    <div class="col-md-6">
+                        <img src="../images/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV Feature Rotator" class="img-responsive">
+                    </div>
+      			</div>
+    		</div>
+    		<div class="container">
+      			<div class="row">
+        			<div class="col-md-6 col-md-offset-3" id="description">
+          				<h3>Amazon FireTV</h3>
+						<p>Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming.</p>
+					</div>
+					<div class="col-md-12">
+						<img src="../images/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" class="img-responsive">
+					</div>
+      			</div>
+    		</div>
+  		</article>
 		<article>
     		<div class="jumbotron" id="readystate-cream">
       			<div class="container-fluid">
