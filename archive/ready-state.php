@@ -37,7 +37,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Amazon FireTV</h3>
-						<p>Feature rotators &amp; blog heroes/</p>
+						<p>Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" class="img-responsive">
@@ -57,14 +57,19 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Markforged 3D Printers &amp; Software</h3>
-						<p>E-books, white papers, infographics...</p>
+						<p>Collaborated with art directors, account leads, &amp; stake holders to create e-books, white papers, and infographics to educate customers about technology advancements and material capabilities.</p>
 					</div>
 					<div class="col-md-12">
-						<img src="../images/rs-markforged-one-pager.webp" alt="one pagers" class="img-responsive">
+						<img src="../images/rs-markforged-infographic.webp" alt="infographic" class="img-responsive">
 					</div>
       			</div>
     		</div>
 			<div class="container-fluid">
+				<div class="col-md-12">
+                    <img src="../images/rs-markforged-one-pager.webp" alt="one pagers" class="img-responsive">
+					</div>
+      		</div>
+            <div class="container-fluid">
 				<div class="col-md-6">
                 	<img src="../images/rs-markforged-ebook-aerospace-01.webp" alt="Aerospace ebook" class="img-responsive">
                 </div>

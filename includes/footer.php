@@ -34,7 +34,7 @@
 								<li class="h4">San Francisco Surfrider Foundation&nbsp;2021 </li>
       							<ul>
                             		<li></li>
-                                	<li>Activist &amp; Vounteer Of The Year</li>
+                                	<li>Activist &amp; Volunteer Of The Year</li>
                             	</ul>
 								<li class="h4">Film Sprint&nbsp;2020 </li>
       							<ul>
@@ -103,7 +103,7 @@
                                 </dd>
 								<dt class="h4">Ready State—Sr. Designer</dt>
                                 <dd>(2021-2022)
-                               Conceptulized and generated a variety of media from concept to final execution with Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials.</dd>
+                              Conceptualized and generated a variety of media from concept to final execution with Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
                                 	<li>Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.</li>

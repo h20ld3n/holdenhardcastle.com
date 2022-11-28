@@ -526,7 +526,6 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Three dimensions</h3>
 						<p>Color has three dimensions which can be defined and measured. Hue is the color itself, or chroma, of which there are more than a hundred. Each hue has individual characteristics; group or categories of colors share common effects. There are three primary or elementary hues: yellow, red, blue. Each represents qualities that are fundamental. Yellow is the color considered closest to light and warmth; red is the most emotional and active; blue is passive and soft. Yellow and red tend to expand, blue contract. In association with each, through moxtures, new meanings take over. Red, which is a provoking hue, is subdued when it is mixed with blue and activated when it is combined with yellow. The same changes in effect are reached with yellow, which mellows when it is mixed with blue. </p>
-						<p><a class="btn btn-default" href="../archive/sketchbook.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Previous sketchbook</a></p>
                     </div>
       			</div>
     		</div>

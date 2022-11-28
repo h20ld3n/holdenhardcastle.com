@@ -2,7 +2,23 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3" id="description">
-        <h3>Additional materials and some assembly may be required</h3>
+          <h3>Additional materials...</h3> 
+          <p>and some assembly may be required</p>
+      </div>
+    </div>
+  </div>
+</article>
+<article>
+  <div class="jumbotron" id="very-peri">
+    <div class="container-fluid">
+      <div class="row"> <img src="../images/add-materials/220907-gestalt-psychology.webp" alt="hawaiian gestalt psychology" class="img-responsive"> </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3" id="description">
+        <h3>Gestalt psychology has contributed valuable research and experimentation in the area of perception, collecting data and searching for the significance of visual patterns, as well as finding how the human organism sees and organizes visual input and articulates visual output.</h3>
+        <p> Together, the physical and the psychological are relative and not absolute. Every visual pattern has a dynamic quality that cannot be defined intellectually, emotionally, or mechanically by size or direction or shape, or distance. These stimuli are only the static measurements, but the psychophysical forces they set off, like those of any stimuli, modify space and arrange or derange balance. Together they create the perception of a design of an environment or a thin. All things visual are not just something that happened out there. They are visual events, total occurrences, and actions that incorporate the creation into the whole.</p>
       </div>
     </div>
   </div>
