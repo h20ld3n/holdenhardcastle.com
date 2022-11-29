@@ -57,7 +57,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Instacart</h3>
-						<p>The goal of the campaign was to educate potential shoppers why the should choose Instacart and what sets IC apart from other grocery delivery and pickup services. I worked with stakeholders to create and present the instagram social media campaign encouraging potential shoppers to sign up.</p>
+						<p>The campaign aimed to educate potential shoppers on why they should choose Instacart and what sets IC apart from other grocery delivery and pickup services. I worked with stakeholders to create and present the Instagram social media campaign encouraging potential shoppers to sign up.</p>
 					</div>
 					<div class="col-md-12">
 						<img src="../images/rs-instacart-social-02.webp" alt="What do you want?" class="img-responsive">
