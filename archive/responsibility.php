@@ -171,6 +171,7 @@
                             </ul>
                             </small></p>
                         <p>&nbsp;</p>
+                        <p>Initially, the characters in "Boyz 'R' Us" were flat and uninteresting, particularly Mitch's older brother Sean. In the book Sean is perfect. He gives his brother sound advice, listens to his dead mother's advice about having sex before marriage, and is quite good-looking. Mitch goes as far as to call him "golden boy." But who wants to watch that for an hour or even a minute? Sean was easily forgettable. Characters need to have flaws and shortcomings. They need to have things about them that make them fun and interesting to watch. The Sean that is slowly being built for the screen is an ex-gang member with tattoos who knows how to defend himself. He drinks, gives his brother a hard time, and may even try to pick up the young nurse who stitches him up after a fight. </p>
                     </div>
       			</div>
     		</div>
