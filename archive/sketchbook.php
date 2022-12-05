@@ -879,7 +879,7 @@
   		</article>
 		<article>
     		<div class="jumbotron" id="sketchbook">
-      			<div class="container-fluid">
+      			<div class="container-fluid" name="2212021004">
         			<div class="row">
                     	<img src="../images/sketchbook/distributed-sketchbook-test.png" alt="first sketchbook entry" class="img-responsive">
                     </div>

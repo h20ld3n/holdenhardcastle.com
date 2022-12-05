@@ -50,7 +50,10 @@ function includeHTML() {
 		</div>
 	</header>
 	<main>
-		<section>
+		<!--section>
+			<?php include 'archive/zip-drive.php';?>
+		</section-->
+        <section>
 			<?php include 'archive/additional-materials.php';?>
 		</section>
 		<section>
