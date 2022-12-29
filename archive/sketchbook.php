@@ -836,7 +836,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Spend more on data</h3>
-						<p>We need develop a fanatical devotion to customers and understanding of them, by studying multiple sources of data, advanced analytics, ethnographic research, and behaviorial analysis.</p>
+						<p>We need develop a fanatical devotion to customers and understanding of them, by studying multiple sources of data, advanced analytics, ethnographic research, and behavioral analysis.</p>
                     </div>
       			</div>
     		</div>
@@ -889,7 +889,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>14.15&#41;</h3>
-          				<p>The synergy between three photographs seen together reveals more about the feeling of a time and a place then they ever could seperately. Scale and cropping intensify the expression.</p>
+          				<p>The synergy between three photographs seen together reveals more about the feeling of a time and a place then they ever could separately. Scale and cropping intensify the expression.</p>
                     </div>
       			</div>
     		</div>
