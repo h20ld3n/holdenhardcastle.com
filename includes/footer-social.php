@@ -112,9 +112,6 @@
                     	<p>
       					<h3>Freelance, Portfolios, Networks &amp; Other Sites</h3>	
                             <ul>
-                                <li><a href="https://hls.harvard.edu/dept/opia/job-search-toolkit/action-verbs/" target="_blank"><span class="glyphicon glyphicon-link"></span> Action Verbs...</a></li>
-                                <li>to assist describing experiences and accomplishments</li>
-                                <li><a href="https://angel.co/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> angel.co</a></li>
                                 <li><a href="https://www.linkedin.com/in/holdenhardcastle" target="_blank"><span class="social social-linked-in"></span>linkedin</a></li>
                                 <li><a href="https://www.patreon.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> patreon</a></li>
                                 <li><a href="https://www.behance.net/HoldenHardcastle" target="_blank"><span class="social social-behance"></span>behance</a></li>             <li><a href="http://cargocollective.com/holdenhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span> cargo collective</a></li>
@@ -130,8 +127,6 @@
                                 <li></li>
                                 <li><a href="https://designs.ai/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designs.ai</strong></a></li>
                                 <li>Part of a creative ecosystem on a mission to make design easy for everyone.</li>
-                                <li><a href="https://designmodo.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Designmodo</strong></a></li>
-                                <li><a href="https://www.facebook.com/holden.hardcastle" target="_blank"><span class="social social-facebook"></span>facebook</a></li>
                                 <li><a href="http://flexboxfroggy.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Flexbox Froggy</strong></a></li>
                                 <li>A game where you help Froggy and friends by writing CSS code! <i>I am currently on level 8</i>.</li>
                                 <li><a href="https://www.filmsprint.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Film Sprint</strong></a></li>
@@ -140,20 +135,16 @@
                                 <li><a href="https://www.goodreads.com/user/show/69130149-holden-hardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;goodreads</a></li>
                                 <li><a href="http://en.gravatar.com/h20ld3n" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;gravatar</a></li>
                                 <li><a href="https://www.instagram.com/h20ld3n/" target="_blank"><span class="social social-instagram"></span>instagram</a></li>
-                                <li><a href="https://lunchclub.com/?invite_code=holdenh1" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;lunchclub</a></li>
-                                <li><a href="https://mstdn.social/web/accounts/214145" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;mastadon</a></li>
+                                <li><a href="https://mstdn.social/@holden" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;mastadon</a></li>
                                 <li><a href="https://mckups.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;MCKUPS</strong></a></li>
                                 <li>They have a lot of free mockups. Stay safe, stay well!</li>
-                                <li><a href="https://medium.com/@hhardcastle" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;medium</a></li>
+                                <li><a href="https://medium.com/@four11productions" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;medium</a></li>
                                 <li><a href="https://thenounproject.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;The Noun Project</strong></a></li>
                                 <li>Building a global visual language that unites us.</li>
                             <li><a href="https://www.pinterest.com/h20ld3n/" target="_blank"><span class="social social-pinterest"></span>pinterest</a></li>
-                            <li><a href="https://platforma.ws/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Platforma 2</strong></a></li>
                             <li>Website Wireframe Kit for Sketch</li>
                             <li><a href="https://www.rinse.com/?kid=QNVA6BZY9H" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Rinse</strong></a></li>
                             <li>Your Dry Cleaning and Laundry. Done. Rinse picks up, cleans, and delivers. Now you have time for what really matters.</li>
-                            <li><a href="https://roadmap.manager-tools.com/home" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Roadmap Manager Tools</strong></a></li>
-                            <li>Weekly podcasts designed to give managers and individual contributors actionable recommendations...</li>
                             <li><a href="https://smartmockups.com/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Smartmockups</strong></a></li>
                             <li>Product Mockup Generator</li>
                             <li><a href="https://www.screenaustralia.gov.au/the-screen-guide/p/holden-hardcastle/27168/" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;screen australia</a></li>
@@ -161,7 +152,7 @@
                             <li>Peter J. Wagoner created a tool to help us come up with ideas. It's not a substitute for strategy or insight – it's a substitute for pulling another all nighter.</li>
                             <li><a href="http://tevko.github.io/practice/" target="_blank"><strong><span class="glyphicon glyphicon-link"></span>&nbsp;Tevko</strong></a></li>
                             <li>Practice your skills by getting random suggestions or creative inspiration!</li>  
-				            <li><a href="https://twitter.com/h20ld3n" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
+				            <li><a href="https://twitter.com/four11pro" target="_blank"><span class="social social-twitter"></span>twitter</a></li>
                             <li><a href="https://unstoppabledomains.com/r/9b680ba55a03434" target="_blank"><span class="glyphicon glyphicon-link"></span>&nbsp;Unstoppable Domains</a></li>
                                 
                         </ul>
