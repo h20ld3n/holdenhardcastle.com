@@ -28,7 +28,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/tag-ub-email-design-specs.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/tag-ub-email-design-specs.png" alt="Union Bank Email Design and Specs" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -39,7 +39,7 @@
 						<p>Worked with Union Bank channel and marketing leads, brand managers, Salesforce development leads, and designers to develop email mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines.</p>
 					</div>
 					<div class="col-md-12">
-						<img src="../images/tag-ub-email-specs.png" class="img-responsive">
+						<img src="https://holdenhardcastle.imgix.net/tag-ub-email-specs.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
           				<p>The established templates resulted in a 75% reduction in the time required to deliver final assets. The increase in efficiency of asset delivery allowed for strategic and design thinking around email campaigns.</p>
@@ -51,7 +51,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/tag-ub-lunar-new-year.webp" alt="Lunar New Year Landing Page" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/tag-ub-lunar-new-year.webp" alt="Lunar New Year Landing Page" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -68,7 +68,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/tag-ub-home-lending-2019.png" alt="Union Bank Email Design and Specs" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/tag-ub-home-lending-2019.png" alt="Union Bank Email Design and Specs" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -79,13 +79,13 @@
 						<p>The nine-month 360 multi-channel marketing campaigns included printed collateral, ATMs, digital signage, landing pages, emails, and in-branch environmental signage featured across all Union Bank branches. The goal was to drive conversations of mortgage pre-qualification and raise awareness of the advantages of using your home's equity, which in turn should generate increased application volumes from interested customers.</p>
 					</div>
 					<div class="col-md-12">
-						<img src="../images/tag-ub-mortgage-360.png" class="img-responsive">
+						<img src="https://holdenhardcastle.imgix.net/tag-ub-mortgage-360.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
                         <p><i>Background &amp; audience:</i> The "purchase season" or prime time for both mortgage and home equity lines of credit (HELOC) is the spring & summer months. During the spring and summer months, when the weather is beautiful, many families begin a home a new home search in the hopes of moving or buying a home before the next school year. Homeowners are also racking up record amounts of home equity, thanks to fast-rising values in today's competitive housing market, and more people are now starting to tap into that cash.</p>
                     </div>
                     <div class="col-md-12">
-						<img src="../images/tag-ub-heloc-360.png" class="img-responsive">
+						<img src="https://holdenhardcastle.imgix.net/tag-ub-heloc-360.png" class="img-responsive">
 					</div>
 					<div class="col-md-6 col-md-offset-3" id="description">
                         <p><i>Market and competitive considerations:</i> Interest rates are the number one driver of when to get a home equity line of credit and mortgage. In late 2019 and early 2020, mortgage rates were at their lowest since late 2016 and near historic lows, making it an ideal time to buy or refinance a home. Refinance applications were up 116% compared with the previous year. Low mortgage rates were fueling a housing shortage, and the number of homes for sale nationwide fell 2.5% from the prior year. The drop in inventory was prompted by low mortgage rates and led to fast-paced sales and higher home prices.</p>
@@ -99,7 +99,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/wlt-ub-small-business-promo.png" alt="Small Business Campaign" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/wlt-ub-small-business-promo.png" alt="Small Business Campaign" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -117,7 +117,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/wlt-ub-credit-cards.png" alt="Union Bank Credit Cards" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/wlt-ub-credit-cards.png" alt="Union Bank Credit Cards" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -134,7 +134,7 @@
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/wlt-ub-car-wrap.png" alt="Union Bank Car Wrap" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/wlt-ub-car-wrap.png" alt="Union Bank Car Wrap" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -156,7 +156,7 @@
     		<div class="jumbotron" id="ub-cool-grey11">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/wlt-ub-onserts.png" alt="Onserts and direct mail" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/wlt-ub-onserts.png" alt="Onserts and direct mail" class="img-responsive">
                     </div>
       			</div>
     		</div>
