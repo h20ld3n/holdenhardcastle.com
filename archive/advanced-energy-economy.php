@@ -28,7 +28,7 @@
     		<div class="jumbotron" id="aee-blue">
     			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-letterhead.png" alt="Advanced Energy Economy Brand and Style Guide" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/aee-letterhead.png" alt="Advanced Energy Economy Brand and Style Guide" class="img-responsive">
                   	</div>
       			</div>
     		</div>
@@ -46,7 +46,7 @@
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-initiatives.png"  alt="Advanced Energy Economy Responsive Website" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/aee-initiatives.png"  alt="Advanced Energy Economy Responsive Website" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -64,7 +64,7 @@
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/aee-covers.png"  alt="Advanced Energy Economy & AEE Institute Reports" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -83,7 +83,7 @@
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/aee-ohio-electricity-future.png" alt="Ohio's Electricity Future Report" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -102,7 +102,7 @@
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/aee-infographics.png" alt="AEE and AEE Institute Infographics" class="img-responsive">
                    	</div>
       			</div>
     		</div>
