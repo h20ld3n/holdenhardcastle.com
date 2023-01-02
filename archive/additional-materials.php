@@ -11,7 +11,7 @@
 <article>
   <div class="jumbotron" id="very-peri">
     <div class="container-fluid">
-      <div class="row"> <img src="../images/add-materials/220907-gestalt-psychology.webp" alt="hawaiian gestalt psychology" class="img-responsive"> </div>
+      <div class="row"> <img src="https://holdenhardcastle.imgix.net/add-materials/220907-gestalt-psychology.webp" alt="hawaiian gestalt psychology" class="img-responsive"> </div>
     </div>
   </div>
   <div class="container">
@@ -26,7 +26,7 @@
 <article>
   <div class="jumbotron" id="very-peri">
     <div class="container-fluid">
-      <div class="row"> <img src="../images/add-materials/220111-true-statement.webp" alt="hawaii" class="img-responsive"> </div>
+      <div class="row"> <img src="https://holdenhardcastle.imgix.net/add-materials/220111-true-statement.webp" alt="hawaii" class="img-responsive"> </div>
     </div>
   </div>
   <div class="container">
@@ -42,7 +42,7 @@
 <article>
   <div class="jumbotron" id="very-peri">
     <div class="container-fluid">
-      <div class="row"> <img src="../images/add-materials/220106-response-to-light.webp" alt="hawaii" class="img-responsive"> </div>
+      <div class="row"> <img src="https://holdenhardcastle.imgix.net/add-materials/220106-response-to-light.webp" alt="hawaii" class="img-responsive"> </div>
     </div>
   </div>
   <div class="container">
@@ -58,7 +58,7 @@
 <article>
   <div class="jumbotron" id="very-peri">
     <div class="container-fluid">
-      <div class="row"> <img src="../images/add-materials/220102-visual-communication.webp" alt="hawaii" class="img-responsive"> </div>
+      <div class="row"> <img src="https://holdenhardcastle.imgix.net/add-materials/220102-visual-communication.webp" alt="hawaii" class="img-responsive"> </div>
     </div>
   </div>
   <div class="container">
@@ -74,7 +74,7 @@
 <article>
   <div class="jumbotron" id="very-peri">
     <div class="container-fluid">
-      <div class="row"> <img src="../images/add-materials/220101-syntactical-guidelines.webp" alt="random pages from my sketchbook" class="img-responsive"> </div>
+      <div class="row"> <img src="https://holdenhardcastle.imgix.net/add-materials/220101-syntactical-guidelines.webp" alt="random pages from my sketchbook" class="img-responsive"> </div>
     </div>
   </div>
   <div class="container">
