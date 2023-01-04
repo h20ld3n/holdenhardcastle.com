@@ -12,7 +12,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190503-inspiration.png" alt="random pages from my sketchbook" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190503-inspiration.png" alt="random pages from my sketchbook" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -29,7 +29,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190502-inspiration.png" alt="Cross Current Logo?" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190502-inspiration.png" alt="Cross Current Logo?" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -49,7 +49,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190421-inspiration.png" alt="last of the study of g" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190421-inspiration.png" alt="last of the study of g" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -66,7 +66,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190416-inspiration.png" alt="more eyes and g studies" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190416-inspiration.png" alt="more eyes and g studies" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -83,7 +83,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190415-inspiration.png" alt="eye paths" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190415-inspiration.png" alt="eye paths" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -100,7 +100,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190410-inspiration.png" alt="sketchbook drawings" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190410-inspiration.png" alt="sketchbook drawings" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -117,7 +117,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190406-inspiration.png" alt="the borg" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190406-inspiration.png" alt="the borg" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -137,7 +137,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190328-inspiration.png" alt="Bowling pins and mannequin sketches" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190328-inspiration.png" alt="Bowling pins and mannequin sketches" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -154,7 +154,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190318-inspiration.png" alt="Claredon and study of g" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190318-inspiration.png" alt="Claredon and study of g" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -171,7 +171,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190313-inspiration.png" alt="Claredon and study of g" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190313-inspiration.png" alt="Claredon and study of g" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -188,7 +188,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190306-inspiration.png" alt="Lens figures and some type" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190306-inspiration.png" alt="Lens figures and some type" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -208,7 +208,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190226-inspiration.png" alt="photography" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190226-inspiration.png" alt="photography" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -225,7 +225,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190211-inspiration.png" alt="a few typefaces" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190211-inspiration.png" alt="a few typefaces" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -242,7 +242,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190208-inspiration.png" alt="a couple paintings and a resume" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190208-inspiration.png" alt="a couple paintings and a resume" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -262,7 +262,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190130-inspiration.png" alt="skull painting" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190130-inspiration.png" alt="skull painting" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -279,7 +279,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190129-inspiration.png" alt="Self portrait" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190129-inspiration.png" alt="Self portrait" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -296,7 +296,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190128-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190128-inspiration.png" alt="Me Looking at a bridge" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -313,7 +313,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190127-inspiration.png" alt"Greek designs" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190127-inspiration.png" alt"Greek designs" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -330,7 +330,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190125-inspiration.png" alt="Self Portraits" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190125-inspiration.png" alt="Self Portraits" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -347,7 +347,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190124-inspiration.png" alt="Drawings" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190124-inspiration.png" alt="Drawings" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -364,7 +364,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190119-inspiration.png" alt="Go figure" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190119-inspiration.png" alt="Go figure" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -381,7 +381,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190117-inspiration.png" alt="Oil and pastel" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190117-inspiration.png" alt="Oil and pastel" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -398,7 +398,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190115-inspiration.png" alt="Oil and pastel" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190115-inspiration.png" alt="Oil and pastel" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -415,7 +415,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190114-inspiration.png" alt="First nudes" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190114-inspiration.png" alt="First nudes" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -432,7 +432,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190113-inspiration.png" alt="Plate 3.5 and 3.6" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190113-inspiration.png" alt="Plate 3.5 and 3.6" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -449,7 +449,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190112-inspiration.png" alt="After Image (Plate 3.3 and 3.4)" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190112-inspiration.png" alt="After Image (Plate 3.3 and 3.4)" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -466,7 +466,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190111-inspiration.png" alt="three dimensions" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190111-inspiration.png" alt="three dimensions" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -483,7 +483,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190110-inspiration.png" alt="Two dimensions" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190110-inspiration.png" alt="Two dimensions" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -500,7 +500,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190109-inspiration.png" alt="Plate 3.2 - Color Wheel" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190109-inspiration.png" alt="Plate 3.2 - Color Wheel" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -517,7 +517,7 @@
     		<div class="jumbotron" id="inspiration">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/inspiration/190107-inspiration.png" alt="Hoo Ru Da San" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/inspiration/190107-inspiration.png" alt="Hoo Ru Da San" class="img-responsive">
                     </div>
       			</div>
     		</div>

@@ -28,7 +28,7 @@
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/trueblood.png" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/trueblood.png" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -46,7 +46,7 @@
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/the-ultimate-metallica.png" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/the-ultimate-metallica.png" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -64,7 +64,7 @@
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                		<img src="../images/history-of-surfing.png" class="img-responsive">
+                		<img src="https://holdenhardcastle.imgix.net/history-of-surfing.png" class="img-responsive">
                		</div>
       			</div>
     		</div>
@@ -82,7 +82,7 @@
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                		<img src="../images/dragon-robot-gatorbunny.png" class="img-responsive">
+                		<img src="https://holdenhardcastle.imgix.net/dragon-robot-gatorbunny.png" class="img-responsive">
                		</div>
       			</div>
     		</div>
@@ -99,7 +99,7 @@
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                		<img src="../images/e-mergency.png" class="img-responsive">
+                		<img src="https://holdenhardcastle.imgix.net/e-mergency.png" class="img-responsive">
                		</div>
       			</div>
     		</div>
