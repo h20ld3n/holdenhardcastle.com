@@ -103,10 +103,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Bleu Marketing Inc.—Art Director</h3>
-						<p>(2016) Collaborated with clients and project leads to determine opportunities, goals, style, and tone for media campaigns. Communicated a vision and strategy to designers, illustrators, copywriters, and other artists. Approved artwork and delivered client presentations to review and finalize products.</p>
-						<p>Dell EMC and the Hybrid Cloud provides the foundation to help companies modernize, automate, and transform data centers by innovating across devices, ecosystems and services to design solutions for the way people work.</p>
-                   	    <p>Identified audience, messaging, stories, and statistics, to develop a cohesive launch campaign that adhered to brand guidelines. Digital content and collateral was designed to highlight metrics that influence CFO decision making.</p>
+          				<p id="BlueMarketing"></p>
                    	</div>
       			</div>
     		</div>
@@ -125,8 +122,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Advanced Energy Economy—Creative Director</h3>
-          				<p>(2013-2016) Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns.</p>
+          				<p id="AdvancedEnergyEconomy"></p>
 						<p><a class="btn btn-default" href="archive/advanced-energy-economy.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the AEE branding</a></p>
         			</div>
       			</div>
@@ -146,10 +142,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Gap Inc.—Sr. Level Graphic Designer</h3>
-						<p>(2013) Collaborated with copywriters, designers, and marketing teams to create and support online and email campaigns.</p>
-          				<p>Old Navy is in constant communication with their customers. The marketing and creative teams foster relationships through email and online campaigns. The campaigns are centered around new products, promotions, and sales.</p>
-          				<p>Weekly marketing and design meetings allow for open collaboration and exploration. Production artists, designers, copy editors, art directors, and team leads are encouraged to discuss new ideas and fine tune project briefs and update style guides for targeted online email campaigns.</p>
+          				<p id="GapOldNavy"></p>
         			</div>
       			</div>
     		</div>
@@ -168,10 +161,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Dictionary.com—Search Results Case Study</h3>
-          				<p>Dictionary.com is committed to accelerating the discovery and mastery of English in all its forms. As the world's leading digital resource for language success, they were looking for solutions to increase the awareness of their expanding product line and increase earnings without compromising their primary vision.</p>
-						<p>Focusing on the goal of increasing revenue, advertising and promotion became a more prominent part of the search results. The site was redesigned to give more emphasis to exclusive advertising.</p>
-						<p>The responsive and grid based mock-ups work within the established style and brand guidelines to call out the promotions and ads. Using typographic and visual hierarchy, the search results remain the primary focus.</p>
+          				<p id="DictionaryCaseStudy"></p>
         			</div>
       			</div>
     		</div>
@@ -190,8 +180,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Chronicle Books—Dynamic Digital Production Coordinator</h3>
-          				<p>(2013-2016) Collaborated with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications.</p>
+          				<p id="ChronicleBooks"></p>
 						<p><a class="btn btn-default" href="archive/chronicle-books.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More ebooks from Chronicle Books</a></p>
         			</div>
       			</div>
@@ -211,8 +200,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>TRX Training—Creative Manager</h3>
-						<p>(2007–2010) Responsible for hiring and managing a six-person video production team and developing best practices for content creation and distribution.</p>
+          				<p id="TRXFitnessAnywhere"></p>
 						<p><a class="btn btn-default" href="archive/trx-fitness-anywhere.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">More from TRX</a></p>
         			</div>
       			</div>
