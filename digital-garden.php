@@ -33,6 +33,7 @@ function includeHTML() {
   }
 };
 </script>
+<script src="/lib/w3.js"></script>
 
 </head>
 <body>
@@ -50,6 +51,9 @@ function includeHTML() {
 		</div>
 	</header>
 	<main>
+        <section>
+            <div w3-include-HTML="archive/additional-materials.html"></div>
+        </section>
 		<!--section>
 			<?php include 'archive/zip-drive.php';?>
 		</section-->

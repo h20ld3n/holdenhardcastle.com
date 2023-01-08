@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<?php include 'includes/meta.php';?>
+    <?php include 'includes/meta.php';?>
 	<title>Art &amp; Creative Director</title>
 	<?php include 'includes/link.html';?>
 </head>
@@ -63,8 +63,9 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		</div>
     		<div class="container">
       			<div class="row">
-        			<div class="col-md-6 col-md-offset-3" id="description">
-                        <p id="RealCaliforniaMilk"></p>
+        			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
+          				<h3>Real California Milk—Editor</h3>
+						<p>(2021) Partnered with Tone Oliver Productions to create the video series promoting Real California Milk and local chefs. Responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting. The material included camera footage, interviews, sound effects, graphics and special effects.</p>
                    	</div>
       			</div>
     		</div>
@@ -83,7 +84,8 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				 <p id="TagUnionBank"></p>
+          				<h3>Tag @ Union Bank—Art Director</h3>
+						<p>(2016-2020) Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.</p>
 						<p><a class="btn btn-default" href="archive/wlt-union-bank.php" role="button" style="margin-top: 1em; width: 100%; font-size: .75em;">Discover more of the UB experience</a></p>
                    	</div>
       			</div>
@@ -226,7 +228,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script>
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.js"></script>
-<script  src="js/CurriculumVitae.js"></script>
+<script  src="js/ReadyState.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 </body>
 </html>

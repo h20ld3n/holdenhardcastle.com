@@ -28,7 +28,7 @@
     		<div class="jumbotron" id="trx-bg">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/trx-drew-brees-app.png" alt="Suspension Training App and Website" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/trx-drew-brees-app.png" alt="Suspension Training App and Website" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -47,7 +47,7 @@
     		<div class="jumbotron" id="trx-bg">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/trx-military-fitness.png" alt="TRX Force Kit" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/trx-military-fitness.png" alt="TRX Force Kit" class="img-responsive">
                     </div>
       			</div>
     		</div>
@@ -64,7 +64,7 @@
     		<div class="jumbotron" id="trx-bg">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="../images/trx-suspended-campaign.png" alt="I got suspended campaign" class="img-responsive">
+                    	<img src="https://holdenhardcastle.imgix.net/trx-suspended-campaign.png" alt="I got suspended campaign" class="img-responsive">
                     </div>
       			</div>
     		</div>
