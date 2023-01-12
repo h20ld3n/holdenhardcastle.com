@@ -213,8 +213,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script>
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.js"></script>
-<script  src="js/CurriculumVitae.js"></script>
+<script src="js/CurriculumVitae.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 </body>
 </html>

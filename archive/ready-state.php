@@ -36,8 +36,9 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Amazon FireTV</h3>
-						<p>Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming.</p>
+                        <p id="AmazonFireTV"></p>
+          				<!--h3>Amazon FireTV</h3>
+						<p>Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming.</p-->
 					</div>
 					<div class="col-md-12">
 						<img src="https://holdenhardcastle.imgix.net/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" class="img-responsive">
@@ -130,8 +131,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.js"></script>
-<script  src="../js/chart.js"></script>
+<script src="../js/CurriculumVitae.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 </body>
 </html>
