@@ -103,7 +103,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<p id="BlueMarketing"></p>
+          				<p id="BleuMarketing"></p>
                    	</div>
       			</div>
     		</div>
