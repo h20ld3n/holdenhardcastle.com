@@ -1,33 +1,45 @@
 // San Francisco Surfrider Foundation
 
-const SF2_Title = "San Francisco Surfrider Foundation &mdash; Executive Committee &mdash; Chair / Volunteer Coordnator / Creative Strategist ";
-const SF2_Desc = "(2019-Present) Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.";
-const SF2_Acomplir_00 = "Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.";
-const SF2_Acomplir_01 = "Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.";
-const SF2_Acomplir_02 = "Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3).";
+const sf2= {co:"San Francisco Surfrider Foundation", 
+            title:"Executive Committee &mdash; Chair / Volunteer Coordnator / Creative Strategist", 
+            date: "(2109-present)", 
+            desc:"Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention."};
+
+const sf2Acomplir = ["Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.", 
+                     "Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.", 
+                     "Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3)."];
 
 // Ready State
 
-const readyState = {co:"Ready State", title:"Senior Designer", date:"(2021-2022)", desc: "Conceptulized and generated a variety of media from concept to final execution with teams from Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials."};
-const rsAcomplir = ["Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.", "Created image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested graphics."];
-const RS_Amazon_Co = "Amazon FireTV";
-const RS_Amazon_Desc = "Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming.";
+const readyState = {co:"Ready State", 
+                    title:"Senior Designer", 
+                    date:"(2021-2022)", 
+                    desc: "Conceptulized and generated a variety of media from concept to final execution with teams from Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials."};
 
-document.getElementById("ReadyState").innerHTML = 
-"<h3>" + readyState.co + "&mdash;" + readyState.title + "</h3>" + "<p>" + readyState.date + "&nbsp;"  + readyState.desc + "</p>";
+const rsAcomplir = ["Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.", 
+                    "Created image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested graphics."];
+
+const rsAmazon = {co:"Amazon FireTV", 
+                  desc:"Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming."};
+
+document.getElementById("ReadyState").innerHTML = "<h3>" + readyState.co + "&mdash;" + readyState.title + "</h3>" + "<p>" + readyState.date + "&nbsp;"  + readyState.desc + "</p>";
 
 // Tone Oliver & Real California Milk
 
-const RCM_Title = "Real California Milk &mdash; Editor";
-const RCM_Desc = "(2021) Partnered with Tone Oliver Productions to create the video series promoting Real California Milk and local chefs. Responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting. The material included camera footage, interviews, sound effects, graphics and special effects.";
+const rcm = {co:"Real California Milk", 
+             title: "Editor", 
+             date: "(2021)", 
+             desc:"Partnered with Tone Oliver Productions to create the video series promoting Real California Milk and local chefs. Responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting. The material included camera footage, interviews, sound effects, graphics and special effects."};
                             
 document.getElementById("RealCaliforniaMilk").innerHTML = 
-"<h3>" + RCM_Title + "</h3>" + "<p>" + RCM_Desc + "</p>";
+"<h3>" + rcm.co + "&nbsp;" + "&mdash;" + "&nbsp;" + rcm.title + "</h3>" + "<p>" + rcm.date + "&nbsp;" + rcm.desc + "</p>";
 
 // Tag @ Union Bank 
 
-const Tag_Title = "Tag @ Union Bank &mdash; Art Director";
-const Tag_Desc = "(2016-2020) Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications.";
+const tag = {co:"Tag @ Union Bank", 
+             title:"Art Director", 
+             date:"(2016-2020)", 
+             desc:"Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications."};
 const Tag_Acomplir_01 = "Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials. Product marketing campaigns yielded a 200% - 400% increase in applications and approvals for various products.";
 const Tag_Acomplir_02 = "Developed emails, mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines resulting in a 75% reduction in the time required to deliver final assets. The improved efficiency of asset delivery allowed for strategic and design thinking around email campaigns.";
 const Tag_Acomplir_03 = "Introduced concepts for high visibility products (credit cards and car wraps) and marketing strategies (home loans and mortgage products) to C-suite and decision-makers. Increased the overall business and grew the agency statement of work by leveraging the internal team capabilities.";
