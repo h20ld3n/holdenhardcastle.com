@@ -37,8 +37,6 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
                         <p id="AmazonFireTV"></p>
-          				<!--h3>Amazon FireTV</h3>
-						<p>Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming.</p-->
 					</div>
 					<div class="col-md-12">
 						<img src="https://holdenhardcastle.imgix.net/rs-amazon-blog-heros.webp" alt="Amazon FireTV Blog Heros" class="img-responsive">
@@ -57,8 +55,9 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Instacart</h3>
-						<p>The campaign aimed to educate potential shoppers on why they should choose Instacart and what sets IC apart from other grocery delivery and pickup services. I worked with stakeholders to create and present the Instagram social media campaign encouraging potential shoppers to sign up.</p>
+                        <p id="Instacart"></p>
+          				<!-- h3>Instacart</h3>
+						<p>The campaign aimed to educate potential shoppers on why they should choose Instacart and what sets IC apart from other grocery delivery and pickup services. I worked with stakeholders to create and present the Instagram social media campaign encouraging potential shoppers to sign up.</p-->
 					</div>
 					<div class="col-md-12">
 						<img src="https://holdenhardcastle.imgix.net/rs-instacart-social-02.webp" alt="What do you want?" class="img-responsive">
@@ -132,6 +131,9 @@
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 <script src="../js/CurriculumVitae.js"></script>
+<script>document.getElementById("AmazonFireTV").innerHTML = "<h3>" + rsAmazon.co + "</h3>" + "<p>" + rsAmazon.desc + "</p>";</script>
+<script>document.getElementById("Inscart").innerHTML = "<h3>" + rsInstacart.co + "</h3>" + "<p>" + rsInstacart.desc + "</p>";</script>
+    
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 </body>
 </html>

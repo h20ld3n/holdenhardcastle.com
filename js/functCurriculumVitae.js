@@ -16,17 +16,12 @@ const readyState = {co:"Ready State",
                     date:"(2021-2022)", 
                     desc: "Conceptulized and generated a variety of media from concept to final execution with teams from Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials."};
 const rsAcomplir = ["Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.", 
-                    "Created image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested graphics."];
+                        "Created image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested graphics."];
 const rsAmazon = {co:"Amazon FireTV", 
                   desc:"Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming."};
-const rsInstacart = {co:"Instacart", 
-                     desc:"The campaign aimed to educate potential shoppers on why they should choose Instacart and what sets IC apart from other grocery delivery and pickup services. I worked with stakeholders to create and present the Instagram social media campaign encouraging potential shoppers to sign up."};
 
-document.getElementById("ReadyState").innerHTML = 
-    "<h3>" + readyState.co + "&mdash;" + readyState.title + "</h3>" + "<p>" + readyState.date + "&nbsp;"  + readyState.desc + "</p>";
-
-document.getElementById("AmazonFireTV").innerHTML = "<h3>" + rsAmazon.co + "</h3>" + "<p>" + rsAmazon.desc + "</p>";
-document.getElementById("Inscart").innerHTML = "<h3>" + rsInstacart.co + "</h3>" + "<p>" + rsInstacart.desc + "</p>";
+document.getElementById("AmazonFireTV").innerHTML = 
+    "<h3>" + rsAmazon.co + "</h3>" + "<p>" + rsAmazon.desc + "</p>";
 
 // Tone Oliver & Real California Milk
 
