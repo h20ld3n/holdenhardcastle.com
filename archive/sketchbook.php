@@ -703,8 +703,8 @@
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
-          				<h3>Asymmetic composition</h3>
-						<p>Designers oftern need to organize information in situations where there is not a logical opportunity for a symmetrical compisition. Symmetry is a situation where, (as in human physiology) elements are balanced based ona center line. The composition of one side is identical (but reversed) to another. Whiel this a is a good system, all situations do not lend themselves to a symmetrical order. Asymmetry is a balanced ordering of elements where one side of the composition does not mirror the other. An additional advantage of asymmetric compositions is that they have a tendency to be more dynamic that symmetric compositions.</p>
+          				<h3>Asymmetric composition</h3>
+						<p>Designers often need to organize information in situations where there is not a logical opportunity for a symmetrical composition. Symmetry is a situation where, (as in human physiology) elements are balanced based on a center line. The composition of one side is identical (but reversed) to another. While this a is a good system, all situations do not lend themselves to a symmetrical order. Asymmetry is a balanced ordering of elements where one side of the composition does not mirror the other. An additional advantage of asymmetric compositions is that they have a tendency to be more dynamic that symmetric compositions.</p>
 						<p>Dynamic compositions refers to a situation where the visual elements imply motion. The term dynamic is in contrast to the term staticm as situation where the elements appear ina fixed position.</p>
                     </div>
       			</div>
