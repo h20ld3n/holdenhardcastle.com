@@ -130,7 +130,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <script src="bootstrap/js/jquery-1.11.3.min.js"></script> 
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-<script src="../js/CurriculumVitae.js"></script>
+<script src="../js/curriculumVitae.js"></script>
 <script>document.getElementById("AmazonFireTV").innerHTML = "<h3>" + rsAmazon.co + "</h3>" + "<p>" + rsAmazon.desc + "</p>";</script>
 <script>document.getElementById("Inscart").innerHTML = "<h3>" + rsInstacart.co + "</h3>" + "<p>" + rsInstacart.desc + "</p>";</script>
     

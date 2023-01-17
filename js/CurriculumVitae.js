@@ -3,7 +3,14 @@
 const sf2= {co:"San Francisco Surfrider Foundation", 
             title:"Executive Committee &mdash; Chair / Volunteer Coordnator / Creative Strategist", 
             date: "(2109-present)", 
-            desc:"Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention."};
+            desc:"Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.",
+            
+// Does this solve my single point of truth problem             
+            
+            homePageDesc: function () {
+               return "<h3>" + this.sf2.co + "&mdash;" + this.sf2.title + "</h3>" + "<p>" + this.sf2.date + "&nbsp;"  + this.sf2.desc + "</p>";
+            }
+           };
 
 const sf2Acomplir = ["Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.", 
                      "Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.", 
