@@ -595,7 +595,7 @@
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Interrupted grid</h3>
 						<p>An effective technique for adding variety to grid layout and composition is to interrupt the grid. Interruption may be quite subtle or very dramatic. Use interruption for emphasis or to focus attention on a specific part of the layout.</p>
-						<p>Thie technique is most effective when repetitive elements are necessary. interruption can happen with photos, text type, headlines, or color blocks.</p>
+						<p>This technique is most effective when repetitive elements are necessary. interruption can happen with photos, text type, headlines, or color blocks.</p>
                     </div>
       			</div>
     		</div>
