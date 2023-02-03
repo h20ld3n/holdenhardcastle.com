@@ -576,8 +576,8 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>The illustrative grid</h3>
-						<p>Another approach to the use of grids involves grid imagery as non-functional subject matter. The grid becomes an illustrative element rather than a functional skeleton. The grid becomes visible and conveys structure on itself. A stong association with planning, building, technology, architecture, and science is often implied.</p>
-						<p>Postion of the grid is determined through a sense of pictorial space. Structure is incidental. Elements are placed inuitively.</p>
+						<p>Another approach to the use of grids involves grid imagery as non-functional subject matter. The grid becomes an illustrative element rather than a functional skeleton. The grid becomes visible and conveys structure on itself. A strong association with planning, building, technology, architecture, and science is often implied.</p>
+						<p>Position of the grid is determined through a sense of pictorial space. Structure is incidental. Elements are placed intuitively.</p>
                     </div>
       			</div>
     		</div>
