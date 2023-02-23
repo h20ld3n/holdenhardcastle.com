@@ -21,7 +21,7 @@ const rsAmazon = {co:"Amazon FireTV",
                   desc:"Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming."};
 
 document.getElementById("AmazonFireTV").innerHTML = 
-    "<h3>" + rsAmazon.co + "</h3>" + "<p>" + rsAmazon.desc + "</p>";
+     "<h3>" + readyState.co + "&nbsp;" + "&mdash;" + "&nbsp;" + readyState.title + "</h3>" + "<p>" + readyState.date + "&nbsp;" + readyState.desc + "</p>";;
 
 // Tone Oliver & Real California Milk
 
