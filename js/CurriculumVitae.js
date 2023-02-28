@@ -1,18 +1,12 @@
 // San Francisco Surfrider Foundation
 
 const sf2= {co:"Surfrider Foundation", 
-            title:"Chair, Volunteer Coordnator & Creative Strategist", 
+            title:"Creative Strategist", 
             date: "(2109-present)", 
-            desc_00:"Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.",
-            desc_01:"Migrated website content from WordPress to Hubspot platform." };
-
-const sf2Acomplir = ["Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.", 
-                     "Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.", 
-                     "Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3)."];            
-// Does this solve my single point of truth problem             
+            desc:"Coordinated the redesign and migration of the San Francisco Surfrider Foundations' website and marketing emails to Hubspot. The platform consolidation allowed for greater insight into the chapter's membership."};                
             
 document.getElementById("Surfrider").innerHTML = 
-    "<h3>" + sf2.co + "&mdash;" + sf2.title + "</h3>" + "<p>" + sf2.date + "&nbsp;"  + sf2.desc_00 + "</p>" + "<p>" + sf2.desc_01 + "</p>";
+    "<h3>" + sf2.co + "&mdash;" + sf2.title + "</h3>" + "<p>" + sf2.date + "&nbsp;"  + sf2.desc + "</p>";
 
 // Ready State
 
@@ -20,18 +14,9 @@ const readyState = {co:"Ready State",
                     title:"Senior Designer", 
                     date:"(2021-2022)", 
                     desc: "Conceptulized and generated a variety of media from concept to final execution with teams from Amazon, Instacart, Markforged, Snowflake, and Torani. Edited video and created strategic content for blogs, social media, and marketing materials."};
-const rsAcomplir = ["Contributed to design critiques and collaborated with the internal creative team across various disciplines to stay on top of digital trends, maintain best practices, and build community amongst the design team.", 
-                    "Created image standards based on inspiration and previously created work. The guidelines allowed for faster iteration and fewer edits to client-requested graphics."];
-const rsAmazon = {co:"Amazon FireTV", 
-                  desc:"Worked with project managers, strategists, and copywriters to develop on-screen promotions and content encouraging FireTV users to upgrade their devices and increase awareness of specific types of programming."};
-const rsInstacart = {co:"Instacart", 
-                     desc:"The campaign aimed to educate potential shoppers on why they should choose Instacart and what sets IC apart from other grocery delivery and pickup services. I worked with stakeholders to create and present the Instagram social media campaign encouraging potential shoppers to sign up."};
 
 document.getElementById("ReadyState").innerHTML = 
     "<h3>" + readyState.co + "&mdash;" + readyState.title + "</h3>" + "<p>" + readyState.date + "&nbsp;"  + readyState.desc + "</p>";
-
-document.getElementById("AmazonFireTV").innerHTML = "<h3>" + rsAmazon.co + "</h3>" + "<p>" + rsAmazon.desc + "</p>";
-document.getElementById("Inscart").innerHTML = "<h3>" + rsInstacart.co + "</h3>" + "<p>" + rsInstacart.desc + "</p>";
 
 // Tone Oliver & Real California Milk
 
@@ -49,11 +34,6 @@ const tag = {co:"Tag @ Union Bank",
              title:"Art Director", 
              date:"(2016-2020)", 
              desc:"Served as brand steward and directed designers, production artists, copywriters, and specialists to ensure consistency for 360 marketing campaigns. Delivered collateral and assets across channels and mediums on schedule according to specifications."};
-const tagAcomplir = ["Created campaign concepts and end-to-end assets for email, landing pages, digital signage, print, and packaging materials. Product marketing campaigns yielded a 200% - 400% increase in applications and approvals for various products.", 
-                     "Developed emails, mock-ups, redlines, templates, and specs that adhered to UX / UI standards, accessibility, and corporate guidelines resulting in a 75% reduction in the time required to deliver final assets. The improved efficiency of asset delivery allowed for strategic and design thinking around email campaigns.", 
-                     "Introduced concepts for high visibility products (credit cards and car wraps) and marketing strategies (home loans and mortgage products) to C-suite and decision-makers. Increased the overall business and grew the agency statement of work by leveraging the internal team capabilities.", 
-                     "Managed files and cloud repositories using Microsoft OneDrive, allowing for greater transparency and smoother handoff of mechanical files throughout the entire design process."];
-
                             
 document.getElementById("TagUnionBank").innerHTML = 
     "<h3>" + tag.co + "&mdash;" + tag.title + "</h3>" + "<p>" + tag.date + "&nbsp;"  + tag.desc + "</p>";
@@ -76,9 +56,7 @@ const aee = {co:"Advanced Energy Economy",
              title:"Creative Director",
              date:"(2013-2016)",
              desc:"Defined, built, and maintained the company’s visual identity to ensure brand consistency across channels, mediums, and campaigns. Responsible for conceptualizing and creating assets for print collateral, websites, and email campaigns."};
-const aeeAcomplir = ["Managed files and cloud repositories using Dropbox and Github. The use of Trello and Asana project management software and a consolidated file system expedited file updates, led to greater transparency, and more efficient processes.", 
-                     "Incorporated Hubspot (CRM) into existing processes and website to maximize talents and time of program leads and developers, allowing program leads to instantly make content updates."];
-                        
+
 document.getElementById("AdvancedEnergyEconomy").innerHTML = 
     "<h3>" + aee.co + "&mdash;" + aee.title + "</h3>" + "<p>" + aee.date + "&nbsp;"  + aee.desc + "</p>";
 
@@ -111,9 +89,6 @@ const chron = {co: "Chronicle Books",
                title:"Dynamic Digital Production Coordinator",
                date:"(2013-2016)",
                desc:"Collaborated with teams at Sony, HBO, Lucasfilm, Apple, and Amazon to create digital books and applications."};
-const chronAcomplir = ["Built relationships with authors, editors, designers, content creators, and outside vendors to set up systems to translate the entire back catalog of physical books and mechanicals to ebooks. Efficiently converted approximately 1000 titles of varied complexity per year.",
-                       "Recruited and developed a five-person team of front-end web developers, design-fellows, and interns."];
-
                             
 document.getElementById("ChronicleBooks").innerHTML = 
     "<h3>" + chron.co + "&mdash;" + chron.title + "</h3>" + "<p>" + chron.date + "&nbsp;"  + chron.desc + "</p>";
@@ -124,9 +99,6 @@ const trx = {co:"TRX Training",
              title:"Creative Manager",
              date:"(2007-2010)",
              desc:"Responsible for hiring and managing a six-person video production team and developing best practices for content creation and distribution."};
-const trxAcomplir = ["Worked with the CEO and Founder and department heads to oversee the production, filming, and editing of the TRX Force Training Videos. The resulting two-disc DVD set established the standards for production quality for subsequent projects.", 
-                     "Created standards to encourage early-stage content creators ownership of their content. By allowing content creators and personal trainers to produce videos and blog posts independently, the internal production team was able to focus on revenue-generating projects.", 
-                     "Designed, developed, and presented wireframes, storyboards, user experiences, interactions and prototypes for online communities, landing pages, and large scale campaigns resulting in a consistent look and feel across digital channels."];
                             
 document.getElementById("TRXFitnessAnywhere").innerHTML = 
     "<h3>" + trx.co + "&mdash;" + trx.title + "</h3>" + "<p>" + trx.date + "&nbsp;"  + trx.desc + "</p>";

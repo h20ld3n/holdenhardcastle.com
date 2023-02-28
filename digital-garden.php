@@ -54,9 +54,9 @@ function includeHTML() {
         <section>
             <div w3-include-HTML="archive/additional-materials.html"></div>
         </section>
-		<!--section>
+		<section>
 			<?php include 'archive/zip-drive.php';?>
-		</section-->
+		</section>
         <section>
 			<?php include 'archive/additional-materials.php';?>
 		</section>

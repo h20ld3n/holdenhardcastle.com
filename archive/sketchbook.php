@@ -405,7 +405,7 @@
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" id="description">
           				<h3>Gesture drawings</h3>
-						<p>Draw not what thing looks like, not even what it is, but <i>WHAT IT IS DOING</i>. More like scribbling than printing carefully—more of the meaning than the way the thing looks. In five seconds put something down that indicates everypart of the body in the pose.</p>
+						<p>Draw not what thing looks like, not even what it is, but <i>WHAT IT IS DOING</i>. More like scribbling than printing carefully—more of the meaning than the way the thing looks. In five seconds put something down that indicates every part of the body in the pose.</p>
                     </div>
       			</div>
     		</div>

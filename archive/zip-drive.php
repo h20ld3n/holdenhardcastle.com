@@ -18,8 +18,35 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3" id="description">
-        <h3>Gestalt psychology has contributed valuable research and experimentation in the area of perception, collecting data and searching for the significance of visual patterns, as well as finding how the human organism sees and organizes visual input and articulates visual output.</h3>
-        <p> Together, the physical and the psychological are relative and not absolute. Every visual pattern has a dynamic quality that cannot be defined intellectually, emotionally, or mechanically by size or direction or shape, or distance. These stimuli are only the static measurements, but the psychophysical forces they set off, like those of any stimuli, modify space and arrange or derange balance. Together they create the perception of a design of an environment or a thin. All things visual are not just something that happened out there. They are visual events, total occurrences, and actions that incorporate the creation into the whole.</p>
+        <h3>Estimating Film Transfer</h3>
+        <p>While jobs vary greatly, the following ratios to running time are to assist you in estimating transfer times. <i>All estimates are unsupervised unless noted</i>.</p>
+        <p><h4><i>M.O.S.</i></h4>
+          <ul>
+              <li>Light Transfer (Minimal Color Correction) <strong>2:1 Ratio</strong></li>
+              <li>Best Light Transfer  (Color Correction on the fly) <strong>3:1  - 4:1 Ratio</strong></li>
+              <li>Scene to Scene Transfer  (Final Color Correction)  <strong>5:1 Ratio</strong></li>
+              <li>Supervised Scene to Scene Transfer  (Final Color Correction)  <strong>6:1 Ratio</strong></li>
+          </ul>
+        </p>
+        <p>Syncing — We do all syncing in telecine suite during film transfer. Best Light Color Correction Transfer with Smart Slate Sync Approximately <strong>4:1 Ratio</strong></p>
+        <p>Aatoncode &amp; Arricode syncing same as M.O.S ratio plus digitizing audio. Prior to session all field audio must first be digitized and a CD-ROM burned. Convince the client to drop off the audio while film is being processed. Allow ½ hour on top of total running time of field audio to digitize and burn CD-ROM audio.</p>
+        <p><i>16mm — 24 fps</i>
+            <ul>
+                <li>Footage	Length = Run Time</li>
+                <li>400 ft =  11 minutes 7 seconds</li>	
+                <li>1000 ft =  27 minutes 47 seconds</li>
+                <li>1200 ft =  33 minutes 20 seconds</li>
+                <li>1600 ft =  44  minutes 27 seconds</li>
+            </ul>
+        </p>
+        <p><i>35mm — 24 fps</i>
+            <ul>
+                <li>Footage Length = Run Time</li>
+                <li>400 ft =   4  minutes  27 seconds</li>	
+                <li>1000 ft =  11 minutes    7 seconds</li>	
+                <li>1200 ft =  13 minutes  20 seconds</li>
+            </ul>
+        </p>
       </div>
     </div>
   </div>
