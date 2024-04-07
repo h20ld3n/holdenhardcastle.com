@@ -30,7 +30,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
       			<div class="container-fluid">
         			<div class="row">
                     	<a name="wlt-ub"><img src="images/sf2-website-migration.webp" alt="Amazon FireTV" class="img-responsive"></a>
-                        <!--a name="wlt-ub"><img src="https://holdenhardcastle.imgix.net/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV" class="img-responsive"></a-->
+                        <!--a name="wlt-ub"><img src="images/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV" class="img-responsive"></a-->
                    	</div>
       			</div>
     		</div>
@@ -49,7 +49,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="readystate-cream">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="wlt-ub"><img src="https://holdenhardcastle.imgix.net/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV" class="img-responsive"></a>
+                    	<a name="wlt-ub"><img src="images/rs-amazon-firetv-simplify.webp" alt="Amazon FireTV" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
@@ -69,7 +69,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="https://holdenhardcastle.imgix.net/real-california-milk.webp" class="img-responsive">
+                        <img src="images/real-california-milk.webp" class="img-responsive">
                     </div>
                     <div class="col-md-6">
                         <video class="video-fluid img-responsive" controls>
@@ -96,7 +96,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="ub-cool-grey3">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="wlt-ub"><img src="https://holdenhardcastle.imgix.net/tag-ub-email-design-specs.webp" alt="Union Bank" class="img-responsive"></a>
+                    	<a name="wlt-ub"><img src="images/tag-ub-email-design-specs.webp" alt="Union Bank" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
@@ -116,7 +116,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="bleu-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="https://holdenhardcastle.imgix.net/bleu-dell-emc-hybrid-cloud.webp" alt="Bleu Marketing Solutions" class="img-responsive">
+                    	<img src="images/bleu-dell-emc-hybrid-cloud.webp" alt="Bleu Marketing Solutions" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -135,7 +135,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="aee-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="aee"><img src="https://holdenhardcastle.imgix.net/aee-initiatives.webp"  alt="Advanced Energy Economy Responsive Website" class="img-responsive"></a>
+                    	<a name="aee"><img src="images/aee-initiatives.webp"  alt="Advanced Energy Economy Responsive Website" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
@@ -155,7 +155,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="old-navy-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="https://holdenhardcastle.imgix.net/gap-old-navy-email.webp" alt="Old Navy Online Email Campaigns" class="img-responsive">
+                    	<img src="images/gap-old-navy-email.webp" alt="Old Navy Online Email Campaigns" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -174,7 +174,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="dictionary-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<img src="https://holdenhardcastle.imgix.net/dictionary.webp" alt="Dictionary.com Search Results Redesign" class="img-responsive">
+                    	<img src="images/dictionary.webp" alt="Dictionary.com Search Results Redesign" class="img-responsive">
                    	</div>
       			</div>
     		</div>
@@ -193,7 +193,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="chronicle-blue">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="chronicle"><img src="https://holdenhardcastle.imgix.net/history-of-surfing.webp"  alt="The History Of Surfing" class="img-responsive"></a>
+                    	<a name="chronicle"><img src="images/history-of-surfing.webp"  alt="The History Of Surfing" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
@@ -213,7 +213,7 @@ individuals, I aspire to create beautiful, exciting, and positive experiences. W
     		<div class="jumbotron" id="trx-bg">
       			<div class="container-fluid">
         			<div class="row">
-                    	<a name="trx"><img src="https://holdenhardcastle.imgix.net/trx-drew-brees-app.webp" alt="Website and application experience for TRX" class="img-responsive"></a>
+                    	<a name="trx"><img src="images/trx-drew-brees-app.webp" alt="Website and application experience for TRX" class="img-responsive"></a>
                    	</div>
       			</div>
     		</div>
