@@ -23,51 +23,44 @@
 	</header>
 	<main>
    <section>
-	   <h2>Torani / Glitter Cat</h2>
+	   <h2>Ready State, Torani, &amp; Glitter Cat </h2>
   		<article id="union-bank">  
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
-                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
-                        <img src="../images/real-california-milk.webp" class="img-responsive">
+                        <img src="../images/rs-torani-logo.png" class="img-responsive">
                     </div>
                     <div class="col-md-6">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="../video/RCD-Pimpin-Chkn-Elijah-v0306151104.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931904436?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puremade Stories: Glitter Cat Barista (Trailer / Teaser)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                     <div class="col-md-6">
-                        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931749721?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="RCD-Full-Belly-Eva-v0306141554"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-                        <!--video class="video-fluid img-responsive" controls>
-                        <source src="../video/RCD-Full-Belly-Eva-v0306141554.mp4" type="video/mp4" /></video-->
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931905026?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puremade Stories: Glitter Cat (Behind The Scenes)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
     		<div class="container">
       			<div class="row">
         			<div class="col-md-6 col-md-offset-3" style="padding-top: 2em" id="description">
-          				<h3>Real California Milk—Editor</h3>
-						<p>(2021) Partnered with Tone Oliver Productions to create the video series promoting Real California Milk and local chefs. Responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting. The material included camera footage, interviews, sound effects, graphics and special effects.</p>
+          				<h3>Torani: Glitter Cat Barista—Editor</h3>
+						<p>(2022) Edit the orignal 03:30:00 video to five 00:30:00 videos (including a Behind the Scenes clip) for various aspect ratios, social media channels, and devices.</p>
                    	</div>
       			</div>
     		</div>
   		</article>
 	</section>
         <section>
-	   <h2>Tone Oliver Productions / Four 11 Productions</h2>
+	   <h2>Tone Oliver Productions</h2>
   		<article id="union-bank">  
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
-                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
                         <img src="../images/real-california-milk.webp" class="img-responsive">
                     </div>
                     <div class="col-md-6">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="../video/RCD-Pimpin-Chkn-Elijah-v0306151104.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931749762?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bite Sized: Chef Elijah Brown &amp; The Signature Pimpin' Chkn' Sandwich"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                     <div class="col-md-6">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="../video/RCD-Full-Belly-Eva-v0306141554.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931749721?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="RCD-Full-Belly-Eva-v0306141554"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
@@ -86,10 +79,8 @@
   		<article id="film-sprint">  
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
-                    	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="../video/Swiping-For-Love.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931883566?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Swiping For Love"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
@@ -107,8 +98,7 @@
                 <div class="row">
                     	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="../video/Files-Of-Exile-Directors-Cut-1100.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.37% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931896280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Files Of Exile (Director's Cut)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
@@ -125,8 +115,7 @@
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
                     <div class="col-md-12">
-                        <video class="video-fluid img-responsive" style="width: 100%" controls>
-                        <source src="../video/Entry-3410.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931897191?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entry 3410"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
@@ -143,8 +132,7 @@
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
                     <div class="col-md-12">
-                        <video class="video-fluid img-responsive" controls>
-                        <source src="../video/Obscure-Vinyl-Boxset-Editors-Cut.mp4" type="video/mp4" /></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931898539?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Obscure Vinyl Boxset (Editors Cut)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
@@ -164,8 +152,7 @@
     		<div class="jumbotron" id="rcm-black">
                 <div class="row">
                     <div class="col-md-12">
-                        <video class="video-fluid img-responsive" style="width: 100%" controls>
-                        <source src="../video/leader-of-the-pack.mp4" type="video/mp4"/></video>
+                        <div class="video-fluid" style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931899837?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Leader Of The Pack"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                     </div>
                 </div>    
     		</div>
@@ -181,8 +168,9 @@
                 <div class="row">
                     	<!--a name=""><img src="images/real-california-milk.webp" alt="real califonnia milk" class="img-responsive" style="z-index: 99"></a-->
                     <div class="col-md-12">
-                        <video class="video-fluid img-responsive" style="width: 100%" controls>
-                        <source src="../video/AiSea.mp4" type="video/mp4"/></video>
+                        <div class="video-fluid" style="padding:55.21% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931901052?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AiSea"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+                        <!--video class="video-fluid img-responsive" style="width: 100%" controls>
+                        <source src="../video/AiSea.mp4" type="video/mp4"/></video-->
                     </div>
                 </div>    
     		</div>

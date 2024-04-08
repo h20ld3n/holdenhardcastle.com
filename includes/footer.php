@@ -91,8 +91,18 @@
                         	<h3>Experience</h3>
                         
       						<dl>
-                            	<dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
-                                <dd>(2019-Present)
+                            	<dt class="h4">Fluid Studios—Founder &amp; Creative Director</dt>
+                                <dd>(2024-Present)
+                                <!--Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
+                                <dd style="padding-top: .66em";><strong>Accomplishments</strong>
+                                <ul style="list-style-type: disc; padding-left: 1.5em;">
+                                	<li>Implemented and revitalized outreach programs to attract corporate sponsors, high-profile donors, and community members. Consistent and focused messaging led to a 28% growth in membership.</li>
+                                	<li>Partnered with local businesses and corporations to strengthen brand awareness, drive member acquisition and retention, and increase donation volumes.</li>
+                                    <li>Collaborated with activists, board members, and affiliates to identify and define the strategic vision for the national 501(c)(3).</li>
+                                </ul-->
+                                </dd>
+                                <dt class="h4">San Francisco Surfrider Foundation—Executive Committee Chair &amp; Creative Strategist</dt>
+                                <dd>(2019-2024)
                                 Coordinate and lead the Executive Committee of one of the largest chapters of a grassroots environmental organization dedicated to keeping our ocean, waves, and beaches clean for all to enjoy. Guided the creation of annual budgets, agendas, and yearly plans for nine programs with a focus on community outreach, activism, policy initiatives, and volunteer retention.</dd>
                                 <dd style="padding-top: .66em";><strong>Accomplishments</strong>
                                 <ul style="list-style-type: disc; padding-left: 1.5em;">
